@@ -1,0 +1,2687 @@
+Barclays’ Climate Strategy, 
+T argets and Progress  
+2022
+22 March 2022
+Contents
+ Introduction 3
+ Chairman’s letter to shareholders ....................4
+ CEO introduction ..................................................6
+ Our climate strategy 8
+ Selected targets and progress .......................10
+ Working with our clients ................................... 12
+ Our targets and progress 13
+ Achieving net zero operations ........................14
+	Reducing	our	financed	emissions .................. 16
+ Financing the transition .................................... 21
+ Collaboration 23
+ Governance and risk management 25
+ Governance .........................................................26
+ Risk management ..............................................27
+ Looking ahead 28
+ Appendix 30
+ Restrictive policies .............................................31
+ Glossary ................................................................ 34
+2
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays PLC Climate-related Financial Disclosures 2021
+We	have	published	an	annual	climate-related	financial	disclosures	report,	consistent	with	the	recommendations	of	the	Taskforce	on	Climate-related	Financial	Disclosures	(TCFD).	 
+The	TCFD	recommendations	are	a	framework	to	help	organisations	more	effectively	disclose	climate-related	risks	and	opportunities.	In	this	report,	we	provide	detail	on	our	climate-
+related	governance,	strategy,	and	risk	management.	The	report	also	includes	metrics	and	targets	such	as	our	exposure	to	sectors	deemed	at	an	elevated	risk	from	climate	change,	and	
+our capital markets activity in the carbon-related energy and extractive sectors. 
+Our	full	TCFD	Report	can	be	found	at:	home.barclays/sustainability/esg-resource-hub/reporting-and-disclosures/
+Introduction
+3
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays’ Climate Strategy, T argets and Progress 
+20223
+Dear Shareholders,
+T wo years ago Barclays laid 
+out a new climate approach 
+in response to the climate 
+crisis. We set out an ambition 
+to become net zero by 2050, 
+across all of our direct and 
+indirect emissions, and we 
+committed to align all of our 
+financing activities with the 
+goals and timelines of the 
+Paris Agreement. We made 
+it clear at the time that we 
+would approach the climate 
+challenge thoughtfully and 
+transparently, reporting 
+to shareholders and other 
+stakeholders and be 
+accountable for our progress.
+This document sets out our climate strategy 
+and targets and reports on the progress 
+which	we	have	made.	It	also	sets	out	those	
+areas in which the bank has continued 
+to evolve its approach. Probably most 
+notably, Barclays is now committing to use 
+the	International	Energy	Agency’s	(IEA)	
+1.5°C-aligned	scenario	as	its	baseline	for	new	
+targets. We have already set 2025 targets 
+for	Power	and	Energy,	but	we	are	now	adding	
+2030	targets,	and	for	Cement	and	Steel	as	
+well. We are also committing to phase out 
+financing	of	thermal	coal.	
+Chairman’s 
+letter to 
+shareholders
+We took the decision a year ago that, at 
+the 2022 Annual General Meeting, we 
+would	offer	our	shareholders	a	vote	on	our	
+approach to climate change in the round. 
+We have had discussions with several major 
+shareholders and industry bodies over many 
+months	and	are	grateful	for	their	input.	It	
+is not a simple task to address the climate 
+challenge whilst also giving appropriate 
+support to those companies which we 
+believe are committed to the transition. 
+We also respect legitimate concerns about 
+energy security, energy poverty and the 
+just transition. We hope that we have got 
+the	balance	right.	The	appalling	invasion	of	
+Ukraine has made it even more imperative 
+to accelerate the energy transition, whilst 
+imposing	real	challenges	in	achieving	uniform	
+year-on-year progress. Nonetheless, our 
+commitment to our climate ambition and 
+Nigel Higgins 
+Chairman
+It	is	not	a	simple	task  
+to address the climate 
+challenge whilst also  
+giving appropriate 
+support to those 
+companies which we 
+believe	are committed	
+to	the transition.”
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays’ Climate Strategy, T argets and Progress 
+20224
+Barclays	puts	considerable	effort	into	
+both	the	expansion	of	its	green	and	
+sustainable	financing	activities	and	the	
+diminution	in	its	fossil	fuel	financing.	We	
+also	seek	to	contribute	meaningfully	to	the	
+improvement	of	policy	and	data	capture	
+and measurement. These are issues owned 
+by the Board and discussed at the majority 
+of	Board	meetings	in	2021.	They	are	also	
+owned	by	senior	management	(10%	of	
+Executive	Director	remuneration	is	now	tied	
+to	our	progress	in	this	field).
+strategy is unchanged and by next year 
+we	will	be	setting	targets	to	cover	more	of	
+the	sectors	we	finance.	We	also	anticipate	
+recent events will accelerate the demand 
+for	investment	in	low-carbon	energy	
+infrastructure	and	capacity	across	the	
+world and	are	determined	to	finance,	on	an	
+even greater scale, the investment needed 
+for	transition.	
+There is much to be done to accelerate and 
+improve the transition pathways. At the top 
+of	that	list	are	coherent	national	approaches	
+to energy policy, and ideally a global 
+approach, setting clear targets and a clear 
+timeframe	for	the	decarbonisation	of	energy	
+supply, almost certainly involving some 
+kind	of	carbon	pricing	and	clear	incentives	
+to	improve,	for	instance,	domestic	energy	
+efficiency.	The IEA’s	net	zero	scenario	makes	
+very	clear our	dependence	on	behavioural	
+change and public policy changes to drive 
+the	necessary	shift	in	the	patterns	of	both	
+demand and supply.
+We would also like to see greater global 
+coherence around taxonomies, data and 
+measurement.	We	should	not	have	different	
+territorial	ways	of	measuring	a	crisis	that	
+does not recognise national or regional 
+boundaries. 
+Shareholders and other stakeholders have 
+challenged Barclays on its approach to 
+the climate crisis and we have welcomed 
+the engagement. We hope you agree 
+that our approach is both progressive and 
+responsible. We believe that our original 
+championing	of	net	zero	and	Paris	alignment	
+has	made	a	difference	in	banking.	We	have	
+also ensured that our approach covers 
+capital	markets	and	contracted	financing	
+commitments as well as actual loans made. 
+Clearly more needs to be done to extend this 
+to the retail and consumer space, which is 
+where policy leadership is so vital. 
+We do hope that shareholders support 
+the	work	that	we	have	done	so	far	and	
+will support the Board on Resolution 26, 
+recognising that, as always, there is more to 
+be done.
+Nigel Higgins 
+Chairman
+Chairman’s letter to shareholders 
+continued
+We believe that 
+our original 
+championing	of	
+net zero and Paris 
+alignment have 
+made	a	difference	
+in banking.”	
+5
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+The drive to net zero will 
+be one of the defining 
+issues of our lifetime, with 
+implications for each one of 
+our customers and clients. 
+As the person entrusted 
+with the leadership of this 
+company, I am completely 
+committed to bringing our 
+ideas, our resources, our 
+energy and our passion 
+to achieving the net zero 
+ambition for Barclays. 
+For the world to reach net zero emissions, 
+three things are required. First is an 
+enormous increase in low-carbon 
+infrastructure	and	capacity,	including	
+renewable energy networks, and technology 
+to	improve	energy	efficiency,	particularly	
+in transportation, building heating and 
+cooling	and	food	production.	Second	is	a	
+co-ordinated and material diminution in 
+carbon	intensive	activity,	particularly	fossil	
+fuel	consumption.	Third	is	ambitious	action	
+to protect, enhance and restore natural 
+ecosystems	such	as	forests	and	oceans.	
+It	is	also	important	that	the	economic	
+opportunities presented by an orderly 
+transition are widely shared and available, 
+particularly in developing countries. Realising 
+a	just	and	orderly	transition	of	this	kind	will	be	
+a massive and complex global undertaking. 
+C.S. Venkatakrishnan 
+Group	Chief	Executive,	Barclays
+CEO 
+introduction 
+As	the	IEA	notes,	limiting	the	global	
+temperature rise to 1.5°C “requires nothing 
+short	of	a	total	transformation	of	the	energy	
+systems	that	underpin	our	economies.”1 
+More and more countries and companies 
+have announced targets to limit emissions, 
+but the world is not yet on track to limit global 
+warming to 1.5°C.
+T o achieve this ambitious goal, we must 
+cooperate and coordinate globally across the  
+public and private sectors. We need to establish 
+common standards and transparent 
+reporting, and to create the political and 
+economic	conditions	for	success.
+It	is	important	that	
+the economic	
+opportunities 
+presented by an 
+orderly transition are 
+widely shared and 
+available, particularly 
+in developing	
+countries.”	
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays’ Climate Strategy, T argets and Progress 
+20226
+There	will	also	be	a	significant	need	for	 
+new	investment.	It	is	estimated	that	at	
+least	$3-5	trillion	of	additional	investment	
+will	be	required	each	year,	for	the	next	30	
+years,	in	order	to	finance	the	transition.2 As 
+a	large	global	financial	intermediary,	Barclays	
+has an important role in helping channel 
+investment, including our own capital, into 
+new green technologies and low-carbon 
+infrastructure	projects.	We	also	have	a	
+contribution to make in the advice, products 
+and	financing	support	that	we	offer	our	
+customers and clients. Above all, we must 
+help	develop	common	standards	to	define	
+and	measure	progress	–	financial	markets	
+depend	upon them.
+Barclays has been a leader among global 
+investment banks in announcing its ambition 
+to be net zero by 2050, with a commitment 
+to	align	its	financing,	including	capital	
+markets activities, to the goals and timelines 
+of	the	Paris	Agreement.	To	this	end,	we	
+published a comprehensive, transparent 
+methodology, via BlueT rackTM, to measure 
+and report our progress. However , this was 
+just	the	first	step,	and	we	were	clear	that	we	
+had more work to do.
+T oday, we are announcing a number  
+of	important	updates	to	our	approach.	
+These include:	
+  Setting	2030	targets,	all	of	which	integrate	
+a 1.5°C-aligned scenario, to reduce our 
+financed	emissions	across	four	of	the	
+highest-emitting	sectors	in	our	portfolio:	
+Energy, Power , Cement and Steel. We plan 
+to continue this work until we have set 
+targets	for	material	high-emitting	sectors	
+in	our	portfolio,	which	we	aim	to	have	
+completed by 2024, consistent with our 
+commitments	as	a	founding	member	of	
+the Net-Zero Banking Alliance.  
+  Incorporating	methane	into	our	
+methodology	for	measuring	greenhouse	
+gas	(GHG)	emissions	for	Energy.	
+  Updating our restrictive policies, in 
+particular	setting	final	exit	dates	with	
+respect	to	the	financing	of	thermal	coal	
+mining	and	coal-fired	power	generation.
+  Updating our targets to reduce our 
+operational emissions.
+  Aligning	the	remuneration	of	our	Executive	
+Directors	with	our	climate	commitments,	
+as	set	out	in	our	Directors’	Remuneration	
+Report 2021.
+While Barclays will continue to play a leading 
+role	in	the	financial	services	industry,	we	
+do not do it alone. Last year , we became a 
+founding	member	of	the	Net-Zero	Banking	
+Alliance	(NZBA),	part	of	the	Glasgow	
+Financial	Alliance	for	Net	Zero	(GFANZ).	
+We want	to	be	part	of	a	financial	system	that	
+works together to accelerate the transition, 
+and we will engage constructively with 
+policymakers and others to address policy 
+challenges.
+The industrial revolution took over a century 
+to	transform	the	planet,	and	we	cannot	hope	
+to undo overnight its deleterious impact 
+on the environment. We are still at an early 
+stage	of	a	long	journey,	but	are	committed	to	
+the destination and will persevere to reach it. 
+One	of	my	foremost	priorities	is	for	Barclays	
+to	demonstrate	steady	and	significant	
+progress against our net zero ambition.
+C.S. Venkatakrishnan 
+Group	Chief	Executive,	Barclays
+CEO introduction continued
+1.	 International	Energy	Agency,	Net	Zero	by	2050,	A	Roadmap	for	the	Global	Energy	Sector.
+2.	 $3-5	trillion	as	estimated	in	the	GFMA/BCG	(Global	Financial	Markets	Association/Boston	Consulting	Group)	
+Climate	Finance	Markets	and	the	Real	Economy	report,	December	2020.
+T oday, we are 
+announcing 
+a	number	of	
+important 
+updates to 
+our approach, 
+including setting 
+2030 targets, 
+which integrate 
+a 1.5°C-aligned 
+scenario.”
+7
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Our climate 
+strategy
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays’ Climate Strategy, T argets and Progress 
+20228
+In March 2020, Barclays 
+announced its ambition to 
+be a net zero bank by 2050, 
+becoming one of the first 
+banks to do so. 
+We have a strategy to turn 
+that ambition into action.
+Our climate strategy is 
+informed by our Purpose:
+We deploy finance 
+responsibly to support 
+people and businesses, 
+acting with empathy and 
+integrity, championing 
+innovation and sustainability, 
+for the common good and 
+the long term.
+1 2 3
+Achieving net zero 
+operations
+Reducing our 
+financed emissions
+Financing  
+the transition
+Barclays is working to achieve net  
+zero operations and reducing supply 
+chain emissions, investing in the 
+continued	decarbonisation	of	our	 
+operations, and in the development  
+of	a	net	zero	pathway	for	the	
+emissions	from	our	supply	chain.
+Barclays is committed to aligning 
+its	financing	with	the	goals	and	
+timelines	of	the	Paris Agreement.
+Barclays is providing the green  
+and	sustainable	finance	required	 
+to	transform	the	economies	 
+we serve.
+Over the coming years, our strategy will 
+continue	to	evolve.	It	will	need	to	adapt	to	
+reflect	market,	technological,	regulatory	and	
+geopolitical	developments	affecting	the	shape	
+and	timing	of	the	transition	to	a	low-carbon	
+economy. We will keep our policies, targets 
+and	progress	under	review	in	light	of	the	
+rapidly changing external environment and 
+the need to support governments and clients 
+in delivering an orderly energy transition and 
+providing energy security. Progress may 
+vary and we need to be able to adapt our 
+approach to	optimise	the	effectiveness	and	
+impact	of	our	support	for	the	transition,	
+whilst	remaining	focused	on	our	ambition	of	
+becoming a net zero bank by 2050.
+Our strategy is underpinned by the way we assess and manage our exposure to climate-related risk.
+This document sets out more detail on our 
+strategy, our existing targets and progress 
+to date.	We	are	also	announcing	a	number	of	
+important	updates	to	our	approach,	including:
+  Setting	2030	targets,	all	of	which	integrate	
+a 1.5°C-aligned scenario, to reduce our 
+financed	emissions	across	four	of	the	
+highest-emitting	sectors	in	our	portfolio:	
+Energy, Power , Cement and Steel. We plan 
+to continue this work until we have set 
+targets	for	material	high-emitting	sectors	
+in	our	portfolio,	which	we	aim	to	have	
+completed by 2024, consistent with our 
+commitments	as	a	founding	member	of	
+the Net-Zero Banking Alliance.  
+  Incorporating	methane	into	our	
+methodology	for	measuring	greenhouse	
+gas	(GHG)	emissions	for	Energy.	
+  Updating our restrictive policies, in 
+particular	setting	final	exit	dates	with	
+respect	to	the	financing	of	thermal	coal	
+mining	and	coal-fired	power	generation.
+  Updating our targets to reduce our 
+operational emissions.
+  Aligning	the	remuneration	of	our	Executive	
+Directors	with	our	climate	commitments,	
+as	set	out	in	our	Directors’	Remuneration	
+Report 2021.
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays’ Climate Strategy, T argets and Progress 
+20229
+Selected targets and progress
+The table below sets out selected targets and policies we have previously announced,  
+progress against them, and the new announcements we are now making.
+Strategic pillar Previously announced target/policy Progress4 New announcement 
+By the end of 2021 2021 Performance
+  -80%	GHG	emission	reduction	Scope	12 and 23 
+(market-based)	against	a	2018	baseline
+  Source	90%	renewable	electricity	for	our	 
+global operations
+  -86%	GHG	emission	
+reduction
+  94%	renewable	electricity	
+  Carbon	neutral	for	Scope	
+1, Scope 2 and Scope 35 
+business travel emissions 
+since 2020 
+  -90%	GHG	emission	reduction	in	Scope	1	and	2	(market-
+based)	by	the	end	of	2025	against	a	2018	baseline
+  Source	100%	renewable	electricity	for	our	global	
+operations	by	end	of	2025
+By the end of 2025 2021 Performance By the end of 20306 
+Portfolio 
+reduction 
+targets
+Energy   -15%	absolute	CO2 emission reduction against  
+a	2020	baseline	(Scopes	1,	2	and	3)
+  -22%	absolute	CO2  
+emission reduction
+  -40%	absolute	CO2e7 emission reduction against a 
+2020 baseline	of	78.5	MtCO2e	(Scopes	1,	2	and	3)
+Power   -30%	CO2 emission intensity reduction against  
+a	2020	baseline	(Scope	1)
+  -8%	CO2 emission  
+intensity reduction 
+  -50%	to	-69%	CO2 emission intensity reduction against 
+a 2020	baseline	of	320	kgCO2/MWh	(Scope	1)
+Cement n/a n/a   -20%	to	-26%	CO2e emission intensity reduction against 
+a 2021	baseline	of	0.620	MtCO2e/Mt	(Scopes	1	and	2)
+Steel n/a n/a   -20%	to	-40%	CO2e emission intensity reduction against 
+a 2021	baseline	of	1.926	MtCO2e/Mt	(Scopes	1	and	2)
+1.	 Operations	include	company	cars,	offices,	retail	branches	and	data	centres	where	Barclays	has	operational	control.	
+2.	 Scope	1	emissions	include	our	direct	GHG	emissions	from	natural	gas,	fuel	oil,	company	cars	and	HFC	refrigerants.	
+3.	 Scope	2	emissions	include	our	indirect	GHG	emissions	from	purchased	electricity	and	purchased	steam	and	chilled	water.	
+4. Full details set out in Barclays PLC Annual Report 2021.
+5.	 Scope	3	business	travel	emissions	are	our	indirect	emissions	from	commercial	air	travel	and	other	transport.
+6. Full details set out in our About BlueT rackTM whitepaper , available online. 
+7.	 The	2030	target	for	Energy	reflects	a	methodological	update	and	includes	not	just	CO2 but also methane. The target is 
+expressed in CO2e	terms.	The	2020	baseline	for	Energy	will	be	recalculated	to	include	methane.	Power	emissions	data	
+does not include methane but it is not considered material. Steel and Cement data includes all GHG emissions.
+2
+Reducing our  
+financed emissions
+1
+Achieving net 
+zero operations1
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+10
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Strategic pillar Previously announced target/policy New announcement 
+2 Reducing our financed emissions 
+continued Existing restrictions in relation to thermal coal financing will continue to apply other than as updated below8
+ Restrictive 
+policies
+Thermal Coal 
+Mining
+  By	2025:	no	financing	to	entities	that	generate	more	
+than	30%	of	their	revenue	from	thermal	coal	mining
+ 
+ 
+ 
+  By	2030:	no	financing	to	entities	that	generate	more	
+than	10%	of	their	revenue	from	thermal	coal	mining
+  By	2023:	no	financing	to	new	clients	engaged	in9	thermal	coal	mining	and	no	financing	to	
+existing	clients	that	generate	more	than	30%	of	revenues	from	thermal	coal	mining
+  By	2023:	we	will	not	provide	general	corporate	financing	(GCF)	to	clients	with	entities	
+who	are	engaged	in	opening	new	thermal	coal	mines	or	material	expansion	of	existing	
+thermal	coal	mines	unless	an	undertaking	is	received	or	we	are	otherwise	satisfied	that	
+the	proceeds	of	GCF	will	not	be	made	available	to	such	entities	
+  By	2030:	in	OECD	–	phase	out	of	financing	to	clients	engaged	in	thermal	coal	mining.	
+In	the	rest	of	the	world	–	no	financing	to	clients	that	generate	more	than	10%	of	their	
+revenue	from	thermal	coal	mining
+  By	2035:	phase	out	of	financing	to	clients	engaged	in	thermal	coal	mining
+Thermal Coal 
+Power 
+ 
+ 
+ 
+  By	2030:	no	financing	to	entities	that	generate	more	
+than	10%	of	their	revenue	from	thermal	coal	power
+  By	2023:	we	will	not	provide	GCF	to	clients	with	entities	who	are	engaged	in	developing	
+new	coal-fired	power	plants	or	material	expansion	of	existing	coal-fired	power	plants	
+unless	an	undertaking	is	received	or	we	are	otherwise	satisfied	that	the	proceeds	of	GCF	
+will not be made available to such entities 
+  By	2030:	in	the	UK	and	EU	–	phase	out	of	financing	to	clients	engaged	in	thermal	coal	
+power.	In	the	rest	of	the	world	(including	USA)	–	no	financing	to	clients	that	generate	
+more	than	10%	revenue	from	thermal	coal	power
+  By	2035:	phase	out	of	financing	to	clients	engaged	in	coal-fired	power	generation
+8.	 Full	details	of	our	restrictive	policies,	including	definitions	and	exceptions,	are	set	out	in	the	Appendix.
+9.	 On	this	page	an	entity	is	"engaged	in"	if	it	generates	more	than	5%	of	its	revenue	from	the	activity.
+Strategic pillar Previously announced target/policy Progress New announcement 
+Existing targets 2021 Performance
+  Facilitate	£100bn	green	financing	between	2018	and	2030	
+  Invest	up	to	£175m	by	2025	of	Barclays’	own	capital	in	
+environmentally-focused	early-stage	companies
+  Grow	Barclays’	green	bond	portfolio	to	£4bn	over	time
+  c.£62bn green  
+financing	facilitated	
+  £54m capital invested 
+  £3.4bn green  
+bond	portfolio	
+We	are	reviewing	our	sustainable	financing	strategy	and	
+all	green	financing	frameworks	and	targets.	We	expect	to	
+provide	a	further	update	later	this	year,	including	new	and	
+more	granular	green	financing	targets
+3
+Financing  
+the transition
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+11
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+All three elements of our 
+strategy are important, 
+but we recognise that the 
+majority of our carbon 
+emissions result from 
+the activities of the 
+clients we finance, known 
+as ‘financed emissions’ . 
+We believe that Barclays can make the 
+greatest	difference	by	supporting	our	clients	
+to transition to a low-carbon economy, 
+rather	than	by	simply	phasing	out	support	for	
+them.	This	is	particularly	true	for	our	clients	
+in highly carbon-intensive sectors.
+Exiting companies at this stage could push 
+them	to	less	transparent	sources	of	funding,	
+and	to	sources	that	may	be	significantly	less	
+supportive	of	the	transition.	Many	highly	
+carbon-intensive	sectors	require	finance	to	
+transition, including Power , Energy, Cement, 
+Steel, T ransport and Materials. Restricting 
+the	flow	of	capital	to	these	sectors	could	be	
+harmful	to	the	pace	of	the	transition,	limiting	
+the real terms impact on global warming.
+Our	priority	is,	therefore,	to	support	
+our customers and clients to transition. 
+Consistent with our Purpose, our 
+climate strategy and our approach to risk 
+management, and to ensure that we achieve 
+our ambition to be a net zero bank by 2050, 
+where companies are unable or unwilling 
+to reduce or eliminate their emissions, we 
+will reduce our support over time. Such 
+companies	will	find	it	increasingly	difficult	to	
+access	financing,	including	through	Barclays.	
+Since	2020,	we	have,	for	example,	declined	
+to	provide	financing	to clients	that	have	
+been	unable	to	meet	our	existing policies	in	
+relation to thermal coal and oil sands.
+The	trajectory	for	our	clients’	transition	is	
+influenced	by	a	number	of	factors,	including	
+technological advancement, the public policy 
+environment, behavioural change in society 
+and	the	scale	of	change	needed	to	adapt	
+their business models. Client transition 
+pathways will vary, even within the same 
+sectors and geographies. We are developing 
+a	client	transition	framework	to	enable	us	to	
+measure and monitor our clients’ progress 
+and seek opportunities to accelerate their 
+progress	through	the	provision	of	advice	and	
+financing	solutions.	This	will	help	us	to	better	
+understand their plans, the progress they  
+are making to align with a 1.5°C pathway, as 
+well	as	their	financing	needs.	The	high-level	
+framework,	together	with	sector-based	
+transition pathways, will allow us to more 
+clearly understand how our clients’ activities 
+align with Barclays’ net zero ambition and to 
+identify	and	support	their	financing	needs.
+Working with our clients
+12
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Our targets 
+and progress 
+13
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays’ Climate Strategy, T argets and Progress 
+202213
+We are committed to reducing greenhouse gas emissions 
+associated with our operations and supply chain.
+Progress to date
+We	have	been	carbon	neutral	for	our	
+Scope 110, Scope 211 and Scope 3 
+business travel12 emissions since 2020. 
+We have achieved this by reducing 
+or	eliminating	sources	of	carbon	
+dioxide emissions associated with our 
+operations and business travel and by 
+compensating any remaining emissions 
+by purchasing carbon credits under 
+the	Verified	Carbon	Standard	(VCS).	
+We have reduced our Scope 1 and 2 
+emissions	by	86%	since	2018	and	we	
+powered	94%	of	our	operations	with	
+renewable electricity in 2021. More 
+detail on our progress is set out in our 
+TCFD	Report	available	online:	home.
+barclays/content/dam/home-barclays/
+documents/investor-relations/reports-
+and-events/annual-reports/2021/
+Barclays-TCFD-Report-2021.pdf.
+Defining net zero operations
+We	define	net	zero	operations	as	
+the state in which we will achieve a 
+GHG	reduction	of	our	Scope	1	and	
+Scope	2	emissions	by	at	least	90%	
+against a 2018 baseline and use 
+carbon removals to eliminate any 
+residual operational emissions we 
+cannot yet abate. 
+We	are	defining	carbon	neutral	as	 
+first	reducing	carbon	dioxide	
+emissions then counterbalancing 
+carbon	dioxide	emissions	from	
+Scope 1, Scope 2 and Scope 3 
+business	travel	with	carbon	offsets.	
+In	2020,	we	disclosed	that	we	were	
+already	net	zero	from	our	own	
+operations based on the common 
+acceptance at that time, that net 
+zero and carbon neutral were 
+interchangeable	terms.	To	reflect	
+the most recent interpretations 
+of	both	these	terms	in	public	
+disclosure, we will make a distinction 
+between net zero operations and 
+carbon neutral in our disclosure 
+from	now	on.
+10. Scope 1 emissions include our direct GHG  
+emissions	from	natural	gas,	fuel	oil,	company	 
+cars	and	HFC	refrigerants.
+11. Scope 2 emissions include our indirect GHG  
+emissions	from	purchased	electricity	and	
+purchased steam and chilled water .
+12. Scope 3 business travel emissions are our  
+indirect	emissions	from	commercial	air	travel	 
+and other transport.
+Achieving net zero 
+operations 
+1
+Upstream, direct and downstream operational  activities
+Operational emissions by scope
+Scope 2 
+Indirect 
+Purchase  
+of energy to 
+operate our 
+facilities 
+Scope 3 
+Indirect 
+Business travel
+Suppliers
+Waste
+Leased assets
+Scope 1 
+Direct 
+Company cars 
+Fugitive
+emissions
+Fuel 
+combustion
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays’ Climate Strategy, T argets and Progress 
+202214
+Next steps and new targets
+We	intend	to	remain	carbon	neutral	for	
+Scope 1, Scope 2 and Scope 3 business 
+travel emissions, while investing in the 
+continued	decarbonisation	of	our	operations	
+and	in	the	development	of	a	net	zero	
+pathway	for	the	emissions	from	our	supply	
+chain. We will continue to increase the 
+share	of	renewable	energy	used,	improve	
+the	energy	efficiency	of	our	buildings	and	
+data centres, progressively remove reliance 
+on	fossil	fuel,	reduce	the	level	of	waste	we	
+create,	and	minimise	our	emissions	from	
+business travel. 
+We are announcing a new target to achieve 
+a	90%	reduction	in	GHG	emissions	across	
+Scopes 1 and 2 by 2025. We are also targeting 
+100%	of	renewable	electricity	procured	by	the	
+end	of	2025.	In	addition	to	using	green	tariff	
+and	energy	attributes	certificates	to	achieve	
+this target, we aim to sign Power Purchase 
+Agreements and increase on-site renewable 
+energy generation.
+An	important	part	of	our	journey	to	achieve	
+net zero will also be to address GHG 
+emissions associated with the products 
+and services we purchase, and to that 
+end we have been working over the past 
+few	years	with	our	key	suppliers	and	the	
+CDP13 to engage our supply chain and drive 
+climate change transparency and action. 
+We	aim	by	2025	for	suppliers	covering	70%	
+of	addressable	spend	to	be	disclosing	their	
+GHG emissions and have science-based 
+emission reduction targets in place, and we 
+aim to achieve net zero emissions in our 
+supply	chain	well	in	advance	of	2050.
+The	following	table	summarises	our	short-	and	long-term	approach	to	achieve	
+net zero operations and reduce supply chain emissions. 
+Y ear Approach 2021 Performance
+2025
+Power all our operations with 100% renewable electricity 94%
+Reduce Scope 1 and 2 GHG emissions by 90% (market-based) 86%
+70% of our vendors, by addressable spend, to have 
+science-based GHG emissions reduction targets in place
+52%
+T ransition all UK company cars to electric vehicles (EV) 27%
+2030
+T ransition the rest of our global fleet to EV or ultra-low 
+emissions vehicles (ULEV) where EVs are not viable
+10%
+Reduce Scope 1 and 2 GHG emissions by 50%  
+(location-based)
+33%
+2035
+Reduce energy intensity by 70% across key campuses 21%
+Generate 10% on-site renewable electricity across  
+key campuses
+0.1%
+Divert 90% of waste from the landfill, incineration and the 
+environment across key campuses
+46%
+Improve water efficiency across key campuses 89%	of	water	
+recycled in Pune
+Carbon offsetting for our 
+operations 
+We	purchase	carbon	offsets,	under	
+the VCS,	to	compensate	for	any	
+remaining emissions in operations 
+and business travel.
+We	conduct	due	diligence	as	part	of	
+our	procurement	of	carbon	offsets.	
+We	have	invested	in	a	portfolio	of	
+credits, under the VCS, that come 
+from	approved	methodologies.	In	
+addition to internal reviews, we also 
+undertake	third-party	review	of	the	
+project	portfolio	from	an	independent	
+voluntary carbon markets advisory 
+firm,	which	is	not	directly	involved	in	
+the	sourcing	process.	All	final	projects	
+must pass independent due diligence 
+screening based on risk assessment 
+in	five	key	areas	–	location,	
+technology, additionality, 
+environmental/social	impacts	and	
+environmental/social	benefits.
+We	firmly	support	initiatives	to	
+enhance	the	integrity	and	quality	of	
+the voluntary carbon markets 
+including	the	work	of	the	Taskforce	on	
+Scaling Voluntary Carbon Markets.
+T o achieve net zero operations we will 
+look	into	procuring	credits	from	a	
+range	of	high-quality	carbon	removal	
+solutions.13.	CDP	(formerly	the	Carbon	Disclosure	Project)	is	a	not-
+for	profit	charity	that	runs	a	global	disclosure	system	
+for	investors,	companies,	cities,	states	and	regions	to	
+manage their environmental impacts.
+15
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+We are committed to align 
+all our financing to the goals 
+and timelines of the Paris 
+Agreement. In order to meet 
+this ambition, we need to 
+reduce the client emissions 
+that we finance, not just 
+for lending but for capital 
+markets activities as well.
+Portfolio reduction
+T argets and progress to date
+In	November	2020,	we	set	targets,	informed	
+by Paris-aligned benchmark scenarios, 
+to	reduce	our	financed	emissions.	We	
+prioritised the Energy and Power sectors 
+because	they	are	responsible	for	up	to	
+three-quarters	of	all	Greenhouse	Gas	(GHG)	
+emissions globally and because Barclays has 
+meaningful	exposure	to	them.
+We	set	a	target	of	30%	reduction	in	the	CO2 
+intensity	of	our	Power	portfolio	by	2025,	
+as	well	as	a	target	of	15%	CO2 reduction in 
+absolute	emissions	of	our	Energy	portfolio	
+by	2025.	Both	of	these	targets	were	set	
+against	a	December	2020	baseline,	and	
+both	were	aligned	with	the	IEA’s	Sustainable	
+Development	Scenario	(SDS).	We	are	one	
+of	only	a	small	number	of	banks	to	set	2025	
+targets	for	Energy	and	Power,	and	one	of	
+a	small	number	of	our	investment	banking	
+peers to have set an absolute emissions 
+reduction	target	for	Energy	–	effectively	
+creating	a	‘carbon	budget’	for	our	Energy	
+sector	financing.
+We have made solid progress against our 
+targets.	At	December	2021,	we	had	achieved	
+an	8%	reduction	in	Power	CO2 intensity 
+and	a	22%	reduction	in	absolute	financed	
+emissions in Energy. 
+However , it is important to note that 
+progress towards our targets will likely 
+be	volatile	and	non-linear.	This	reflects	a	
+number	of	variables	generally	beyond	our	
+control. For example, progress may be 
+impacted by geopolitical developments 
+that result in energy supply pressures, such 
+as	the	conflict	in	Ukraine,	or	by	the	varying	
+pathways that individual companies take 
+as	a	result	of	the	technologies	available	to	
+them	to	transition.	In	the	short	term,	we	may	
+also experience decreases or increases in 
+our	metrics	due	to	the	volatility	of	the	mix	
+and	volume	of	capital	markets	financing,	or	
+if	issuance	volumes	increase	significantly	
+following	the	COVID-19	pandemic.
+Our current estimate of our clients’ activities based on our 
+disclosed methodology
+BlueT rack™ financed emissions – Energy
+Absolute emissions MtCO2
+100
+80
+60
+40
+20
+0
+20202021 2025
+-15% by 2025
+2030 2035 2040
+IEA SDS Benchmark: OECD* Portfolio target path Barclays progress
+December 2020: 
+75.0 MtCO₂
+December 2021: 
+58.6 MtCO₂
+-22% since December 2020
+BlueT rack™ financed emissions – Power
+Emissions	intensity	KgCO2/MWh
+350
+300
+250
+200
+150
+100
+50
+0
+-30% by 2025
+2020 2025 2030 2035 20402021
+December 2020: 
+320.0 KgCO₂/MWh
+December 2021: 
+295.0 KgCO₂/MWh
+IEA SDS Benchmark: OECD Portfolio target path Barclays progress
+-8% since December 2020
+Reducing our  
+financed emissions
+2
+In	2021,	we	continued	to	develop	our	methodology,	including	adding	granularity	and	updated	external	client	and	
+industry data as it became available. As our methodology evolves we will continue to review the impact on our 
+reported	baselines	and	we	will	reperform	estimates	from	time	to	time	with	available	data.
+Notes
+*	 www.iea.org/reports/world-energy-outlook-2019
+**	The	2021	Benchmark	OECD	data	provided	is	interpolated	i.e.	as	the	IEA	2019	SDS	OECD	report	only	provides	
+data	for	certain	time	points,	the	years	in	between	these	time	points	are	linearly	interpolated	to	generate	
+estimated	values,	including	the	value	used	for	2021.
+16
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+We	continue	to	focus	on	understanding	our	
+Power and Energy clients’ transition plans. 
+There has been a notable acceleration in 
+clients’ targets and climate commitments, 
+particularly as they look to decarbonise their 
+own	operations	(Scope	1	and	2)	with	some	
+Energy clients also now including Scope 3 
+emissions	in	their	climate	targets.	In	our	
+Energy	portfolio,	approximately	three-quarters	
+of	our	financing	is	with	Energy	producers	that	
+have published decarbonisation targets; over 
+half	of	our	financing	is	to	clients	that	have	
+committed to becoming net zero in their 
+Scope 1 and 2 carbon emissions by 2050. We 
+have also seen an increase in decarbonisation 
+commitments	from	our	Power	clients.	As	
+companies release their annual reported 
+emissions	data	for	2021	in	the	coming	
+months,	we	expect	to	see	further	details	and	
+evidence	of their	progress	against	their	
+commitments, which	will	be	reflected	in	our	
+metric over time.
+Next steps and new targets
+As	a	founding	member	of	the	Net-Zero	
+Banking	Alliance	(NZBA),	we	have	committed	
+to	setting	science-based	targets	for	material	
+high-emitting	sectors	in	our	portfolio	by	
+2024. Our objective is to set emission 
+reduction	targets	that	represent	significant	
+progress towards our net zero ambition, but 
+are also achievable given the expected pace 
+of	the	transition	in	each	sector.
+Having	already	set	2025	targets	for	Energy	
+and Power , we are now setting 2030 targets 
+for	both	sectors.	We	are	also	setting	2030	
+targets	for	two	additional	high-emitting	
+sectors:	Cement	and	Steel.
+We had previously said we would set targets 
+for	Metals	(Steel	and	Aluminium)	but	we	
+are	now	setting	a	target	for	the	Steel	
+sector	only.	This	follows	a	detailed	review	
+of	our	financing	portfolios	in	each	of	these	
+sectors,	that	identified	Barclays	does	not	
+have material exposure to the Aluminium 
+sector . Our exposure is predominantly 
+through	diversified	mining	companies	where	
+aluminium	production	is	a	small	element	of	
+their	overall	activities	and	it	would	therefore	
+be	difficult	to	set	stand-alone	aluminium	
+emissions intensity reduction targets.
+Scenarios – use of a 1.5°C-aligned pathway
+When we set out our initial strategy in 
+November 2020, we committed to evolving 
+our methodology and benchmark scenarios 
+as science, data and analytics expertise in 
+this area advanced, updating BlueT rack™ 
+over time.
+We	initially	adopted	the	IEA	Sustainable	
+Development	Scenario	(SDS)	to	derive	
+benchmarks	and	inform	our	target	setting.	
+We	chose	the	IEA	SDS	because	it	was	
+developed by a reputable external provider; 
+was aligned with the Paris Agreement goals; 
+and, in contrast to some other scenarios, 
+offered	a	sufficiently	high-resolution	dataset	
+to meet our needs. We have always been 
+clear	that	we	would	keep	our	use	of	the	IEA	
+SDS	under	review	and,	as	other	useable	
+scenarios and benchmarks developed in 
+line with climate science, we will look to 
+incorporate them into our approach.
+Over	the	past	few	years,	and	since	we	initially	
+adopted	the	IEA	SDS	scenario,	it	has	become	
+increasingly clear that the world must go 
+further	than	limiting	global	warming	to	less	
+than 2°C above pre-industrial levels, as the 
+Paris	Agreement	set	out.	The	Intergovernmental	
+Panel on Climate Change, among others, has 
+been clear that we must limit global warming 
+to	a	maximum	of	1.5°C	in	order	to	avoid	the	
+worst	consequences	of	climate	change.	The	
+IEA	subsequently	introduced	an	updated	
+scenario	in	May	2021,	IEA	NZE2050,	which	
+achieves net zero emissions by 2050 and 
+models emissions consistent with limiting 
+the global	temperature	rise	to	 
+1.5°C	with	a	50%	probability.
+We have integrated this scenario to derive 
+our benchmarks and set our 2030 targets, 
+replacing	the	IEA	SDS	scenario	we	were	
+previously	using.	This	also	reflects	our	
+participation in the Net-Zero Banking 
+Alliance	(NZBA),	which	is	part	of	the	Glasgow	
+Financial	Alliance	for	Net	Zero	(GFANZ),	
+and requires all signatories to use science- 
+based decarbonisation scenarios that reach 
+net zero by mid-century or sooner , with a 
+maximum	temperature	rise	of	1.5°C	above	
+pre-industrial levels by 2100.
+New targets to reduce our financed emissions
+In	2022,	we	are	setting	new	2030	targets	for	four	high-emitting	sectors:	Energy,	
+Power , Cement and Steel.
+  Energy	-40%	in	absolute	CO2e	emissions	(2020	emissions	baseline	of	
+78.5 MtCO2e).	This	target	includes	an	update	in	our	methodology,	to	include	
+methane emissions alongside CO2
+  Power	-50%	to	-69%	in	CO2	intensity	(2020	baseline	of	320	kgCO2/MWh)
+  Cement	-20%	to	-26%	in	CO2e	intensity	(2021	baseline	of	0.620	MtCO2e/Mt)
+  Steel	-20%	to	-40%	in	CO2e	intensity	(2021	baseline	of	1.926	MtCO2e/Mt)
+Metrics used to set our targets
+We	have	used	a	carbon	emissions	intensity	metric	to	set	targets	for	Power,	
+Cement and	Steel.	We	see	carbon	intensity	as	the	most	appropriate	measure	of	our	
+performance, at	least	in	the	earlier	stages	of	decarbonisation,	as	it	encourages	
+transition	to	lower	emitting	fuel	sources.	We	will	also	aim	to	report	the	absolute	
+financed	emissions	for	each	sector	from	Full	Year	2022,	where	targets	have	been	set,	
+to	provide	full	transparency.
+An exception to our general measurement approach is the Energy sector , which is 
+responsible	for	extracting	fossil	fuels	from	the	earth	–	mainly	coal,	oil	and	gas.	The	
+Energy	sector	cannot	reduce	its	carbon	emissions	intensity	below	a	certain	point	(for	
+instance,	a	barrel	of	oil	cannot	be	decarbonised).	Therefore,	a	reduction	in	absolute	
+carbon	emissions	is	the	more	appropriate	measure	for	Energy.
+17
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Incorporating methane
+In	the	Energy	sector,	we	will	now	include	
+methane emissions, in addition to CO2 
+emissions. This will provide a more 
+granular	and	accurate	measure	of	absolute	
+emissions	for	Energy,	where	methane	is	a	
+material gas emitted by upstream clients. 
+Reducing	methane	emissions	from	this	
+activity would have a measurable short-
+term	effect	on	climate	change	and	is	
+economically and practically easy to abate 
+in many circumstances. We include all 
+GHG emissions,	including	methane,	for	
+Steel and	Cement.	
+Methane emissions are not as directly 
+material	in	the	Power	sector.	Therefore,	
+we continue to measure only CO2	for	our	
+Power intensity	target.
+Use of target ranges
+For Energy, we have set an absolute 
+emissions	target,	consistent	with	IEA	
+NZE2050,	which	captures	Scopes	1,	2	and 3	
+of	the	emissions	of	our	clients.	In	the	near	
+term, we expect absolute reductions to be 
+achieved	through	a	combination	of	significant	
+reductions in Scope 1 and 2 emissions by 
+clients	and	some	reduction	in	the	provision	of	
+finance	to	higher	emitting/higher	risk	clients.	
+As	our	assessments	of	client	transition	plans	
+and	risk	profiles	become	more	granular,	in	the	
+absence	of	declines	in	production	levels	as	
+clients switch to renewable energy sources, 
+we are likely to need to reduce the number 
+of	clients	we	support,	or	the	quantum	
+of	financing	we	make	available	to	them,	
+to	further	reduce	our	absolute	financed	
+emissions, consistent with our strategy and 
+management	of	risk.	Reducing	our	absolute	
+financed	emissions	in	this	way	gives	us	
+greater control in our ability to achieve our 
+target,	so	we	have	set	a specific	or	spot	
+target	for	financed	emission	reduction	in	the	
+Energy sector , rather than a range.
+For Power , Cement and Steel, we have 
+set emissions intensity targets and, as a 
+result, we are using a target range. While 
+we are clear what reduction is required 
+to	converge	with	the	IEA	NZE2050	
+pathway,	we recognise there	are	additional	
+dependencies and variables outside our 
+control	that	will	determine	the	pace	of	the	
+transition	and	therefore	how	quickly	we	
+are	able	to	reduce	our	financed	emissions	
+intensity	in	these	sectors:
+  For each sector , the lower emissions 
+reduction	in	the	range	reflects	an	
+estimated emissions reduction trajectory 
+based	on	our	current	view	of	sector	and	
+client pathways and commitments;
+  For each sector , the higher emissions 
+reduction in the range is in line with the 
+IEA	NZE2050	pathway	that	is	consistent	
+with limiting global warming to 1.5°C. This 
+pathway incorporates an assumption 
+that	public	policy	interventions,	shifts	in	
+demand and new technologies will enable 
+our clients to accelerate their transition 
+plans beyond current commitments or 
+expectations.
+T op-down portfolio assessment
+Our	approach	is	to	set	granular	targets	for	
+each	sector	within	our	financing	portfolio.	
+However , we recognise that it will take time 
+to	set	targets	for	our	entire	portfolio	using	
+this approach, so we have started work to 
+develop a high level, modelled assessment 
+of	our	overall	balance	sheet	emissions.	
+This work will progress in 2022 and is 
+consistent with the approach outlined by the 
+Partnership	for	Carbon	Accounting	Financials	
+(PCAF),	of	which	Barclays	is	a	member.
+Next sectors in our target setting
+We	will	continue	to	set	targets	for	sectors	
+in	our	financing	portfolio.	We	will	introduce	
+targets	for	additional	sectors	in	2023	and	
+2024 and have already started work to set 
+targets	for	Automotive	Manufacturing	
+and Residential Real Estate, which we 
+will	aim	to	announce	in	time	for	the	2022	
+Annual	Report.	The	phasing	of	these	
+announcements	reflects	the	considerable	
+work required to establish our baseline 
+emissions	for	each	sector	and	to	set	
+appropriate	targets,	taking	account	of	both	
+our	lending	and	capital	markets	financing	
+activities.
+BlueT rack™
+Our	approach	to	reducing	our	financed	
+emissions is underpinned by BlueT rack™, 
+a	methodology	we	have	developed	for	
+measuring	our	financed	emissions	and	
+tracking	them	at	a	portfolio	level	against	
+the	goals	of	the	Paris	Agreement.	
+BlueT rack™ builds on and extends 
+existing industry approaches to cover 
+not only lending, but also capital 
+markets	financing,	setting	us	apart	from	
+many	of	our	peers.	This	better	reflects	
+the	breadth	of	our	support	for	clients	
+through our investment bank.
+BlueT rack™ starts by selecting an 
+appropriate	benchmark	for	a	sector,	
+which	defines	how	financed	emissions	
+for	a	portfolio	need	to	change	over	time	
+in	line	with	the	goals	of	the	Paris	
+Agreement. We then determine how our 
+sector	portfolios	are	performing	against	
+these	benchmarks:	by	estimating	the	
+emissions that our clients produce, 
+determining how those emissions should 
+be	linked	to	the	financing	we	provide,	and	
+then aggregating those measurements 
+into	a	portfolio-level	metric.	This	
+portfolio-	level	metric	is	then	compared	
+to the benchmark. This approach allows 
+us to make active choices to reshape our 
+portfolio	within	our	‘carbon	limit’	for	each	
+sector.	This	reflects	our	focus	on	
+transition	and	shows	specifically	how	 
+we	are	accelerating	the	shift	from	
+higher-carbon to lower-carbon activity.
+For this reason, BlueT rack™ does not 
+currently take into account carbon 
+offsets	purchased	at	a	client	level	or	 
+at	a	portfolio	level.
+We	will	continue	to	enhance	and	refine	
+BlueT rack™ over time, including as 
+climate data quality improves and as 
+company disclosures become more 
+granular . We continue to engage with 
+peers to share our experience and many 
+welcomed	our	level	of	transparency	in	
+relation to our methodology. We have 
+also been pleased to hear that some 
+have	used	BlueTrack™	to	inform	their	
+own approach.
+More details about BlueT rack™ are set 
+out in our About BlueT rackTM 
+whitepaper,	available	online:	home.
+barclays/sustainability/addressing-
+climate-change/reducing-our-
+financed-emissions/bluetrack/
+18
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Restrictive policies
+In	addition	to	setting	sector-specific	
+emission-reduction targets, we have set 
+explicit restrictions to curtail or prohibit 
+financing	of	certain	activities	and	in	sensitive	
+sectors. These are summarised below 
+and set out in detail in the Appendix. They 
+include clear restrictions on thermal coal 
+mining	and		coal-fired	power	generation,	
+Arctic exploration and production, oil 
+sands	and	hydraulic	fracturing	(fracking).	
+Further restrictions are set out in our 
+Position Statements in relation to Forestry 
+and Agricultural Commodities and World 
+Heritage and Ramsar Wetlands.
+Thermal Coal
+T oday, thermal coal is a climate risk and, 
+increasingly,	the	financing	of	these	activities	
+is a credit risk.
+We are committed to not providing any 
+project	finance	for	the	construction	or	
+material	expansion	of	coal-fired	power	plants	
+or	the	development	of	greenfield	thermal	
+coal mines anywhere in the world. We are 
+also committed to not providing general 
+corporate	financing	that	is	specified	as	being	
+for	new	or	expanded	coal	mining	or	coal-fired	
+power plant development.
+In	2020,	we	introduced	tightened	restrictions	
+on	financing	of	thermal	coal	mining	and	
+coal-fired	power	generation.	In	particular,	
+we	set	a	limit	on	the	amount	of	revenue	
+which	any	entity	may	derive	from	thermal	
+coal	mining	and/or	power,	progressively	
+decreasing	from 50%	since	2020	to	30%	by	
+2025,	to	10%	by	2030.
+Next steps and new announcements
+We	are	announcing	a	tightening	of	our	
+thermal	coal	policy	in	a	number	of	areas.	In	
+particular,	we	are	introducing	final	phase-
+out	dates	for	the	financing	of	thermal	coal	
+mining	and	coal-fired	power	generation.
+These vary by geography, as set out below, 
+but	the	final	phase	out	date	for	financing	
+clients engaged in14 thermal coal mining 
+or	coal-fired	power	generation	is	2035	
+(subject	to	limited	exemptions	as	set	out	in	
+the	Appendix).	Consistent	with	our	intent	to	
+phase	out	thermal	coal	financing,	from	2023	
+we	will	not	extend	financing	to	new	clients	
+engaged in thermal coal mining.
+Further key changes in our thermal coal 
+policy are:	
+For	thermal	coal	mining:
+  Bringing	forward	our	existing	plan	to	step	
+down	revenue	thresholds,	so	that	from	
+2023	we	will	not	provide	financing	to	existing	
+clients	that	generate	more	than	30%	of	
+their	revenue	from	thermal	coal	mining;
+  Introducing	phase	out	dates	for	entities	
+engaged	in	thermal	coal	mining	of	2030	in	
+OECD	and	2035	in	the	rest	of	the	world;
+  Introducing	tighter	restrictions	on	General	
+Corporate	Purposes	(GCP)	financing	for	
+clients engaged in opening new thermal 
+coal	mines	or	material	expansion	of	
+existing thermal coal mines.   
+For	coal-fired	power	generation,	we	are	
+also introducing phase out dates, whilst 
+recognising	the	different	pace	of	power	
+sector	transition	and	legislation	in	different	
+areas	of	the	world:
+  Introducing	phase	out	dates	for	clients	
+engaged	in	coal-fired	power	generation	in	
+the	UK	and	EU	by	2030,	and	in	the	rest	of	
+the	world	(including	the	USA)	by	2035;
+  Introducing	tighter	restrictions	on	General	
+Corporate	Purposes	(GCP)	financing	for	
+clients	engaged	in	the	development	of	
+new	thermal	coal-fired	power	plants	or	
+material expansion. 
+These restrictions build upon or in some 
+cases replace existing restrictions. Our 
+updated position is set out in detail in our 
+Climate Change Statement - our approach 
+to sensitive sectors, and available to read in 
+the Appendix.
+Unconventional Oil & Gas
+In	2020,	we	introduced	tightened	restrictions	
+with	a	commitment	not	to	directly	finance	
+oil and gas projects in the Arctic Circle nor to 
+provide	finance	to	companies	we	consider	to	
+be primarily engaged in these activities.
+We	will	also	not	provide	financing	to	ancillary	
+Arctic oil and gas businesses where proceeds 
+are	known	to	be	for	supporting	new	oil	and	
+gas exploration, production, or new pipeline 
+transportation projects in the Arctic Circle. 
+We	continue	to	enforce	this policy.
+In	2020,	we	strengthened	our	approach	to	
+the	financing	of	oil	sands.	We	will	only	provide	
+financing	to	clients	who	have	projects	to	
+reduce materially their overall emissions 
+intensity,	and	a	plan	for	the	company	as	a	
+whole to have lower emissions intensity than 
+the	level	of	the	median	global	oil	producer	
+by	the	end	of	the	decade.	We	continue	to	
+enforce	this	policy	and	have	declined	to	
+extend	or	renew	financing	to	clients	that	are	
+unable to commit to such plans or projects. 
+In	2021,	we	reduced	our	lending	exposure	
+to	clients	in	scope	of	our	oil	sands	policy	by	
+approximately	c.23%	year-on-year.
+Barclays	does	not	directly	finance	projects	
+involving	fracking	in	the	UK	and	Europe,	nor	
+do	we	provide	any	financing	to	companies	
+primarily	engaged	in	fracking	activities	in	the	
+UK	and	Europe.	Any	financing	of	fracking	
+outside	of	these	regions	is	subject	to	
+enhanced due diligence, requiring clients and 
+transactions to demonstrate consideration 
+of	environmental	and	social	impacts	and	
+risks.	We	continue	to	enforce	this	policy.
+New announcements on 
+thermal coal financing
+A	summary	of	our	new	
+announcements on thermal 
+coal	financing	is	also	set	out	on	
+page 11.
+For	full	details	on	our	restrictive	
+policies, please see the Appendix.
+14.	An	entity	is	"engaged	in"	if	it	generates	more	than	5%	of	its	revenue	from	the	activity.
+19
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Our approach to new investment in the Oil & Gas sector
+We recognise that the transition to 
+a low-carbon economy will require 
+significant	decline	in	oil	and	gas	
+production.	The	IEA	estimates	that	
+fossil	fuels	will	need	to	decrease	from	
+79%	today	to	an	estimated	22%	of	
+the world’s energy supply by 2050 and, 
+in	its	‘Net	Zero	Emissions	by	2050:	a	
+Roadmap	for	the	Global	Energy	Sector’	
+report,	it	envisages	no	further	new	
+investment	in	fossil	fuel	supply	projects.	
+This	is	based	on	an	assumption	of	
+significant	deployment	of	clean	and	
+efficient	energy	technologies,	including	
+annual	additions	of	solar	PV	and	wind	
+until	2030	that	are	four	times	higher	
+than 2020 levels, as well as global 
+energy	efficiency	improvements	
+averaging	4%	a	year	to	2030,	which	
+is around three times the average 
+for	the	last	20	years.	If	these	levels	of	
+investment are not achieved on a timely 
+basis	and/or	geopolitical	issues	present	
+additional challenges to near-term 
+energy security, then governments may 
+determine	that	new	sources	of	oil	and	
+gas will continue to be required. 
+We	also	recognise	that	many	of	the	
+companies engaged in new oil and gas 
+projects are large, multinationals that 
+are	critical	for	the	transition	and	actively	
+engaged	in	it,	committing	significant	
+resources and expertise to renewables, 
+power	infrastructure,	EV	networks	and	
+other	essential	elements	of	
+decarbonisation. Whilst these 
+companies are not yet on a 1.5°C-aligned 
+pathway, they are developing strategies 
+to ensure their continued relevance in 
+and contribution to a low-carbon 
+economy. T ypically, these companies 
+finance	their	exploration	activities	from	
+cash	flows	rather	than	from	project	
+finance,	so	apart	from	exiting	these	
+client relationships completely, it would 
+be	impracticable	for	Barclays	to	try	to	
+impose	restrictions	on	financing	
+specific	activities.	To	ensure	a	just	and	
+orderly transition our priority is to 
+continue to engage with these clients 
+rather than simply exit them.
+We	believe	the	financial	services	sector	
+should take a considered approach to 
+the	IEA’s	assessment	of	future	oil	and	
+gas	requirements,	taking	a	number	of	
+factors	into	account.	These	factors	
+should include energy security; 
+affordability;	the	ongoing	need	for	
+substantial capital expenditure to provide 
+the oil and gas still envisaged as being 
+required	in	the	IEA	NZE	scenario;	the	
+technical	challenges	of	defining	and	
+monitoring reserves and production; 
+and	the	ability	of	major	energy	
+companies	to	finance	their	activities	
+from	diverse	sources	of	capital,	including	
+their balance sheets. 
+Barclays will be participating in a number 
+of	industry	working	groups	alongside	
+peers	over	the	coming	months,	some	of	
+which will look at credible and consistent 
+approaches to transition pathways in sectors 
+where	targets	are	being	prioritised	by	financial	
+institutions, including oil and gas. This includes 
+sector	working	groups	of	the	Net-Zero	
+Banking	Alliance	(NZBA),	as	well	as	the	
+Sectoral	Pathways	group	of	the	Glasgow	
+Financial	Alliance	for	Net	Zero	(GFANZ).
+20
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+T argets and progress to date 
+In	2018	we	set	a	target	to	facilitate	
+£100 billion	of	financing	specifically	focused	
+on green activities by 2030. Since then, we 
+have facilitated	£62.2	billion	cumulative	of	
+financing	for	green	activities,	reflecting	
+increasing	demand	for	more	innovative	
+products, such as Sustainability Linked 
+Loans	and	Bonds.	In	2021,	we	facilitated	
+£29.8	billion	of	green	financing,	up	69%	from	
+£17.6 billion in 2020.
+All	of	our	sustainable	financing	is	tracked	
+using the methodology set out in the 
+Barclays Sustainable Finance Framework. 
+The transition to a low-
+carbon economy is today’s 
+defining opportunity for 
+innovation and growth. There 
+is a significant opportunity 
+for Barclays to play a leading 
+role in helping to meet 
+the demand for climate 
+change related financing to 
+support the transition. We 
+are directing investment, 
+including our own capital, 
+into new green technologies 
+and infrastructure projects 
+that will build up low-carbon 
+capacity and capability.
+Δ	2021	data	reproduced	from	the	Barclays	PLC	Annual	Report	subject to	independent	Limited	Assurance	under	
+ISAE(UK)3000	and ISAE3410.	Refer	to	the	ESG	resource	hub	for	details:	home.barclays/sustainability/
+esg-resource-hub/
+Financing  
+the transition
+3 Barclays’ green financing
+Target by 2030Achieved to date
+Americas 
+UK/Europe
+Asia and Rest of the World
+2021
+2020
+2021
+2020 Total
+17.6 
+Total
+29.8 ∆
+ 
+Sustainability-linked (green)
+Environmental
+Debt 
+Equit y
+Loan
+Other: 2021: 0.3,  2020: – 
+2021
+2020
+20
+62.2∆ 100.0
+22.6 ∆ 7.2 ∆
+T otal
+17.6 
+T otal
+29.8 ∆
+14.8 2.8
+12.7 14.7
+7.9 9.0
+2.4
+0.7
+18.9 4.4
+12.2 1.5
+6.2
+3.8
+£100bn green �nancing (2018-2030)
+£bn
+£62.2bn Green �nancing facilitated 
+£bn
+By region 
+£bn
+By product
+£bn
+£62.2bn
+Green	financing	facilitated	since	2018.
+21
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Investing directly in sustainability-
+focused start-ups
+Our	Sustainable	Impact	Capital	Programme	
+has a mandate to invest up to £175 million 
+of	equity	capital	in	sustainability-focused	
+start-ups by 2025, helping to accelerate 
+our clients’ transition towards a low-carbon 
+economy.
+From	the	acceleration	of	innovative	
+carbon-efficient	technologies	and	supply	
+chains to supporting the development 
+of	viable	markets	for	carbon	capture	and	
+sequestration, the Programme is seeking out 
+and supporting clear , scalable propositions 
+that	deliver	both	environmental	benefits	and	
+economic returns.
+Through	the	Programme,	we	aim	to	fill	
+growth	stage	funding	gaps	to	help	accelerate	
+and scale catalytic and strategic solutions to 
+environmental challenges.
+The	Programme	has	made	meaningful	
+progress	towards	its	five	year	trajectory	
+to	meet	our	target	by	building	a	portfolio	
+of	strategic	investments	which	have	a	
+focus	on	reducing	carbon	footprints	and	
+accelerating the transition to a low-carbon 
+economy:	£54 million	of	the	£175	million	
+overall target has been deployed since 2020, 
+with £30 million	invested	in	2021,	up	25%	
+from	2020.
+In	2022,	the	Programme	will	continue	
+deploying	capital	to	foster	innovation	to	
+support Barclays’ net zero ambition.
+Next steps and new targets
+Having	made	significant	progress	against	
+our	target,	ahead	of	our	initial	expectations,	
+we	are	reviewing	our	sustainable	financing	
+strategy	and	all	green	financing	frameworks	
+and	targets.	We	expect	to	provide	a	further	
+update later this year , including new and 
+more	granular	green	financing	targets.	
+We	are	supporting	public	policy	efforts	to	
+develop a robust taxonomy to standardise 
+green	finance	target	setting	in	the	financial	
+services sector , against which we can align 
+our	green	financing	framework.	
+The role of nature and biodiversity 
+Nature and biodiversity are intrinsically 
+connected	to	efforts	to	mitigate	
+and	adapt	to	the	effects	of	climate	
+change and are vital to ensuring a 
+sustainable economy and healthy 
+society.	The	financial	sector	will	have	
+an important role to play in stewarding 
+responsible	finance	and	in	supporting	
+new	financial flows	for	a	nature-positive	
+future.	As	a	financial	services	institution,	
+Barclays has relationships with 
+customers and clients across a wide 
+range	of	sectors	and	geographies,	who	
+face	risks	to	their	operations,	supply	
+chains	and	markets	from	biodiversity	
+loss and land-use change. Recognising 
+the	importance	of	this	agenda,	we	are	
+developing our understanding and 
+evaluating the Group’s environmental 
+impacts and dependencies as well 
+as where we can support our clients 
+through	the transition	to	a	nature-
+positive economy.
+Collaboration both within and across 
+industries is essential to this transition. 
+During	2021,	Barclays	became	a	
+member	of	the	Taskforce	on	Nature-
+related	Financial	Disclosures	(TNFD)	
+Forum and joined the Get Nature 
+Positive initiative alongside other 
+businesses	to	identify	opportunities	to	
+take nature-positive action. Barclays 
+also contributed to the development 
+of	emerging	methodologies	to	
+assess nature-related impacts and 
+dependencies	at	a	portfolio	level,	
+including the Natural Capital Finance 
+Alliance’s ENCORE biodiversity module. 
+During	2022,	Barclays	will	progress	this	
+work and, in particular , our engagement 
+with	leading	initiatives,	with the	aim	of	
+defining	a	comprehensive	and	robust	
+approach	to nature	and	biodiversity	
+over time.
+£175m
+Mandate	to	invest	from	our	Sustainable	
+Impact	Capital	Programme,	of which	we	
+have invested	£54	million	to	date.
+22
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Collaboration
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+23
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Selected industry initiatives
+Net-Zero 
+Banking Alliance
+In	2021,	Barclays	was	a	founding	member	of	the	Net-Zero	Banking	
+Alliance,	part	of	the	Glasgow	Financial	Alliance	for	Net	Zero.
+T ask Force 
+on Climate-
+related Financial 
+Disclosures
+Barclays	has	signed	the	statement	of	support	of	the	Financial	
+Stability Board’s	(FSB)	TCFD	since	2017.	
+Sustainable 
+Markets 
+Initiative 
+Barclays	is	a	member	of	HRH	the	Prince	of	Wales’	Sustainable	Markets	
+Initiative’s	(SMI’s)	Financial	Services	Taskforce	(FSTF)	and	is	involved	
+in both the Net Zero Emissions working group and the Carbon 
+Offsetting	working	group.	In	late	2021,	the	FSTF	published	a	Net	Zero	
+Practitioner’s	Guide	for	Banks,	to	which	Barclays	contributed.	
+The Partnership 
+for Carbon 
+Accounting 
+Financials
+Barclays	has	been	a	member	of	PCAF	since	2020.	During	2021,	
+Barclays co-chaired the PCAF Working Group on Capital Markets 
+Activities	which	published	a	Discussion	Paper	on	Capital	Markets	
+Instruments	in	November	2021.	Barclays	was	also	involved	in	reviewing	
+other	new	methods	that	PCAF	published	for	consultation	in	late	2021,	
+including Green Bonds, Sovereign Bonds and Negative Emissions.
+PRA/FCA 
+Climate Financial 
+Risk Forum
+During	2021,	Barclays	was	a	member	of	the	Climate	Financial	Risk	
+Forum’s	(CFRF)	Disclosure	Working	Group	and	Innovation	Working	
+Group. Barclays contributed to reports published by the working 
+groups during the year , including on a CFRF recommended climate 
+data and metrics dashboard and certain Barclays case studies.
+United Nations 
+Environment 
+Programme 
+Finance Initiative
+Barclays	has	been	a	member	of	UNEP	FI	for	more	than	20	years.	
+In the	last	few	years,	Barclays	has	partnered	with	UNEP	FI	by	
+engaging	in	their	TCFD	pilot	project	in	2018/19;	by	becoming	a	
+founding	signatory	of	the	Principles	for	Responsible	Banking	(PRB),	
+by	joining	the	Net-Zero	Banking	Alliance	(the	banking	component	
+of	the	Glasgow	Financial	Alliance	for	Net	Zero	(GFANZ)).	A	Barclays	
+representative	was	elected	on	behalf	of	Western	Europe	to	the	
+UNEP	FI	Banking	Board.
+Paris Agreement 
+Capital 
+T ransition 
+Assessment
+In	September	2019,	Barclays	joined	16	other	banks	in	piloting	the	
+Paris	Agreement	Capital	Transition	Assessment	for	Banks	–	a	
+leading	tool	developed	by	the	2˚	Investing	Initiative.	This	was	an	
+important	input	in	the	development	of	BlueTrackTM.
+We believe that industry 
+cooperation, particularly 
+in setting common 
+standards and transparent 
+reporting, is important for 
+all our stakeholders. We 
+continue to engage with 
+peers, industry experts and 
+academics to assess the 
+transition to a low-carbon 
+economy and consider 
+emerging methodologies 
+and taxonomies. 
+T rade associations 
+We endeavour to advance our climate change policy through the trade associations 
+of	which	we	are	members.	Many	positions	taken	by	trade	associations	result	from	
+negotiation	and	compromise	among	members	with	different	or	opposing	views.	We	
+will	contribute	to	these	processes,	seeking	to	influence	how	they	evolve.	Where	a	
+trade association’s position on climate change does not align with our position, we 
+will challenge it and otherwise seek to make our view clear . Barclays reserves the right 
+to	publicly	dissent	from	a	trade	association’s	position.	Should	a	trade	association	
+adopt a material position that is irreconcilable with our values or strategy, we are 
+prepared to end our membership.
+We also seek to work closely with 
+governments in the geographies in which 
+we operate, supporting the development 
+of	practical	and	ambitious	policies	
+where appropriate. Barclays supports 
+the	introduction	of	a	carbon	price,	to	
+incentivise the	reduction	of	emissions	
+across the	economy.
+We have been early and active partners 
+with the most consequential industry 
+initiatives on climate change, which 
+continue	to	define	leading	practice	and	help	
+set	standards.	We	are	always	mindful	of	
+ensuring our engagements are appropriate 
+and consistent with relevant regulatory 
+requirements.
+Our strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management AppendixIntroduction
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+24
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays’ Climate Strategy, T argets and Progress 
+202225
+Governance 
+and risk 
+management
+Barclays’ governance structure relating to climate change
+Oversight and management of climate-related issues are 
+embedded within our governance structure. The Board and senior 
+management have visibility of climate-related issues and are able 
+to set climate-related strategy and oversee its implementation. 
+This includes the way we assess and manage our exposure 
+to climate-related risk. The Board welcomes continued 
+engagement with shareholders and other stakeholders on 
+climate-related issues. 
+Board Barclays PLC Board
+Responsible	for	the	overall	leadership	of	the	Group	(with	direct	oversight	of	matters	relating	to	reputation,	environment	and	culture).	
+Board Audit Committee
+Assesses	the	integrity	of the	Group’s	financial	statements	and	evaluates	 
+the	effectiveness	of	the	Group’s	internal	controls.	
+Board Risk Committee
+Reviews	and	monitors	the	Group’s	approach	to	managing	the	financial	and	 
+operational  risks including those associated with climate change.
+Management Group Risk Committee
+Chaired by the Group CRO, monitors 
+Principal	Risks	and	key	topics	of	a	material	
+nature to Barclays, such as climate change. 
+The most senior executive body responsible 
+for	review	and	challenge	of	risk	practices	
+and	risk	profile,	for	climate	risk	and	other	
+principal	risk types.
+Group ExCo
+Responsible	for	the	implementation	of	the	Group’s	climate	strategy	across	the	Group.
+Group CEO
+Accountable to the Barclays PLC Board  
+for	the	implementation	of	the	Group’s	
+climate change strategy.
+Group Chief Risk Officer
+Senior	Manager	responsible	for	 
+climate-related	financial	risk	under	
+the Senior Managers Regime.
+Group Head of Public Policy 
+& Corporate Responsibility (PPCR)
+Responsible	for	leading	Barclays’	 
+efforts	in	tackling	climate	change,	and	for	
+integrating our ambition and commitments 
+to help accelerate the transition to a 
+low-carbon economy into the business.
+Climate Risk Committee
+Sub-committee	of	Group	Risk	Committee.	Supports	 
+the	oversight	of	Barclays	Group	climate	risk	profile.	
+Climate T ransaction Review Committee
+Co-chaired	by	Group	Head	of	PPCR	considers	the	reputation	
+risks associated with certain transactions and clients with 
+reference	to	our	stated	position	on	climate.
+Operational Sustainability Steering Committee
+Responsible	for	the	development	and	implementation	 
+of	Barclays’	operational	sustainability	strategy.
+Legal Entity/ 
+Other
+Business/Legal Entity Committees and Forums
+Business-specific	forums	which	consider	individual	aspects	relating	to	climate.
+26
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Governance
+The Barclays PLC Board sets the strategic 
+direction	and	risk	appetite	of	the	Group	and	
+is	the	ultimate	decision-making	body	for	
+matters	of	Group-wide	strategic,	financial,	
+regulatory	or	reputational	significance.	The	
+Board	is	also	responsible	for	the	oversight	of	
+social and environmental matters, including 
+climate-related risks and opportunities. 
+During	2021,	the	Board	received	four	
+updates	from	the	Group	Head	of	Public	
+Policy and Corporate Responsibility and 
+Group	Head	of	Sustainability,	covering	
+matters including progress on our climate 
+strategy, policy updates, industry trends, 
+stakeholder engagement and target-setting. 
+The Board also received regular updates on 
+Public Policy and Corporate Responsibility 
+matters	(together	with	Group	Reputation	
+Risk	Reports)	from	the	Group	Head	of	 
+Public Policy and Corporate Responsibility. 
+These updates covered matters such as  
+key government and regulatory policy, 
+regulatory engagement and ESG matters 
+including climate.
+In	addition	to	these	Board	briefings,	the	 
+Group	Head	of	Public	Policy	and	Corporate  
+Responsibility regularly engaged with the 
+Barclays	Group	Chief	Executive,	Chairman	
+and	Non-Executive	Directors	on	a	range	 
+of	matters	relating	to	the	Group’s	 
+climate strategy.
+The chart on page 26 summarises Barclays’ 
+governance	structure	and	the	different	
+responsibilities relating to climate change. 
+Executive remuneration
+The	Group’s	climate	strategy	is	reflected	
+in	the	incentive	arrangements	for	the	
+Executive	Directors	of	Barclays	PLC.	The	
+annual	bonus	and	Long	Term	Incentive	Plan	
+(LTIP)	outcomes	for	the	Executive	Directors	
+are	based	on	a	framework	of	performance	
+measures and targets, set each year by the 
+Remuneration	Committee	of	the	Barclays	
+PLC	Board.	A	proportion	of	the	Executive	
+Directors’	bonus	and	LTIP	awards	each	
+year	are	driven	by	strategic	non-financial	
+measures, which in both cases include 
+measures relating to climate. For the 2022 
+bonus	and	2022-2024	LTIP	awards,	10%	
+of	the	overall	outcome	for	each	will	be	
+determined	by	performance	against	climate	
+and	sustainability	measures,	reflecting	our	
+ambition to be net zero by 2050, including 
+our	commitment	to	align	our	financing	with	
+the	goals	of	the	Paris	Agreement.
+Risk management
+Reflecting	the	increasing	risks	associated	
+with climate change, and to support Barclays’ 
+ambition to be a net zero bank by 2050, in 
+2020, the Board Risk Committee made the 
+decision that climate risk would become 
+a Principal Risk within the Enterprise Risk 
+Management	Framework	(ERMF)	from	2022	
+to run alongside our other Principal Risk types. 
+T o support this decision, in 2021 the Barclays 
+Group	delivered	a	Climate	Risk	Integration	
+Plan	with	three	overarching	objectives:
+  Governance	Framework:	Develop	a	
+Principal Risk Framework and Risk Appetite 
+Statement and integrate climate drivers 
+into limit setting.
+  Scenario	Analysis:	Refine	methodologies	
+used	for	the	2020	scenario	analysis	to	
+support	the	Bank	of	England	Biennial	
+Exploratory Scenario on climate change, 
+with	specific	focus	on	wholesale	credit	and	
+physical risk modelling.
+  Carbon	Modelling:	Enhance	the	
+BlueTrack™	model	to	further	develop	the	
+approach	for	the	Energy	sector,	expand	
+coverage to Cement and Steel and 
+consider	the	overall	net	zero	ambition	of	
+the Barclays Group.
+Further	information	on	our	climate-related	
+governance and approach to climate risk, 
+including	the	use	of	scenario	analysis,	is	set	
+out	in	our	TCFD	Report.
+27
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Looking
+ahead
+Our strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management AppendixIntroduction
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+28
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+We are still at an early stage  
+in our journey. We recognise 
+there is a huge amount of 
+progress still to make, but we 
+are completely committed to 
+achieving our ambition. 
+Over the coming years, we will aim to 
+increase our momentum and continue to  
+be transparent about our progress.
+In	the	near	term	we	are	focused	on	making	
+progress	in	a	number	of	areas	in	particular:
+1. Achieving net zero operations
+  Develop	a	net	zero	pathway	for	our	supply	
+chain emissions.
+2. Reducing our financed emissions
+  Complete the review and target-setting 
+for	material	high-emitting	sectors	 
+by 2024, including setting targets  
+for	Automotive	Manufacturing	and	
+Residential	Real	Estate	in	time	for	the	 
+2022 Annual Report.
+  Extend	our	assessment	of	financed	
+emissions	to	the	rest	of	our	financing	
+activities, across all sectors, using 
+BlueT rackTM.
+  Continue work to reach a high-level 
+assessment	of	financed	emissions	 
+for	our	balance	sheet	consistent	with	 
+PCAF methodology.
+  Develop	a	client	transition	framework,	
+using industry and sector pathways 
+and best	practice	to	assess	clients’	
+transition	plans	and	facilitate	
+engagement and	communication	of	
+our expectations.
+3. Financing the transition
+  Review	our	sustainable	finance	strategy,	
+green	financing	frameworks	and	targets	
+in 2022.
+Additional work
+  Continue work, with Financing a Just 
+Transition	Alliance	(FJTA)	and	others,	to	
+translate	the	concept	of	a	Just	Transition	
+into	tangible	actions	for	the	industry.
+  Progress our work to evaluate our nature-
+related risks and opportunities.
+29
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Barclays’ Climate Strategy, T argets and Progress 
+202229
+Appendix
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+30
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+31
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Restrictive policies
+In	addition	to	setting	sector-specific	
+emission-reduction targets, we have set 
+explicit restrictions to curtail or prohibit 
+financing1	of	certain	activities	and	in	sensitive	
+sectors. These are set out in detail in our 
+Climate	Change	Statement:	Our	Approach	
+to Sensitive Sectors and include clear 
+restrictions on thermal coal mining and coal-
+fired	power	generation,	Arctic	exploration	
+and production, oil sands and hydraulic 
+fracturing	(fracking).	Further	restrictions	are	
+set out in our Position Statements in relation 
+to Forestry and Agricultural Commodities 
+and World Heritage and Ramsar Wetlands.
+Update on thermal coal position – 
+overview
+T oday, thermal coal is a climate risk and, 
+increasingly,	the	financing	of	these	activities	
+is a credit risk. 
+We	are	therefore	tightening	our	thermal	
+coal	policy	in	a	number	of	areas.	In	particular,	
+we	are	introducing	final	phase	out	dates	for	
+the	financing	of	thermal	coal	mining	and	
+coal-fired	power	generation	(thermal	coal	
+activities).	These	vary	by	geography,	as	set	
+out	below,	but	the	final	phase	out	date	for	
+financing	for	clients	engaged	in5 thermal 
+coal	mining	or	coal-fired	power	generation	
+is 2035. Consistent with our intent to phase 
+out	thermal	coal	financing,	from	2023	we	will	
+not	extend	financing	to	new	clients	engaged	
+in5 thermal coal mining.
+The key changes in our thermal coal 
+policy are:	
+For	thermal	coal	mining:
+  Bringing	forward	our	existing	plan	to	
+step down revenue thresholds, so that 
+from	1 January	2023	we	will	not	extend	
+financing	to	new	clients4 engaged in5 
+thermal coal mining and we will not provide 
+financing	to	existing	clients	that	generate	
+more	than	30%	of	their	revenue	from	
+thermal coal mining;
+  Introducing	phase	out	dates	for	clients	
+engaged in5	thermal	coal	mining	of	2030	in	
+OECD	and	2035	in	the	rest	of	the	world;
+  Introducing	tighter	restrictions	on	General	
+Corporate	Purposes	(GCP)	financing	for	
+clients engaged in opening new thermal 
+coal mines2 or material expansion3	of	
+existing thermal coal mines.  
+For	coal-fired	power	generation,	we	are	
+also introducing phase out dates, whilst 
+recognising	the	different	pace	of	power	
+sector	transition	and	legislation	in	different	
+areas	of	the	world:
+  Introducing	phase	out	dates	for	clients	
+engaged in5	coal-fired	power	generation	in	
+the	UK	and	EU	by	2030,	and	in	the	rest	of	
+the	world	(including	the	USA)	by	2035;
+  Introducing	tighter	restrictions	on	General	
+Corporate	Purposes	(GCP)	financing	for	
+clients engaged in5	the	development	of	
+new	coal-fired	power	plants2 or material 
+expansion3	of	coal-fired	power	plants.	
+These restrictions build upon or in some 
+cases replace existing restrictions. Our 
+updated position is set out in detail below.
+Thermal Coal Policy
+Thermal Coal Mining:
+  No	project	finance	for	greenfield	
+development or material expansion3	of	
+thermal coal mines anywhere in the world; 
+  No	general	corporate	purpose	financing	
+that	is	specified	as	being	for	new	or	
+material expansion3	of	thermal	coal	mining;
+  No	financing	to	clients	that	generate	
+more than	50%	of	revenue	from	thermal	
+coal mining;
+  By	2023,	we	will	not	provide	financing	to	
+new clients4 engaged in5 thermal coal 
+mining;
+  By 2023, we will no longer provide 
+financing to	existing	clients	that	generate	
+more	than	30%	of	revenues	from	thermal	
+coal mining;
+  By 2023, we will not provide general 
+corporate	financing	to	clients	with	entities	
+engaged in opening new thermal coal 
+mines2 or material expansion3	of	existing	
+thermal coal mines unless an undertaking 
+is	received	from	the	borrower	or	we	are	
+otherwise	satisfied	that	the	proceeds	
+of	the	GCP	financing	will	not	be	made	
+available to entities engaged in5 opening 
+new thermal coal mines or material 
+expansion3	of	existing	thermal	coal	mines;
+  By	2030,	we	will	phase	out	financing	to	all	
+clients engaged in5 thermal coal mining 
+(OECD)	and	for	the	rest	of	the	world	no	
+longer	provide	financing	to	clients	that	
+generate	more	than	10%	of	revenue	from	
+thermal coal mining;
+  By	2035,	we	will	phase	out	financing	for	all	
+clients engaged in5 thermal coal mining.
+Restrictions	relating	to	%	revenue	generated	
+by	clients	from	thermal	coal	mining	apply	
+to	the	entity	being	financed,	whether	
+transacting with a group parent, subsidiary or 
+joint venture.
+Coal-Fired Power:
+  No	project	finance	to	enable	the	
+construction or material expansion3	of	
+coal-fired	power	stations	anywhere	in	
+the world;
+  No	general	corporate	purposes	(GCP)	
+financing	that	is	specified	as	being	for	
+coal-fired	power	plant	development	or	
+material expansion3; 
+  No	financing	to	clients	that	generate	
+more	than	50%	of	revenue	from	coal-fired	
+power generation;
+  By 2023, we will not provide general 
+corporate	financing	to	clients	with	entities	
+engaged in5	developing	new	coal-fired	
+power plants2 or material expansion5	of	
+existing	coal-fired	power	plants	unless	an	
+undertaking	is	received	from	the	borrower	or	
+we	are	otherwise	satisfied	that	proceeds	of	
+such	GCP	financing	will	not	be	made	available	
+to entities engaged in5 developing new coal-
+fired	power	plants	or	material	expansion5 
+of existing	coal-fired	power	plants;
+  By 2025, we will no longer provide 
+financing to	clients	that	generate	more	
+than	30%	of	revenue	from	coal-fired	
+power generation;
+  By	2030,	we	will	phase	out	financing	to	
+all clients engaged in5	coal-fired	power	
+generation	(UK	and	EU)	and	for	the	rest	
+of	the	world	(including	USA)	no	longer	
+provide	financing	to	clients	that	generate	
+more	than	10%	of	revenue	from	coal-fired	
+power generation;
+  By	2035	we	will	phase	out	financing	for	
+all clients engaged in5	thermal	coal-fired	
+power generation.
+Restrictions	relating	to	%	revenue	generated	
+by	clients	from	thermal	coal-fired	power	
+generation listed above apply to the entity 
+being	financed,	whether	transacting	with	a	
+group parent, subsidiary or joint venture.
+Restrictive policies  
+continued
+32
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+General	exceptions	apply	in	the	following	
+circumstances:
+  Where Barclays is providing transition 
+finance	for	companies	reducing	their	
+thermal	coal	portfolio	including	retrofitting	
+of	existing	facilities;
+  Where	Barclays	is	providing	finance	for	
+decommissioning	plants	for	those	unable	
+to transition.
+In	addition	exceptions	to	the	phase	out	
+date(s)	for	coal-fired	power	plants	apply	if:
+  Remaining	coal-fired	power	plants	are	
+abated to reduce GHG emissions to near 
+zero OR
+  Remaining	coal-fired	power	plants	solely	
+utilised as back-up to low carbon power 
+supply OR
+  Remaining	coal-fired	power	plants	are	
+required	to	remain	open	by	operation	of	
+law, regulation or contract.
+Mountain T op Removal Coal Mining
+Mountain	Top	Removal	(MTR)	coal	mining	
+refers	to	surface	coal	mining	(and	the	
+associated	reclamation	operations)	that	
+remove entire coal seams running through 
+the	upper	fraction	of	a	mountain,	ridge,	or	
+hill,	by	removing	all	of	the	overburden	and	
+creating a level plateau or gently rolling 
+contour with no high walls remaining7.
+The	following	additional	restrictions	are	in	
+place	for	clients	active	in	MTR:
+  Barclays does not directly6	finance	MTR	
+projects or developments;
+  We	apply	Enhanced	Due	Diligence	(EDD)	
+to	financing	facilities	involving	clients	which	
+practise MTR.
+Arctic Oil and Gas
+Arctic	Oil	and	Gas	refers	to	new	exploration	
+and	extraction	of	oil	and	gas	in	the	area	
+within the Arctic Circle which is subject to sea 
+ice,	and	includes	the	Arctic	National	Wildlife	
+Refuge	(ANWR)	and	the	Coastal	Plains8. The 
+ANWR	is	a	particularly	fragile	and	pristine	
+ecosystem which is central to the livelihoods 
+and	culture	of	local	indigenous	peoples.	We	
+have	therefore	introduced	the	following	
+restrictions:
+  We	will	not	directly	finance6 oil and gas 
+projects in the Arctic Circle, including but 
+not limited to the ANWR;
+  In	addition,	we	will	not	provide	any	
+financing	to	companies	primarily	engaged	
+in oil and gas exploration and production 
+operations in the Arctic Circle, including 
+but not limited to the ANWR;
+  We	will	also	not	provide	financing	to	
+ancillary Arctic oil and gas businesses 
+where	proceeds	are	known	to	be	for	
+supporting new oil and gas exploration, 
+production or new pipeline transportation 
+projects in the Arctic Circle.
+Hydraulic fracturing
+Hydraulic	fracturing,	commonly	referred	to	
+as	fracking,	is	an	oil	and	gas	well	development	
+technique,	using	a	high	pressure	injection	of	
+liquid	into	the	rock,	which	creates	fracturing	
+and	allows	natural	gas	and	oil	to	flow	more	
+freely.	Whilst	this	method	of	extraction	has	
+provided	cheaper,	more	plentiful	energy	
+sources	for	many,	it	is	also	a	sensitive	sector	
+that	is	of	concern	for	many	stakeholders.	
+Impact	areas	include	water	consumption	and	
+quality, wastewater disposal, air emissions 
+and impacts on local communities, including 
+noise,	traffic	and	seismic	changes.	Our	
+appetite	for	doing	business	with	this	industry	
+is	as	follows:
+  We	will	not	directly	finance6 projects 
+involving	fracking	in	the	UK	and	Europe;
+  In	addition,	we	will	not	provide	any	
+financing1 to companies primarily engaged 
+in	fracking	activities	in	the	UK	and	Europe;
+  Any	financing1	for	a	company	involved	
+in	fracking	activities	outside	the	UK	and	
+Europe,	is	subject	to	EDD.
+Fracking clients and transactions which 
+are	subject	to	EDD	must	demonstrate	
+consideration	of	environmental	and	
+social impacts and risks and, in addition, 
+demonstrate	the	following:
+  Compliance with legal, regulatory and 
+permitting requirements and remediation 
+plans	resulting	from	any	breaches;
+  GHG emissions management and 
+continuous reduction;
+  Management	of	key	environmental	
+impacts,	including:	well	construction	and	
+maintenance, water use and conservation, 
+wastewater management, water pollution 
+management, air emissions management 
+(including	flaring);
+  Engagement with local communities on 
+impacts, including seismic impacts, noise, 
+health	and	safety.
+Oil sands
+Oil	sands	refers	to	naturally	occurring	
+deposits	of	water	and	clay,	containing	
+a heavy, viscous oil called bitumen. The 
+development	of	Canada’s	oil	sands	reserves	
+is Canadian government policy and, as such, 
+the Canadian Oil Sands industry is highly 
+regulated. 
+We	will	only	provide	financing	to	clients	who	
+have projects to reduce materially their 
+overall	emissions	intensity,	and	a	plan	for	the	
+company as a whole to have lower emissions 
+intensity	than	the	level	of	the	median	global	
+oil	producer	by	the	end	of	the	decade.	
+In	addition	to	this	requirement,	any	financing	
+for	a	company	involved	in	the	exploration,	
+extraction,	transportation	(including	the	
+construction	of	pipelines	to	carry	oil	sands),	
+or	processing	of	oil	sands,	is	subject	to	EDD.
+Oil sands clients and transactions which 
+are	subject	to	EDD	must	demonstrate	
+consideration	of	environmental	and	
+social impacts and risks and, in addition, 
+demonstrate	the	following:
+  Compliance with all legal, regulatory and 
+permitting requirements in the regions 
+that	they	operate,	showing	evidence	of	any	
+breaches being adequately remediated;
+  Management and implementation 
+of	procedures	which	minimise	direct	
+environmental impacts including land 
+reclamation, air , ground and water 
+pollution,	freshwater	use,	biodiversity	
+protection, and impacts on protected 
+areas	such	as	boreal	forests.
+Restrictive policies  
+continued
+33
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Enhanced Due Diligence
+We	conduct	Enhanced	Due	Diligence	(EDD)	
+on a case-by-case basis on clients in these 
+sensitive	energy	sectors	that	fall	outside	
+explicit restrictions, and will consider the 
+following	factors	as	a	minimum:
+i. The client’s adherence to the Equator 
+Principles	(if	a	project	finance	or	
+credit transaction is deemed to be 
+in	scope)	and	relevant	International	
+Finance	Corporation	(IFC)	performance	
+standards;
+ii. The client’s adherence to local and 
+national environmental regulation and 
+standards and industry best practice;
+iii. The client’s management and 
+implementation	of	procedures	which	
+minimise direct environmental impacts in 
+the	context	of	their	operations;
+iv. The client’s transparent corporate 
+governance	and	oversight	of	climate	
+change issues and associated corporate 
+risks, including disclosure against 
+principles such as the Financial Stability 
+Board	(FSB)	Taskforce	on	Climate-related	
+Financial	Disclosures	and	appropriate	
+transition plans;
+v. The client’s approach to and track record 
+in	protecting	the	health	and	safety	of	the	
+workforce	and	local	communities;
+vi. The client’s approach to stakeholder 
+engagement and consultation, including 
+its commitment and adherence to the 
+principles	of	Free	Prior	Informed	Consent	
+(FPIC)	where	indigenous	peoples	may	be	
+impacted by their operations;
+vii. The client’s approach to managing its 
+human rights impacts, including its 
+commitment and adherence to UN 
+Voluntary Principles on Security and 
+Human Rights where the client uses 
+security personnel.
+In	order	to	assist	and	enhance	the	EDD	
+process, we operate a mandatory training 
+programme which has been rolled out to 
+relevant colleagues.
+External technical input may be obtained 
+to assist the business in reviewing and 
+assessing whether certain client activities 
+meet	our	internal	EDD	criteria,	or	where	
+there is uncertainty as to whether a certain 
+activity	is	within	scope	of	our	EDD	criteria.	
+Barclays will continue to align its approach to 
+sensitive energy sectors with developments 
+in government and public policy.
+Key Definitions:
+1. Financing	refers	to	all	lending,	underwriting,	issuance	of	debt	and	equity,	trade	and	working	capital	finance.
+2. New thermal coal assets	i.e.	development	of	new	thermal	coal	mines	or	development	or	commissioning	of	new	coal-fired	
+power plants. 
+3. Material expansion:	For	coal	mining	–	increase	in	annual	tonnage	of	thermal	coal	extracted	from	existing	thermal	coal	
+mines	by	more	than	20%	measured	from	a	baseline	of	maximum	p.a.	tonnage	for	preceding	three	years;	for	thermal	
+coal	power	production	–	investment	to	extend	the	unabated	operating	lifetime	of	existing	thermal	coal	power	plants	or	
+increase	net	operational	thermal	power	capacity	by	more	than	20%	measure	from	a	baseline	of	maximum	capacity	for	
+preceding three years reported.
+	 Expansion	in	such	cases	relates	to	absolute	global	increases	rather	than	increases	for	an	entity	or	group	as	a	result	of	
+mergers or acquisitions.
+4. New Client	means	no	member	of	the	group	was	a	client	of	Barclays	as	at	1	April	2022.
+5.	 An	entity	is	“engaged	in”	if	it	generates	more	than	5%	of	its	revenues	from	the	activity.	
+6. Directly	finance	refers	to	project	finance	or	other	lending/underwriting	where	the	use	of	proceeds	is	known	to	be	for	a	
+particular project.
+7. The	Surface	Mining	Control	&	Reclamation	Act	(SMCRA	1977),	available	at	www.gpo.gov/fdsys/pkg/CFR-2012-title30-
+vol3/pdf/CFR-2012-title30-vol3-sec716-3.pdf.
+8. The Arctic Circle is	defined	by	the	National	Snow	&	Ice	Data	Center,	available	at	www.nsidc.org/cryosphere/arctic-
+meteorology/arctic.html
+34
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+Introduction
+Glossary
+T erm Explanation
+Absolute emissions Emissions	of	any	greenhouse	gases	generated	from	actions,	expressed	in	absolute	terms	(e.g.	tonnes	of	CO2 or tonnes  
+of	CO2e)
+BlueT rackTM BlueT rackTM	is	Barclays’	methodology	for	measuring	financed	emissions,	and	tracking	them	at	a	portfolio	level	against	the	
+goals	of	the	Paris	Agreement.	BlueTrackTM	includes	capital	markets	financing	in	addition	to	lending
+Carbon neutral We	are	defining	carbon	neutral	as	first	reducing	carbon	dioxide	emissions	then	counterbalancing	carbon	dioxide	emissions	
+from	Scope	1,	Scope	2	and	Scope	3	business	travel	with	carbon	offsets
+Carbon removals The	action	of	removing	GHG	emissions	from	the	atmosphere	and	store	it	through	various	means,	such	as	in	soils,	trees,	
+underground	reservoirs,	rocks,	the	oceans,	and	even	products	like	concrete	and	carbon	fibre
+Emissions intensity Absolute	Emissions	expressed	per	a	specific	unit	(e.g.	tCO2	e/€M	invested	or	lent,	tCO2	e/MWh	produced,	tCO2	e/ton	
+product produced, tCO2	e/MWh	produced,	tCO2	e/ton	product	produced,	tCO2	e/€M	company	revenue)	
+Financed emissions Emissions	that	banks	and	investors	finance	through	their	loans	and	investments	
+Greenhouse Gas (GHG) The	GHG	protocol	defines	GHGs	as	the	six	gases	listed	in	the	Kyoto	Protocol:	carbon	dioxide	(CO2);	methane	(CH4);	 
+nitrous	oxide	(N2O);	hydroflourocarbons	(HFCs);	perflourocarbons	(PFCs);	and	sulphur	hexaflouride	(SF6)
+Paris Agreement The	Paris	Agreement	is	a	legally-binding	international	treaty	on	climate	change.	It	was	adopted	by	196	parties	at	COP21	 
+in	Paris.	Its	goal	is	to	limit	global	warming	to	well	below	2°C,	preferably	to	1.5°C,	compared	to	pre-industrial	levels
+Renewables Energy	taken	from	sources	that	are	inexhaustible,	e.g.	wind,	water,	solar,	geothermal	energy,	and	biofuels
+Scenario analysis Efforts	to	mitigate	and	adapt	to	climate	change	are	without	historical	precedent.	Forward-looking	analyses,	such	as	
+scenario	analysis,	can	help	organisations	consider	a	broader	range	of	assumptions,	uncertainties,	and	potential	future	
+states	when	assessing	financial	implications	of	climate	change
+Ultra Low Emission Vehicles (ULEVs) In	the	UK,	Ultra	Low	Emission	Vehicles	(ULEVs)	are	currently	defined	as	having	less	than	75	grams	of	CO2 per kilometre  
+(g/km)	from	the	tail	pipe	(Source:	https://carfueldata.vehicle-certification-agency.gov.uk/additional/2021/2021%20
+Booklet.pdf).	Definitions	may	differ	slightly	in	other	jurisdictions	but	the	term	generally	refers	to	vehicles	that	use	low	
+carbon technologies
+35
+Barclays’ Climate Strategy, T argets and Progress 
+2022
+Our climate  
+strategy
+Our targets  
+and progress Looking aheadCollaboration
+Governance and 
+risk management
+Appendix
+In preparing this document we have:
+(i)	 made	a	number	of	key	judgements,	
+estimations and assumptions, and 
+the processes and issues involved are 
+complex.	This	is	for	example	the	case	in	
+relation	to	financed	emissions,	sector	
+targets,	classification	of	environmental	
+financing,	operational	emissions	and	
+measurement	of	climate	risk;	
+(ii)	 used	ESG	and	climate	data,	models	
+and methodologies that we consider 
+to	be	appropriate	and	suitable	for	
+these purposes as at the date on which 
+they were deployed. However , these 
+data, models and methodologies are 
+not	of	the	same	standard	as	those	
+available	in	the	context	of	other	financial	
+information,	nor	subject	to	the	same	
+or equivalent disclosure standards, 
+historical	reference	points,	benchmarks	
+or globally accepted accounting 
+principles. There is an inability to rely 
+on historical data as a strong indicator 
+of	future	trajectories,	in	the	case	of	
+climate change and its evolution. 
+Outputs	of	models,	processed	data	and	
+methodologies	will	also	be	affected	by	
+underlying data quality which can be 
+hard to assess.
+(iii)	 Understanding	of	approaches	to	climate	
+transition is rapidly evolving. Approaches 
+and	information	contained	in	this	
+document may be subject to change 
+without	notice.	Some	of	the	content	
+of	this	document	(such	as	targets,	
+restrictions,	definitions,	assessments,	
+and	estimations)	is	forward-looking,	
+and developed based on our current 
+information	and	belief,	and	is	subject	
+to	future	risks,	dependencies	and	
+uncertainties and may change over time. 
+Actual	outcomes	may	differ	from	those	
+set out in the document and Barclays 
+does not undertake to update any 
+forward-looking	statements	or	other	
+information	contained	in	it,	nor	to	inform	
+you	if	any	statements	or	information	
+change	in	future.	Our	update	on	climate	
+strategy, targets and progress has 
+been developed using methodologies 
+and data which are subject to certain 
+assumptions and limitations, including 
+the	availability	and	accuracy	of	data,	as	
+well as other contingencies and risks. 
+Any opinions and estimates should be 
+regarded as indicative, and preliminary 
+given these issues.
+(iv)	 Some	of	the	information	in	this	
+document has been or may have 
+been	obtained	from	public	and	
+other sources and Barclays has not 
+independently	verified	it.	Barclays	
+makes no representation or warranty 
+regarding its completeness, accuracy, 
+fitness	for	a	particular	purpose	or	
+non-infringement	of	such	information.	
+Any	opinions	or	views	of	third	parties	
+are	those	of	the	third	parties	identified,	
+and	not	Barclays,	its	affiliates,	directors,	
+officers,	employees	or	agents.	Neither	
+Barclays	nor	any	of	its	affiliates,	directors,	
+officers,	employees	or	agents	make	
+any representation or warranty as to 
+its quality, accuracy or completeness, 
+and they accept no responsibility or 
+liability	for	the	contents	of	this	material,	
+including	any	errors	of	fact,	omission	
+or opinion expressed. Barclays, its 
+affiliates,	directors,	officers,	employees	
+or agents expressly disclaim any liability 
+and	responsibility	for	any	decisions	or	
+actions	which	you	may	take	and	for	
+any	damage	or	losses	you	may	suffer	
+from	your	use	of	or	reliance	on	this	
+material.	You	are	advised	to	exercise	
+your	own	independent	judgment	(with	
+the	advice	of	your	professional	advisers	
+as	necessary)	with	respect	to	the	
+risks	and consequences	of	any	matter	
+contained herein. 
+For full disclaimers, please 
+refer to Barclays’ Annual 
+Report 2021.
+Disclaimer
+Introduction

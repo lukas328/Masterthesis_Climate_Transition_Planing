@@ -1,0 +1,2784 @@
+Itaú Unibanco Holding S.A.  
+climate 
+report_  
+Prepared based on the recommendations of the 
+Task Force on Climate-Related Financial Disclosures (TCFD) 
+Published in April, 2023
+TCFD index
+The table below summarizes our alignment with the recommendations of the Taskforce on Climate-Related Financial Disclosures (TCFD).
+Recommendation Description and strategic priorities
+Governance
+Board of Directors’ oversight of 
+climate risks and opportunities.
+The Board of Directors and the Executive Committee oversee the progress of the climate agenda, including through committees focused on environmental, social and 
+climate topics, with pre-defined frequency and agendas, ensure that climate-related issues are integrated into the strategic decision-making process, and monitor progress 
+towards climate targets and commitments made by the bank.
+Management’s role in assessing 
+and managing climate risks and 
+opportunities.
+Executives have responsibility for the climate agenda through integrated and cross-cutting governance. Our climate responsibility is addressed in corporate policies and 
+procedures. We have a training agenda on climate change, as this topic can impact even the compensation of employees and executives. 
+Strategy
+Risks and opportunities identified in 
+the short-, medium- and long-terms.
+We map climate risks and opportunities to which our businesses and operations may be exposed and develop an implementation strategy. We assess our exposure to 
+different sectors and opportunities through risk management processes and climate metrics.
+Impact of climate risks and 
+opportunities on business, strategy 
+and financial planning.
+The risks and opportunities identified influence our strategy, which is focused on the adoption of stakeholder engagement actions and measures to reduce the impacts of 
+climate change on the bank’s business and operations. 
+We develop products and services by taking into consideration their impacts on climate change, set emission reduction targets for our operation and the power 
+generation and coal generation sectors as well, as these are the sectors to be prioritized according to the NZBA commitment. We also act on to support farming production 
+decarbonization, in addition to encouraging the carbon credit market. 
+Resilience of the organization’s 
+strategy, taking into account 
+different climate scenarios.
+We address different climate scenarios to guide our risk management processes and define our sector decarbonization targets and commercial ambition. Based on the 
+Net-Zero scenario of the International Energy Agency (IEA), targets are in line with pathway to 1.5°C. These exercises defined Itaú’s commercial strategy and ambition to be 
+in a position as the climate transition bank for our clients.
+3 
+Itaú Unibanco Holding S.A.climate report 2022
+Risk Management
+Processes for identifying and 
+assessing climate-related risks.
+We have developed a methodology to identify climate risks – both physical and transition – in the short, medium and long terms. We are attentive to the progress of the 
+regulatory agenda that may impact our business and operations.
+Processes for managing 
+climate-related risks.
+We adopt measures to address climate risks in assessments of clients, loans, and other operations with a focus on increasing our resilience. We also monthly monitor the 
+loan portfolio exposure to physical and transition risks, with regular reports according to our governance risk structure.
+Integration of the processes 
+for identifying, assessing and 
+managing climate-related risks into 
+the overall risk management.
+We map the transmission channels that connect climate risks to other traditional risk disciplines, such as credit and reputational risks. Based on these connections, we 
+manage climate risk in an integrated way by strengthening the bank's risk management processes, which are supported by a robust governance framework based on the 
+three lines of defense methodology.
+Metrics and Targets
+Metrics used by the institution 
+to assess climate risks and 
+opportunities.
+We adopt specific metrics for managing climate risks and opportunities in connection with our business and operations. We actively take part in global discussions focused 
+on building new metrics, as well as on the progress of emission quantification calculations and methodologies.
+Scope 1, 2 and 3 emissions and 
+related risks.
+We measure scope 1, 2 and 3 emissions from the bank’s operations and financed emissions by applying the Partnership for Carbon Accounting Financials (PCAF) 
+methodology. In 2022, performance was as follows:
+Scope 11: 22.925 tCO₂e
+Scope 2 by choice of purchase2: 2.537 tCO₂e
+Scope 3, except financed emissions3: 41.659 tCO₂e
+Financed emissions4: 20,600,000 tCO₂e
+Targets used to manage climate 
+risks and opportunities.
+Our goal is achieving net-zero by 2050, with intermediate targets for sectors and our operations. Considering the current available technological, our efforts have enabled 
+us to make headway in the following targets:
+A 63% reduction in the intensity of financed emissions of the power generation sector by 2030.
+Phasing out financial transactions in the thermal coal sector by 2030.
+Allocation of R$400 billion to ESG and climate-related positive impact sectors by 2025.
+Having 80% of our branches run on renewable energy by 2025.
+Recommendation Description and strategic priorities
+1 It includes Brazil, Argentina, Uruguay and Paraguay. | 2 It includes Brazil, Argentina, Uruguay and Paraguay. |  3 It includes Brazil, Argentina, Uruguay and Paraguay. | 4 It includes all Itaú’s financed emissions, will global reach.
+4 
+Itaú Unibanco Holding S.A.climate report 2022
+about this report
+This report presents our climate strategy, in line with the recommendation of the TCFD on 
+Governance, Strategy, Risk Management and Climate Metrics and Targets. It also discloses 
+how our decarbonization efforts have progressed since we joined the Net Zero Banking 
+Alliance (NZBA) and made the net-zero commitment in 2021. We present our targets for 
+the power generation sector and the review of the thermal coal phase-out process.
+Our climate strategy is structured around risk management and governance processes, 
+market standards and regulations based on a continuous improvement process. 
+The approach to climate strategy and achievement of net-zero by 2050 is based 
+on the understanding of our impacts and definition of the fundamentals of action 
+(Understanding and Assessing to Apply).
+This understanding of risks, opportunities and impacts is the basis for defining our 
+main targets, commitments and action plans, and was taken into account throughout 
+all decarbonization target setting stages. Implementing our strategy involves getting 
+different stakeholders to engage in our climate transition actions and managing the risks, 
+opportunities and impacts felt or caused by our businesses and operations.
+independent assurance
+In this report we present data regarding climate, emissions and overall eco-
+efficiency that has been assured in the scope of our ESG Report. We list here the 
+key assured GRI metrics relevant to this Climate Report.
+GRI 2: General Disclosures: 3. Governance 
+GRI 2: General Disclosures: 4. Strategy, policies and practices 
+GRI 3: Material Topics 
+GRI 201: Economic Performance 
+GRI 302: Energy 
+GRI 303: Water and effluents 
+GRI 305: Emissions 
+GRI 306: Waste 
+G4-DMA FS: Portfolio of products
+For more details access our Supplementary Index.
+5 
+Itaú Unibanco Holding S.A.climate report 2022
+context
+Financial institutions are 
+drivers of changes in the 
+production chains of all 
+economic sectors. That’s 
+why we aim to be the 
+climate transition bank 
+for our clients.
+6 
+Itaú Unibanco Holding S.A.climate report 2022
+introduction
+Climate transition represents a great opportunity to rethink 
+the 21th century economic model. We have the mission 
+to achieve net-zero by 2050 to ensure we meet the Paris 
+Agreement requirements and prevent the consequences of 
+the climate crisis. To this end, we must promote a transition 
+to a low-carbon economy through a number of changes, 
+innovations, technologies and discoveries that must be 
+integrated into the means of production and consumption. 
+Governments, companies and people that are prepared for 
+this new environment will certainly be better positioned in 
+the new economy.
+From the moment we publish this report to 2050 there will 
+be great challenges to be overcome. According to the United 
+Nations’ Intergovernmental Panel on Climate Change (IPCC), 
+in 2022 Earth’s temperature has already risen by 1.1°C from 
+pre-industrial levels. The stabilization of the greenhouse gas 
+concentration in the atmosphere is urgent. With respect to 
+the scenario in Brazil, decarbonization involves the reduction 
+of emissions in a number of economic sectors. Important 
+opportunities exist in Brazil in connection with the stimulus 
+to a low-carbon economy, bioeconomy and conservation of 
+our ecosystems. 
+Financial institutions are major allies when it comes to 
+decarbonization, since they have the potential to influence 
+the direction of financial flows by supporting green, positive 
+impact and low-carbon economic sectors. 
+The climate agenda will influence the financial system 
+strategy over years to come. As the largest bank in Latin 
+America and a pioneer of the ESG agenda, we aim to be the 
+climate transition bank for our clients. 
+Being the climate transition bank means not only endeavor 
+all efforts possible to reduce our GHG emissions from 
+operations and business, but also engage and support our 
+clients in their decarbonization journeys. This can be done 
+by providing products, services and advisory solutions 
+to reduce risks and generate opportunities that reflect 
+this strategy in our business, loan portfolio management 
+and services. 
+Climate transition is not an 
+agenda to restrict business 
+but rather one to foster the 
+build-up of a more resilient and 
+responsible economy aligned 
+with global commitments. 
+7 
+Itaú Unibanco Holding S.A.climate report 2022
+Standards and initiatives we follow 
+We aim to align our strategy to top climate action standards and initiatives:
+ • GHG Protocol_ In 2022 we were granted, for the 11th 
+consecutive time, the gold seal from the Brazilian GHG 
+Protocol Program, which certifies organizations for the 
+high quality of their emission inventories.  Our emissions 
+data is also available on the Public Emissions Registry. 
+We support the Commitment to Climate initiative, set up 
+in 2017 as a multisector partnership and backed by the 
+technical analysis of Instituto Ekos to select projects to 
+offset emissions by using high integrity credits.
+ • Partnership for Carbon Accounting Financials (PCAF)_ 
+In 2021 we joined PCAF, a global partnership of financial 
+institutions focused on developing methodologies to 
+measure financed and invested carbon emissions. PCAF 
+was founded in 2015 and in March 2023 it had already 
+been joined by over 370 financial institutions around the 
+world. It is recommended by TCFD as a methodology to 
+measure financed emissions in financial institutions.
+ • CDP_ we also disclose climate-related information to 
+CDP , the main global climate finance index, with issues 
+aligned to TCFD.  
+ • Paris Agreement_ as signatories to PRB and NZBA, we 
+aim to align our strategy with the Paris Climate Agreement 
+signed in 2015, which has the goal of limiting the rise in 
+global average temperature to 2º C, with efforts to keep 
+it below 1.5ºC. 
+ • Task Force on Climate-Related Financial Disclosures 
+(TCFD) _ since 2017, we have supported and act on to 
+comply with the TCFD, a task force created by the G20-
+linked Financial Stability Board (FSB), which encourages 
+organizations to get to know and disclose information 
+about the impact of climate change on their business. 
+The goal is to allow investors to make well-informed 
+decisions and turn climate information disclosure into a 
+market practice.  
+ • Principles for Responsible Banking (PRB)_ since 2019 
+we have been signatories to PRB, which are linked to the 
+United Nations Environment Programme Finance Initiative 
+(UNEP-FI) and aim to align the global financial system 
+to initiatives that promote positive impact on society 
+and on Earth. Climate change is a topic that is present in 
+PRB, which provide for financial institutions to align their 
+strategies with global climate commitments, notably the 
+Paris Agreement, among other practices.
+ • Unep-FI_ we are a member of the TCFD Working Group, 
+teamed up with nearly 40 financial institutions from 
+different countries, and are involved in the development 
+of the Transition Check Tool, a tool for analysis of 
+transition scenarios. 
+ • Brazilian Federation of Banks (FEBRABAN) _ in 
+2022 we joined the Climate Squad, a group focused 
+on addressing the alignment of global methodologies 
+with the Brazilian reality. We developed and 
+implemented tools to identify material climate risks 
+and manage climate finance, addressing physical and 
+transition risks associated with the Brazilian scenario, 
+and changes in the loan portfolio sensitivity to 
+climate change. 
+8 
+Itaú Unibanco Holding S.A.climate report 2022
+Net Zero Banking Alliance (NZBA)
+Achieving Net Zero means reducing net emissions of CO₂ equivalent (CO₂e)5 to zero. The 
+reduction of emissions requires measures such as the adoption of new, more efficient 
+technologies, technologies for carbon capture and renewable energy sources, among other 
+possibilities. 
+Emissions can be caused by direct operation (what we call scope 1), energy consumption 
+(scope 2), and by sources that, although not controlled by the company, are included in its 
+activity broadly, such as suppliers and clients (scope 3). 
+When it comes to banks, major emissions are those related to the loan portfolio, that 
+is, financed issues (scope 3). This means that, to achieve Net Zero, we rely on the 
+decarbonization of our clients and the real economy. To face up to this challenge, 
+in October 2021 we joined NZBA, a UNEP-FI-linked initiative that gathered 126 financial 
+institutions from 41 countries in March 2023, accounting for 41% of global banking assets. 
+NZBA is a member of the Glasgow Financial Alliance for Net Zero (GFANZ), founded with 
+the goal to connect financial institutions to United Nations’ Race to Zero, a campaign that 
+mobilizes leaders, businesses, cities and investors to achieve Net Zero by 2050.
+The NZBA recommends that target setting be in line with the latest science-based scenarios 
+to lead to net zero on a 1.5°C transition pathway, such as the scenarios constructed by 
+the Intergovernmental Panel on Climate Change (IPCC) and the Net Zero Scenario by the 
+International Energy Agency (IEA). Taking into consideration the size of the challenge and 
+based on climate scenarios, the NZBA has defined nine sectors as priority:
+Agriculture
+Aluminum
+Cement
+Coal
+Real Estate
+Steel
+Oil & Gas
+Power Generation
+Transport
+Commitments made 
+By joining NZBA we made the following commitments:
+Achieve net zero by 2050 for scopes 1, 2 and 3.
+Disclose targets for the nine sectors prioritized by NZBA
+within 36 months after joining.
+Carry out the first disclosure of targets, focusing on significant
+sectors and clients, within 18 months after joining NZBA,
+considering intermediate targets for 2030.
+Disclose, one year after the sector targets, an action plan for
+their achievement; 
+Review targets and the transition plan every five years after
+joining.
+Annually disclose the financed emissions and the progress
+of our climate actions.
+Achieving net zero in 2050 relies on the availability of data, tools and methodologies 
+appropriate for monitoring actions, the evolution of technologies that contribute to the 
+decarbonization of sectors and their adoption by our clients and the public authorities. 
+Technology solutions are not yet widely available or not scalable for some economic 
+sectors. These sectors require support in their transition and to be monitored by 
+market agents.
+5 Carbon dioxide equivalent (CO2e) corresponds to all different greenhouse gases evaluated based on their carbon dioxide 
+(CO2) equivalence, considering different warming potentials. Therefore, when it comes to CO2 we are referring to carbon 
+dioxide, while CO2e refers to all greenhouse gases.
+9 priority sectors (NZBA)
+9 
+Itaú Unibanco Holding S.A.climate report 2022
+Timeline 
+Our ESG and climate strategy has had a breakthrough role recognized in the financial market. The unfolding of this strategy pervades our business and goes under a continuous improvement 
+process to help the transition pathway of both the financial system and our clients. We understand that climate change is a topic that interconnects with the environmental, social and 
+governance universe, being addressed from different perspectives in the bank’s strategy. To learn more about our ESG actions, please access our Integrated Annual Report and our ESG Report.
+2008
+ • Support to the creation of the Brazil GHG 
+Protocol (alongside FGV).
+ • Bank’s first GHG emissions inventory. 
+ • Itaú Asset Management joins the PRI.
+ • Joins the UNEP-FI.
+2009
+ • Set-up of the 
+Sustainability Policy.
+2014
+ • Set-up of the 
+Environmental 
+and Social. 
+Sustainability Policy
+2015
+ • 1st Gas 
+Emission 
+Offset Notice. 
+2017
+ • Set-up of the Environmental and 
+Social Sustainability Policy.
+ • Itaú Asset Management includes 
+the carbon variable in the 
+company screening process.
+ • Study of the climate change 
+impact on the loan portfolio for 
+large companies.
+ • Set-up of the Commitment to 
+Climate Platform. 
+2018
+ • Set-up of the Climate 
+Finance Squad for TCFD 
+implementation. 
+ • Participation in the 
+Working Group for 
+implementation 
+of UNEP-FI-TCFD.
+ • Participation in the 
+Climate Change Squad 
+run by Febraban.
+ • First positioning on 
+climate change.
+2019
+ • Launch of our Positive 
+Impact Commitments.
+ • Joins the Principles for 
+Responsible Banking (PRB).
+ • Set-up of the Corporate 
+Environmental and Social 
+Risk department.
+2020
+ • Teamed up to two other 
+large private banks 
+in Brazil to launch 
+the Amazon Plan.
+2021
+ • Joins the Partnership 
+for Carbon Accounting 
+Financials (PCAF).
+ • Joins the NZBA and sets the 
+Itaú Net Zero 2050 target.
+ • Integration of Climate 
+Scenarios in investments by 
+Itaú Asset Management. 
+2022
+ • Launch of ESG Cube.
+ • Foundation of Biomas.
+ • Founding member of Jornada Amazônia 
+(Amazon Journey).
+ • Thermal coal phase-out is announced.
+ • New Environmental, Social and Climate. 
+Responsibility Policy (PRSAC).
+ • Environmental, Social and Climate Policy (PRSAC).
+2023
+ • Publication of this climate 
+reporting report.
+ • Decarbonization targets 
+for Power Generation 
+and Thermal Coal 
+are announced.
+10 
+Itaú Unibanco Holding S.A.climate report 2022
+climate 
+governance_
+12
+governance of climate risks 
+and opportunities
+15
+policies and 
+procedures
+16
+employee 
+engagement
+Governance of climate 
+risks and opportunities
+Roles and Responsibilities
+We incorporate climate change across our different structures by monitoring risks, 
+opportunities and their potential impacts on our business. We have the oversight of the 
+Board of Directors and the Executive Committee, including through Committees that 
+address, guide and decide on climate issues. We have specialists responsible for integrating 
+this topic into our institutional and business areas. 
+The Board of Directors is responsible for overseeing the implementation of the 
+decarbonization strategy and recommending actions on specific ESG and climate issues, 
+in addition to being responsible for the approval of the Environmental, Social and Climate 
+Responsibility Policy (PRSAC). It has the support of the Environmental, Social and Climate 
+Responsibility Committee whose mandate is to oversee any actions related to the 
+implementation of the PRSAC, coordinating its activities with those of other Committees 
+reporting to the Board of Directors, such as the Risk and Capital Management (CGRC) and 
+the Audit Committee. Climate transition has been discussed in many forums, including the 
+Board of Directors, as it has the potential to impact strategies, action plans, risk management, 
+business opportunities and other issues.
+When it comes to the Executive Committee level, we have the Superior ESG Council, 
+responsible for defining and ensuring compliance with the ESG and Climate strategy and the 
+goals and targets set out. Also at the EC level, we have the Environmental, Social and Climate 
+Risk Committees whose mandate is to ensure the proper management of Environmental, 
+Social and Climate risks, being responsible for approving and monitoring risk metrics and 
+inclusion of climate variables. 
+Executive Committee Members and related responsibilities
+Executive Committee members have specific responsibilities associated with climate 
+issues and they oversee the climate agenda through the committees in which they 
+participate, as highlighted below:
+Chief Sustainability Officer (CSO): heads the sustainability and ESG strategy 
+department and works as the institutional Project Management Office (PMO) of the 
+climate strategy, guiding the teams that implement and monitor commitments, at 
+all times in line with institutional guidelines, market trends and technical expertise in 
+climate change. 
+Chief Risk Officer (CRO): responsible for the risk structure, also responsible for 
+the unit that operates in the integration of climate risk to the institution’s global 
+risk management, being responsible for the Environmental, Social and Climate Risk 
+Policy and the specific Climate Risk Management procedure. Also works as a liaison 
+with regulators. 
+Chief Financial Officer (CFO): heads the finance and investor relation departments, 
+being responsible for the disclosure of earnings and reports to the market including 
+the provision of climate information.
+12 
+Itaú Unibanco Holding S.A.climate report 2022
+Below we highlight the hierarchical levels, forums, responsibilities and frequency of meetings that guide our climate management. 
+Over the last few years, a number of significant climate strategy decisions have been submitted to our governance forums.
+Board of Directors
+Addresses, at least once a year, sustainability and climate change 
+related topics
+The Institution’s highest forum of discussion of climate change and ESG 
+issues. It guides the bank’s climate strategy and oversees climate risks 
+and opportunities. It approves and reviews the Environmental, Social 
+and Climate Responsibility Policy (PRSAC) and guides actions aimed at its 
+effective operation.
+Level: Board of Directors 
+Board members. The list of members is available on the Itaú website.
+Environmental, Social and Climate Responsibility Committee
+At least three times a year
+It defines the environmental, social and climate responsibility strategy, 
+assesses actions aimed to comply with and implement the PRSAC, integrates 
+its activities with the Risk and Capital Management Committee (CGRC) 
+and prepares proposals to the Board regarding the PRSAC review and 
+implementation.
+Level: Board of Directors
+Board members are listed on Itaú’s website.
+Audit Committee
+At least quarterly, with climate actions addressed upon demand
+It addresses and oversees the actions carried out by the departments in 
+charge of Environmental, Social and Climate risks. 
+Level: Board of Directors
+The list of the Audit Committee members is available on Itaú’s website.
+Capital and Risk Management Committee (CGRC)
+Climate issues are addressed at least twice a year
+It supports the Board of Directors in risk management, including 
+environmental, social and climate risks
+Nível: Board of Directors
+The list of CGRC members is available on Itaú’s website.
+Committees addressing climate issues 
+13 
+Itaú Unibanco Holding S.A.climate report 2022
+Environmental, Social and Climate Risk 
+Committee (Superior CRSAC)
+On demand
+It resolves on the climate risk decision-making process, 
+which may be escalated by the CRSAC due to the topic 
+complexity and materiality 
+Level: Executive Committee
+Itaú Unibanco’s CEO; Itaú BBA’s CEO;
+Chief Risk Officer (CRO);
+Chief Institutional Relations and Sustainability Officer 
+(CSO) Legal Officer.  
+Environmental, Social and Climate Risk Committee (CRSAC)
+At least every six months
+It resolves on strategic, business and institutional matters involving Environmental, 
+Social and Climate Risks
+Level: Officers
+Credit Risk and Modeling Officer;
+Corporate Compliance Officer;
+Chief Institutional Relations and Sustainability Officer (CSO);
+ Legal officer;
+Officers of impacted areas.
+ESG Wholesale Committee
+Every two months
+It approves sector decarbonization strategies and action 
+plans, ensures and monitors the achievement of the 
+R$ 400 billion target in positive impact sectors by 2025 
+and the actions on climate transition for Itaú BBA’s 
+business. It monitors and resolves on Itaú BBA’s ESG and 
+climate work fronts. 
+Level: Executive Committee
+Itaú BBA’s CEO; Chief Institutional Relations and 
+Sustainability Officer (CSO); Chief Risk Officer (CRO);
+Corporate Compliance Officer; Finance Officers;
+Legal officer; Itaú BBA’s Strategy and Planning Officer
+Executives from the commercial, Agribusiness, Project 
+Finance and Investment Banking departments.
+Superior ESG Council
+At least every two months. The Council has the authority 
+to submit matters to the Board of Directors, as required.
+It monitors the bank’s work in relation to main ESG 
+and climate demands from the market, regulators and 
+civil society.
+Level: Executive Committee
+Members of the Executive Committee 
+(list available on Itaú’s website).
+Corporate Compliance Officer
+Chief Institutional Relations and 
+Sustainability Officer (CSO)
+Ombudsman’s Superintendent
+ESG Wealth Management Services Committee
+At least three times a year
+It updates the teams’ training progress in sustainable finance and good practices, 
+regulations, voluntary compacts that guide investment advice, individual investors, 
+partner managers, ESG criteria for equity planning and other matters related to 
+investment products managed by WMS.
+Level: Officers
+Chief WMS Officer; Itaú Asset’s Officer; Chief Institutional Relations and 
+Sustainability Officer (CSO); Superintendents and other senior management 
+members of WMS; Itaú Private and Itaú Asset.
+14 
+Itaú Unibanco Holding S.A.climate report 2022
+policies and 
+procedures 
+Procedure for Climate Risk Management 
+(internal document) 
+It formalizes processes to identify, assess and manage 
+climate risk, including the risk mapping process, sensitivity 
+analysis and the roles and responsibilities for climate 
+risk management.
+Procedure for Environmental, Social and Climate Risks - 
+Credit (internal document) 
+It sets out guidelines for managing Environmental, Social 
+and Climate Risks in connection with credit relationships and 
+operations with credit risk, as well as guidelines and criteria 
+for their analysis and monitoring metrics and responsibilities. 
+Procedure for Commitment to Positive Impact  
+(internal document) 
+It formalizes the roles and responsibilities for monitoring and 
+meeting Positive Impact Commitments. 
+Procedure for establishing Itaú Unibanco taxonomies  
+(internal document) 
+It outlines the guidelines adopted in the build-up of 
+the commitment to finance positive impact sectors and 
+associated taxonomy, as well as the main frameworks used 
+to classify sectors and define taxonomies. 
+Procedure for Management of Environmental Aspects 
+and Impacts (internal document) 
+It formalizes the management of environmental aspects and 
+impacts associated with activities, products and services.
+We have specific Policies and procedures  that address 
+climate change within the scope of our Environmental, Social 
+and Climate Responsibility Policy.
+Environmental, Social and Climate Responsibility Policy 
+(PRSAC) (public document) 
+It outlines the principles, guidelines and strategies for the 
+environmental, social and climate pillars. 
+Risk Management Policy (internal document) 
+It sets out risk management guidelines and framework 
+based on three lines of defense; roles and responsibilities in 
+risk management and integration of Environmental, Social 
+and Climate Risks with other risks.
+Investor Relations Policy (public document) 
+It outlines the responsibilities and conduct of professionals 
+in charge of investor relations, including Sustainability-
+related topics. 
+Environmental, Social and Climate Risk Policy 
+(public document) 
+It sets out the rules and responsibilities related to the 
+management of Environmental, Social and Climate Risks.
+Corporate Integrity, Ethics and Conduct Policy 
+(public document) 
+It outlines guidelines complementary to Itaú Unibanco Code 
+of Ethics and recognizes environmental, social and climate 
+responsibility as a pillar of our strategy.
+6 Policies are documents that outline the institutional strategies and guidelines on a given matter at the bank, translating what needs to be done and why into actions.  
+Procedures provide greater detail, supporting the processes set out in the policy to which it is linked, making it clear “how” it should be done and “who” should do it. In spite 
+of this distinction, both policies and procedures have the same relevance for the governance of Itaú Unibanco.
+15 
+Itaú Unibanco Holding S.A.climate report 2022
+employee engagement 
+The Strategy and Planning, Business, Sustainability, Risks, Products, Credit, Finance, Investor Relations, Data, Stress Testing, Equity, Procurement and other teams act on to implement our 
+climate strategy in business and operations. We set up a Decarbonization Working Group, focused on discussions such as the calculation of financed emissions and setting climate targets 
+aimed at making headway in our Net Zero commitment implementation. 
+Specific and general training
+We provide knowledge trails on our internal education platform, through which 
+employees have access to videos, articles and other climate change content. For 
+example, in 2022 we made two knowledge trails available for the commercial team and 
+support areas: one trail on the Net Zero concept and strategy and the other focusing on 
+sector business opportunities in climate change. We also held a series of presentations 
+with internal specialists and external guests with priority topics for each department. 
+Another central pillar in our training is the engagement of senior management, aimed 
+at a more assertive decision-making process in view of the environmental, social 
+and economic challenges imposed by climate change. Overall we had more than 400 
+employees attending leadership and executive training focused on Net Zero, carbon 
+market, emission calculation and innovation, and over 1,400 attending ESG finance, 
+carbon and sustainability training for Itaú BBA’s commercial teams.
+Linking compensation to climate performance  
+Climate issues affect the variable pay of professionals involved in the bank’s many 
+activities and businesses, through performance indicators, projects and initiatives set 
+out in individual target agreements at different hierarchical levels. 
+We outline the targets, grouped by ESG and climate-related topics, that impact 
+individual performance and, consequently, the variable compensation of a number of 
+employees, as follows: 
+climate change: targets for climate strategy implementation with a focus on 
+Net Zero transition plans; development of new products, services, metrics, 
+positioning and advocacy of climate change-related topics. These targets are 
+set out in contracts of officers, superintendents and employees of departments 
+linked to climate change topic. Target-related metrics are also assessed. 
+transparency of communication and training: targets for the financial 
+reporting agenda and ESG and climate reporting, covering the quality of 
+financial statements, progress of indicators and implementation of ESG and 
+climate knowledge trails for employees and society in general. These targets are 
+set out in the contracts of executives, officers, supervisors and employees of the 
+finance and audit teams, such as investor relations and accounting departments.
+environmental management of our operations: energy, emissions, water 
+consumption and waste generation reduction targets in connection with our 
+operations and the operations of suppliers, in addition to creating monitoring 
+indicators. Some executives, officers, supervisors and employees of the 
+business units in charge of infrastructure have their compensation linked to the 
+achievement of these targets
+The CEO of Itaú BBA has the challenge of driving the implementation of the bank’s 
+ESG and climate strategy included in his individual goals contract, including driving 
+the commitment to direct R$400 billion to positive impact sectors and the Itaú Net 
+Zero journey to decarbonize the credit portfolio.
+co²
+16 
+Itaú Unibanco Holding S.A.climate report 2022
+climate 
+strategy_
+18
+strategic 
+approach 
+25
+how we implement our 
+climate strategy
+strategic approach 
+We organize our strategy structure based on three major pillars, focused on client centricity and the bank’s ongoing readiness to meet client needs in view of climate change challenges. 
+Components of our climate strategy, these pillars are outlined in more detail below.
+In the first pillar, we seek to understand and 
+assess the context in which climate change 
+discussions are inserted and any potential 
+opportunities for our business, clients and 
+operations, as well as their potential impacts 
+on our strategy and how our business and 
+operations could cause an increase or decrease in 
+GHG emissions. 
+The second pillar, the engagement of stakeholders 
+for the transition, is important in the pathway to Net 
+Zero. The ongoing engagement with the most different 
+groups of stakeholders, focusing mainly on our clients, 
+is the pathway to identify innovative solutions and 
+capture opportunities towards a low carbon economy. 
+We engage in discussions on climate change in sector 
+associations, advocate this cause before the public 
+authorities, encourage our suppliers to integrate 
+this topic into their business and run awareness-
+raising campaigns among our employees and other 
+stakeholders. 
+The third pillar is to reduce impacts and create 
+opportunities by adopting any actions required 
+to increase the resilience of our business and 
+operations to climate change. Here our focus is on 
+business impacts. We work mainly with Itaú BBA, which 
+is responsible for operating with large and middle-
+market companies and throughout the agribusiness 
+chain, by setting decarbonization targets for specific 
+sectors and sustainable finance, with the development 
+of green products, ESG-linked structured operations, 
+specific credit lines and alignment of the portfolio to 
+achieve Net Zero by 2050.
+When it comes to impacts on operations, our strategy 
+is aimed at ecoefficiency projects, emission offset 
+programs, solar energy generation at branches, 
+contingency plans for climate risks and exposure of 
+branches to flooding risks.
+1 2 3
+18 
+Itaú Unibanco Holding S.A.climate report 2022
+Understanding and assessing 
+to apply
+Mapping the impacts of risks and 
+opportunities 
+As climate risks and opportunities can impact 
+our operations and business understanding 
+them is crucial for our strategy. 
+Climate risks can be either physical or transition. 
+Physical risks are related to the increase in 
+frequency and intensity of extreme climate 
+events and changes in climate patterns. 
+Transition risks meanwhile are associated with 
+emission trading and taxation schemes, laws 
+and regulations to restrict emissions, climate 
+litigation, technological barriers, changes in 
+client and consumer behavior, etc.
+Effective actions in the present, aimed at 
+mitigating climate change, minimize physical 
+risks in the long term. A late climate transition 
+implies increased exposure to physical risks 
+in the future, especially if we fail to meet the 
+targets set by the Paris Agreement. 
+Climate change also brings in opportunities 
+associated with the development of new 
+products and services that promote climate 
+transition, participation in carbon markets, 
+increasing business resilience to different 
+mitigation and adaptation scenarios and greater 
+efficiency in the use of resources. All businesses, 
+including the financial sector, are subject to 
+different risk and opportunity settings.
+Meetings and 
+communications 
+with clients
+Participation in 
+sector associations
+Client 
+assessment 
+tool
+Advocacy 
+before public 
+authorities
+Stimulus to the 
+transition plan of 
+carbon-intensive 
+sectors
+Connection 
+of clients with 
+startups for 
+decarbonization
+Awareness and 
+incentive 
+campaigns
+Identification of 
+the climate targets 
+of our clientsIncentive to the best 
+practices of suppliers
+on operations on business
+Definition of the 
+baseline and 
+curves of sector 
+decarbonization
+Portfolio 
+decarbonization
+Climate 
+products 
+and services
+Work in the carbon 
+market
+Biodiversity
+Ecoefficiency 
+Projects
+Emission 
+Offset 
+Program
+Generation of 
+solar energy for 
+branches
+Contingency plans 
+for climate risks
+Exposure of 
+branches to 
+flooding risks
+NetZero
+create opportunities
+reduce impacts
+Assessing 
+data | information
+Understanding
+context | sector | region | 
+activities
+engagement of stakeholders for the transition
+How we 
+implement 
+climate strategy
+To 
+apply
+$
+co²
+!
+co²
+19 
+Itaú Unibanco Holding S.A.climate report 2022
+Risks identified 
+We have mapped the potential impacts of climate risks and their transmission channels into traditional risk categories, namely 
+credit risk, operational risk, market risk and liquidity risk. Risks were assessed in relation to their possible materialization 
+period, considering short-term (up to 5 years), medium term (from 5 to 10 years) and long term (above 10 years), periods, 
+classified according to the type of the risk (physical, transition or both) and possible qualitative materialization scenarios. 
+Mapping was the first step to start prioritizing our climate risks. 
+Climate risk factor and materialization trend (in years) Credit Operational Market Liquidity
+Transition risk
+Climate regulations and regulator’s oversight Up to 2 years
+Mandatory disclosure Up to 2 years
+Worsening of portfolio credit quality 5 to 10 years
+Portfolio climate exposure and climate taxonomy Up to 2 years
+Change in pricing of assets and properties 5 to 10 years
+Climate litigation 2 to 5 years
+Stranded assets > 10 years
+Carbon pricing 2 to 5 years
+Carbon reduction, neutralization and removal 5 to 10 years
+Change in environmental legislation 5 to 10 years
+Market barriers and stakeholder requirement Up to 2 years
+Physical risk
+Physical risk impact
+Other secondary consequences of climate risks
+Potential materialization in 
+other risk disciplines
+Not relevant
+Medium relevance
+Relevant
+20 
+Itaú Unibanco Holding S.A.climate report 2022
+Upon mapping these risks, we took into account the qualitative climate scenarios described below. 
+Qualitative scenarios used in risk mapping*
+Scenario 1: 
+Orderly transition
+In this scenario, the transition to a low-carbon 
+economy starts immediately and proceeds in 
+an orderly way with actions taken by regulators 
+and the government to ensure financial 
+stability. Economy will have time to adjust to the 
+new scenario. 
+Scenario 2:
+Abrupt transition 
+In this scenario, governments and regulators act late 
+and the transition occurs in an abrupt and disorderly 
+way, with greater impact on certain sectors and 
+countries. Financial crisis and unemployment are 
+more likely in carbon-intensive sectors.
+Scenario 3: 
+Materialization of physical risks 
+(hot house world)
+In this scenario, no transition occurs and the 
+goals of the Paris Agreement are not achieved. 
+The physical effects of climate change become 
+increasingly evident, especially starting in 
+2030. The occurrence of extreme events and 
+irreversible changes in climate patterns can alter 
+the productivity of a number of economic sectors 
+and lead to systemic environmental, social and 
+economic crises.
+Scenario 4: 
+Too little, too late
+In this scenario, transition actions fall short 
+of what is required or are delayed, generating 
+insufficient effect to ensure that the climate 
+goals of the Paris Agreement are achieved. 
+Therefore, the presence of physical risks 
+becomes greater and more evident and 
+propels a disordered transition that can be 
+disruptive and abrupt. 
+* https://www.ngfs.net/ngfs-scenarios-portal/
+21 
+Itaú Unibanco Holding S.A.climate report 2022
+The table below shows some non-exhaustive examples of key actions to mitigate climate risk in our strategy. 
+ Identified risks and mitigation strategies  
+Event Climate risk management initiatives
+Climate regulations and oversight of financial 
+market regulators  • We monitor and secure compliance with regulatory requirements. 
+Mandatory disclosure  • We participate in sector associations with a climate focus to monitor the best practices and standardize information that facilitates 
+comparability among institutions.
+Worsening of portfolio credit quality and portfolio 
+climate exposure
+ • We assess clients through an internal tool to better direct the offer of products and solutions to the transition economy.
+ • Sensitivity to client risk rating and monitoring and reporting of Itaú Unibanco’s loan portfolio exposure to climate risks. 
+ • Reduction of portfolio exposure to climate risk through green products and business and incentives for positive impact sectors.
+Financial impact on assets and real estate
+ • Contingency plans for climate risks. 
+ • Assessment of exposure of branches to flooding risks.
+ • Diligence in the financing of real estate projects with specific documentation requirements, in-site verifications and remote reports.
+Climate litigation  • Follow-up and response to legislative issues and manifestations of civil society in the national and international market. 
+Stranded assets
+ • Assessment of exposure of branches to flooding risks.
+ • Decarbonization targets. 
+ • Thermal coal phase-out.
+Carbon Pricing
+ • Renewable solar power generation for branches.
+ • Advocacy before the public authorities to encourage carbon regulation.
+ • Risk rating sensitivity.
+Carbon reduction, neutralization and removal  • All initiatives in our climate strategy are aimed at carbon reduction, neutralization and/or removal.
+Change in environmental legislation  • Follow-up and response to legislative issues in the domestic and international markets.
+Market barriers and stakeholder requirements
+ • Participation in sector associations with a climate focus within the scope of Febraban, CEBDS, UNEP-FI, Global Compact and ICC to monitor 
+requirements, benchmarking and information standardization.
+ • Advocacy before the public authorities to foster carbon regulation.
+Physical risk impacts
+ • Contingency plans for climate risks. 
+ • Assessment of exposure of branches to flooding risks.
+ • Sensitivity to risk rating of Itaú BBA’s clients.
+Other secondary consequences of climate risks  • Our climate strategy initiatives aim at reducing direct and indirect risks in the short, medium and long terms, including by following 
+market trends.
+22 
+Itaú Unibanco Holding S.A.climate report 2022
+Opportunities identified
+We identify and act on to structure climate opportunities that make sense for our operations and business. Climate transition demands financing and investments in mitigation and 
+adaptation, development of new technologies and sustainable infrastructure. These new requirements can be met with the development of new products and services, increasing the 
+efficiency of our operations, accessing new markets and increasing our resilience to climate change impacts. The table below shows some non-exhaustive examples of how climate opportunities 
+have been incorporated.
+Opportunity 
+category Actions adopted Justification Expected impact
+Efficiency in the 
+use of resources Ecoefficiency
+Reduce emissions reduction, energy consumption, water consumption and 
+waste generation initiatives. Measurement and compensation of residual 
+GHG emissions.
+ • Increased efficiency.
+ • Greater resilience of operations to climate change risks.
+Energy source
+Supply of 80% of branches 
+by solar energy by 2025 and 
+distributed energy generation.
+Reduce the reliance on fossil energy and, consequently, GHG emissions. 
+Supply will be secured by 46 solar energy plants with a 54.7 MWp generation 
+capacity in a distributed generation model.
+ • Increased efficiency.
+ • Reduction of exposure to future fossil fuel price rises. 
+ • Reduction of exposure to GHG emissions and resulting less sensitivity to 
+carbon cost changes.
+Renewable energy 
+generation support.
+Renewable energy generation is one of our positive impact 
+sectors and power generation is one of the priority sectors in our 
+decarbonization efforts.
+ • Reduction of energy matrix emission intensity. 
+ • Reduction of energy portfolio emission intensity.
+Products 
+and Services
+Products structuring for a low-
+carbon economy. 
+We offer capital market products, originating and onlending credit lines, 
+in addition to partnerships with multilateral banks to sectors that mitigate 
+climate change impacts. Among the products offered are the Green 
+Businessperson Plan, the Green Onlending, the Reserva Legal+ (Rural 
+Product Note (CPR) Legal Reserve+), in addition to credit lines with a positive 
+impact. These operations are detailed in our ESG report.
+ • Support for our clients’ decarbonization journey.
+ • Increased revenues from the search for lower emissions products 
+and services. 
+ • Increased revenues from new adaptive solutions (e.g. insurance risk 
+transfer products and services).
+ • Better competitive positioning to reflect changes in consumers’ 
+preferences, leading to higher revenues.
+Carrying out ESG-
+linked transactions.
+We structure ESG-linked loan operations, including those with a green, 
+social, sustainable, transition seal or linked to sustainability targets. These 
+operations can directly or indirectly contribute to climate transition. To 
+learn more about our transactions involving ESG debt securities, access 
+our ESG report.
+ • Client engagement on ESG and climate agendas.
+ • Contribution to local and global market growth with ESG-
+linked transactions.
+ • Setting of targets and indicators for monitoring and evolution of 
+client maturity.
+ • Better competitive position in climate transition.
+Products 
+and Services
+Investments in research 
+and development.
+Boston Consulting Group (BCG) was hired to support the definition of the 
+decarbonization pathway. 
+Invest in R&D with a climate focus through specific actions, such as the 
+support to FGV’s Bioeconomy Observatory and Amazon Journey, with 
+Fundação Certi. We also support a study focused on the carbon market 
+along with ICC.
+ • Participation in new markets and support for innovation.
+ • Increased resilience of our business.
+ • Access to climate change knowledge.
+23 
+Itaú Unibanco Holding S.A.climate report 2022
+Opportunity 
+category Actions adopted Justification Expected impact
+Products 
+and Services
+Creation of Cubo ESG with 
+a focus on innovation for 
+decarbonization.
+Support our clients’ decarbonization journey, connecting them to startups 
+with solutions for their main challenges, working on three main focal points: 
+i) Net Zero knowledge and innovation; ii) Net Zero solution connections; iii) 
+positioning and communication. At the end of 2022, the hub already had 28 
+startups with different focus on the ESG and Net Zero universe.
+ • Support for our clients’ decarbonization journey.
+ • Innovation solutions focused on Net Zero.
+ • Clients’ and partners’ engagement in the Net Zero journey.
+ • Access to new markets and climate change knowledge.
+Market 
+positioning
+Participation in sector 
+associations with a climate 
+focus within the scope of 
+Febraban, CEBDS, UNEP-FI, 
+Global Compact and ICC.
+Industry partnerships promote substantial improvements in our climate 
+strategy as a result of exchanging knowledge, benchmarking and developed 
+methodologies, also helping to build our strategy resilience. 
+ • Industry engagement in the decarbonization journey.
+ • Itaú’s positioning in climate transition.
+ • Ongoing improvement of our climate management practices.
+Market 
+Support our clients’ 
+decarbonization journey 
+through the ESG Journey.
+Support our clients’ decarbonization journey through thematic events and 
+an ESG assessment focused on identifying decarbonization challenges of our 
+priority sector clients.
+ • Getting to know our clients’ main decarbonization challenges and 
+opportunities.
+ • Engagement of clients, startups and industry in the 
+decarbonization journey.
+Products 
+and Services
+Participation in the CarbonPlace 
+creation process.
+We have teamed up with other international banks to create CarbonPlace, with 
+the purpose of widen our clients’ access to carbon credits. This platform has 
+already been approved by regulatory bodies and is being currently structured. 
+ • Participation in the carbon market.
+ • Supporting our clients’ offset challenges by offering high integrity 
+carbon credits.
+Products 
+and Services
+Fostering finance sectors with a 
+positive impact.
+We will allocate R$400 billion to positive impact sectors by 2025, helping 
+change the profile of our portfolio and financed emissions. Further 
+information on the progress of this target is provided in our ESG report. 
+ • Increased revenues from the search for lower emissions products 
+and services. 
+ • Better competitive positioning to reflect changes in consumers’ 
+preferences, leading to higher revenues.
+Resilience
+Improved climate 
+risk and opportunity 
+management processes.
+Ongoing improvement of climate risk and opportunity management processes 
+based on best practices and reference frameworks.
+ • Greater resilience of our operations.
+ • Climate issues integration into our risk and opportunity governance and 
+management processes.
+Resilience
+Assessment of the exposure of 
+branches to flooding risks.
+We assess the exposure of branches to flooding risks arising from climate 
+change. The study supports the actions adopted to adapt and improve the 
+bank's resilience to this type of event.
+ • Greater resilience of our operations to the physical risks arising from 
+climate change.
+Plano Amazônia (Amazon plan).
+Launched in 2020 in partnership with two other large Brazilian private banks, 
+it aims at bringing sustainable development to the region, prioritizing: i) the 
+meat processing and tackling deforestation; ii) bioeconomy and sustainable 
+cultures. The Amazon plays a crucial role in the global climate regulation and 
+is an integral part of our biodiversity strategy. Further information about this 
+initiative is included in our ESG report.
+ • Increased resilience of our business.
+ • Work on the biodiversity agenda.
+ • Access to new markets.
+ • Support for the sustainable development of the Amazon, with a crucial 
+role in the decarbonization agenda.
+Setting decarbonization targets 
+and alignment with Net Zero.
+Joining the NZBA and setting a Net Zero target, ensuring greater alignment 
+of our activities with the Paris Agreement and the decarbonization journey of 
+the global economy, with a direct positive impact on our business resilience.
+ • Institutional positioning.
+ • Access to new markets.
+ • Support for our clients’ decarbonization journey.
+ • Greater resilience of our commercial strategy with alignment with the 
+Paris Agreement.    
+24 
+Itaú Unibanco Holding S.A.climate report 2022
+how we implement our climate strategy 
+Engagement of stakeholders
+We engage our stakeholders in the 
+transition by means of assessments, 
+communications, tools, questionnaires 
+and meetings  
+Partnerships with our stakeholders are 
+essential for us to evolve in the agenda of 
+mitigation of and adjustment to climate 
+change. We engage with our clients in 
+many topics related to the ESG and climate 
+agenda by means of different processes of 
+analysis of environmental, social and climate, 
+commercial strategy, structuring of ESG 
+Bonds and relationship with investees, in 
+addition to other actions, according to the 
+needs and opportunities.
+Key engagement initiatives
+We describe below the main initiatives adopted for the implementation of our climate strategy. 
+clients 
+ESG classification of clients
+461 engagement meetings
+6 training events
+Advisory services for the 
+origination of 
+ESG Operations
+Content on climate change
+startups 
+Launch of Cubo ESG, a hub 
+to connect startups with the 
+challenges of the bank and 
+our clients. It currently has 28 
+startups.
+We also carried out 4 meetups 
+on the challenges of the 
+Steel and Iron, Oil and Gas, 
+Agriculture and Energy sectors
+public authorities 
+Joint work with associations 
+and representation entities 
+with the Executive, Legislative 
+and Judiciary branches.
+associations
+ 
+Work in thematic forums such 
+as Global Compact, CEBDS, 
+Brazilian Coalition on Climate
+Work in sector forums: 
+Febraban, UNEP FI, NZBA, 
+GFANZ, Amazon Plan
+employees
+Training of employees on the 
+topics related to the climate 
+agenda.
+suppliers 
+Organization of workshops for 
+the engagement of suppliers 
+on ESG practices
+Encouragement to fill 
+out the CDP Supply Chain 
+questionnaire
+Assessment of active suppliers 
+by means of questionnaires on 
+ESG and climate practices
+25 
+Itaú Unibanco Holding S.A.climate report 2022
+Clients
+In 2022, we held 461 engagement meetings and 6 
+training events for our Itaú BBA clients.  We also 
+prepared a monthly communication with market data 
+and relevant news related to environmental, social and 
+climate issues, presenting information that can potentially 
+impact our clients. 
+We have a team dedicated to assisting clients and originating 
+ESG operations. In 2022, Itaú distinguished itself, in 
+both the local and foreign markets.  We are at the top of 
+the ranking of participation in emissions in both markets, 
+case study: engagement of investees – mining 
+sector 
+In 2019, Itaú Asset started an ESG engagement 
+process leading a group of more than 100 investors 
+with a company from the mining sector, with a focus 
+on risk management, ESG and climate opportunities 
+and sustainable performance.  In total, there were 
+more than 10 talks and interactions over the course 
+of three years to address topics such as health and 
+security, relations with communities, environmental, 
+social and climate impacts, ESG practices. This 
+process is still in progress and the company 
+has been presenting changes in its practices, 
+commitments to improve its internal processes and 
+greater transparency in reporting to investors and 
+the community.
+showing the preference of companies to have us as their 
+advisors in financial operations related to the ESG topics.  
+Itaú Private Bank has also been carrying out many actions to 
+engage high-income clients. In 2022, we carried out events 
+to disseminate knowledge regarding the ESG and climate 
+topic, such as debates between consulting firms and clients 
+at Family Wealth Across Generation (FWAG), an event that 
+is carried out with our clients who are in the position of 
+“successors”. We expanded our communication channel with 
+clients through the forwarding of communications on ESG 
+and climate products, offering to our clients from the Private 
+segment funds in Brazil and offshore products available 
+on our shelf and we provided a digital guide to demystify 
+concepts on the topic in investments. 
+In 2022, we carried out events focused on the challenges of 
+decarbonization of relevant industries, such as Agriculture, 
+Oil and Gas and Energy at Cubo ESG, as described below.
+26 
+Itaú Unibanco Holding S.A.climate report 2022
+Client assessment tool
+We designated a multidisciplinary team for the development 
+of a proprietary tool to support the process of assessment 
+of the ESG and climate maturity of our clients. The 
+development of the platform and an ESG classification 
+integrates data on the maturity of our clients with respect 
+to ESG factors, the priority Sustainable Development Goals 
+(SDGs) according to our analysis, material topics, governance 
+and climate factors, such as the measurement of greenhouse 
+gas emissions and the existence of targets, to generate the 
+most complete diagnosis possible of our clients’ strategy. 
+This tool supports not only the understanding of the 
+timing of each client on the topic, the management of the 
+relationship of the bank with them and the structuring of 
+financial transactions, but also the alignment of our ESG and 
+climate strategy with the sustainability and transition efforts 
+of our clients and it is used by the business area and the risk, 
+credit and finance departments. 
+Of the clients assessed:
+ • 26 (9.2%) did not disclose their greenhouse gas 
+emissions, that is, they were clients that needed to begin 
+their decarbonization journey 
+ • 256 (90.8%) measured and publicly disclosed their 
+greenhouse gas emissions
+ • 170 (60.3%) had emission reduction targets at least for 
+their direct emissions
+ • 122 (43.3%) had a Net Zero or climate 
+neutrality commitment 
+We also adopted other initiatives to monitor and support 
+the decarbonization journey of our clients. In 2022, during 
+COP27, in partnership with the Brazilian Business Council 
+for Sustainable Development (CEBDS), we participated in 
+the launch of the Brazilian version of a platform aimed 
+at understanding the main decarbonization challenges 
+of Brazilian companies and at supporting them in the 
+incorporation of climate change criteria into their 
+strategies by means of the provision of decarbonization 
+tools and guides that are appropriate to the reality of the 
+Brazilian economy. 
+Identification of the climate targets of our clients
+In 2022, we assessed the climate targets of 282 
+companies that are Itaú BBA clients, which represented 
+28% of the portfolio of this segment and 21% of our 
+financed emissions at the end of 2021. We identified that the 
+companies were in different stages of maturity regarding 
+decarbonization.
+The survey shows the evolution of the topic in the local 
+market and allowed us to identify priority clients for 
+engagement in initiatives such as Cubo ESG and the 
+monitoring of the maturity of clients with respect to the 
+climate change topic.
+26  
+Measures 
+emissions
+256  
+112
+Has a 
+reduction 
+target
+160
+Has a Net Zero 
+commitment
+170
+122Yes
+No
+Climate targets of Itaú BBA clients
+27 
+Itaú Unibanco Holding S.A.climate report 2022
+Support for innovation and decarbonization by 
+means of Cubo ESG 
+Recognizing that the innovation agenda is essential for our 
+decarbonization and the decarbonization of our clients, 
+we launched in 2022 Cubo ESG, a platform aimed at 
+entrepreneurs who wish to transform the environmental 
+and social reality of Brazil and Latin America. The hub 
+works for the purpose of generating knowledge, innovation 
+and connections for low-carbon solutions, in addition to 
+positioning and communication. Among the main results of 
+the hub in its launch year are:
+ • 28 startups participating in the ESG hub at 
+the end of 2022
+ • Organization of the BID ao Cubo Bioeconomia (IDB at 
+Cubo Bioeconomy) in partnership with the Inter-American 
+Development Bank (IDB) for the purpose of accelerating 
+startups focused on bioeconomy in the Northern and 
+Northeastern regions of Brazil
+ • Organization of four sector MeetUps focused on 
+the Agriculture, Energy, Oil and Gas and Steel and 
+Iron industries.
+Agriculture MeetUp 
+The event had the participation of representatives from the industry, Itaú Unibanco and the startups and discussed the main decarbonization challenges in the sector, in 
+addition to the ESG topics in general, such as the challenge of supply chain management, measurement of greenhouse gas emissions and generation of high-integrity carbon 
+credits.  The video of the event is available here and the content prepared based on the discussions was made available on Blog do Cubo (Cubo’s Blog).
+Oil and Gas MeetUp 
+The second sector event organized by Cubo ESG discussed the decarbonization challenges in the Oil and Gas chain, including the challenges of reducing greenhouse gas 
+emissions and capturing carbon. The video of the event is available here and the technical content is available on Blog do Cubo (Cubo’s Blog).
+Energy MeetUp
+Organized after COP27, it presented an overview of the main results of the event and discussed important challenges and innovations for the industry, such as the greater 
+offer of renewable energy and the possible solutions brought by the increase in the use of green hydrogen. The video of the event is available here and the technical content 
+is available on Blog do Cubo (Cubo’s Blog).
+Steel and Iron MeetUp
+The event discussed the main challenges for the decarbonization of the sector that plays a crucial role in the Net Zero agenda by meeting the demand for more sustainable 
+materials and the specific challenges of Brazil, such as the importance of a regulated carbon market.  The technical content is available on Blog do Cubo (Cubo’s Blog).
+Over the course of 2023, Cubo ESG will also have the ESG Journey, which is aimed at identifying the main decarbonization challenges and opportunities of our clients and connecting them to 
+the hub’s startups.  Among the activities expected are the organization of thematic events and the assessment of up to 100 Brazilian corporations by means of surveys and in-depth interviews. 
+28 
+Itaú Unibanco Holding S.A.climate report 2022
+Associations
+We participate in forums such as the Brazilian 
+Business Council for Sustainable Development 
+(CEBDS), the Global Compact, the International 
+Chamber of Commerce, the Brazilian Coalition 
+on Climate, Forests and Agriculture and the 
+Commitment to Climate and we engage in 
+dialogue with the many industries of the real 
+economy, contributing to the dissemination of 
+knowledge and cooperating with the different 
+decarbonization challenges.  The participation 
+in these forums has been providing us with 
+a broader knowledge of the decarbonization 
+challenges of our clients.
+We also participate in specific forums of the 
+financial industry, such as the Brazilian Federation 
+of Banks (FEBRABAN), the United Nations 
+Environmental Programme Finance Initiative 
+(UNEP-FI), the Net-Zero Banking Alliance (NZBA), 
+the Glasgow Financial Alliance for Net Zero 
+(GFANZ) and the Amazon Plan, which enable the 
+exchange of knowledge and progress in initiatives 
+that increase the role of the financial system in 
+the decarbonization agenda.  As an example, our 
+participation in the Working Group of UNEP-FI 
+has allowed for the construction of a broad base 
+of knowledge with respect to the implementation 
+of the Task-Force on Climate-Related Financial 
+Disclosures (TCFD) in financial institutions from 
+all over the world. The content is available on the 
+UNEP-FI website. 
+Public Authorities 
+A significant part of the decarbonization 
+agenda depends on the formulation of public 
+policies. For this reason, we have an active 
+advocacy strategy to encourage the 
+promotion of knowledge and actions for the 
+decarbonization of the real economy, just like 
+our work with the Executive, Legislative and 
+Judiciary branches, together with many relevant 
+market players, associations and representation 
+entities, for the alignment of understandings 
+and the submission of recommendations on bills 
+that are pending in the National Congress on 
+the ESG and climate topics, such as the case of 
+carbon market regulation. Regarding the records 
+of interactions with public agents, we identified 
+9 agendas related to bills involving carbon credit 
+regulation (here under the financial product 
+impact bias). 
+Suppliers
+For the purpose of working on all links of the 
+chain, we also promote engagement with our 
+supply chain by means of a questionnaire to 
+qualify the practices adopted with respect 
+to environmental, social and climate topics 
+and also carry out a workshop for active 
+suppliers and the office responsible for this 
+relationship. Together with CDP , we provide 
+specific training on disclosure of emissions 
+data for suppliers taking into consideration 
+the industries in which they operate and the 
+volume of their contracts.
+29 
+Itaú Unibanco Holding S.A.climate report 2022
+Business: Reduce impacts and generate 
+opportunities 
+In our climate strategy, we also carry out the management of 
+the loan portfolio, which is intended to promote low-carbon 
+business and ensure the creation of sustainable value.  The 
+direction of the portfolio takes into consideration the 
+diversification of risks and the efficient use of the 
+balance, in line with our decarbonization objectives 
+and targets, which are monitored with diligence 
+and transparency.
+NBZA recommends that, 18 months after the adherence to 
+the commitment, the banks should disclose their first sector 
+emission reduction targets. We chose to begin this journey 
+with the Power Generation and Thermal Coal industries. 
+Since 2022 credit operations for Oil & Gas in the Arctic and in 
+tar sands are prohibited*.
+As recommended by NZBA, we will have the challenge 
+of defining and publishing intermediary targets for the 
+other priority industries in the coming months, as well as 
+the respective transition plans. The major goal is to reach 
+Net Zero by 2050 with a trajectory that is in line with the 
+Paris Agreement.
+Definition of the 
+baseline of the sector 
+decarbonization 
+targets 
+We will align our 
+strategy with the:
+ •  Reduction of 63% in the 
+intensity of emissions 
+from the power 
+generation portfolio 
+by 2030, reaching 
+Net Zero by 2040.
+ •    Phase-out of the 
+Thermal Coal 
+sector by 2030.
+By promoting the transition of our business, we create opportunities and reduce 
+the impact of climate change on our portfolio and society.
+We incorporate climate change as a central element of the 
+business strategy, always focused on supporting the climate 
+transition of our clients. We established our first sector 
+emission reduction targets, with structured timeframes, 
+while monitoring and listening to clients and companies 
+from the priority industries. The plan will be reviewed 
+periodically to incorporate the evolution of the knowledge of 
+climate change, always in line with science. 
+Our climate transition plan is based on the essential tripod 
+of support for innovation, direction of the loan portfolio 
+and engagement of clients, observing the technological and 
+economic momentum of each sector and geographic region. 
+The definition of any target necessarily goes through the 
+knowledge of the baseline of the GHG emissions. Since 2021, 
+we have been reporting our financed emissions and the 
+results of which are presented in the Metrics and Targets 
+section of this report.
+*Applicable to Infrastructue Finance and Project Finance - no new projects or expansion of existing projects for unconventional Oil & Gas in the Arctic and in Tar Sands. 
+30 
+Itaú Unibanco Holding S.A.climate report 2022
+Definition of the baseline of our financed emissions
+In the process of defining the baseline and our sector emission reduction targets, we carry out a coordinated effort with the participation of experts from the different structures of the 
+organization with the support of the consulting firm BCG. 
+Application of the PCAF methodology
+The Partnership for Carbon Accounting Financials 
+(PCAF) applies the attribution principle used by the 
+GHG Protocol in which the financed emissions are 
+calculated based on the attribution factor - ratio of the 
+financed or invested amount and the economic value 
+of the financed company or activity. In our calculation 
+process, we always seek the best data available, as 
+recommended by the methodology.
+In the process of defining the baseline of emissions, a 
+number of methodological decisions are made, which 
+can impact the results determined. Accordingly, it is 
+recommended that, when assessing the data disclosed, 
+the methodological differences applied by different 
+organizations when preparing the calculation must 
+also be observed.
+Baseline
+Financed Emissions Calculation 
+Priority sectors indicated by NZBA.
+Sector decarbonization targets
+First publication: power and coal.
+Sector decarbonization plans
+Opportunities, challenges, technologies, 
+products and services to support clients in 
+climate transition.
+Coverage
+In the current year, we are considering the loan and 
+marketable security portfolios of our Wholesale 
+bank. For all sectors, we assessed the emissions 
+associated with each client’s own operation and 
+consumption of energy (scopes 1 and 2) and, for 
+the sectors in which the indirect emissions (scope 3) 
+are material and available, they were also accounted 
+for. This process will be continuously improved as 
+the quality and availability of information increase. 
+For the Power Generation sector the scope 1 of 
+clients’ emissions was considered for the purpose 
+of establishing the sector target, following the 
+market practices.
+Use of scenarios and definition of targets
+As recommended by NBZA, we use scientific 
+scenarios that are in line with the Paris Agreement, 
+which take into consideration a limit for the increase 
+of temperature at 1.5oC with Net Zero by 2050, with 
+no overshooting or limited overshooting.
+For the power generation sector, we established a 
+reduction target based on the intensity of emissions 
+– greenhouse gas emissions per kWh, since the 
+decarbonization efforts imply the electrification of 
+energy consumption and the expansion of the offer 
+of renewable energy. Meanwhile, for the thermal 
+coal sector, we chose to adopt a target for phasing 
+out the sector. 
+co²
+31 
+Itaú Unibanco Holding S.A.climate report 2022
+Decarbonization of the Power Generation 
+portfolio
+The electricity sector is an essential economic and 
+social development inducer for the growth of GDP 
+and improvement of people’s quality of life. The 
+power generated by renewable energy sources, such as 
+hydroelectricity, solar, wind, biomass, among others, is also 
+essential for sustainable development. 
+Concerns about energy security and climate change have 
+been making governments establish energy policies that 
+promote energy efficiency and the diversification of 
+the matrix with a greater share of renewable sources in 
+power generation as solutions to mitigate greenhouse 
+gas emissions. 
+For example, in accordance with the National Energy 
+Balance 2022, wind and solar mills grew 21.2% and 40.9% 
+in the 2021-2020 comparison, which represents 11.4% 
+and 2.5% of the installed capacity, respectively. If we 
+include hydroelectric, biomass and Small Hydroelectric 
+Plant (PCHs) sources, 82% of the Brazilian energy matrix 
+consists of renewable energy, placing Brazil in a privileged 
+position in the decarbonization of this sector. This gives 
+Brazil the opportunity to be one of the first countries in the 
+world to have an energy matrix with zero greenhouse gas 
+net emissions.  
+As the bank of the transition, we prioritize power 
+generation for the establishment of the first sector 
+decarbonization target. The activity is relevant for 
+our portfolio – R$60 billion when including exposure in 
+all activities related to the power generation sector and 
+R$ 28 billion of exposure in power generation, the focus 
+of the target – and it is critical for the decarbonization 
+of the economy as a whole, since the use of renewable 
+energy sources is a key step towards the decarbonization 
+of other sectors of the economy, such as transport and 
+manufacturing. Additionally, there is the expectation 
+of growth in the global electric energy demand in the 
+coming years. In Brazil, an average growth of 3% per year is 
+expected, according to the National Energy Plan (PNE) 2050. 
+By supporting the decarbonization of this activity, we are 
+also contributing to the decarbonization of the scope 2 of 
+our entire client portfolio.
+Based on the Net Zero Scenario by 2050 of the 
+International Energy Agency (IEA), in line with the Paris 
+Agreement, we defined a reduction target of 63% of 
+financed greenhouse gas emissions intensity for the power 
+generation sector. The scenario takes into consideration 
+the efforts necessary to maintain the increase of the global 
+temperature by 1.5oC and leads the sector to Net Zero in 
+2040. Once this target is reached, the intensity of emissions 
+from our portfolio will drop from 103 gCO₂e/kWh in 2021 
+to 38 gCO₂e/kWh in 2030. The target includes exposure in 
+Corporate Finance and Project Finance that provide for a 
+financed emissions calculation methodology both in Brazil 
+and in the international units in which we operate.
+Financed emissions intensity target
+Sector Power Generation
+Scenario IEA Net Zero
+Coverage of emissions Scope 1
+2021 baseline 103 gCO2e/kWh
+2030 emissions target 38 gCO2e/kWh
+Reduction % (2030) 63%
+2040 emissions target 0 gCO2e/kWh
+Reduction % (2040) 100%
+32 
+Itaú Unibanco Holding S.A.climate report 2022
+Definition of the baseline
+As mentioned before, we adopt robust criteria for defining 
+our emissions baseline. Based on the measurement of 
+financed emissions, we identified the energy generation 
+companies in our client portfolio and use the energy 
+generation (MWh) and GHG emissions (tCO₂e) data of each 
+customer individually.
+The baseline presents a PCAF score of 2.47 . We also opted 
+for a conservative approach in the calculation of financed 
+emissions, using the sum of equity and banking liabilities 
+of the companies in the calculation of the Enterprise Value 
+Including Cash (EVIC), which makes the amount less subject 
+to market fluctuations and avoids the inclusion of volatility 
+of external factors in the calculation of financed emissions. 
+Taking into consideration that methodological approaches 
+may be adopted in the calculation of the baseline and 
+definition of decarbonization targets, we reinforce that 
+the disclosures from different financial institutions are 
+not directly comparable and, if they are made, they must 
+consider the differences of methodology and scope of the 
+data disclosed.
+Implementation of the target
+To make the achievement of this reduction viable, the 
+clients in our energy portfolio must be committed to the 
+transition to a low-carbon economy. By means of financial 
+instruments and products that finance the transition 
+and increase the participation of renewable energy, we 
+support these clients in their decarbonization trajectory 
+that is in line with the Paris Agreement.
+Our challenge is to engage the clients that still use sources 
+with higher GHG emissions intensity for the generation of 
+electric energy and that currently concentrate most of the 
+emissions from our power generation portfolio. Another 
+challenge, as a bank with international operations, is to 
+ensure that the climate transition takes place quickly and 
+equally in the regions where we operate, observing any legal 
+barriers and the principles of fair climate transition and 
+integrity of information. 
+This target will be reviewed every five years, in line with 
+the recommendations of NZBA, and our progress will be 
+reported each year.
+7 The PCAF score ranges from 1 to 5. The closer the score to 1, the better the quality of the date reported. Public emissions inventory data, for example, in sustainability reports and in the Carbon 
+Disclosure Project (CDP) were adopted on a preferential basis – PCAF score of 1. When it was not possible to access emissions that were directly reported by companies, we chose to calculate 
+estimated emission data based on (i) production date – supplied by companies or based on production information, and (ii) average emissions factor – PCAF score 2.
+33 
+Itaú Unibanco Holding S.A.climate report 2022
+Decarbonization of the Thermal Coal 
+portfolio
+In line with the scientific scenario of IPCC for the 
+maintenance of the increase of the Earth’s temperature by 
+up to 1.5oC, we recognize energy transition from fossil 
+fuel to renewable energy and low emission sources as 
+crucial for mitigating climate change. The demand for 
+mineral coal grew 1.2% in the world in 2022 in accordance 
+with the International Energy Agency (IEA), exceeding 8 
+billion metric tons, and most of this demand is used for the 
+generation of thermoelectric energy.  According to IEA, coal 
+represented around 36% of the power generation in the 
+world in 2021.
+The main impact of the mineral coal with respect to other 
+types of fossil fuel is the amount of greenhouse gases are 
+emitted for the generation of the same amount of electricity. 
+Whereas coal emits 270.9 tCO₂e/TJ for the power generation, 
+fuel oil emits 203.6 tCO₂e/TJ, diesel oil emits 194.9 tCO₂e/
+TJ and the natural gas emits 124.6 tCO₂e/TJ, respectively, in 
+accordance with the Energy Decennial Plan (PDE) 2030. 
+The Glasgow Financial Alliance for Net Zero (GFANZ) indicates 
+that phasing out highly carbon-intensive activities, such as 
+the case of thermal coal energy generation, is necessary for 
+the acceleration of the climate transition.  In this scenario, 
+Brazil, in turn, distinguishes itself in terms of energy 
+generation, with a matrix composed mainly of renewable 
+sources.  In Brazil, according to the National Energy 
+Balance (BEN) 2022, the installed capacity of this source 
+is of only 1.7%, although in Latin America this percentage 
+grows to 5.1%.
+As a Brazilian bank with a strong operation in Latin 
+America and global presence, we recognize our potential to 
+encourage the energy transition and the use of renewable 
+energy in replacement of coal.  As a result, in 2023, we 
+reviewed our commitment to promote the phase-out of 
+thermal coal by 2030 and made it more ambitious. We 
+understand that, although it encourages the transition 
+to cleaner energy sources, the phase-out of carbon-
+intensive activities must be conducted in a responsible 
+manner so as to avoid undesired environmental, social or 
+climate consequences.  For this reason, we are committed 
+to a gradual phase-out, contributing, most of all, to the 
+achievement of a low-carbon economy.  
+The restrictions, declared in our commitment, respect 
+the legal impositions that exist or come to exist in the 
+regions where we operate and apply, initially, to thermal 
+coal, that is, assets or projects of coal-fired thermal power 
+plants or projects of mineral coal extraction and dedicated 
+infrastructure. The restriction applies to:
+1. Direct financing and refinancing, for example, by 
+means of operations such as Infrastructure Finance or 
+Project Finance 
+2. Credit lines and financing
+3. Investment Banking Services
+4. Investments via proprietary treasury or quasi-equity
+34 
+Itaú Unibanco Holding S.A.climate report 2022
+ 
+Restrictions apply to:  
+ 
+1. Direct financing and refinancing, for example, by means of operations such as Infrastructure Finance or Project Finance 
+2. Credit lines and financing 
+3. Investment Banking Services (for instance: Underwriting Fixed Income Product Activities; initial public offers, etc)
+4. Investments via proprietary treasury or quasi-equity 
+Assets, economic groups or companies Commercial Relation with Itaú
+2023 2030
+Relative Threshold Absolute Threshold Relative Threshold Absolute Threshold
+Coal-Fired Thermal Power Plants
+Project Finance 0 0 0 0
+Groups increasing their dependence on Coal 0 0 0 0
+Current clients 15% revenue 1,000 MW 0 0
+New clients 10% revenue 1,000 MW 0 0
+Coal Mining and Dedicated Infrastructure
+Project Finance 0 0 0 0
+Groups increasing their dependence on Coal 0 0 0 0
+Current clients 15% revenue 10 million tonnes 0 0
+New clients 10% revenue 10 million tonnes 0 0
+ 
+ 
+• The relative threshold refers to the maximum percentage of the client’s revenue from Coal-fired Power Plants or Coal Mining and Dedicated Infrastructure
+• The absolute threshold refers to the maximum installed capacity of Coal-fired Power Plants or the maximum extraction of Mineral Coal
+• The thresholds for existing customers apply to credit lines and financing, investment banking services and investments via proprietary treasury or quasi-equity. For Project Finance and Infrastructure Finance the limit is 0, i.e. no new operations are allowed, the same 
+for those clients who are increasing their dependence on Coal.
+35 
+Itaú Unibanco Holding S.A.climate report 2022
+Restriction for thermal coal
+We will not perform any investment banking services or 
+financial operations directly aimed at thermal coal energy 
+generation assets and at economic groups or companies 
+that have, in July 2023, more than 15% of their revenue 
+arising from thermal coal energy generation or whose 
+installed capacity in thermal coal energy generation exceeds 
+1,000 MW. In 2030, the restriction will be extended to 
+economic groups and companies that have any percentage 
+of their revenue arising from thermal coal energy generation.
+In the case of prospective economic groups, that is, potential 
+clients, the beginning of a relationship will not be accepted 
+when a dependence of revenue higher than 10% arising 
+from thermal coal energy generation or from the installed 
+capacity higher than 1,000 MW is verified. 
+Additionally, the restrictions also apply to any assets, 
+economic groups and companies that are expanding their 
+thermal coal energy generation activity. 
+Restriction for coal mining and dedicated 
+infrastructure
+The restrictions apply directly to mineral coal extraction 
+assets (coal mining) and dedicated infrastructure and 
+to economic groups and companies that have in 2023, 
+more than 15% of their revenue arising from coal mining 
+or dedicated infrastructure or whose annual mineral coal 
+extraction exceeds 10 million metric tons. In 2030, the 
+restrictions will be extended to economic groups and 
+companies that have any percentage of their revenue arising 
+from these activities, that is, the limit of annual mineral coal 
+extraction will be zero. 
+In the case of prospective economic groups, that is, potential 
+clients, the beginning of a relationship will not be accepted 
+when a dependence of revenue higher than 10% arising from 
+coal mining or dedicated infrastructure or the annual mineral 
+coal extraction exceeds 10 million tons is verified.
+Additionally, the restrictions also apply to any economic 
+groups and companies that are expanding their coal mining 
+activities or dedicated infrastructure, regardless of the share 
+of their revenue.
+Operations that promote the managed 
+phase-out of coal
+To reduce HGH emissions and reach Net Zero in 2050, highly 
+carbon-intensive assets – such as the case of thermal 
+coal assets – must go through a transition to less carbon-
+intensive sources and may, in some cases, involve an early 
+retirement process, that is, the end of the operation before 
+reaching its useful life. Some of these assets may also be 
+impaired, whether due to change on the demand side or to 
+regulations that change the scenario of operation of that 
+asset as a result of the energy transition.
+If, on one hand, the phase-out of coal operations is expected 
+to increase the use of renewable types of energy, on the 
+other hand, there may be undesired consequences if the 
+assets are transferred to the control of agents with ESG 
+and climate management capacity lower than the previous 
+owners or who do not promote their decommissioning or 
+the transition to assets that are more in line with a Net Zero 
+scenario.   More important than the transfer of ownership is 
+to ensure that carbon-intensive assets go through a proper 
+transition or, when applicable, decommissioning, a process 
+that must be carried out on an orderly basis and in line with 
+the principles of a fair transition.
+Accordingly, we understand that the operations that promote 
+the phase-out of carbon-intensive assets may be important, 
+provided that it is associated with the engagement 
+with companies and the adoption of conditions that are 
+contractually defined that provide for the decommissioning 
+of coal assets before 2030 and associated with the adoption 
+of good environmental, social and climate practices. 
+The bank will finance and provide services to current 
+and future clients in their initiatives that result in the 
+decarbonization of their head offices. The goal is never 
+to not support any client but to support them in their 
+journey to reduce emissions.
+For the purpose of impacting the real economy and following 
+good international practices, at this time, the following 
+are exceptions to the rule: (i) specific contracts of coal 
+supply to steel and iron plants; (ii) specific operations with 
+a contractually defined allocation of funds to promote 
+the energy transition, provided that the progress and 
+achievement of the transition goals are verified; (iii) 
+operations that help promote the managed phase-out of 
+assets related to mineral coal provided that the criteria 
+established by GFANZ are met.
+Engagement and transparency
+In order to implement this measure, we will train our 
+employees and promote the engagement of the clients 
+that operate in the affected activities so as to promote 
+the transition to less carbon-intensive activities, in 
+particular to renewable types of energy with a low 
+emission profile. The engagement of our clients may 
+take place in different manners, including by means of the 
+performance of financial operations or offer of investment 
+banking services whose targets for the progress and 
+accomplishment of the transition must be monitored. If the 
+client does not reach the limits defined by 2030 or reduces 
+their exposure to zero that year, the consequence will be the 
+non-performance of new operations due to non-compliance 
+with our phase-out policy. 
+36 
+Itaú Unibanco Holding S.A.climate report 2022
+Our approach to the decarbonization of 
+agribusiness
+Agribusiness is a key sector for reaching the greenhouse 
+gas emission reduction targets in the Brazilian context. 
+It is the second largest sector in our portfolio in exposure 
+and it is likely to grow in the coming years. Due to its 
+relevance also in financed emissions, agribusiness was 
+one of the sectors earmarked as a priority for an in-depth 
+study and for the definition and implementation of our 
+decarbonization strategy.
+With the support of the consulting firm BCG, in August 
+2022 we started our journey towards the structuring of the 
+data necessary for the construction and refinement of the 
+baseline of agribusiness’s emissions, as well as the definition 
+of the science-based decarbonization scenario that is 
+appropriate for the reality of Brazilian farming.
+In this journey, some progress has already been made. 
+Changes in the form of classification of our clients and 
+attribution of specific emission factors by culture were 
+methodological improvements that have already provided us 
+with a clearer assessment of the financed emissions in the 
+sector. However, for the definition of a responsible target 
+and a proper decarbonization strategy, we believe that some 
+advances are still necessary, such as:
+ • he access to data that we do not have yet or that we have 
+on a non-structured basis with respect to the practices 
+adopted in the production systems of our clients, which 
+would allow us to calculate carbon removals; 
+ • the identification of the climate scenario that is 
+most adherent to the characteristics of the Brazilian 
+production systems; and 
+ • the knowledge of emissions arising from the change 
+in land use. The calculation methodologies recognized 
+by science are still recent and there are few practical 
+applications to be used as a benchmark for our exercise.
+Regardless of the definition and publication of our target 
+for agribusiness, we see great opportunities in the provision 
+of solutions developed in partnership with our clients and 
+that help them in the transition to a low-carbon emission 
+farming activity. Promoting this transition is the central 
+piece of our strategy to grow in the sector. We believe 
+that the reduction of GHG emissions linked to agribusiness 
+does not interfere with the expansion of its activities. On 
+the contrary, the subsegments that account for most part 
+of the emissions from agribusiness – livestock activity and 
+managed soil – benefit particularly from an expressive 
+increase of production and resilience when Low-Carbon 
+Agriculture (LCA) practices are adopted. Practices such as 
+the recovery of degraded pastures or the conversion of 
+these areas to crops not only reduce carbon emissions but 
+also significantly contribute to reduce the pressure for the 
+opening of new areas. Also aware that the change in land 
+use is the activity that accounts for almost half of Brazilian 
+emissions, we believe that compliance with environmental 
+legislation together with the fostering of practices that 
+reduce emissions from the activities at the same time as they 
+increase the production capacity of areas that have already 
+been consolidated is an intelligent strategy that contributes 
+to the sustainable development of agribusiness. 
+As a partner of clients in the transition to a low-carbon 
+economy, we work on this strategy by offering them a 
+structure dedicated to the development of “green” credit 
+lines for financing decarbonization initiatives in the 
+agribusiness and other ESG initiatives. In partnership with 
+the Institute of Forest and Agricultural Management and 
+Certification (Imaflora), we defined five priority topics for the 
+creation of these lines – low-carbon agriculture, biodiversity, 
+animal welfare, water resources and energy.  In addition 
+to the creation of products that take into consideration 
+sustainability aspects in their structure, Itaú BBA’s ESG 
+strategy for agribusiness also includes support for programs 
+that foster the adoption of good production practices that 
+contribute to the sustainable development of the sector.  
+Over the course of 2023, we will continue on our journey 
+to classify data for refining the baseline and defining the 
+decarbonization target and we will maintain the strategy 
+that has been already adopted of growth in agribusiness, 
+seeking to offer products aimed at the adoption of good 
+low-carbon emission practices in agricultural and livestock 
+activities and support programs that provide scale for the 
+adoption of these practices by rural producers. 
+37 
+Itaú Unibanco Holding S.A.climate report 2022
+Alliances for the promotion of low-carbon emission practices in agriculture
+Part of our strategy to generate a positive impact and effectively contribute to the sustainable development of agribusiness is to establish partnerships and support programs that can 
+provide scale for the adoption of good production practices. Some partnerships established by the bank have been proving to be potential catalyzers for the reduction of financed emissions. 
+Two relevant alliances in this respect are the programs Reverte (Reverse), in partnership with Syngenta and TNC, and Pro Carbono (Pro Carbon) of Bayer. The bank’s work in each program is 
+different but in both the final goal is to encourage and strengthen initiatives that promote the engagement of rural producers in less emission-intensive production models. 
+Pro Carbono (Pro Carbon) program
+We support Bayer in the development of the Pro Carbono (Pro Carbon) program. as part of Bayer’s global 
+strategy for its climate targets, the program encourages the adoption of sustainable practices in Brazilian rural 
+areas and encourages the creation of economically attractive models for carbon sequestration. The producers 
+engaged in the program test the adoption of a package of production techniques that tend to increase 
+the retention of carbon in the soil and, as a result, reduce the system’s emissions. These producers access 
+advantageous commercial conditions with both the bank and other partners of the program. The initiative also 
+has the partnership of research institutions such as Brazilian Agricultural Research Corporation (Embrapa) and 
+some universities for facing challenges such as the technical and scientific barriers of carbon in agriculture, in 
+particular the need to develop carbon measurement methodologies that are accessible, scalable, with viable 
+costs and accepted by the foreign markets and the scientific community.
+The Reverte (Reverse) program 
+The Reverte (Reverse) program is an initiative of Syngenta and The Nature Conservancy (TNC) aimed at 
+promoting, technically and financially, the conversion of degraded pasture areas into agriculturable areas 
+in the Cerrado (Brazilian scrubland) region. This movement allows, in addition to the increase in production, 
+the expansion of production areas without the need to open new areas.  The rural producers that join the 
+program comply with environmental and social criteria defined by the TNC and receive technical guidance 
+and technological solutions provided by Syngenta and partners for the implementation of the project of 
+recovery and conversion of areas. We are partners in the Reverte (Reverse) program, providing exclusive 
+financial solutions that are adequate to the rural producer’s need for the execution of the project.  To date, 
+R$276 million that contributed to the conversion of 57,800 hectares of degraded pastures into crops has 
+been disbursed. 
+case studies 
+38 
+Itaú Unibanco Holding S.A.climate report 2022
+Climate finance
+Climate products and services
+As the transition bank, our ESG products and services of the retail, wholesale and investment segments positively contribute to the climate agenda. We underline below the main products and 
+services that contribute to the agenda. The complete list of ESG products and services is available in our ESG Report or our  
+Effectiveness Plan  for complying with the Environmental, Social and Climate Risk Policy (PRSAC). 
+Financing in positive impact sectors
+The definition of positive impact sectors took 
+into consideration environmental, social, climate 
+and governance criteria established by different 
+national and international frameworks. Large 
+groups of positive impact sectors were defined, 
+such as:  
+Renewable energy: Generation of energy from 
+cleaner sources, such as solar, wind and small 
+hydroelectric power plants; 
+Agribusiness: Initiatives that promote the 
+preservation of forest areas and good practices 
+and investment in productivity, maintenance of 
+biodiversity, the preservation of water resources 
+and carbon inventory; 
+Pulp and paper: Projects that contribute 
+to climate mitigation, based on responsible 
+management;  
+Infrastructure works: Projects that increase 
+the economic development and reduce 
+environmental impact through rail transport, 
+sanitation and solid waste management;  
+Energy services: Initiatives that reduce the cost 
+of access to energy, making this service more 
+accessible across Brazil;
+Health and education: Hospitals and 
+laboratories that improve the quality of life, and 
+educational institutions, which aim at population 
+qualification and employability. 
+ESG debt securities in the capital market
+Structuring of issuances of ESG debt securities 
+in local and foreign capital markets following 
+the guidelines of the International Capital 
+Market Association (ICMA) and best market 
+practices, including Green, Social, Sustainable 
+e Sustainability-linked Bonds operations with 
+characteristics linked to sustainability targets, 
+which contribute to the climate goals.
+Green financial bills
+Green financial bill operation, the funds of which 
+will be used to support the financing of electric, 
+hybrid and multifuel vehicles, aiming at 
+fostering the low-carbon economy and boosting 
+the segment of low emission vehicles in Brazil.  
+We issued additional tranches to this operation 
+with individual and corporate clients and fund 
+managers, raising more R$500 million.
+Green Entrepreneur Plan 
+The plan encourages the financing of more 
+sustainable real estate developments, 
+commercial or residential, by means of 
+differential conditions, which may include lower 
+financing rates.  It provides technical solutions 
+to adjust projects from client construction 
+companies and real estate developers to more 
+sustainable construction processes. The projects 
+are periodically audited, aimed at ensuring their 
+compliance to obtain the final certification, 
+fostering a more sustainable market and 
+technical training for real estate developers.
+CPR (Rural Product Note) Legal Reserve +
+It provides with differential rates agricultural 
+producers who have preserved native vegetation 
+area larger than required by legislation and who 
+commit to not engage in deforestation of all 
+their properties over the term of the operation.  
+Eligibility and monitoring throughout the 
+operation are checked out by remote sensing 
+equipment. Monitoring also aims to ensure 
+that funds are not used to clear new areas in 
+other regions.
+Wholesale 
+39 
+Itaú Unibanco Holding S.A.climate report 2022
+Agricultural insurance 100%
+We sell Agricultural Insurance through partner insurance 
+companies to protect the rural producer’s crops from planting to 
+harvesting, against climate events covered, such as:  fire, wind, 
+rainfall and temperature variations, among others. If the rural 
+producer uses Precision Farming, through which the production 
+system is carried out in a more sustainable way, such producer 
+may be eligible for rate reductions.  
+Investments
+We operate through Itaú Asset in structuring ESG funds, 
+including funds linked to water, clean energy and green 
+economy. We also offer off-the-shelf products with positive 
+contribution to the ESG and climate agendas, which include 
+green fixed income operations or those issued by companies 
+with good practices.
+Financing of electric cars
+We offer differential rates to finance electric cars, as a way of encouraging the 
+client’s choice and reducing the generation of emissions.
+Consortium for electric and hybrid vehicles
+We made available a consortium for electric and hybrid vehicles to meet the 
+different needs of our clients who wish to purchase this type of vehicle.
+Solar panel financing
+The product aims to facilitate the payment of solar panel installation, which may 
+have a high initial cost, directly contributing to mitigate climate change.
+Retail 
+Investments
+Insurance 
+40 
+Itaú Unibanco Holding S.A.climate report 2022
+Our work on the carbon market
+In addition to the products already mentioned, we also have a history of work on and support to the structuring of the carbon market in Brazil, both from the standpoint of products and 
+through advocacy, as detailed in the box below.
+We have been operating in the voluntary carbon market for a long time 
+We have operated in this market since 2017 when we started to offset our scopes 1 and 2 GHG emissions by buying credits from the 
+Climate Commitment Program. Launched in partnership with renowned institutions, the commitment was a pioneering initiative in 
+Brazil, since it connects companies interested in offsetting their emissions with projects dedicated to generating carbon credits with 
+social and environmental benefits. By supporting over 15 projects, the Climate Commitment records over 22,000 hectares of 
+protected forest and 1 million MWh of renewable energy generated, which resulted in an impact of 1.4 million tCO₂e of emissions 
+verified and 1,600 people trained.
+In 2021, we created a business team specialized in ESG and climate issues, focused on offering climate solutions to our clients, and 
+its strategy is supported by three key pillars:  (i) diagnosis; (ii) reduction and removal of emissions; and (iii) management of residual 
+emissions.  We want to encourage our clients to increasingly invest in understanding their carbon footprint and identifying projects 
+that may contribute to reduce and/or remove GHG emissions from their activities. In cases in which reducing and/or removing GHG 
+emissions is still not possible, we encourage the company to invest in managing their emissions. With this goal in mind, we work 
+on all fronts, under a one-stop-shop concept for carbon services, which ranges from origination of projects to their sale.  
+In the origination side, our ESG Business team has the expertise to provide our clients with advisory services to identify both new 
+projects that require financing for reduction and/or removal initiatives, and new carbon credit projects that may be developed and 
+monetized. The team also works on structuring funds and other investment vehicles for carbon projects, allocating capital to this type 
+of initiative.  We were the first Brazilian bank to provide advisory services in a merger and acquisition operation in the carbon market, 
+as advisors of Carbonext in the sale of ownership interest to Shell. We were also innovative by investing, together with Suzano, Vale, 
+Marfrig, Santander and Rabobank, in the creation of Biomas, a new company focused on forest conservation and restoration (for further 
+information about Biomas, access our ESG Report).
+In order to sell carbon credits in the voluntary market, we set out, in partnership with other international banks, the Carbon Place, a 
+carbon credit marketplace, aimed to facilitate the access to the voluntary carbon market, promoting higher liquidity and transparency. 
+The platform aims at eliminating some barriers, such as lack of transparency in relation to rates applied in the market and liquidity.  
+Our strategy also includes supporting, in partnership with other market players, the public policies, governance and macroeconomic 
+conditions that encourage the generation and trading of high integrity carbon credits in Brazil, positively exploiting the economic 
+and environmental potential that this asset can bring to the country.  We make up the Carbon Market Squad of the Brazilian Federation 
+of Banks (Febraban), the carbon working group of the Brazilian Association of Financial and Capital Markets Entities (ANBIMA) and the 
+Brazilian Initiative to the Carbon Voluntary Market to support the development and structuring of this market and increase the Brazilian 
+contribution to the world with high integrity credits.  
+The carbon market represents an important opportunity to Brazil, which has the potential to generate high integrity credits that help 
+achieve our climate targets.  
+41 
+Itaú Unibanco Holding S.A.climate report 2022
+Operations: Reduce impacts and create 
+opportunities  
+We started working on climate change in 2008, when 
+we published our first GHG emissions inventory for our 
+operations. Since then, we have adopted initiatives focused 
+on minimizing the climate impact of our own operations and 
+the impact of climate change on our own operations. 
+With respect to eco efficiency, we manage our GHG 
+emissions aimed at reducing and aligning them to the Net 
+Zero strategy. Our inventory follows rigorous procedures 
+to be prepared, includes scopes 1, 2 and 3 and is assessed 
+by an independent third party expert and certified by the 
+National Institute of Metrology, Quality and Technology 
+(INMETRO), which allows us to be granted with the Gold Seal 
+recognition for the program. Since 2018, we use the Climate 
+Commitment program to offset our remaining scopes 1 and 
+2 emissions and an internal carbon price to support our 
+studies about the voluntary carbon market. Our internal 
+price is based on the average value of each credit purchased, 
+which was R$27.76 in 2022.
+Aimed at reducing our scope 1 emissions, we have set up 
+governance and action plans focused on measuring and 
+reducing our fugitive emissions related to refrigeration, 
+which account for nearly 90% of our scope1 emissions, by 
+retrofitting the refrigeration equipment and using other 
+more efficient technological tools.  We also offset our 
+scope 1 emissions in Brazil and LATAM countries (Paraguay, 
+Argentina and Uruguay).
+As for scope 2 emissions, we have invested in the generation 
+of clean renewable energy based on distributed generation, 
+investments in solar panels, and purchases of Renewable 
+Energy Certificates (RECs), neutralizing 100% of our scope 
+2 emissions in Brazil. Additionally, our goal is to supply 80% 
+of our branch network with renewable energy by 2025,and 
+we keep up our efforts to increase energy efficiency in our 
+own operations. To learn more on our eco efficiency strategy, 
+including our management of water, waste, paper and other 
+resources, access our ESG Report.
+The opportunities in our operations are related to 
+investments in new technologies to reduce generation 
+of emissions and waste, as well as to reduce water and 
+energy consumption, and encourage suppliers to adopt 
+By promoting 
+ecoefficiency  
+in our operational 
+infrastructure, we increase 
+our climate resilience, 
+reduce climate impacts on 
+our operations and create 
+opportunities.
+climate practices more appropriate to the current and 
+future scenario.
+We assessed the exposure of our branch network to 
+physical risks from climate change, aimed at identifying 
+possible actions to adapt to climate change, and developed 
+contingency plans for water and energy risks. To learn more 
+on this initiative, see section Risk Management  here in.
+42 
+Itaú Unibanco Holding S.A.climate report 2022
+climate 
+risk_
+49
+adaptation to physical risks 
+in operation management
+44
+climate risk 
+managements
+Classification of climate risks according to TCFD
+ 
+Transition risks
+Public and legal policies Market 
+Increase in price of GHG emissions. Change in client behavior.
+Required disclosure of climate information. Economic barriers in the global markets.
+Mandates and regulation for existing products and services. Increase in cost of raw material.
+Exposure to litigation.
+Technology Reputation
+Replacement of existing products and services with options with 
+lower emissions. Changes in consumer preferences.
+Unsuccessful investment in new technologies. Stigmatization of the industry.
+Costs for transition to lower emissions technology. Increased concern of stakeholders or negative evaluation 
+by stakeholders.
+Physical risks
+Acute Chronic 
+Increased severity of extreme climate events, such as 
+cyclones and floods.
+Changes in rainfall patterns and extreme variability in 
+climate patterns.
+Rising average temperatures.
+Rising sea level.
+The climate risk has become increasingly relevant to 
+business and global economy as a whole, whether due 
+to the materialization of the transition risk due to the 
+new climate regulation, which requires adjustments in 
+processes, policies and practices, or to the consequences 
+of the materialization of physical risks, which have been 
+more intense, frequent and with impacts on different 
+geographic locations. As already described in “Mapping the 
+impacts of risks and opportunities”, climate risks have a 
+systemic nature, with the potential to impact other risks 
+(“traditional risks”). That is why the financial position of 
+our clients may become sensitive, jeopardizing their meeting 
+contractual obligations with the bank. 
+The table below shows how our clients may become sensitive 
+due to climate risks and the consequence to our business, 
+driven by the potential impact on their finances, as, for 
+example, by changing their revenue and profitability. 
+In the regulatory aspect, it is worth mentioning that in 2021 
+the Central Bank of Brazil launched a package of regulation 
+aimed to Environmental, Social and Climate responsibility 
+and to the management of these risks in financial 
+institutions, an example that has been followed by other 
+financial regulators in Brazil and abroad. These rules add to 
+the broad range of environmental laws and self-regulation 
+in Brazil that are used as reference for the climate change 
+actions of the bank and our clients .
+Additionally, in 2022, we published the Global 
+Environmental, Social and Climate Risk Policy, which 
+aims at establishing the guidelines to manage these risks, 
+in addition to determining the roles and responsibilities and 
+the related governance processes.
+climate risk 
+management
+44 
+Itaú Unibanco Holding S.A.climate report 2022
+The climate risk management is in line with the methodology and framework of the Committee of Sponsoring Organizations of the Treadway Commission (COSO) and includes the stages of 
+identification, prioritization, response to risk, monitoring and reporting of assessed risks. In practice, these stages are carried out through actions, such as mapping of processes, definition of 
+controls, capture of new rules and monitoring of actions for their implementation, recording and managing of risk identification in internal systems, governance through committees for a joint 
+analysis of tolerance to risk and reporting to the Executive Committee and Board of Directors. 
+Climate Risk Management
+Environmental, 
+social and 
+climate risk
+Monitoring of 
+actions, initiatives 
+and processes 
+through metrics 
+and targets to 
+accomplish the 
+strategy.
+Analysis of 
+sensitivity 
+to climate risk.
+Risk mapping.
+Analysis of 
+scenario.
+Development of actions 
+and initiatives to 
+accomplish the strategy.
+Definition of 
+the climate 
+strategy.
+Prioritization 
+of risks.
+Definition of processes 
+focused on climate 
+risk management in 
+business procedures.
+Decisions made through 
+the governance process
+Inputs to carry out the 
+management phase
+Continuous improvement
+45 
+Itaú Unibanco Holding S.A.climate report 2022
+Sector exposure to climate risk
+We classify the exposure of credit to climate risk taking into 
+consideration the combination of physical and transition 
+risks, as well as peculiarities of the economies where we 
+operate.  The industries in which our clients operate are 
+classified below in accordance with climate exposure.  This 
+classification is used as part of the assessment of the bank’s 
+exposure to industries and clients exposed to climate risk. 
+Sugar and alcohol  
+Public administration  
+Agribusiness and fertilizers  
+Food and beverages  
+Banks and other financial institutions
+ 
+Capital goods  
+Durable goods - except vehicles  
+Non-durable goods  
+Pulp and paper  
+Commerce - sundry
+ 
+Concessions for infrastructure  
+Sundry  
+Energy  
+Education and health  
+Pharmaceutical and cosmetics industry
+ 
+Real estate  
+Infrastructure  
+Leisure and tourism  
+Construction material  
+Metallurgy, and steel and iron  
+Media 
+ 
+Mining  
+Oil and gas  
+Petrochemicals and chemicals  
+Individuals  
+Services 
+ 
+Technology  
+Telecommunications  
+Trading  
+Transportation and logistics  
+Vehicles/auto parts
+Low climate exposure
+Medium climate exposure
+High climate exposure
+46 
+Itaú Unibanco Holding S.A.climate report 2022
+Development of methodology for mapping 
+and managing climate risks
+In 2021, we developed a methodology to identify, prioritize 
+and assess the main climate risks that may affect our 
+business, as well as impact traditional risk categories of the 
+institution, with term and intensity weighting.  This work 
+was based on the review of scientific reports and documents 
+of global benchmark organizations, such as the Financial 
+Stability Board, World Economic Forum, International 
+Monetary Fund, Bank for International Settlements, NGFS, 
+among others, and also incorporated climate litigation 
+issues, based on both physical and transition aspects, 
+which may possibly affect our business and that of our 
+customers.  We annually analyze the need to review the 
+methodology based on the results of the reports of 
+these key stakeholders, scientific reports and progress of 
+discussions at COPs.
+Assessment of resilience to physical risk
+Together with peer financial institutions, within the scope of the Brazilian Federation of Banks (Febraban), as a pilot exercise we mapped the physical risks in view 
+of scenarios adapted to characteristics of the region where we operate.  These studies took into consideration the conclusions of the Intergovernmental Panel on 
+Climate Change (IPCC) disclosed based on the RCP (Representative Concentration Pathways) scenario 8.5, which takes into account two assumptions: 
+ • High GHG (Greenhouse Gas) emissions.  
+ • Temperature rise of up to 5.4ºC above pre-industrial levels.
+The agenda for going deeper in how transition and physical risks potentially affect our business continues to include other scenarios, including IPCC scenarios, 
+such as the RCP2.6, presented by UNEP-FI on the “Climate Change Knowledge portal” platform.
+47 
+Itaú Unibanco Holding S.A.climate report 2022
+The monitoring of the sensitivity of the loan portfolio to climate risk is carried out by combining variables linked to 
+the vulnerability of industries to climate risk, such as quality of credit and maturity terms of loan operations of a particular 
+industry or client, which allows us to visualize possible concentrations of the portfolio in each category of climate risk 
+sensitivity.  These results guide the sector operations strategies, as well as the individualized client management, which may 
+have their risk rating affected. 
+In addition to the portfolio standpoint demonstrated by applying the methodology for the calculation of sensitivity, we also 
+maintain the assessment of climate risk at the client level. 
+Methodology for the calculation of sensitivity
+Climate risk management in credit granting
+In this regard, the risk rating of clients in Itaú BBA  
+segment becomes sensitive in accordance with their 
+exposure to climate risk, for example assessing the 
+physical risk through their sensitivity to water shortage 
+or, in the context of transition risk in carbon-intensive 
+clients, assessing their ability and resilience to offset 
+emissions through carbon credits. Additionally, we 
+evaluated the climate management practices of 
+our clients to capture actions that contribute to 
+mitigate both physical and transition risks to which they 
+are exposed.  
+For products such as long-term financing for projects 
+(project finance), for which the risks are primarily 
+linked to the cash flows of the project itself, we apply 
+the Equator Principles, which include management 
+of climate change-related impacts based on the 
+International Finance Corporation’s (IFC) Performance 
+Standards. See further details in our ESG Report.
+In addition, we assess our appetite to assuming climate risk, which is reflected in the limits established and monitored 
+monthly through an integrated approach by the Executive Committee and the Board of Directors.  In this context, in 
+December 2022, 12% of our credit portfolio was concentrated in sectors categorized with “High” exposure to climate risks.
+relevance
+climate risk
+credit quality
+proportionality
+% of the portfolio
+Weighted Average Term
++
+48 
+Itaú Unibanco Holding S.A.climate report 2022
+adaptation to physical risks in 
+operation management
+Cases of operational losses from climate events
+ 
+Adaptation plan: flood in branches and client service interruption  
+ • Description of the risk: Every year, in the rain period, some of our branches suffer with natural 
+disasters, such as floods, which affect our operation, creating several risks, such as safety risk 
+to our clients and employees and big financial losses to the business.  In order to mitigate these 
+impacts, we conducted a study for branches that have recent history of climate events, aimed at 
+directing preventive actions to these points of sale.
+ • Nature of the impact: financial and non-financial impact
+ • Time horizon of the risk: short term (mainly).
+ • Scope: national scope with greater number of branches affected in the states of São Paulo, Rio de 
+Janeiro and Minas Gerais. 
+ • Severity: approximately 80 branches (2% of total) with history and potential risk of new events.
+ • Nature of the impact: environmental, social and economic.
+ • Mitigation actions: we forward the assessment to specialists who will indicate any possible 
+mitigating solutions to the branches, based on the surrounding landform, record of floods and 
+characteristics of the building.
+ • Main results: the architectural adaptation of the buildings (floodgates, changes in layout, etc.) of 
+seven branches is already in progress.  The recommendation for other cases was to transfer the 
+branch to another location that is not exposed to the risk of flood.
+ 
+Contingency plan for water and energy risks 
+ • Description of the risk: shortage of electricity supplied by concessionaires and shortage of water 
+supplied by concessionaire, for undetermined period.
+ • Nature of the impact: financial and non-financial impact.
+ • Time horizon of the risk: cyclical and unpredictable events, impacts may occur in the short, 
+medium and long term.
+ • Scope: business center and Data Center.
+ • Severity: business departments affected, such as digital branches.
+ • Nature of the impact: financial and non-financial impact.
+ • Mitigation actions: scheduled annual maintenance of substations, with monitoring of the levels 
+of the diesel oil tanks of generators, and simulations of electricity shortage.  And maintenance 
+of the level of water inflow in the reservoirs at a minimum of 80%, monitoring of the levels of the 
+reservoirs by the operations center and issue of levels of alerts for supply.
+ • Main results: no unavailability was recorded in electrical or water installations in the business 
+center in the past five years.
+In view of the worsening of extreme natural events, a consequence of climate change, and of our climate risk assessment, we established some plans for adapting to physical risks. Client service 
+interruption is a risk that had to be addressed.  To this end, we conducted a pilot vulnerability study for branches that have recent history of being impacted by climate events, aimed at directing 
+preventive actions to these points of sale. Based on the identification of potential impacts, we developed plans for adapting branches to flood and contingency plans for water and energy risks.  
+49 
+climate report 2022 Itaú Unibanco Holding S.A.
+climate metrics 
+and targets_
+51
+business and 
+operations 
+55
+financed 
+emissions
+business and operations
+Our main climate change-related targets and metrics are presented in the table below. Some of them are qualitative targets and, therefore, they have no associated metrics. Likewise, we 
+understand that some metrics are related to processes or material topics, such as climate risk management or incorporation of climate opportunities. As recommended by TCFD, we present the 
+metrics and targets in the context of the risks and opportunities addressed. For other ESG metrics and our performance in previous years, see our ESG Report.
+Targets or related topic Associated metric
+To learn about our performance in previous years, access our ESG Report
+Target: reduce emissions (scope 1) by 50% in 2018 - 2030. 
+Scope 1 emissions – Brazil
+2022 - 22.328 tCO₂e
+2021 - 16.477 tCO₂e
+2020 - 14.510 tCO₂e
+Scope 1 emissions – LATAM countries (Brazil, Argentina, Paraguay and Uruguay)
+2022 - 22.925 tCO₂e
+2021 - 17.048 tCO₂e
+2020 - 15.070 tCO₂e
+Target: continue to certify that 100% of our energy consumed is 
+renewable and zero emission, by purchase option.
+Scope 2 emission, by purchase option – Brazil
+2022 - 0 tCO₂e
+2021 - 0 tCO₂e
+2020 - 0 tCO₂e
+Scope 2 emissions, by purchase option – LATAM countries (Brazil, Argentina, Paraguay and Uruguay)
+2022 - 2.537 tCO₂e
+2021 - 2.739 tCO₂e
+2020 - 2.873 tCO₂e
+Scope 2 emissions, by location – Brazil
+2022 - 18.335 tCO₂e
+2021 - 54.907 tCO₂e
+2020 - 32.070 tCO₂e
+Scope 2 emissions, by location – LATAM countries (Brazil, Argentina, Paraguay and Uruguay)
+2022 - 15.798 tCO₂e
+2021 - 52.168 tCO₂e
+2020 - 28.301 tCO₂e
+51 
+Itaú Unibanco Holding S.A.climate report 2022
+Target: reduce scopes 1,2 and 3 emissions and become Net zero by 
+2050 in our direct and indirect emissions.
+Scope 3 emissions, except financed emissions – Brazil 
+2022 - 40.525 tCO₂e
+2021 - 58.478 tCO₂e
+2020 - 76.998 tCO₂e
+Scope 3 emissions, except financed emissions – LATAM countries 
+2022 - 41.659 tCO₂e
+2021 - 59.479 tCO₂e
+2020 - 78.619 tCO₂e
+Financed emissions - companies (scope 3, category 15) – Brazil 
+2022 - 18.7million tCO₂e
+2021 - 17.3 million tCO₂e
+2020 - 15.5 million tCO₂e
+Financed emissions – individuals (scope 3, category 15) – Brazil 
+2022 - 1.9 million tCO₂e
+2021 - 1.7 million tCO₂e
+Target: invest in the use of bikes as a mode of transportation 
+in large urban centers to promote a more inclusive and low 
+carbon economy.
+ • In 2022, emissions of 5,360 metric tons of CO² were prevented.
+ • 15,933,815 travels in 2022, (42% employee commuting, 33% entertainment and 24% deliveries).
+Target: reduce by 63% the intensity of emissions of the 
+power generation industry by 2030 and complete thermal coal 
+phase-out by 2030.
+Intensity of sector emissions 
+2022 - 103 gCO₂e/kWh 
+Target: Offset 100% of remaining scopes 1 and 2 emissions.
+Commitment to climate
+Purchase of 19,800 Emission Reduction Certificates generated under the project for renewable energy generation and project for 
+replacing consumption of firewood from deforestation with biomass from renewable sources.
+Target: reduce energy consumption by 31% in 2018 - 2030.
+Total energy consumption - Brazil
+2022 - 401.310 MWh
+2021 - 430.599 MWh
+2020 - 479.409 MWh
+Accordingly, we reviewed our target from 31% to 34.5% in energy consumption reduction in relation to the base year 2018.
+Target: reduce waste sent to landfills by 36% in 2018 -2030.
+Waste generation
+2022 - 4.715 t
+2021 - 17.188 t
+2020 - 19.445 t
+Due to evolution, we reviewed our target from 36% to 88% in waste generation reduction in relation to the base year 2018.
+Targets or related topic Associated metric
+To learn about our performance in previous years, access our ESG Report
+52 
+Itaú Unibanco Holding S.A.climate report 2022
+Target: reduce water consumption by 33% in 2018 - 2030.
+Water consumption
+2022 - 628.831 m³
+2021 - 524.480 m³
+2020 - 635.828 m³
+Due to evolution, we reviewed our target from 33% to 63% in water consumption reduction in relation to the base year 2018.
+Material topic: Climate Risk Management.
+Portfolio concentration in high exposure sectors
+2022 - 12%
+Assessment of climate risk
+2022 - 47% of clients of the loan portfolio of the corporate and rural producers segments were subject to climate risk assessment.
+Material topic: internal carbon pricing. Internal carbon price
+2022 - R$ 27,76/ tCO₂e
+Material topic: climate adaptation. Branches exposed to the risk of flood 
+2022 - 80 branches (2% of total)
+Material topic: contingency plan for water and energy risks. Monitoring of the levels of the reservoirs
+There are no impacts on operations due to energy or water shortages in the last five years.
+Target: contribute R$400 billion to positive impact sectors by 2025.
+Financing in positive impact sectors (cumulative)
+2022 - R$266 billion
+2021 - R$170 billion
+2020 - R$80 billion
+To learn about the distribution of funds to the different positive impact sectors, access our ESG Report.
+Material topic: climate finance.
+Credit for electric and hybrid vehicles (cumulative)
+2022 - R$505 million
+2021 - R$326 million
+2020 - R$99 million
+Topic: Sustainable mobility. Shared electric vehicles (VEC)
+28.5 metric tons of CO₂eq¹ avoided in the period.
+Material topic: climate finance
+Financing of solar panels (cumulative)
+2022 - R$55 million
+2021 - R$3 million
+Targets or related topic Associated metric
+To learn about our performance in previous years, access our ESG Report
+53 
+Itaú Unibanco Holding S.A.climate report 2022
+Material topic: climate finance.
+Green loan operations
+2022- R$235 million
+Loan operation linked to sustainability targets
+2022 - R$33.3 million
+Material topic: climate finance. Amount financed in sustainable buildings
+Since 2021: R$2.7 billion
+Material topic: climate finance.
+Amount financed in CPR (Rural Product Note) Legal Reserve +
+Since 2021: - R$32.2 million
+Hectares of forests that could be legally deforested 
+Since 2021: 100,000 hectares
+Material topic: climate finance.
+Amount financed in the Reverte (Reverse) program
+Since 2021: - R$299 million
+Hectares recovered, avoiding new deforestations
+Since 2021: 57,800 hectares
+Target: carry out ESG assessments in 100% of applicable assets, 
+and engagement processes to foster 100% of our partners by 2025.
+Percentage of assets under management of Asset management (AUM) with ESG and climate assessment
+ • more than R$836 billion in assets under management.
+ • more than 280 qualified professionals.
+ • 99.75% of ESG coverage for all eligible assets.
+For other metrics associated with ESG management in Itaú Asset, access our ESG Report.
+Target: continuously increase our volume of ESG assets under 
+management by 2025.
+Amount of equity in ESG-linked funds (Asset management)
+Approximately R$3.2 billion of equity in ESG assets and sustainable investments in December 2022, up 3% on a year on year basis.
+Material topic: engagement with investees.
+Engagement with investees (number of industries)
+ • 173 companies from economic sectors engaged.
+ • Attendance in 277 general stockholders’ meetings of investees.
+Material topic: Concentration of portfolio (Asset Management). In 2022 we reached 99.75% ESG coverage for all Itaú Asset Management’s eligible assets and only 1% of funds were allocated to sectors 
+that may pose risks to consumer or third parties, as well as to sectors of production or distribution of fossil fuels and by-products. 
+Material topic: support the decarbonization of our clients. Number of startups in Cubo ESG in the end of 2022: 28.
+Target: encourage our supply chain to adopt positive environmental 
+and social impact commitments and practices.
+ • Online workshop with active suppliers for the launch of the ESG questionnaire, focused on the supply chain. 
+ • 85% suppliers invited reported information on climate change in the CDP Supply Chain Program.
+Targets or related topic Associated metric
+To learn about our performance in previous years, access our ESG Report
+54 
+Itaú Unibanco Holding S.A.climate report 2022
+financed emissions
+Throughout 2022, we improved our methodology for calculating financed emissions 
+and expanded the coverage of our loan portfolio, bringing more transparency to our 
+stakeholders about the impacts of our business and loan operations on the climate. 
+In line with PCAF guidelines, we calculate Greenhouse Gas (GHG) emissions indirectly 
+attributed to credit granting activity, given the total emissions of our clients and the financial 
+resources granted for their activities.
+loan portfolio - companies 
+R$ 559,2 billion (100% of the portfolio) 
+18,7 MM tCO2e
+loan portfolio with no 
+applicable methodology 
+R$ 460,7 billion 
+(40,4% of the portfolio)
+loan to individuals - 
+residential real estate 
+R$ 89,9 billion (85% of the portfolio) 
+0,2 MM tCO2e
+loan to individuals - vehicle 
+financing 
+R$ 31,6 billion (100% of the portfolio) 
+1,7 MM tCO2e
+coverage of financed emissions calculation
+assessed portfolio
+R$ 680,8 billion 
+(59,6% of the portfolio) 
+20,6 MM tCO2e
+Loan portfolio - companies
+Bearing in mind that this is an evolutionary agenda, in 2022 we released a more 
+comprehensive inventory in relation to the last report, adding emissions from 
+our securities portfolio, and covering operations carried out in Brazil and in our 
+foreign units.
+loan portfolio - companies Dec/20 Dec/21 Dec/22
+Financed emissions
+(millions of metric tons of CO₂) 15.5 17.3 18.7
+Value of assessed portfolio (R$ billions)8. 465.2 527.5 559.2
+Weighted quality score (PCAF) 4.3 4.3 4.0
+Coverage9 100% 100% 100%
+.
+8 Inventories for base dates 2020 and 2021 were recalculated including bonds and excluding endorsements and 
+guarantees, following PCAF guidelines and aiming to keep the comparability of the results presented here.
+9  The portfolio coverage ratio was calculated by the ratio of the value of the assessed portfolio to the portfolio total 
+value, for which there is already a PCAF methodology available. 
+We centered our efforts both on improving the calculation and on seeking the best 
+information to build an inventory that adheres to our credit performance.  However, 
+obtaining and consolidating the best information is a great challenge, where public 
+availability of GHG emissions data and the sharing of financial statements between 
+companies are essential.  Currently, 19% of our corporate loan and securities portfolio 
+have a score of 1 or 2, with public data available, and 81% with scores 4 or 5, with 
+estimates of financed emissions. 
+data used for emissions calculation 2022
+Score 1 - published and assured emissions 17.3%
+Score 2 - published emissions, but not assured 1.4%
+Score 3 - emissions estimate, by physical production 0.0%
+Score 4 - emissions estimate, by revenue 28.4%
+Score 5 - emissions estimate, by loan contracted 52.9%
+total loan 
+portfolio 
+R$ 1.141 billion
+55 
+Itaú Unibanco Holding S.A.climate report 2022
+Vehicle financing Dec/21 Dec/22
+Financed emissions
+(millions of metric tons of CO₂) 1.5 1.7
+Value of assessed portfolio (R$ billions) 29.6 31.6
+Weighted quality score (PCAF) 4.1 4.5
+Coverage 100% 100%
+The financed emissions of the real estate loan portfolio for individuals were calculated by applying the PCAF methodology 
+corresponding to the “Mortgages” asset class, with score calculation method 4.
+Real estate loans Dec/21 Dec/22
+Financed emissions
+(millions of metric tons of CO₂) 0.2 0.2
+Value of assessed portfolio (R$ billions) 71.0 89.9
+Weighted quality score (PCAF) 4.0 4.0
+Coverage 83% 85%
+The PCAF score measures the quality of the information 
+used in the calculation of financed emissions; the greater 
+the availability of our clients’ data, the better our score.  We 
+adopt score 1 when the customer publishes their emissions 
+and has an assurance process; score 2 is adopted when 
+published emissions do not have assurance.  For scores 3, 
+4 and 5, we need to estimate the client’s total emissions, 
+since this information is not published (use of an emission 
+factor10).  For score 3, we estimate using the client’s physical 
+production, while for score 4 we use the revenue and, for 
+score 5, the loan itself.  
+For the calculation of financed emissions using scores 1 to 
+4, we also need to have the client’s financial information.  In 
+the absence of this information, emissions are calculated 
+using score 5. 
+For corporate loan portfolios, we apply the PCAF 
+methodology corresponding to asset classes “Business 
+Loans” and “Unlisted Equity” and for the securities 
+portfolio we adopt the methodology of “Listed equity and 
+Corporate Bonds”.11
+In line with PCAF recommendations, this year we also 
+estimated scope 3 financed emissions for the Mining and Oil 
+and Gas sectors, which totaled 2.4 million metric tons of CO₂ 
+(PCAF quality score:  4)12.
+10 PCAF provides a database with emission factors for scores 3, 4 and 5, with segregation by economic activity and geographic region.  For more information, access: https: //db.carbonaccountingfinancials.com/PCAF_emission_factor_database.php
+11 For more details on the calculation methods for the asset categories covered by the PCAF, please see “The Global GHG Accounting & Reporting Standard – Part A Financed Emissions” manual, published by PCAF (available at: //carbonaccountingfinancials.com/en/
+standard).
+12 Seeking to expand the scope of financed emissions measurement, PCAF recommends that its members estimate and publish this year scope 3 emissions from Oil & Gas and Mining customers (NACE L2 Code: 05-09, 19, 20). For more information, please see the 
+PCAF manual (page 51) (available at:  https: //carbonaccountingfinancials.com/en/standard).
+13 PCAF recommends measuring residential emissions based on household energy consumption, considering the Brazilian energy matrix (score 4 considers the use of this information and the adoption of an average emission factor, given the size of the property).  
+For vehicles, PCAF indicates that emissions be calculated based on the model and fuel consumption (we adopt a score of 4 for contracts in which the PCAF provides an emission factor suitable for the type, brand and model of the financed vehicle; on the other hand, 
+a score 5 is used when we adopt an average emission factor per type of vehicle (passenger, bus or truck). 
+Loan portfolio - individuals
+We also expanded the coverage of the calculation of financed emissions coverage including loan operations and financing 
+for individuals. 
+As for emissions from vehicle financing for individuals, we adopted the methodology for the “Motor Vehicle Loans” asset class, 
+with calculation methods score 4 and 513
+56 
+Itaú Unibanco Holding S.A.climate report 2022
+emissions calculation methodology
+The PCAF methodology covers the measurement of emissions from seven asset categories , which can be measured using five methods, depending on the availability of our clients’ data (each 
+method has a score, one being the best and five being the worst).  The greater the availability of data from our clients, the greater the accuracy of this calculation 
+We keep interacting with PCAF to help improving financed emissions calculation methodologies.  We will also work on expanding the coverage of portfolios considered in the baseline, to include 
+new assets with methodology under development, such as sovereign bonds.  We will make the necessary retroactive adjustments in subsequent assessments to ensure transparency and 
+comparability. 
+GHG emissions by sector of activity, asset class and region14 
+GHG emissions intensity, by 
+sector of activity (iSector)
+Financed emissions (scopes 1 + 2) Portfolio Relative emissions (scopes 1 + 2/ portfolio)
+ (millions of metric tons of CO₂eq) (R$ billions) (MM tCO₂e/R$ bilhões)
+2020 2021 2022 2020 2021 2022 2020 2021 2022
+Agribusiness 3.9 4.3 5.0 21.8 30.2 33.9 0.177 0.143 0.148
+Oil and gas 1.1 1.2 2.0 12.6 12.6 16.8 0.087 0.092 0.118
+Commerce 1.3 1.4 1.9 80.9 96.0 114.3 0.016 0.014 0.017
+Energy 1.3 1.5 1.6 26.8 28.8 42.0 0.048 0.051 0.039
+Industry - sundry 0.6 1.2 1.4 15.7 18.6 19.7 0.041 0.063 0.073
+Transportation 0.9 2.1 1.2 30.3 35.8 33.8 0.030 0.059 0.036
+Cement 0.5 0.8 0.9 1.3 1.4 3.1 0.385 0.526 0.296
+Petrochemicals and chemicals 0.9 0.8 0.8 14.5 13.9 15.0 0.060 0.058 0.055
+Services - sundry 1.1 0.8 0.8 63.3 64.6 58.0 0.017 0.012 0.013
+Food and beverages 0.6 0.7 0.7 24.9 28.2 30.6 0.023 0.025 0.024
+Metallurgy, and steel and iron 0.7 0.7 0.7 9.0 10.6 9.9 0.077 0.068 0.067
+Pulp and paper 0.2 0.2 0.3 3.0 6.0 6.1 0.053 0.040 0.050
+Pharmaceuticals and cosmetics 0.2 0.2 0.2 3.9 4.5 5.5 0.045 0.041 0.042
+Sanitation 0.1 0.1 0.2 3.5 5.8 6.3 0.015 0.012 0.029
+Mining 0.3 0.2 0.1 6.0 5.2 2.7 0.057 0.042 0.050
+Electronics and IT 0.0 0.1 0.1 4.5 5.7 5.9 0.009 0.010 0.021
+ 
+14 Corporate and Equity Securities (listed and unlisted on stock exchanges), Loans Portfolio, Project Financing, Real Estate Projects, Mortgages, Loans for motor vehicles and Public Debt Securities.
+57 
+Itaú Unibanco Holding S.A.climate report 2022
+Wood and furniture 0.1 0.1 0.1 3.4 4.5 4.6 0.022 0.022 0.025
+Footwear and textiles 0.1 0.1 0.1 5.5 6.3 6.6 0.012 0.012 0.013
+Real estate 0.0 0.0 0.1 18.6 19.5 28.2 0.002 0.003 0.003
+Banks and financial institutions 1.3 0.6 0.1 33.6 43.7 27.8 0.039 0.014 0.002
+Construction 0.1 0.1 0.1 21.3 22.6 24.4 0.006 0.003 0.002
+Recycling 0.0 0.0 0.0 0.1 0.2 0.4 0.157 0.159 0.134
+Vehicles and auto parts 0.1 0.0 0.0 7.5 5.7 6.1 0.007 0.008 0.008
+Coal 0.0 0.0 0.0 0.0 0.0 0.0 1.421 1.294 0.925
+Communication 0.0 0.0 0.0 6.7 10.5 10.5 0.003 0.003 0.003
+Capital goods 0.0 0.0 0.0 2.5 3.4 3.7 0.012 0.011 0.009
+Leisure and tourism 0.0 0.0 0.0 6.8 6.5 6.8 0.004 0.004 0.003
+Health 0.0 0.0 0.0 8.0 7.8 8.1 0.002 0.003 0.003
+Logistics 0.0 0.0 0.0 2.7 2.0 4.2 0.001 0.003 0.004
+Insurance, reinsurance 
+and pension plans 0.0 0.0 0.0 2.3 3.7 3.9 0.003 0.003 0.003
+Education 0.0 0.0 0.0 5.7 4.1 5.3 0.002 0.002 0.002
+Infrastructure 0.0 0.0 0.0 3.6 3.4 5.5 0.001 0.003 0.002
+Public services 0.0 0.0 0.0 1.4 2.4 2.4 0.001 0.001 0.002
+Culture and recreation 0.0 0.0 0.0 0.8 1.2 1.6 0.001 0.001 0.001
+Third sector 0.0 0.0 0.0 0.1 0.1 0.1 0.001 0.001 0.001
+Sundry 0.1 0.1 0.0 12.5 12.0 5.6 0.006 0.007 0.006
+Total 15.5 17.3 18.7 465.2 527.5 559.2 0.033 0.033 0.033
+Score 4.3 4.3 4.0      
+GHG emissions intensity, by 
+sector of activity (iSector)
+Financed emissions (scopes 1 + 2) Portfolio Relative emissions (scopes 1 + 2/ portfolio)
+ (millions of metric tons of CO₂eq) (R$ billions) (MM tCO₂e/R$ bilhões)
+2020 2021 2022 2020 2021 2022 2020 2021 2022
+58 
+Itaú Unibanco Holding S.A.climate report 2022
+GHG emissions intensity, by 
+asset class
+Portfolio  Financed emissions (scopes 1 + 2) Relative emissions (scopes 1 + 2/ portfolio)
+(R$ billions) (millions of metric tons of CO₂eq) (metric tons of CO₂eq / R$ billions)
+2020 2021 2022 2020 2021 2022 2020 2021 2022
+Business loans 380.3 406.6 416.7 13.0 12.4 12.2 0.034 0.030 0.029
+Corporate bonds 84.9 120.8 142.5 2.5 4.9 6.6 0.029 0.041 0.046
+Vehicles - individuals - 29.6 30.2 - 1.5 1.6 - 0.052 0.054
+Real estate - individuals - 71.0 89.9 - 0.2 0.2 - 0.002 0.002
+Total 465.2 628.1 679.4 15.5 19.0 20.6 0.033 0.030 0.030
+GHG emissions intensity, by 
+region
+Portfolio  Financed emissions (scopes 1 + 2) Relative emissions (scopes 1 + 2/ portfolio)
+(R$ billions) (millions of metric tons of CO₂eq) (metric tons of CO₂eq / R$ billions)
+2020 2021 2022 2020 2021 2022 2020 2021 2022
+Brazil (head office) 293.8 343.8 372.7 9.4 11.7 12.8 0.032 0.034 0.034
+Latin America (Paraguay, 
+Uruguay, Argentina, 
+Chile and Colombia)
+116.3 114.8 110.9 4.2 3.3 2.9 0.036 0.028 0.026
+Other foreign units (Europe, 
+Central and North America)55.1 68.8 75.7 1.8 2.4 3.1 0.033 0.035 0.040
+Total 465.2 527.4 559.3 15.5 17.4 18.8 0.033 0.033 0.034
+59 
+Itaú Unibanco Holding S.A.climate report 2022
+challenges and 
+future vision_
+Challenges
+Despite the significant headway made in recent years, challenges still exist in managing climate change in financial institutions. These challenges are related to regulatory environment, 
+stakeholder engagement, different levels of client maturity, standardization of methodologies and calculators, lack of structured and available data, risk management and adequate 
+transparency of climate information.
+Regulation 
+One of the greatest challenges faced by Brazil continues to be the uncertainty in the 
+regulatory environment for the implementation of a carbon market and the lack of a 
+robust information system with data on emissions of production entities, the so called 
+Measurement, Reporting, and Verification (MRV). The institutional and regulatory 
+arrangement is required so that the country can adopt an efficient and flexible carbon 
+pricing system, seeking to comply with the Brazilian NDC15 (Nationally Determined 
+Contributions) and without interfering in the industry competitiveness. And there is 
+also the potential of fostering carbon credit generation that, in a scenario of increased 
+legal certainty, is able to unlock investments. We support initiatives to encourage the 
+voluntary market and advocacy in relation to the regulated market, since national and 
+international regulation on the topic may impact our strategy, requiring adjustments to 
+processes and disclosures.
+Technology and innovation 
+As a financial institution, we depend on the decarbonization of the economic agents in their chains of operation for us to achieve Net Zero by 2050.  Our main goal is to support clients 
+and the economy as a whole in their climate transition, contributing to increased equity in the agenda. As already reported, we have made a diagnosis of the maturity of our clients in 
+terms of decarbonization and have worked on engaging them with the climate and ESG agenda. However, there is a long way to go to turn climate management into a market practice, as 
+it relies on technological innovation so that the many economic sectors have the necessary funds and access to technologies capable of offering solutions to decarbonization challenges 
+with scalability.
+Brazil still suffers from the relative lack of regional data for climate change management, such as a national bank of emission factors. In many cases, the lack of disclosure on 
+emissions of greenhouse gases by the companies makes it difficult to capture the reality of certain industries. Even for industries in which the availability of information is higher, they are 
+not necessarily adequate to the national context and, even for clients already engaged and mobilized, not all technological solutions are available and accessible, such as the case of carbon 
+capture and storage technologies. We believe that innovation may have a key role in increasing the availability of data and solutions for decarbonization. Accordingly, we work on this 
+agenda through Cubo ESG and dialogue with the academy, in addition to creating proprietary solutions to use data in ESG issues.
+Engagement 
+Engaging different stakeholders is also a challenge due to the limited knowledge 
+about the topic, particularly in the domestic market. Internally, we have worked 
+through training our employees and establishing a dialogue with suppliers, sector 
+associations and other stakeholders. As we progress through this process, we seek 
+to ensure that the interests of different players are combined, without affecting the 
+climate ambition, which is also extremely necessary.
+ 15 The Nationally Determined Contributions (NDCs) are the climate targets set by the signatory countries to the Paris Agreement (including Brazil) and must be updated every five years 
+61 
+Itaú Unibanco Holding S.A.climate report 2022
+Risk management
+Climate change requires risk management processes to 
+be reviewed, so that uncertainties imposed by physical 
+and transition risks are handled, particularly on the 
+medium and long terms. Climate change impact can be 
+systemic, which prevents it from being restricted to one 
+single risk discipline and calls for the combination of 
+different issues, such as credit analysis, sector targets, 
+risk appetite, and biodiversity.
+Transparency
+Finally, after undertaking the efforts to implement the climate strategy, communicate it and provide the appropriate 
+level of transparency to the topic continues to be a challenge to financial institutions and investors. TCFD is still the 
+main framework for the disclosure of climate information, but other initiatives have arisen around the world and, 
+due to the complexity of climate change, it is also necessary to align frameworks, methodologies and indicators to 
+meet the different needs of different stakeholders. We have been making efforts to align our communications to the 
+recommendations of the TCFD and to meet the NZBA commitment.
+62 
+Itaú Unibanco Holding S.A.climate report 2022

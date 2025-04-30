@@ -1,0 +1,15 @@
+Task:
+Based on this context and the actions:
+Write a professional, submission-ready draft for a Transition Plan section.
+Embed the actions naturally into the narrative it’s important to bring the actions clearly into the plan, grouped logically where appropriate (e.g., engagement and divestment actions together, data quality and governance actions together).
+
+Highlight the strategic importance of the actions in achieving the institution’s ESG goals, particularly:
+Achieving a significant reduction in financed emissions.
+Improving Scope 3 data quality and reporting.
+Diversifying the portfolio into sustainable sectors.
+Strengthening ESG governance and stakeholder trust.
+
+Reference benchmarks and best practices from comparable financial institutions in the DACH region and international leaders. Position the actions as aligned with CSRD, Paris Agreement targets, and best practices in sustainable finance.
+
+Use clear, structured, professional language suitable for a CSRD-compliant Transition Plan that would be reviewed by management, auditors, and regulators.
+

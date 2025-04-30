@@ -1,0 +1,14 @@
+Task:
+Based on this context
+Identify at least 10 concrete actions to embed into the company's ESG transition plan.
+Prioritize actions based on expected ESG impact, urgency, and strategic fit for a medium-sized DACH financial institution.
+
+For each action, provide:
+Action (clear and actionable, not just thematic).
+Rationale (why this is important specifically for this company's situation). Expected Impact (concrete ESG benefits, preferably quantitative if possible, e.g., % financed emissions reduction, % portfolio reallocation).Why Recommended (link to specific risks or opportunities identified in the profile).
+Responsible function (who should lead this internally, e.g., ESG team, portfolio management, risk management).
+Expected timeline (quick win < 1 year / medium-term 1–3 years / long-term 3+ years).
+
+Include benchmarks and best practices from comparable financial institutions in the DACH region and international leaders in sustainable asset management based on your knowledge Suggest where applicable specific KPIs to track success (e.g., Scope 3 data coverage %, % of portfolio with science-based targets, etc.).Focus on concrete transition planning elements (such as financed emissions reduction, ESG data quality improvement, portfolio diversification, governance enhancements) and avoid vague generalities.
+
+Tone:Pragmatic, strategic, and actionable, suitable for direct integration into a CSRD-compliant ESG transition plan.

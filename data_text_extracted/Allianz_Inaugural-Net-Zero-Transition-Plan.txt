@@ -1,0 +1,421 @@
+DRAFTF 
+Inaugural Net-Zero 
+Transition Plan 
+Disclaimer: This Inaugural Net-Zero Transition Plan was published in September 2023. It is to be continuously enhanced over the 
+coming years to learn from most up-to-date scientific and technological findings and to comply with evolving regulation. Going 
+forward, updates on our Net-Zero Transition Plan, including progress on the targets, new targets and other changes related but not 
+limited to the implementation of the Corporate Sustainability Reporting Directive, will be included in our year-end Non-Financial 
+Statement (NFS) in our Annual Report, starting with NFS for fiscal year 2023. In the case of any material updates outside the yearly 
+reporting cycle we will communicate accordingly.1 
+A Rationale 
+Businesses and society face existential threats from climate change in a world warming ever faster. As a 
+society and business community we must manage this risk by mitigating climate change and reducing 
+emissions of greenhouse gases at an unprecedented speed and scale. 
+The world’s top climate scientists from the IPCC re-confirmed that countries need to halve greenhouse gas 
+emissions by 2030, and halve again by 2040, to then achieve net-zero by 2050. This is expected to give the 
+world a 50% chance of limiting global warming to 1.5°C in the year 2100, compared with pre-industrial 
+times. Limiting global warming to 1.5°C would still lead to a warmer and more extreme climate than we 
+experience today. Letting the global temperature rise by more than 1.5°C will lead to even more drastic 
+and unpredictable events; like flooding of major cities, mass migration from then-uninhabitable areas, or a 
+lack of fresh water, to name a few. 
+Already as of today, more than 150 nations, covering around 90% of global population, emissions and GDP 
+alike, have net-zero ambitions, including the US, the European Union (EU) and India. Within the United 
+States, 25 States and the District of Columbia have set concrete 2030 targets as well as other intermediate 
+decarbonization targets.2 The EU has set concrete decarbonization targets to be achieved by 2030. 
+The world will only meet these goals and commitments if governments follow through on the Paris 
+Agreement ambition of 1.5°C with swift, stable, and reliable policies, action plans and regulations. 
+Governments have started translating their commitments into a range of legislation and initiatives. This 
+includes, for example: 
+• sectoral transition plans and support schemes for low-carbon technology (such as the US Inflation 
+Reduction Act or the EU Fit for 55 Package), and 
+• reporting and due diligence directives (like the EU Corporate Sustainability Reporting Directive 
+(CSRD) and the Corporate Sustainability Due Diligence Directive (CSDDD) which is currently under 
+development). 
+ 
+1 The last two sentences were added in February 2024 
+2 As of August 2022. Source: https://www.c2es.org/document/greenhouse-gas-emissions-targets/ 
+
+ 
+ 
+ 
+ 2/8 
+ 
+B Allianz Inaugural Net-Zero Transition Plan Overview 
+As a leading global insurer and a large holder of capital from our proprietary investments, we are experts 
+in risk management and our products seek to help secure our clients’ futures. We are committed to 
+transitioning our proprietary investment and P&C underwriting portfolios to net-zero greenhouse gas 
+(GHG) emissions by 2050 – consistent with a maximum temperature rise by the end of the century of 1.5°C, 
+taking into account the best available scientific knowledge, including the findings of the IPCC3 – and to net-
+zero GHG emissions by 2030 within our own operations. This is with the expectation that governments will 
+follow through on their own commitments to ensure the objectives of the Paris Agreement are met. 
+We seize opportunities to drive decarbonization and climate resilience through our resources, partnerships, 
+expertise, and influence. Our ambition is to be a trusted partner for our clients and investee companies 
+across different sectors in their transition toward net-zero. Our climate approach is grounded in the Allianz 
+Group Climate Change Strategy, which has been in place since 2005. With a special focus on UN 
+Sustainable Development Goal 13, Climate Action, we take into account climate risk and opportunity 
+analytics for our organization and across our business areas where we exercise decision-making and have 
+already taken significant steps in the past decade. 
+ 
+ 
+ 
+ 
+ 
+ 
+As a key next step in our journey, we publish this Inaugural Net-Zero Transition Plan. It is informed 
+especially by the recommendations of the UN High-Level Expert Group on Net-Zero Commitments of Non-
+State Actors. 
+To substantiate our long-term net-zero commitments, we have set intermediary targets for 2025 for our 
+proprietary investments. We are on a good track to achieving those targets along all levers.4  
+With this Inaugural Transition Plan we are announcing our 2030 targets for proprietary investments 
+and P&C underwriting in our commercial and motor retail businesses.  
+The targets are informed by IPCC 1.5°C climate scenarios5 and by credible industry-led approaches, for 
+example the Target Setting Protocol of the Net-Zero Asset Owner Alliance, which was named the “gold 
+standard for credible commitments and transparent targets” by UN Secretary-General António Guterres.6 
+When setting these portfolio targets, we are dependent on change in policy and the real economy to 
+achieve them. 
+Therefore, we are advocating for strong climate policy from governments across the globe. A supportive 
+policy environment is crucial to ensuring the viability of a socially just transition to climate resilience and 
+net-zero emissions. Without decisive and global action by governments, a 1.5°C trajectory is not 
+achievable.7 
+ 
+3 Intergovernmental Panel on Climate Change 
+4 For more details please refer to our Group Sustainability Report 2022, chapter 02 – Link 
+5 From IPCC’s 6th Assessment Report the so-called C1 scenario set with no or low overshoot of 1.5°C during the century; we used other 
+scenarios such as the IEA’s Net-Zero by 2050, when IPCC did not provide the necessary granularity or data points. 
+6 Source: Secretary-General’s remarks to Global Climate Action High-Level Event. 
+7 More on our policy advocacy and related memberships can be found in our Group Sustainability Report chapter 03.2 – Link 
+Figure 1: Key highlights of climate action at Allianz in past decade  
+
+ 
+ 
+ 
+ 3/8 
+ 
+For our 2030 targets for proprietary investments and P&C underwriting, we do not see a role for carbon 
+removal offsets. Our own operations seek net-zero by 2030; until then we will prioritize reducing our 
+emissions and use removal-based offsetting only at the end of our net-zero journey. 
+We are committed to clear and transparent governance principles. This extends to our governance of 
+sustainability matters as we work to embed and deliver sustainable objectives across global businesses 
+under our influence and within our organization. Ultimate responsibility for all matters relating to 
+sustainability resides with the Board of Management of Allianz SE as the Group’s parent company, which 
+includes this Transition Plan.8  
+C Overview of Inaugural Net-Zero Transition Plan  
+ 
+ 
+ 
+  
+ 
+8 To support the Board of Management in its decision-making, Allianz SE established a dedicated Group Sustainability Board. It is 
+composed of members of the Board of Management of Allianz SE and Group Center heads. 
+Figure 2: Allianz Net-Zero Transition Plan at a glance 
+ 
+Target year 2030 is defined as using year-end 2029 values for proprietary investments, P&C, and own operations.  
+A) For own operations and for reporting purposes, we will be moving our year-end 2030 timeline one year forward to year-end 2029 to align 
+with reporting cut-off dates for proprietary investments and P&C insurance. The -70% target is based on end 2030. Year-end 2029 target 
+is -65% vs. 2019. The strategy review for own operations is currently ongoing and will be updated in 2024. 
+B) Investments in the context of this transition plan document refers always to proprietary investments, i.e., the investments of our insurance 
+clients. Targets an absolute reduction for listed equity and corporate bonds, additionally -50% emission intensity for listed and non-listed 
+investments into corporates. All continue to use base year 2019. 
+C) Target covers P&C corporate portfolio with reported emissions managed by AGCS. Base year 2022. 
+D) This inaugural target applies to the following markets: Austria, Belgium, France, Germany, Italy, Netherlands, Spain, Switzerland, UK. 
+Base year 2022. 
+E) 100% fossil-fuel-independent fleet – technical feasibility to be revisited annually. 
+F) Climate Solutions are defined as economic activities contributing to climate change mitigation (including transition enabling) and 
+adaptation, in alignment with existing climate-related sustainability taxonomies: EU taxonomy on sustainable finance climate category 
+as well as SFDR Article 9 and beyond. 
+G) Link: Allianz Energy Guidelines 
+H) Transition solutions are defined as the technologies from Allianz’s Statement on Renewable/Low-Carbon Energy as well as carbon 
+capture and storage, battery storage and grid-stability-related investments, electric transportation: EV & battery manufacturing plants, 
+electric transportation: electric mass transit infrastructure construction (rail), certified green buildings, industry projects related to energy 
+transition (ammonia and bio-based fuels), waste to energy. PD = Property Damage, BI = Business Interruption 
+I) Net-zero commitment and targets do not apply to assets managed on behalf of third parties 
+
+ 
+ 
+ 
+ 4/8 
+ 
+1. Proprietary Investments 
+ 
+For our proprietary investment portfolio, in 2019 we committed to reduce GHG emissions to net-zero by 
+2050.  
+ 
+In early 2021 we released our intermediary 2025 emission targets, which initially covered listed equities, 
+corporate bonds, and real estate. Our absolute emission reduction target of -25% by 2025 vs. 2019 for listed 
+equity and corporate bonds had already been overachieved by the end of last year with a -35% reduction. 
+This can be attributed to -26%p due to portfolio re-allocations, overarchingly driven by intra-sector shifts to 
+lower-emitting companies. A further -3%p came from a change in the denominator9 of the carbon 
+footprinting method, aligning with emerging regulatory standards. Real-world emission reductions by 
+investee companies contributed -6%p, which shows that stronger short-term actions by investee companies 
+on emission reductions are necessary.  
+ 
+Herewith, we are presenting our 2030 targets, in line with our promise to continuously expand the scope of 
+targets. They have been developed with learnings from the Target Setting Protocol of the Net-Zero Asset 
+Owner Alliance (NZAOA), of which Allianz was one of the founding organizations and holds the Chair 
+position. The targets expand across four different target dimensions, sub-portfolios, sectors, engagement 
+and climate solution investments. 
+ 
+For our corporate portfolio, we now aim to reduce -50% by 2030 compared with our base year 2019. For 
+traded equity and corporate bonds, this is an absolute target. For all corporate, including infrastructure, 
+private equity and debt, and similar, it is an additional intensity target. It expands to almost half of our 
+total proprietary investment portfolio of 701 bn EUR as of 31.12.2022. For those real estate portfolios 
+where data is available, we target a 1.5°C alignment as per Carbon Risk Real Estate Monitor (CRREM) 
+methodology. 
+ 
+Underlying 
+Class 
+% of total 
+707 bn EUR10  Actual 2022        2030       
+       Target 2019 2030 
+Corporates  
+(debt & equity) 47% 
+€214 bn 
+  
+Traded equity/ 
+corporate bonds: 
+-50% absolute 
+emissions 
+24.9mnt CO2e 
+ 
+ 
+12.5mnt CO2e 
+ 
+ 
+€329 bn All corporates (incl. 
+Infra, PE, etc.) 
+-50% emission 
+intensity 
+108.08 tCO₂e 
+per €mn 
+invested 
+54.04 tCO₂e 
+per €mn invested 
+Real Estate 
+(incl. 50% of real 
+estate funds) 
+15% 
+€43 bn  Equity: 1.5°C-aligned 
+as per CRREM  
+No reduction vs. 
+baseline but 
+external 
+benchmark 
+~24.1 kgCO2/sqm/a €64 bn11 Debt: 60% of 
+Commercial 
+Mortgages 1.5°C-
+aligned as per 
+CRREM 
+ 
+9 From Enterprise Value (EV) to Enterprise Value incl. Cash (EVIC) 
+10 As per year-end 2022 
+11 Excl. retail mortgages 
+Table 1: New 2030 Sub-portfolio Emission Targets for Proprietary Investments 
+ 
+ 
+ 
+ 5/8 
+ 
+For the other parts of the portfolio, Covered Bonds & Others and Sovereign Bonds & Public Debt, which 
+respectively account for 13% and 22% of the total portfolio, as well as the remainder of real estate, 
+methodologies for emission accounting as well as target-setting are under development. 
+The emission targets on the sub-portfolio level are supported by existing guidelines such as our fossil fuel 
+guideline12. In addition, we decided on further targets, which cover investee and asset manager 
+engagement, and high-emission sectors, as well as climate solutions, as shown in Table 2. 
+ 
+Target Type  
+Engagement • Engagement with all external asset managers “below expectations” based on 
+systematic assessment 
+• Be in the lead or supporting group of 30 multilateral engagements (at least 15 
+with climate focus) 
+• Engage with 15 among Top 100 non-multilaterally engaged / not AGI-PIMCO 
+engaged portfolio emitters 
+Sector Targets Oil & Gas (company scope as per Allianz Statement on Oil & Gas) 
+• Scope 1, 2 and 3 (cat 11) 43.07 gCO2e/MJ in line with IEA Net Zero Emissions 
+by 2050 scenario 
+• 100% of AuM to set net-zero targets across all 3 emission scopes (target year: 
+2025)13 
+Utilities (coverage as per Transition Pathway Initiative universe): 
+• Scope 1 0.17 tCO2e/MWh in line with IEA Net Zero Emissions by 2050 scenario 
+• Coal phase-out in line with 1.5°C pathways of IPCC AR6 C1 scenarios14 
+Steel (coverage as per Transition Pathway Initiative universe): 
+• Scope 1 and 2 1.18 tCO2e/t steel in line with IEA Net Zero Emissions by 
+2050 scenario 
+Automobiles (coverage as per Transition Pathway Initiative universe): 
+• Scope 3 (cat 11) 41.68 gCO2e/km in line with IEA Net Zero Emissions by 
+2050 scenario 
+Climate Solutions • Increase Climate Solutions investments by at least € 20bn from current level (€ 
+31bn as of 31.3.2023) until 2029, subject to market environment and 
+constraints 
+• Asset-class specific targets will support the overall group target 
+ 
+  
+ 
+12 Allianz Energy Guidelines – Link 
+13 As per oil & gas guideline – Link 
+14 As per our thermal coal guideline – Link 
+Table 2: New 2030 Targets for Proprietary Investments 
+ 
+ 
+ 
+ 6/8 
+ 
+2. Property & Casualty Insurance 
+ 
+For our Property & Casualty (P&C) insurance portfolio, we have committed to reduce GHG emissions to net-
+zero by 2050.  
+ 
+Our inaugural 2030 targets, released for the first time as part of this Transition Plan, focus on two core 
+portfolios within our book:  
+1. Corporate, which is managed by Allianz Global Corporate & Specialty (AGCS), and 
+2. Motor Retail 
+For corporate, the targets are set for those companies for which greenhouse gas emissions data is 
+available. These targets represent roughly 16% of the Commercial segment premiums for which emission 
+accounting methodologies are currently available15, and 33% of its estimated insurance- associated 
+emissions.  
+ 
+Therefore, we focus on the highest-impact portfolio and target a reduction of -45% in emission intensity by 
+2030 compared with our base year 2022.  
+ 
+Addressing the corporate portfolio with reported emissions allows for an effective partnership with clients 
+and supports steering with focus. In parallel, we will further encourage more transparency and reporting 
+going forward. To this end, we will follow through on our existing energy guidelines, engage the top 100 
+clients per year that do not yet disclose their emissions, and work together with key clients in hard-to-abate 
+sectors to foster knowledge exchange and arrive at emission reductions. 
+ 
+In addition, we aim to continue scaling up renewable energy and low-carbon technology solutions in our 
+portfolio, supported now by the target to profitably grow revenues from transition solutions in Commercial 
+Property Damage as well as Business Interruption coverages by +150% by 2030 vs. 2022.16 
+ 
+For motor retail, the targets cover roughly half of the premium and associated emissions of the motor 
+retail segment. We are focusing our efforts on the most relevant markets for Allianz, where adequate and 
+reliable data is also available.17 We aim to reduce carbon emissions in these portfolios by 30% by 2030 vs. 
+our 2022 base year. The biggest levers to achieving this will be increasing our share of electric vehicles as 
+well as incentivizing customers to drive less. Therefore, we have set two additional sub-targets: by 2030, we 
+will engage with 20 million current and potential customers to support their transition to electric mobility 
+and we are committing to offering comprehensive insurance products for battery electric vehicles and the 
+related ecosystem, to support our customers in transitioning to this new technology. Therefore, the share of 
+battery electric vehicles (based on the number of passenger vehicles) in the Allianz motor portfolio will 
+exceed the share of battery electric vehicles in the respective markets. Another key lever will be providing 
+incentives for reducing emissions via mileage-based product offerings, as part of our existing sustainable 
+solutions offering, which is explained in detail in our Group Sustainability Report 2022.18 
+ 
+The scope of these targets is to be expanded over time, similarly to our proprietary investment targets. 
+  
+ 
+15 As per the PCAF Standard for Insurance-Associated Emissions – Link 
+16 Transition solutions are defined as the solutions mentioned in the Allianz renewable/low-carbon energy guideline plus additionally 
+carbon capture and storage, battery storage and grid-stability-related investments, electric transportation: EV & battery 
+manufacturing plants, electric mass transit infrastructure construction (rail), certified green buildings, industry projects related to 
+energy transition (ammonia and bio-based fuels) 
+17 This inaugural target applies to the following markets: Austria, Belgium, France, Germany, Italy, Netherlands, Spain, Switzerland, 
+UK. 
+18 Group Sustainability Report 2022 Chapter 2.1.4 – Link 
+ 
+ 
+ 
+ 7/8 
+ 
+ 
+ 
+Target 
+Sector 
+Target  
+Layer 
+Measure  
+(Target year 2030) 
+Corporate 
+Sub-portfolio • AGCS Corporate portfolio (all sectors) GHG emission intensity 
+reduction of 45% (2022 base year) 
+Engagement • Transparency Engagement for top 100 clients with no emissions 
+disclosure per year  
+• Knowledge sharing and exchange on best practices with 
+transportation clients (marine and aviation) 
+• Transition Engagement for 2–3 companies per year 
+Insuring  
+transition 
+• Ambition of at least 150% business growth of transition 
+solutions in Allianz Commercial Property Damage & Business 
+Interruption coverages 
+Motor 
+Retail  
+Sub-portfolio • Motor retail carbon emission reduction of 30% (2022 base year) 
+(PCAF scope) 
+Engagement • Engage with 20 million customers / potential customers to 
+support their transition to electric mobility  
+Insuring  
+transition 
+• Share of battery electric vehicles (number of passenger 
+vehicles) in the Allianz motor portfolio will exceed the share of 
+battery electric vehicles in the respective markets  
+ 
+ 
+3. Asset management19 
+ 
+For clients seeking net-zero products, our asset managers Allianz Global Investors and PIMCO offer a set 
+of approaches and tools to decarbonize portfolios over time. As fiduciaries, our asset managers work 
+with clients who are interested in various ESG20 aspects, on investment strategies and considerations to 
+help achieve climate-related objectives, including decarbonization and net-zero emissions. 
+ 
+PIMCO has developed an approach for clients seeking to align their fixed-income portfolios to their 
+decarbonization goals including net-zero objectives. It consists broadly of four pillars to help clients 
+decarbonize their portfolios, which can all be sub-targets: reduce carbon intensity, invest in climate leaders, 
+support climate solutions, and influence change. 21 
+ 
+AllianzGI offers climate thematic and impact-driven opportunities such as green bonds and climate 
+transition equity and private markets renewable energy investments. These specialized assets can help to 
+align an asset owner’s portfolio with climate transition targets.22  
+ 
+Further information on the offerings of our asset managers can be accessed here: our approach to 
+sustainable investing (allianzgi.com) and ESG at PIMCO (pimco.com).  
+ 
+ 
+19 For the avoidance of doubt, this Inaugural Transition Plan applies only for Allianz’s proprietary investments, not for third-party 
+assets  
+20 Environmental, social, and good governance. 
+21 For more details see PIMCO ESG Investing (ESG Investing Report | PIMCO). 
+22 For more details see AllianzGI Sustainability and Stewardship Report 2022 (Sustainability and Stewardship Report 2022 | AllianzGI). 
+Table 3: New 2030 Targets for Property & Casualty Insurance 
+ 
+ 
+ 
+ 8/8 
+ 
+4. Operations 
+ 
+For our own operations we are already committed to net-zero GHG emissions by 2030. The main 
+operations in scope are Travel and Fleet, Procurement, Facility Management, and IT.  
+ 
+To this end, we target to reduce GHG emissions arising from Allianz sites and operational activities in over 
+70 markets to net-zero by 2030, earlier than 2050 as originally planned. We have accelerated our climate 
+targets for our own operations and by 2025 plan to reduce GHG emissions per employee by 50% versus a 
+2019 baseline across Scope 1, Scope 2, and relevant Scope 3 emissions (currently energy-related emissions, 
+business travel, and paper use). For year-end 2030, we target GHG emission reductions of 70% and for 
+year-end 2029, -65%.23 
+ 
+Key drivers will be sourcing 100% renewable electricity by 2023, implementing energy efficiency and 
+reduction measures in heating and cooling, shifting to a fully electric corporate car fleet by 2030 at the 
+latest, covered by a commitment to EV100 with the Climate Group, and achieving a 40% reduction of GHG 
+emissions from travel activities by 2025 against a 2019 baseline. To address the remaining 30% of the 
+emissions, we will use high-quality carbon removal solutions.  
+ 
+Beyond our own operations, we will ask 100% of global framework vendors in our supply chain that 
+provide services globally to establish a public commitment to net-zero GHG emissions in line with the 1.5°C 
+path by 2025. 
+D Call to action to governments 
+However, further action is needed from national governments in order to close the still wide ambition gap, 
+including setting nationally determined contributions (NDCs) and country pathways in line with 1.5°C. 
+For the long-term success of our global economy and society, the actions of businesses and financial 
+institutions that have set 1.5°C-aligning net-zero commitments need to be matched by governments and 
+regulators. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 Target year 2030 is always defined as using year-end 2029 values for investment and P&C targets. For own operations and for 
+reporting purposes, we will be moving our year-end 2030 timeline one year forward to year-end 2029 to align with reporting cut-off 
+dates for proprietary investments and P&C insurance. -70% target is based on end 2030. A pro-rata calculation at the end-2029 would 
+correspond to -65%. The strategy review for own operations is currently ongoing and will be updated accordingly in 2024. 

@@ -1,0 +1,459 @@
+Version 4, 
+Issued 10th July 2024
+Carbon Reduction Plan
+Vodafone UK 
+2024 | Carbon Reduction Plan Vodafone UK   
+2
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+Introduction
+Reducing our environmental 
+impact
+The ICT sector contributes 1.8%-2.8% of 
+global greenhouse gas emissions 1  and at 
+Vodafone UK we have been actively reducing 
+our emissions for numerous years. Given 
+the growing demand for data and digital 
+connectivity, we recognise the need for us to 
+take further steps and expedite our activity.
+This report details the progress we have made 
+and the plans we have in place.
+We are dedicated to innovating our network 
+technology and operations to support our 
+journey towards net zero, helping to drive the 
+transition to a low-carbon future for our planet 
+and its people.
+Vodafone UK’s emissions 
+reduction targets
+Vodafone has set ambitious goals to reduce 
+our greenhouse gas emissions. Our long-
+term, SBTi-validated science-based target 
+is to achieve net zero emissions across our 
+entire value chain globally by 2040. This 
+involves an absolute reduction of our Scope 
+1, 2, and 3 emissions by at least 90% by 2040. 
+Additionally, we aim to halve our value chain 
+(Scope 3) emissions by 2030.
+Vodafone UK is striving to reach net zero for 
+our operational emissions (Scope 1 and 2) by 
+2027, expediting our global targets.
+ 
+Vodafone UK has already reduced its 
+operational carbon emissions by 93% since the 
+baseline year. We are now focussed on further 
+reducing our energy use, enhancing the 
+efficiency of our network and investing in new 
+technology and renewable generation.
+Scope 1, 2 and 3 emissions
+Greenhouse gases (or ‘GHGs’), such as carbon 
+dioxide (CO 2 ) and methane (CH 4 ), cause 
+climate change by trapping heat within the 
+earth’s atmosphere. The more GHG emissions 
+that are released, the faster the planet warms 
+up. There are three classifications used to 
+measure GHG emissions:
+ 
+• Scope 1 emissions are directly released 
+into the atmosphere when a company 
+burns fossil fuels (such as petrol, diesel 
+or natural gas) in equipment it operates 
+or industrial processes, or releases gases 
+containing GHGs (such as fluorinated 
+gases or ‘F-gases’), which can leak from 
+chemicals used in cooling equipment or fire 
+suppressant systems. 
+• Scope 2 emissions are those released into 
+the atmosphere to generate the energy 
+purchased and used by a company in its 
+operations (e.g. the emissions released 
+by a power plant to generate electricity). 
+Scope 2 emissions can be calculated based 
+on the location where the energy is used 
+(called ‘location-based’) or on contractual 
+Commitments and data overview
+2024 | Carbon Reduction Plan Vodafone UK   
+3
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+agreements (such as renewable energy certificates) that specify the source used to generate 
+the energy (called ‘market-based’).  
+• Collectively, Scope 1 & 2 emissions are known as operational emissions. 
+• Scope 3 emissions are released into the atmosphere as an indirect result of the company’s 
+activities or business model. They originate from the production of goods and services that 
+the company buys (upstream emissions), the use of its products or services by its customers 
+(downstream emissions) or the activities that it finances through its investments. 
+ 
+• Collectively, Scope 1, 2 and 3 emissions are known as full value chain emissions.
+Our baseline emissions 
+Baseline emissions are the reference point against which emission reductions can be measured. 
+Vodafone’s baseline year for reporting carbon data is FY20 and total operational emissions in this 
+year were 93,514 tonnes of CO 2e.
+Emissions Total
+(tonnes CO2e)
+Scope 1 9,806
+Scope 2 83,708
+Scope 3 N/A 2
+Total Emissions  93,514
+(Scope 1 and 2 only)
+
+2024 | Carbon Reduction Plan Vodafone UK   
+4
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+The detail
+Current emissions
+Our current emissions relate to the most 
+recent carbon data against which our 
+progress can be measured. Vodafone UK’s 
+total operational emissions in the financial 
+year ending 31st March 2024 were 6,828.42 
+tonnes CO 2e.
+Emissions Total
+(tonnes CO2e)
+Scope 1 6828.42
+Scope 2 0
+Scope 3
+(Included Sources)
+28,768
+This figure is the sum of the 
+following Scope 3 emission 
+sources, as selected for 
+reporting by UK Government: 
+• Transportation and distribution 
+of products from Tier 1 
+suppliers to Vodafone
+• Waste generated in our 
+operations.
+• Business travel
+• Employee commuting
+• Transportation and distribution 
+of products sold by Vodafone 
+to our customers  
+Scope 3  488,739
+Total Emissions  6,828  
+(Scope Scope 1 & 2 emissions 
+only)
+35,596
+(Scope 1, 2 & 3 emissions from 
+the included sources)
+495,568  
+(Scope1, 2 & 3 emissions from 
+all sources)
+Carbon emission reduction
+Vodafone UK has made considerable progress 
+against our net zero goals in the last four years. 
+In the financial year ending 31st March 2024, 
+we reduced our operational emissions (Scope 
+1 & 2) by 93% compared to our baseline year. 
+This equates to a reduction of 86,685.58 
+tonnes CO 2e. 
+The main ways we’ve achieved this are 
+prioritising energy efficiency and reduction 
+initiatives, investing in onsite renewables, the 
+transition to electric vehicles and the reduction 
+of fluorinated gases in our data centres.  We 
+are powered by 100% renewable electricity 
+via Power Purchase Agreements (PPAs) and 
+renewable energy guarantees of origin (REGOs). 
+Our total Scope 3 emissions for the UK have 
+increased by 3% from FY23 to FY24 due to 
+improvements in the completeness and 
+accuracy of data.   
+Vodafone UK has reduced operational 
+carbon emissions by 93% compared to the 
+baseline year.
+Our reductions and projections
+
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+Introduction
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+We project that Vodafone UK’s operational 
+carbon emissions will decrease by 95% to 
+less than 4,623 tonnes of CO2e by 2027. As a 
+last resort, we will offset any emissions that 
+Carbon emission projections
+5 2024 | Carbon Reduction Plan Vodafone UK   
+we cannot abate through purchasing credible 
+certified carbon offsets. We will limit the use 
+of carbon offsetting to 10% until 2030 and 5% 
+after 2030 in line with SBTi recommendations. 
+100000
+90000
+80000
+70000
+60000
+50000
+40000
+30000
+20000
+10000
+0
+19/2020/2121/2222/2323/2424/2525/2626/27
+Projection Actual reduction (tonnes CO 2e)
+
+6 2024 | Carbon Reduction Plan Vodafone UK   
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+Completed carbon reduction initiatives
+environmental performance at our sites. This 
+year we included our radio base station estate 
+in the certification.
+The transition from our 3G network to our 4G 
+and 5G networks enables additional energy 
+savings, with data transmitted via 5G using 7% 
+of the energy to send the same amount of data.
+Switching to renewable electricity 
+Vodafone UK has been powered by 100% 
+renewable electricity since July 2021 and we are 
+now focused on supporting the development of 
+new UK-based renewables. 
+This year, we have installed 650-kilowatt peak 
+(kWp) of rooftop solar panels across three 
+mobile telephone exchanges which should 
+generate 550,000 kWh of renewable electricity 
+a year, supplying around 12% of the site’s 
+annual energy requirement.
+Vodafone UK has also secured long-term 
+power purchase agreements (PPAs), totalling 
+216 GWh, which provide high quality, long-
+term supply of renewable energy from UK-
+based sources.
+What Vodafone UK has delivered: 
+Scope 1 & 2
+Driving energy efficiency 
+We remain committed to a continued 
+programme of energy efficiency projects 
+across our mobile, fixed and technology 
+locations, which together account for 96% of 
+our total global energy consumption.
+ 
+We are continuing to deploy and optimise 
+energy saving software solutions across 
+our technical estate to reduce energy 
+consumption during periods of low or no 
+network traffic. We are retiring more energy-
+hungry legacy systems and rationalising our 
+property portfolio. This has reduced our energy 
+usage by 171 million kilowatt-hours (kWh) in 
+the last six years.
+ 
+We have an ISO14001:2015 certified 
+Environmental Management Standard, 
+encompassing all Vodafone UK sites, contracts 
+and operations. Additionally, our technical 
+sites and offices have an ISO 50001:2018 
+certified Energy Management 
+System. This assures strong 
+Scope 1 & 2 carbon reduction achievements
+
+2024 | Carbon Reduction Plan Vodafone UK   7
+Electrification of our car and van fleet 
+We have increased the proportion of electric vehicles (EVs) in our company fleet. We have 
+continued our policy to have EVs as the only option for company cars. Additional investment has 
+been made in EV charging points across the Vodafone estate to support this transition. In 2021, 
+we removed all internal combustion engine cars from our fleet lists, and in 2022, we removed all 
+hybrid cars. We have an adoption rate of 70% for pure Battery Electric Vehicles in our company 
+cars and 45% across our entire fleet, including commercial vehicles. 
+Fluorinated gases
+We use fluorinated gases (F-gases) in cooling equipment and fire suppression systems. Fugitive 
+emissions from the accidental release or leakage of F-gases directly contribute to greenhouse 
+gas emissions. We have enhanced methods to prevent the accidental release of F-gases and 
+increasing the use of alternatives with lower Global Warming Potential (GWP) where possible. 
+During FY24, we reduced our overall holding of FM200 by 33%.
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+2024 | Carbon Reduction Plan Vodafone UK   
+8
+Completed carbon reduction projects
+Scope 3 carbon reduction achievements and our partnerships
+This year we have further invested in enhanced 
+Environmental, Social, Governance (ESG) 
+reporting capabilities to improve the quality 
+of our data. As of this year, our Scope 3 data 
+disclosed by Vodafone Group in their annual 
+report has been subject to external assurance.
+Vodafone requires key suppliers to set a 1.5°C 
+science-based carbon target and to report on 
+environmental performance to CDP. Vodafone 
+also launched a new environmentally linked 
+supply chain financing programme in March 
+2023, to collaborate with our smaller suppliers 
+on net zero programmes.
+To reduce our value chain emissions, we 
+introduced a 20% weighting for environmental 
+and social criteria in our supplier evaluation 
+Request for Quote (RFQ) processes. Having 
+robust environmental policies, addressing 
+carbon emissions and using renewable energy 
+are all key considerations for selecting and 
+working with our suppliers.
+We have a CO 2 analytics dashboard for our 
+supply chain teams to view and track progress 
+against our reduction targets. This helps 
+our procurement team to identify suppliers, 
+markets and categories which contribute higher 
+emissions and helps us subsequently work on 
+efficiencies with our partners. 
+Activities to influence our downstream 
+emissions include increasing the range of 
+refurbished devices and we have seen year-on-
+year sales growth.
+Scope 3
+For our Scope 3 emissions, we have less 
+direct control of reduction activities, greater 
+uncertainty about data availability and increased 
+reliance on partners in our value chain. We have 
+set a trajectory to reduce these emissions from 
+our base year (2020) to our near-term target 
+year (2030), and our long-term net zero target 
+year (2040).
+Currently, one of the key drivers of year-
+to-year trends in our Scope 3 emissions is 
+improvements in the quality of data inputs, 
+emission factors or calculation methods. We 
+continue to invest in improving the quality, 
+accessibility and availability of carbon footprint 
+data to enable better measurement and 
+reduction of Scope 3 emissions across our 
+industry.
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+
+2024 | Carbon Reduction Plan Vodafone UK   9
+Partnerships  
+We are proud to be signatories to the 
+following campaigns:
+UN Global Compact - a voluntary initiative 
+that encourages businesses to adopt 
+sustainable and socially responsible policies 
+and practices.
+RE100 - a global renewable energy initiative 
+bringing together businesses committed to 
+100% renewable electricity.
+Race to Zero campaign - a global initiative 
+aiming to mobilise businesses, cities, 
+regions, and investors to achieve net-zero 
+carbon emissions by 2050.
+Reporting
+We report to various disclosure schemes at 
+Group level, including responding to the CDP’s 
+climate change questionnaire since 2010. In 
+February 2024, Vodafone was recognised for 
+its leadership on corporate transparency and 
+performance on tackling climate change by 
+global environmental non-profit CDP, securing 
+a place on its prestigious annual ‘A List’. 
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+2024 | Carbon Reduction Plan Vodafone UK   
+10
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+Future carbon reduction projects
+Scope 1 & 2 carbon reduction initiatives
+Improving energy efficiency
+We are investing in rationalisation efforts to 
+eliminate legacy networks while innovating 
+infrastructure to move towards cloud-based 
+technology. Additionally, we are transitioning 
+to highly energy-efficient servers within our 
+technology centres, allowing us to increase 
+operating temperatures and drive energy 
+savings. We’re also focusing on energy 
+efficiency during end-of-life replacement of 
+electrical and mechanical infrastructure on 
+items such as: 
+• LED lighting for fluorescent tubes 
+• Gas heating systems replaced with electric 
+heat pumps    
+• Cooling systems upgrades 
+• Building Management System upgrades  
+Vodafone is gathering data on traffic, weather, 
+and smart meters. By using big data analytics, 
+artificial intelligence, and machine learning 
+algorithms, we are identifying opportunities to 
+reduce carbon in our data centres.
+Renewable electricity supply 
+We are investing in additional on-site 
+renewable electricity generation to expand 
+our sustainable energy sources. Vodafone UK 
+also plans to install rooftop solar photovoltaic 
+on additional sites across the UK over the next 
+few years. 
+Natural gas for heating 
+We’re committed to gradually reducing our 
+reliance on natural gas for heating and hot 
+water in our office and technical facilities. 
+Instead, we’re transitioning to electric heat 
+pumps and point-of-use water heaters. This 
+transition will be completed over the next 
+three years.
+Diesel generators 
+Eliminating the use of diesel generators is 
+extremely challenging due to the need for 
+emergency, temporary, and standby power. 
+Therefore, we are currently transitioning 
+our generators to operate on biofuel, 
+hydrotreated vegetable oil, and/ or hybrid 
+modes (battery and/ or solar). Additionally, we 
+are exploring alternative on-site generation 
+options.
+Continuing progress towards net 
+zero: Scope 1 & 2
+
+2024 | Carbon Reduction Plan Vodafone UK   
+11
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+Fluorinated gases  
+We are improving the maintenance and operation of cooling and fire suppression 
+systems to minimise accidental releases, updating our operating standards 
+accordingly. We are further investigating and beginning to use alternative 
+refrigerant gases with lower Global Warming Potential (GWP) during routine 
+equipment replacement or refurbishment. Given that lower GWP gases can be 
+toxic or flammable, we are monitoring innovations in low GWP refrigerants and 
+evolving F-gas regulations. We aim to replace 61% of our stored volumes by the 
+end of the financial year ending March 2025.
+ 
+Electric car and van fleet 
+We are transitioning our fleet to electric vehicles (EV) and will be fully EV across 
+our car fleet by 2026. We are closely monitoring advancements needed in 
+battery technology that are expected to occur within this timeframe. All office 
+locations are now equipped with high power charging stations with a plan to 
+complete most of the technical estate locations during this financial year.
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+Future carbon reduction projects
+Scope 3 carbon reduction achievements and our partnerships
+Scope 3 emissions
+Vodafone will continue to develop and 
+implement an annual programme of supplier 
+engagement to set expectations for supplier 
+climate action and data sharing. Where 
+possible, we are focussing on receiving higher 
+quality supplier-specific data rather than 
+using estimates and assumptions. 
+Industry collaboration and standardised 
+reporting will be crucial to driving down our 
+Scope 3 emissions, and we will continue to 
+work with partners and suppliers to increase 
+the reliability of data.
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+12 2024 | Carbon Reduction Plan Vodafone UK   
+2024 | Carbon Reduction Plan Vodafone UK   
+13
+Introduction   |  The Detail   |  Completed Projects   |   Future Projects   |   Sign-off 
+This Carbon Reduction Plan has been completed in accordance with PPN 06/21 and associated 
+guidance and reporting standard for Carbon Reduction Plans. 
+Emissions have been reported and recorded in accordance with the published reporting standard 
+for Carbon Reduction Plans and the GHG Reporting Protocol corporate standard 3  and uses the 
+appropriate 2023 Government emission conversion factors or equivalents, depending on the data 
+available for greenhouse gas company reporting 4 .
+Scope 1 and Scope 2 emissions have been reported in accordance with SECR requirements, and 
+the required subset of Scope 3 emissions have been reported in accordance with the published 
+reporting standard for Carbon Reduction Plans and the Corporate Value Chain (Scope 3) Standard 5 . 
+This Carbon Reduction Plan has been reviewed and signed off by the board of directors (or 
+equivalent management body). 
+Signed on behalf of Vodafone UK: 
+Andrea Dona, UK Networks Director & Development and Net Zero Sponsor
+Date: 10th July 2024
+1. Freitag, C. et al. (2021), The real climate and transformative impact of ICT: A critique of estimates, trends, and regulations.  
+2. In 2018 Vodafone Group carried out a materiality assessment to determine its most significant Scope 3 emissions. None of 
+the five categories that the UK Government has mandated to be included in this Carbon Reduction Plan were deemed to be 
+material for Vodafone. Vodafone’s main Scope 3 emissions relate to goods and services we purchase, energy-related services, 
+consumer use of sold products and investments. As a result, we did not record Scope 3 data for the categories that UK 
+Government has requested in our baseline year.  
+3. https:/ / ghgprotocol.org/ corporate-standard  
+4. https:/ /www.gov.uk/ government/ collections/ government-conversion-factors-for-company-reporting  
+5. https:/ / ghgprotocol.org/standards/scope-3-standard
+Declaration and sign off 

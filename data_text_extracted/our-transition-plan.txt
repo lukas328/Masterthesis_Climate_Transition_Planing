@@ -1,0 +1,127 @@
+Our new, more ambitious emissions 
+targets strengthen our commitment 
+to tackle climate change. 
+We believe doing this is right for the world and for our business. 
+We have a responsibility, and a shared interest, to minimise carbon
+emissions to help protect the future of the planet. This directly aligns 
+with our company purpose to enable the sustainable and efficient 
+delivery of the natural resources essential to create a better future for 
+the world. We discuss the broader impact of the transition to a low-
+carbon economy, including risks and opportunities in the markets for 
+commodities produced by our customers and their technology needs, 
+in our TCFD report (see pages 56 to 59).
+OUR EMISSIONS PROFILE 
+We track and report GHG emissions across our full value chain and
+from this we know that:
+• the overwhelming majority, 97%, of Weir Group’s end-to-end
+carbon footprint is attributable to downstream value-chain scope 3, 
+specifically the use phase of our long-lifespan products and
+solutions on our customers’ sites - these are, in turn, within our 
+customers’ scope 1&2 emissions, so we have a compelling shared
+goal to reduce that footprint; 
+• Upstream supply chain scope 3 emissions make up another 2.5%, 
+predominantly purchased goods and services and transport; and
+• Scope 1&2 emissions from our own operations make up0.5%.
+This resolutely validates our sustainability roadmap strategic priority of 
+Creating Sustainable Solutions. We believe we can reduce our scope
+3 emissions and enable net zero for our customers' operations by 
+shaping the next generation of smart, efficient and sustainable
+solutions with cutting-edge science and our tradition of innovation. 
+However, as a company we are committed to measuring, reporting
+and reducing emissions across our full value chain.
+Scope 1&2 emissions – Weir Group’s own operations.
+This category includes emissions from within our operations within
+our management control, including energy used in manufacturing
+and other facilities. We track consumption of all forms of energy and
+greenhouse gases in our facilities and quantify emissions quarterly 
+for internal monitoring purposes, in addition to annual external 
+reporting. Scope 1&2 market-based emissions in 2022 are below 
+our SBTi commitments at around17% below the 2019 baseline 
+of 184 ktCO2e (see Sustainability Review, page 45). 
+One challenge for Weir is that we manufacture a high proportion
+of products in our own foundries and therefore recognise a higher 
+proportion of emissions in scopes 1&2 than if we were to export 
+emissions to scope 3 by contracting out manufacturing. This 
+highlights the importance of comprehensive emissions disclosure, 
+including the impact of purchased goods and services.
+Scope 3 emissions – Weir Group’s upstream and 
+downstream value chain.
+Emissions from right across our value chain, other than within our 
+own operations, fall within scope 3. This ranges from sourcing of 
+materials through to the recycling or disposal of products at the end
+of life. While we are identifying actions to reduce emissions from 
+materials and components that we buy, as well as transport 
+emissions, these categories and associated costs are not material to
+our target delivery. Our footprint is heavily weighted downstream in
+our customers’ sites because our products are used in the most 
+energy intensive parts of the mine – the load-haul cycle and in
+comminution. So, as we grow and sell more products into our 
+growing markets, the result would be additional scope 3 emissions. 
+This is why our technology strategy is geared towards providing new 
+or improved technologies that help our customers use energy more
+efficiently, which together with their own commitments to source
+renewable energy, helps to reduce our scope 3 footprint.
+SCIENCE BASED TARGETS
+In 2022, we were pleased to submit new, more ambitious scope 1,2
+and 3 emissions reduction targets to the Science Based Targets 
+Initiative (SBTi) for validation. The new targets include absolute 
+reductions in market-based scope 1& 2 emissions of 30% and scope 
+3 emissions of 15% by 2030, versus a 2019 baseline. The targets are
+more ambitious than our previous goals, set in 2020, in two ways:
+• switching from an intensity to an absolute emissions reduction
+basis will drive deeper cuts in scope 1& 2 emissions; and
+• the new scope 3 commitment adds targets for emissions in Weir’s 
+upstream and downstream value chain for the first time.
+These new targets will make a significant contribution to
+decarbonising the mining industry. Delivering them would mean that 
+in 2030, an annual reduction of circa 4.2 million tonnes CO2e is 
+achieved – which is equivalent to the annual emissions of almost one
+million petrol cars. 
+SCOPE 4 – EMISSIONS AVOIDED BY THE TAKE-UP OF 
+ENERGY EFFICIENT TECHNOLOGIES BY CUSTOMERS 
+The comparative measure between the emissions of one technology 
+versus an alternative has the term scope 4 – avoided emissions. It’s 
+an emerging term that’s not currently covered in the greenhouse gas 
+reporting protocol. However, it has the potential to quantify the
+sustainability benefit of our products and solutions and thereby 
+support our customers in delivering their net zero targets.
+Because it’s a comparative rather than absolute measure, quantifying
+scope 4 benefit is complex. So we are using a data-driven approach, 
+devised by internal and external subject matter experts, and which we
+intend to have validated by a third party. This will underpin two value
+drivers for Weir.
+Firstly, our scope 4 emissions data will become part of an enhanced
+and compelling customer value proposition, additive to total cost 
+of ownership (TCO) benefits. For customers, we are turning TCO into
+'TCO-squared' by adding CO2e benefit to the mix.
+Secondly, while the UK taxonomy has yet to be established, our 
+robust approach creates potential for a larger proportion of our sales 
+to be classified as green revenues as we quantify the substantive
+CO2e savings of our products in use at customer sites versus 
+alternative technologies.
+MEASUREMENT AND DISCLOSURE
+We publish scope 1, 2 and 3 emissions on pages 54 to 55 in this 2022
+Annual Report. Changes in the assumptions underpinning these
+calculations can have a substantial effect on the outcome. For 
+example, in accordance with the GHG Protocol: Corporate Accounting
+and Reporting Standard, for each Weir machine sold in the accounting
+year, we have calculated emissions based on power consumption
+over the lifetime of the equipment – typically the life of the mine on
+which it operates. So we are committed to collaborating with our 
+supply chain partners and customers to further develop a consistent 
+approach for reporting, target setting and progress tracking across 
+our industry.
+In line with the Greenhouse Gas Protocol, we continue to review our 
+reporting in the light of any changes in business structure, calculation
+methodology and the accuracy or availability of data. As a result, we
+have re-stated 2021 scope 3 emissions to reflect changes in
+methodology and data. Due to recognised inherent uncertainties in
+calculating scope 3, we have adopted a continuous improvement 
+approach.We will continue to review our processes and disclose any 
+restatements in a timely and transparent manner.
+Strategic Report Governance Financial Statements Additional Information
+SUSTAINABILITY REVIEW
+OUR EMISSIONS STRATEGY
+The Weir Group PLC Annual Report and Financial Statements 2022 50
+OUR TRANSITION PLAN 
+

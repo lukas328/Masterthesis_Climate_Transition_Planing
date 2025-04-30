@@ -1,0 +1,3487 @@
+Taskforce on 
+Climate-Related 
+Financial 
+Disclosures 
+Report 2022  
+Citi’s Approach to Climate Change  
+and Net Zero
+
+2 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+About This Report
+This report presents information on Citi’s efforts 
+towards implementing the recommendations 
+of the Task Force on Climate-related Financial 
+Disclosures (TCFD). This is our fourth TCFD 
+Report since we voluntarily began reporting 
+using the framework in 2018.
+This report reflects a summary of our progress 
+made to date towards incorporating climate risk 
+and opportunity identification and management 
+into our business strategy and disclosure efforts, 
+consistent with TCFD recommendations. The 
+available tools and methodologies to assess 
+climate impacts, evaluate progress in reducing 
+greenhouse gas (GHG) emissions and assess 
+potential climate-driven risks to our own assets 
+and business strategy continue to evolve and 
+improve. Citi is committed to contributing to 
+methodology improvements and evolving its 
+tools to assess climate risk as well as advancing 
+our Net Zero Plan. Climate data, including the 
+quantification of the GHG emissions associated 
+with our clients and our estimates of emissions 
+associated with clients’ value chains, will continue 
+to evolve as this data improves. 
+Citi has committed to achieving net zero emissions 
+associated with our financing activities by 2050, 
+and net zero emissions for our operations by 
+2030. Our 2021 TCFD Report included Citi’s 
+baseline financed emissions and 2030 targets for 
+our Energy and Power loan portfolios, including 
+the methodologies used and initial transition 
+plans. This year’s report includes our first update 
+since setting those targets, our progress made 
+to date on our Net Zero Plan and inaugural 2030 
+targets for four additional loan portfolio sectors —  
+Auto Manufacturing, Commercial Real Estate, 
+Steel and Thermal Coal Mining. 
+Our climate risk and net zero work are related and 
+reinforce each other . Whereas our climate risk 
+work focuses on the identification, measurement 
+and management of key risks arising from climate 
+change, our net zero work focuses on Citi’s 
+impacts on the climate and achieving our net 
+zero emissions targets, which also help reduce 
+risk. Common linkages exist between the two 
+workstreams. For example, both rely on common 
+data elements such as GHG emissions and a better 
+understanding of our clients’ climate change 
+mitigation and/or adaptation plans. Additionally, 
+risk management tools can help achieve our net 
+zero goals, and our Net Zero Plan can drive risk 
+mitigation, particularly for credit, strategic and 
+reputational risk.
+Contents
+Letter from the CEO
+Part 1: Introduction 
+Part 2: Governance 
+Part 3: Strategy 
+Part 4: Risk Management  
+Part 5: Metrics & Targets 
+Part 6: Looking Forward  
+Appendices  
+04
+06
+11
+17
+39
+49
+64
+67
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 3
+Our TCFD disclosure reflects our commitment to 
+understanding and integrating climate risk into 
+our risk management governance, processes and 
+strategies, as well as our commitment to achieving 
+our net zero goals.  
+
+4 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+The events of the past year have underscored that the transition to a 
+net zero economy will not be smooth or linear . The global ramifications 
+of Russia’s invasion of Ukraine have led to massive volatility in the 
+energy markets and renewed concerns about energy security. This has 
+created additional momentum for the energy transition to counter the growing climate crisis. It has also 
+raised new considerations that must be accounted for . 
+Addressing the world’s energy and climate needs will be a balancing act. On the one hand, investing in 
+energy security is essential — the global economy still runs primarily on oil and natural gas and many 
+developing nations have neither the resources nor the infrastructure to make a quick shift to renewables. 
+At the same time, investment in clean energy technologies is critical to addressing climate change, and 
+support for companies working to dramatically reduce their carbon footprints must continue wherever 
+they may be on their respective journeys. These considerations — the energy transition, energy security 
+and access to energy — are not mutually exclusive and must be solved for simultaneously.
+At Citi, we are putting our expertise and resources to work to help our clients tackle these climate and 
+energy challenges. In January 2022, we released our initial plan for achieving net zero emissions by 2050, 
+setting ambitious 2030 financed emissions reduction targets for our energy and power loan portfolios. 
+In this year’s Task Force on Climate-Related Financial Disclosures (TCFD) Report, we share our first 
+year of progress towards these targets and set out 2030 targets for additional sectors including auto 
+manufacturing, commercial real estate, steel and thermal coal mining.  
+I have engaged with many of our clients around the world who are committed to doing what it takes to 
+transition to a low-carbon economy. There is a universal acknowledgement, particularly within the hard-
+to-abate sectors and developing economies, that the transition will take time. So, we will continue to work 
+alongside our clients as they map out pathways that are orderly but ambitious, whilst ensuring they can 
+continue to meet the world’s energy needs.
+We need to invest heavily to scale new sustainable technologies and their supporting infrastructures to be 
+viable alternatives to fossil fuels, and we have to drive down their associated cost curves to ensure their 
+affordability. Nowhere is the criticality of affordable solutions more important than in emerging markets. 
+Our work last year supporting Indonesia and Vietnam’s Just Energy Transition Partnerships and Egypt’s 
+ 
+Letter from the CEO
+
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 5
+landmark energy transition program has resulted in more actionable playbooks that other countries can 
+learn from and follow.  
+Obtaining more reliable and actionable climate data also continues to be a challenge that we are navigating 
+across our businesses, and we’ve been supportive of regulatory developments to ensure more consistent, 
+comparable and reliable climate disclosures.
+Over the past year , we have continued to build up our capacity to manage and mitigate climate risks, whilst 
+also realigning our own business around opportunities in the energy transition. That includes augmenting 
+our Clean Energy Transitions banking team, expanding our Climate Risk team and establishing a Head of 
+Net Zero Operations to help realize our net zero commitment for Citi’s own sites and facilities. Despite 
+the geopolitical and macroeconomic headwinds, we continue to make progress toward meeting our 
+commitment to financing and facilitating $1 trillion in sustainable finance by 2030. 
+Meeting the need for energy access whilst also accelerating the transition to a low-carbon economy is no 
+easy feat. But as the world’s most global bank that has an on-the-ground presence in 95 countries and does 
+business in nearly 160 countries, we have the unique perspective and local knowledge to support solutions 
+for the clients and communities we serve.
+I invite you to learn more about Citi’s approach and initiatives across our firm in the pages that follow. Our 
+TCFD Report represents a hallmark of all our climate-related efforts — our commitment to transparency. 
+The report describes our continued efforts towards our climate goals and disclosures in line with the TCFD 
+framework. We are transparent about our progress and the challenges we face on the path to net zero 
+and are committed to sharing our experience so that we all can learn together and chart the course to a 
+healthier , more sustainable future.  
+.  
+Jane Fraser | Chief Executive Officer, Citi
+6 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Introductory Statements
+Citi has over two decades of experience assessing and managing environmental- and social-related risks 
+and opportunities. As these issues have continued to evolve, so has our understanding of climate-related 
+risks and opportunities. This year , we have increased the number of our loan portfolio sectors covered by 
+our Net Zero Plan from two to six. With each sector that we bring into our Net Zero Plan, we leverage our 
+learnings from the other sectors, including the methodologies and metrics used and the client engagement 
+tools developed. We remain committed to improving upon the progress made to date. 
+ 
+Introduction
+ 
+PART 1
+Defining Our Net Zero Plan 
+Our Net Zero Transition Principles and our Net Zero Plan provide the foundation for us to implement 
+our goal of achieving net zero operational emissions by 2030 and for our financing by 2050. Our 
+sector-specific financed emissions reduction targets for each of the in-scope lending portfolios now 
+includes Auto Manufacturing, Commercial Real Estate, Energy, Power , Steel and Thermal Coal Mining. 
+A broad governance structure oversees our Net Zero Plan, consisting of the full Board and three 
+Board committees: an ESG Council chaired by our CEO, and a newly formed Climate and Sustainability 
+Council, which combines our prior Global Sustainability Steering Committee and our Net Zero Task 
+Force. Operationalizing this Net Zero Plan will require a coordinated effort across our businesses. 
+We are providing financial support and advice for climate solutions under our $1 Trillion Sustainable 
+Finance Commitment. In addition, we are working to improve our own skill base to better assess 
+and support our clients. We are providing climate-related training to frontline banking teams and 
+risk managers to advance our engagement strategy to better assess our clients’ climate risk and 
+transition plans while maintaining transparent and productive communication with a variety of 
+stakeholders including investors, regulators and policymakers. Our sectoral targets, exposures and 
+financed emissions and intensity metrics will serve as benchmarks to keep us accountable and 
+highlight any needs for corrective action. Our Net Zero Plan is summarized in the graphic below. 
+Please click on the links for further detail on each element of our Net Zero Plan. 
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 7
+Citi’s Net Zero Plan
+Implementation Strategy Engagement Strategy Metrics and Targets
+Governance
+$1 Trillion Sustainable 
+Finance Commitment
+Internal policy development 
+and implementation
+Internal training and capacity 
+building
+Business unit restructuring
+Investor and stakeholder 
+engagement
+2030 sectoral targets
+Absolute emissions and 
+emissions intensity metrics
+(including baselines) 
+Sectoral exposures
+Operational targets and 
+baselines
+Regulator and policymaker 
+engagement
+Client engagement and review
+Board of Directors 
+and relevant 
+Board Committees
+Climate and 
+Sustainability 
+Council
+Climate Risk 
+Steering GroupESG Council
+Foundations
+Net zero emissions 
+by 2030 commitment 
+for operations
+Net zero emissions 
+by 2050 commitment 
+for ﬁnancing
+Citi’s Net Zero
+ Transition Principles
+We commit to continually apply lessons learned and value the feedback we have received to date. For 
+example, we recently were included in the Institutional Investors Group on Climate Change’s and Transition 
+Pathway Initiative’s (TPI)1 financial sector pilot. The TPI is developing a framework to assess the financial 
+sector’s preparedness for energy transition and, to that end, conducted a pilot analysis of 27 banks from 
+across the world, including Citi. The pilot indicators attempted to capture a comprehensive picture of 
+Citi’s Net Zero Plan by looking at our (1) net zero commitments; (2) short- and medium-term targets; (3) 
+decarbonization strategies; (4) climate governance; (5) climate policy engagement; and (6) audit and 
+accounts. The TPI pilot found that Citi was a leader among other pilot participants in climate governance 
+and noted the granularity of our disclosures regarding our exposure to high-risk sectors. 
+As a global bank, we also engage with various local and national policymakers around the world on a range 
+of topics including net-zero initiatives, modeling and disclosure. We are also a part of the Net Zero Banking 
+1 The TPI Global Climate Transition Centre, launched by the Grantham Research Institute on Climate Change and the Environment (based at 
+the London School of Economics and Political Science) is an independent, authoritative source of research, designed to assess the world’s 
+biggest companies as they transition to a low-carbon economy, with particular focus on corporate climate governance and carbon emissions. 
+For more information, please see the TPI’s website.
+8 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Alliance (NZBA), which is part of the broader Glasgow Financial Alliance for Net Zero (GFANZ). This year’s 
+Report also discusses the recommendations and voluntary guidance of GFANZ’s Financial Institutions Net-
+zero Transition Plans.
+It is difficult to reflect on this past year without acknowledging the humanitarian crisis created by Russia’s 
+invasion of Ukraine in February 2022 and the resulting economic uncertainty in global energy security and 
+commodity prices. These events have highlighted the challenges inherent in the clean energy transition, 
+as well as the importance of an orderly and equitable transition that minimizes global disruption while 
+ensuring access to energy. We are working with our clients to explore ways to align their individual 
+emissions reduction strategies with the broader transition to a low-carbon economy. 
+Informed by GFANZ Recommendations and Guidance
+Citi is a member of the GFANZ and NZBA steering groups that provide voluntary guidance on the 
+development of net zero leadership initiatives and frameworks. 
+In June 2022, GFANZ released its recommendations and voluntary guidance for Financial 
+Institution Net-zero Transition Plans  which identifies four approaches to support real economy  
+GHG emissions reductions:
+1. Climate Solutions: financing or enabling entities and activities that develop and scale  
+climate solutions; 
+2. Aligned: financing or enabling entities that are already aligned to a 1.5°C pathway; 
+3. Aligning: financing or enabling entities committed to 1.5°C-aligned pathways; and  
+4. Managed Phaseout: financing or enabling the accelerated managed phaseout of high-emitting 
+physical assets. 
+To that end, the guidance recommends that a net zero plan address ten core components grouped 
+into five themes: (1) Foundations; (2) Implementation Strategy; (3) Engagement Strategy; (4) Metrics 
+and Targets; and (5) Governance. Our Net Zero Plan graphic on page 7 builds upon this guidance.
+In addition to continued implementation of the TCFD recommendations, this report is also informed 
+by the GFANZ guidance. We have drawn from GFANZ’s guidance in developing our approach, but note 
+that there may be some areas where we deviate if a particular recommendation does not make sense 
+for Citi given our businesses and unique geographic footprint.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 9
+Timeline of Climate Action
+2015
+Launched first Sustainable Progress Strategy 
+and $100B Environmental Finance Goal
+2017
+Announced goal to source 100% renewable  
+electricity for our facilities by 2020
+2019
+Issued inaugural €1B green bond
+First U.S. signatory of the Principles for  
+Responsible Banking
+Co-developed the Poseidon Principles
+2021
+Announced net zero emissions by 2050
+Founding member of  
+the Net-Zero Banking Alliance 
+Joined Breakthrough Energy Catalyst and RMI 
+Center for Climate Aligned Finance
+2023
+Added Auto Manufacturing, Commercial Real 
+Estate, Steel and Thermal Coal Mining loan 
+portfolios to our Net Zero Plan
+2007
+Issued our first Climate Change  
+Statement, supporting a globally connected  
+market-based climate policy
+First U.S. bank to set a GHG reduction target
+Launched 10-year $50B Climate Initiative
+2014
+Co-created The Green Bond Principles
+2018
+Published first TCFD Report 
+Signed “We Are Still In” Declaration 
+ in support of the Paris Agreement
+2020
+Launched updated Sustainable Progress Strategy
+Launched Citi Impact Fund
+Issued $1.5B green bond
+Joined Partnership for Carbon Accounting  
+Financials (PCAF)
+Published second TCFD Report 
+2022
+Published third TCFD Report and initial  
+Net Zero Plan 
+Founding signatory of the Sustainable Steel 
+Principles with RMI
+10 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+A Brief Note on Materiality
+At Citi, we recognize that in general, assessing materiality requires thoughtful consideration not 
+only of any applicable materiality standard, but also of our purpose in assessing materiality and in 
+communicating to our stakeholders. Our public disclosures, including our voluntary environmental, 
+social and governance (ESG) and climate-related disclosures, include a range of topics that we 
+believe are relevant to our businesses and that are of interest to investors and other stakeholders. 
+We use the definition of materiality established under U.S. federal securities laws for the purposes 
+of complying with the disclosure rules and regulations promulgated by the U.S. Securities and 
+Exchange Commission (SEC) and applicable stock exchange listing standards. However , our voluntary 
+ESG disclosures consider broader definitions of materiality promulgated by other frameworks and 
+reporting guidelines that take into consideration a wider range of factors, including the views of 
+stakeholders and our ambition to play a leading role in financing the energy transition. 
+For the purposes of discussing climate risks and opportunities in this TCFD Report, we use an 
+approach to materiality that is consistent with the TCFD recommendations. Therefore, this report 
+incorporates a climate change “double materiality” perspective — looking at both the climate’s impact 
+on our company, and our company’s impact on climate — and, for example, uses longer time frames 
+to assess potential impacts than those time frames customarily used in our required disclosures, 
+including those mandated by SEC rules and regulations. This layered approach means that this TCFD 
+Report and many of our other voluntary disclosures capture details on ESG issues, including climate-
+related risks and opportunities that may not be, and are not necessary to be, incorporated into 
+our required disclosures. Our approach to materiality in this TCFD Report and other voluntary ESG 
+disclosures also means that statements made in this report and in our other voluntary disclosures 
+use a greater number of assumptions and estimates than many of our required disclosures. These 
+assumptions and estimates are likely to change over time, and, when coupled with the longer time 
+frames used in these voluntary disclosures, make any assessment of materiality inherently uncertain. 
+In addition, our climate risk management efforts and net zero strategy remain under development, 
+and the data underlying our climate risk management efforts and strategy are expected to evolve 
+over time, particularly given ongoing challenges related to the quality, accuracy and quantity of 
+climate data. As a result, we anticipate that certain disclosures made in this report and our other 
+voluntary ESG disclosures are likely to be amended, updated or restated in the future as the quality 
+and completeness of our data and methodologies continue to improve. 
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 11
+Citi’s climate governance structure continues to evolve as we advance our understanding of Citi’s climate 
+risk and our progress under the Net Zero Plan. Since our 2021 TCFD Report, we have:
+ • Expanded our Board of Directors’ oversight of certain climate-related matters such as climate risk 
+and climate and ESG disclosures. Codified the integration of climate-related issues with certain 
+Board committees, including incorporating oversight of our climate disclosure risk and controls 
+environment into the Audit Committee (AC) charter and climate risk oversight into the Risk 
+Management Committee (RMC) charter;
+ • Commenced an ESG Disclosure Committee to support the Board and AC and provide oversight of 
+Citi’s disclosure controls and procedures;
+ • Expanded and realigned our Climate Risk team to be part of the Enterprise Risk Management 
+function within Risk and further added subject matter expertise; 
+ • Launched two climate training pilots for our BCMA (Banking, Capital Markets and Advisory), Risk 
+Management and Global Functions teams involving in-person workshops focused on providing 
+foundational knowledge of climate risks and client transition plans;
+ • Further built out our Clean Energy Transition (CET) team (formed in 2021 and expanded in 2022 
+to include Corporate Banking), which focuses on providing advisory and capital-raising services to 
+companies involved in energy transition;
+ • Expanded capacity of our Sustainability & Corporate Transitions (SCT) team to cover the Asia 
+Pacific (APAC) region with new team members based in Singapore and Australia, and formed an 
+SCT Corporate Banking Team; and
+ • Established a new management position — the Head of Net Zero Operations — to provide leadership 
+and expertise to help us reach our net zero operations commitment.
+Our 2021 TCFD Report included a diagram which illustrated our climate governance structure. The 
+following diagram is an updated version of last year’s structure and reflects the changes Citi made since 
+our last TCFD Report.
+ 
+Governance
+ 
+PART 2
+12 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Climate Change Governance at Citi
+Executive Management Team
+CEO
+Global ESG 
+Council 
+Global Functions
+Chief Risk Ofﬁcer CEO of Institutional 
+Clients Group
+Steering and Working Groups
+Global Head of 
+Enterprise Services 
+and Public Affairs
+Legal
+Internal 
+Audit
+Finance
+Audit Committee Risk Management Committee
+Board of Directors
+Nomination, Governance and 
+Public Affairs Committee
+Climate Risk Steering Group Climate and 
+Sustainability CouncilClimate Risk Working Group
+Management and 
+Specialized Functions
+Enterprise 
+Services and 
+Public Affairs
+Independent 
+Risk 
+Management
+Institutional Clients Group
+Sustainability 
+& ESG Team
+Climate Risk 
+Team
+Citi Location 
+and Realty 
+Services
+Environmental 
+and Social Risk 
+Management 
+Team 
+Sustainability 
+& Corporate 
+Transitions Team
+Natural Resources 
+& Clean Energy 
+Transition Team
+Sustainable Debt 
+Capital Markets Team
+Markets ESG Team
+Banking, 
+Capital 
+Markets 
+and 
+Advisory 
+(BCMA)
+Global 
+Markets
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 13
+Board Oversight
+Citi’s full Board of Directors has ultimate oversight of Citi’s approaches to considering, evaluating and 
+integrating climate-related risks and opportunities throughout the organization, including oversight of our 
+Net Zero Plan.
+The Board receives regular reports from key personnel regarding climate-related matters. Since 2021, the 
+Board has received four reports regarding Citi’s Net Zero Plan and progress towards Citi’s climate-related 
+goals. The Board also received a climate risk and net zero deep-dive tutorial from the Chief Sustainability 
+Officer (CSO), Global Head of Climate Risk and the Global Head of Corporate Banking.
+Three Board-level committees also have direct oversight responsibility for climate-related activities: the 
+Nomination, Governance and Public Affairs Committee (NGPAC), the Risk Management Committee (RMC) 
+and the Audit Committee (AC).  
+The NGPAC oversees many of Citi’s ESG activities, including receiving reports from and advising 
+management on climate-related matters. The NGPAC receives reports from Citi’s Chief Sustainability 
+Officer on at least an annual basis. The NGPAC also reviews Citi’s policies, programs and disclosure 
+approach for sustainability and climate change issues, and oversees management’s engagement with 
+investors and major external stakeholders on sustainability and climate change matters. Since 2021, the 
+NGPAC has received a number of meetings to review shareholder proposals (including ones related to 
+fossil fuel financing and biodiversity) and received an ESG update in 2022. For more information on the 
+roles and responsibilities of the NGPAC, please see our NGPAC Charter.
+The RMC provides oversight of Citi’s risk management framework and reviews Citi’s key risk policies 
+and practices, including those focused on climate-related risks. The RMC also receives updates, as 
+necessary and appropriate, from management on climate-related risk. During 2022, the RMC received 
+updates on climate risk including the climate risk management framework, client-level climate 
+assessment methodology and results of climate scenario analysis. For more information on the roles and 
+responsibilities of the RMC, please see our RMC Charter.
+The AC assists the Board in fulfilling its oversight responsibilities, such as general compliance with legal 
+and regulatory requirements and our internal disclosure controls and procedures. Ultimately, the AC has 
+oversight over the controls and procedures related to Citi’s ESG and climate-related reporting, including 
+both voluntary disclosures and regulatory filings. In 2022, the AC held two meetings to review existing ESG 
+disclosure controls and procedures. For more information on the roles and responsibilities of the AC, please 
+see our AC Charter.
+Details regarding our Board’s and Board committee’s oversight of climate matters, including the scope of 
+the NGPAC’s oversight of Citi’s climate activities and performance and the RMC’s oversight of risk policies 
+and frameworks, are described in greater detail in our prior TCFD Reports and in these committees’ 
+charters on our website.
+14 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Management Responsibility
+The role of assessing and managing climate-related risks and opportunities is a shared responsibility 
+across Citi. Senior managers from the Institutional Clients Group, Risk Management, Enterprise Services 
+and Public Affairs, Finance and Legal collaborate and work simultaneously to manage climate risk and 
+implement Citi’s Net Zero Plan. 
+In 2022, Citi’s climate management governance structure continued to evolve as we enhanced our climate 
+strategy to implement our Net Zero Plan and meet our global objectives. We updated and reorganized our 
+climate management structure to respond to our growing understanding of climate-related risks and how 
+to best achieve our climate goals. Accordingly, we added a new position, the Head of Net Zero Operations, 
+in 2022 to provide leadership and expertise to specifically help us reach our goal of net zero emissions 
+for our operations by 2030. This role works closely with the Citi Location and Realty Services team, which 
+is responsible for monitoring and reporting on operational footprint goals. Also, in 2022 we realigned 
+our Climate Risk team to be housed within our Enterprise Risk Management function to further embed 
+climate within our risk management policies and practices. We continued to grow our Climate Risk team 
+to increase the capabilities and climate-related expertise of this important management body. We also are 
+combining our former Global Sustainability Steering Committee and Net Zero Task Force into the Climate 
+and Sustainability Council to further operationalize our net zero and sustainability goals and facilitate cross 
+functional collaboration across Citi’s businesses. 
+In 2022, the ESG Council, which consists of senior members of management and certain subject matter 
+experts who provide review and guidance of our ESG activities and goals, met on a near monthly basis 
+to discuss sustainable finance progress, climate data governance and progress towards our net zero 
+operations commitment. The ESG Council additionally reviewed our net zero financing progress, which 
+included discussions of targets for new sectors and for the Energy and Power sectors.
+Given Citi’s global presence and the growing international shift from voluntary reporting to mandated 
+climate-related disclosures, our climate governance has grown to further involve global functions including 
+Legal, Internal Audit, Finance and Compliance. These global functions work with our management and 
+specialized groups to assist in the development of our climate-related disclosures and prepare for emerging 
+regulation applicable to our global entities. 
+Additional details regarding the management structure of our climate governance including our corporate, 
+risk management, business units and operations and technology groups are described in greater detail in 
+pages 12-14 of our 2021 TCFD Report.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 15
+Skills, Culture & Expertise
+We understand that achieving our climate goals and implementing our Net Zero Plan requires the 
+members of our governance teams to further develop climate-related expertise and capabilities. At Citi, 
+we believe that the Board should be composed of individuals who are skilled in more than one area, 
+with the ability to advise on a wide array of potential risks, and thereby contribute more broadly to the 
+oversight of the firm. We therefore continue to educate our entire Board, as well as senior management, 
+to build out climate-related expertise and capabilities. For example, as discussed earlier , since 2021, 
+the Board has received four reports regarding our Net Zero Plan and a deep-dive net zero tutorial 
+from seniors.  Our senior management also continued to expand their climate expertise and capability 
+to evaluate and manage climate risk and implement our Net Zero Plan through internal deep-dive 
+presentations designed for specific banking teams and participating in internal and external webinars 
+and roundtables. 
+Realizing our climate goals and implementing our Net Zero Plan also requires a skilled workforce with 
+climate expertise. Citi is continuing to evaluate and develop employee training pilots on climate change. 
+We have continued to offer our enterprise-wide training module on climate risk and have launched 
+targeted foundational training for frontline banking teams. For more information, please see the Climate 
+Training section. 
+Remuneration
+Sustainability and climate-related goals are incorporated into several executive scorecards, which are 
+key elements of performance management tied to the determination of incentive compensation for 
+these executives. 
+Scorecards for members of the Executive Management team and senior management include progress 
+on our Net Zero Plan and target setting, our $1 Trillion Sustainable Finance Commitment and climate risk 
+management. Certain positions have specific scorecard elements, for example: 
+ • CEO - Driving the delivery of environmental and social finance under our $1 Trillion Sustainable 
+Finance Goal; and 
+ • CEO of ICG, Chief Risk Officer , Global Head of Enterprise Services and Public Affairs, and Global 
+Co-Heads of BCMA - Supporting the development and operationalization of Citi’s Net Zero Plan and 
+applicable 2030 targets, and driving the delivery of environmental and social finance under the $1 
+Trillion Sustainable Finance Goal.
+For further detail on our $1 Trillion Sustainable Finance Goal, please see the “Metrics & Targets” section of 
+this report. 
+Moreover , climate change strategy and risk management performance goals are incorporated into annual 
+goals and performance review processes for a number of our senior executives and their teams that are 
+16 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+responsible for developing and implementing our approach to climate change. These executives include 
+the CSO, Head of Environmental and Social Risk Management (ESRM), Global Head of Climate Risk, Head 
+of Net Zero Operations and the Global Head of Building Operations, whose team is responsible for our 
+environmental footprint goals.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 17
+This period of low-carbon transition presents new challenges and unique opportunities which we are 
+embracing across the firm. As clients around the globe seek to both develop and take advantage of these 
+opportunities, we want to be there to support their transition. To this end, we have re-organized key 
+business teams to provide cross-sector expertise and financing. We are also focused on managing the risks 
+that climate change presents to our firm through updated climate risk management processes as well as 
+through our Net Zero Plan. 
+Net Zero Commitment
+In 2021, Citi announced our commitment to achieving net zero GHG emissions by 2050. In line with 
+this commitment, we have set interim targets that were developed in accordance with our net zero 
+methodology, outlined below. 
+ 
+Strategy
+ 
+PART 3
+Step 1:  
+Identifying Scope and 
+Metrics 
+To start, we determine what emissions are relevant and appropriate to include for 
+each sector and what parts, if any, of the sector portfolio should be excluded from 
+the process. 
+Step 2:  
+Establishing the Baseline  
+Next, we calculate financed emissions and emissions intensity metrics for each 
+sector , and determine the appropriate type of baseline and target for  
+that sector . Here, we determine what data sources to use and determine our data 
+quality score. 
+Step 3:  
+Identifying Decarbonization 
+Pathways and Setting 
+Targets  
+To understand the possible pathways from our baseline to our ultimate net zero 
+target, we benchmark against available scenarios for each sector and decide on 
+the appropriate one. Next, we identify the difference between our current portfolio 
+emissions and where they need to be by 2030, under the selected decarbonization 
+pathway. We then establish our interim 2030 targets.
+Step 4:  
+Developing Strategies for 
+Achieving the Targeted 
+Emissions Reductions   
+This next step involves the development of an implementation plan to achieve 
+targeted reductions in each of the sectors. For corporate clients material to our net 
+zero boundary, this entails a review of their decarbonization goals and plans together 
+with more broadly engaging with them on their strategy and identifying transition 
+business opportunities with respect to (for example) transition finance or advisory.
+Step 5:  
+Reporting and Verification 
+We report our emissions and information on our transition plan in our annual TCFD 
+disclosure. This includes financed emissions attributed from our clients’ Scope 1, 
+Scope 2 and relevant Scope 3 emissions. This stage also includes continual work on  
+improvements to our financed emissions data, such as using client engagement to 
+increase and enhance publicly reported information.
+18 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Net Zero Plan for New Sectors
+Before detailing our Net Zero Plan for Auto Manufacturing, Commercial Real Estate, Steel and Thermal Coal 
+Mining, this section briefly describes how we calculate our emissions baselines and key metrics utilizing 
+the Partnership for Carbon Accounting Financials (PCAF) methodology and analyze various climate 
+scenarios (including those published by the International Energy Agency (IEA) to understand the potential 
+decarbonization pathways and establish emissions reduction targets. 
+Establishing our Net Zero Methodology 
+PCAF is an open collaboration of financial institutions working to develop a global carbon accounting 
+standard for how financial institutions measure and disclose Scope 3 “financed emissions,” or the underlying 
+GHG emissions generated by the entities in which a financial institution invests or to which it lends money. 
+Citi joined PCAF in 2020 and has drawn upon its methodology in calculating our financed emissions. For 
+more information on PCAF, see page 45 of our 2020 TCFD Report. 
+In last year’s report, we explained how we calculate absolute financed emissions metrics in two ways: (1) 
+using committed funds (the capital available to a client for a certain use) and (2) using outstanding funds 
+(the funds actually drawn down on such available credit), per the PCAF standard. For the purposes of 
+understanding our absolute financed emissions, forward-looking emissions management and establishing 
+absolute targets where relevant (for certain sectors), we rely on the first of these approaches — total 
+committed exposure. This more accurately reflects the maximum amount that Citi has agreed to finance 
+for these clients, although we provide both metrics for transparency. We have used the committed funds 
+approach for all four new sectors.  
+Citi’s Net Zero Transition Principles — Summary 
+In 2021, we drafted our Net Zero Transition Principles to guide us in our implementation of our net 
+zero commitment and targets.
+Net Zero Leadership – Set ambitious and transparent net zero targets aligned with climate science.
+Focus on Transition – Partner with clients through their transition and assist clients’ and 
+governments’ evaluation of carbon-intensive assets and subsequent retirement or divestment. 
+Social Responsibility – Strive to ensure Citi’s transition to net zero is consistent with sustainable 
+development objectives and assess the impact of our financing decisions upon lower-income 
+communities and developing countries.
+Client Transparency – Partner with clients to aid development of their decarbonization strategies, 
+communicating clearly and transparently.
+Constructive Engagement – Promote climate-related policies and regulations.
+Disclosure – Annually report on Citi’s progress and transition.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 19
+Currently, there is no single, global, cross-sector data provider that adequately and consistently covers our 
+needed scope for data to analyze emissions and assess physical and transition risks across our operations 
+and portfolios. Instead, we obtain historic reported data and leverage certain third-party vendors, such as 
+CDP (formerly, the Carbon Disclosure Project) and S&P Global Trucost, to supplement existing data to meet 
+specific needs. We also use the PCAF emissions factor database when needed to fill data gaps. 
+PCAF has established a data quality hierarchy that allows Citi to score emissions estimates for all clients. 
+Data scores range from 1 to 5, with a score of 1 signifying disclosed and third party verified emissions — 
+the highest quality data — and a score of 5 signifying the greatest level of estimation based on sectoral 
+economic activity emissions factors — the lowest quality data. Without client specific data, the sector-
+level estimations can result in inaccurate estimations of client emissions. We are continually working to 
+improve the data that we use, which will in turn refine the calculation results that we report in our annual 
+disclosures. Please see the “Metrics & Targets” section of this report for further details of our PCAF data 
+quality score for each of our sectors. 
+Scenario Benchmarking 
+To better inform our decarbonization pathways and support the development of interim targets, we 
+evaluate and use a variety of scenarios. Our NZBA commitment indicates that we use the UNEP FI 
+Guidelines as the framework for aligning our portfolios with pathways to net zero by 2050. However , the 
+UNEP FI Guidelines do not specify the scenarios to be used in target setting. For most sectors, Citi has used 
+the industry-specific scenarios issued by the International Energy Agency (IEA) in its annual World Energy 
+Outlook and interim special reports — notably, the IEA Sustainable Development Scenario (SDS) and Net-
+Zero Emissions (NZE) scenarios.2 We continue to assess appropriate scenario benchmarks, such as the use 
+of Carbon Risk Real Estate Monitor (CRREM) to benchmark our Commercial Real Estate portfolio. For more 
+information on scenario selection, see page 22 in Citi’s 2021 TCFD Report. 
+Auto Manufacturing  
+Our Auto Manufacturing methodology is focused on Original Equipment Manufacturers (OEM) producing 
+light-duty vehicles, which are responsible for approximately half of transport sector emissions. Medium- 
+and heavy-duty vehicles are expected to require different technologies as the transition to a low-carbon 
+economy progresses; given these distinctions, Citi has at this time excluded medium- and heavy-duty 
+manufacturers from its Auto Manufacturing boundary.
+For the Auto Manufacturing sector , we used the PCAF methodology to calculate the absolute financed 
+emissions using outstanding fund amounts and also ran the calculations using committed funds. For data 
+sources, we utilized the following:
+ • S&P Global Trucost dataset
+ • Production data from LMC Automotive, a GlobalData Company
+2 For our Steel portfolio, we have utilized the RMI Methodology. Please see below.
+20 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+ • PCAF emissions factor database
+Automotive production data included, among other items, the number of vehicles produced by each OEM, 
+and was used to estimate tailpipe emissions where needed and to calculate the physical intensity metric. In 
+determining whether to set an absolute- or intensity-based emissions target, we considered how a target 
+for this sector may accommodate continued growth in this sector and growing demand for mobility, but 
+in a manner that facilitates decarbonization. We have therefore set an intensity-based emissions target 
+for this sector . We benchmarked against the NZE 2050 scenario to determine our decarbonization 
+pathway and set our interim 2030 goal, in alignment with our already-established Energy target, which 
+relies on the same assumptions for decarbonization across the two sectors. 
+Thermal Coal Mining  
+The net zero boundary for our baseline and target includes companies deriving at least 5% of their 
+revenue from thermal coal mining activities, a broader boundary than that of our Environmental and 
+Social Risk Management (ESRM) Policy3. We are using total committed funds to calculate our financed 
+emissions baseline. We used S&P Global Trucost for emissions data and supplemented this with production 
+and revenue data. Our data quality, per the PCAF hierarchy, scored 3.1 (out of 5), reflecting our reliance on 
+production data (the availability of emissions data in this area is limited by a lower number of companies 
+disclosing such information). 
+We have selected an absolute emissions target for this sector using the International Energy Agency 
+Sustainable Development Scenario, OECD Pathway (“IEA SDS OECD”) as guidance. When benchmarking 
+against the IEA SDS OECD scenario, which is a more ambitious pathway compared to NZE 2050 due to 
+expectations that OECD countries will decarbonize sooner than the overall global approach, the implied 
+target reduction is 83.5% by 2030. We have decided to raise that thermal coal financed emissions 
+reduction target to 90%. The ESRM Policy targets a 100% credit exposure phaseout by 2030 for 
+companies deriving ≥ 25% of their revenue from thermal coal mining, and our Net Zero Plan sets an 
+emissions reduction target of 90% for companies deriving ≥5% of their revenue from thermal coal mining. 
+3 Our ESRM policy applies to companies that derive ≥25% of their revenues from thermal coal mining. Under the ESRM Policy, by the end 
+of 2025, Citi will have reduced its credit exposure to thermal coal mining companies by 50% from a 2020 baseline; after 2025, we will no 
+longer facilitate capital markets transactions or mergers and acquisition advisory and financing for these companies; and by the end of 
+2030, our remaining exposure to such companies will be zero.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 21
+Steel  
+Citi participated in a working group facilitated by the Rocky Mountain Institute (RMI) to design and develop 
+the Sustainable STEEL Principles (SSP), a solution for measuring and disclosing the alignment of steel 
+lending portfolios with 1.5°C climate targets. We have utilized the SSP Methodology to aid the scope, 
+boundaries and target setting of this sector within our Net Zero Plan. 
+For the steel production industry, the SSP Methodology focuses on the calculation of emissions intensity 
+per ton of steel produced within a fixed system boundary. It bifurcates the production of steel into two 
+categories, each with their own unique emissions reduction pathway — ore-based (mined) and scrap-based 
+(recycled). We have set a single emissions intensity target for the steel sector that accommodates the 
+differentiated decarbonization pathways for primary and secondary steel producers. 
+The SSP Methodology covers Scope 1 and Scope 2 GHG emissions and some upstream, indirect Scope 
+3 GHG emissions from purchased products (such as emissions from purchased pellets) as well as the 
+processing of sold products (such as emissions from steel rolling mills). Citi has aligned with this boundary 
+for our absolute financed emissions reporting. Through this fixed boundary system approach and inclusion 
+of some upstream Scope 3 emissions, the most carbon-intensive aspect of the iron value chain (use of 
+product) is also captured under the SSP approach. Due to data availability, we are including — where more 
+granular data is not available — all Scope 3 GHG emissions categories to calculate our absolute financed 
+emissions.4 We used S&P Global Trucost and CDP data for these calculations. Our initial data quality for this 
+sector scored 2.1 (of 5) on PCAF’s scale.
+We aligned with the SSP Methodology’s steel production North American Industry Classification System 
+(NAICS) codes to identify which companies to include in our baseline assessment. We have calculated our 
+absolute financed emissions for PCAF reporting using outstanding funds, as well as committed funds to 
+align with our NZBA target boundary.
+We intend to use CRU, the SSP’s partner data provider , to calculate the steel portfolio Climate Alignment 
+Score. Per the SSP climate alignment methodology, which measures annual alignment with the scenario, 
+Citi will set a target to have a Climate Alignment Score of 0 in 2030. This equates to aligning with IEA NZE 
+2050 scenario, but at a more granular level (ensuring the portfolio is NZE-aligned for the primary and 
+secondary steel production). As the Climate Alignment Score measures annual alignment to the scenario, 
+year-on-year portfolio decarbonization is required to continue meeting the score. Given timing constraints 
+on data delivery, we were unable to calculate Citi’s Climate Alignment Score for year-end 2021 in time for 
+publication. We plan to report this metric in a future disclosure.
+4 See GHG Protocol, Technical Guidance for Calculating Scope 3 Emissions at 8-10 (2013). 
+22 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Sustainable STEEL Principles Methodology  
+The Sustainable STEEL Principles (SSP) are a turn-key solution for measuring and disclosing the 
+1.5°C alignment of steel lending portfolios. Designed to support the practical achievement of net  
+zero emissions in the steel industry, they also provide the tools necessary for client engagement  
+and advocacy.
+The SSP is focused on reporting the emissions intensity of steel produced at the product level from 
+a specific asset/individual sites. Emissions need to be reported in accordance with a defined fixed 
+system boundary, irrespective of corporate ownership or control. The fraction of ore and scrap inputs 
+used to produce steel should also be disclosed. The SSP provides steelmakers with a consistent 
+method for reporting emissions from ore- and scrap-based metallic inputs and steel product and for 
+using emissions data calculated from measured energy for specific processes within the supply chain.
+The output of the SSP methodology is a portfolio level Climate Alignment Score, which indicates 
+alignment to the IEA NZE scenario and the MPP Technology Moratorium scenario.
+         
+ALIGNMENT ZONE FOR A  
+SAMPLE STEEL MAKER5
+ The SSP were based on the model of the Poseidon Principles — a framework focused on the shipping 
+sector . Launched in 2019, the Poseidon Principles are now a global climate standard, with signatory 
+banks representing approximately 65% of the global shipping finance portfolio.
+As a member of the working group, Citi worked closely with RMI and corporations in the steel 
+industry in the design and development of the SSP. RMI has now launched similar consortiums for 
+the Aviation and Aluminum sectors, which Citi is also participating in to help develop climate-aligned 
+finance approaches for each of these hard-to-abate sectors.
+5 Source: RMI Alignment Zone Briefing: https://climatealignment.org/wp-content/uploads/2022/06/alignment_zone_briefing.pdf, page 4.  
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+2.0
+2.2
+2020 2025 2030 2035 2040 2045 2050
+ 
+Alignment Score 0-1 
+Well-below 2OC Alignment Score >1
+Misaligned
+Alignment Score <0 
+1.5OC-Aligned Target: IEA NZE
+MPP TM 
+Emissions Intensity (t CO2/t steel)
+Year
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 23
+ Commercial Real Estate  
+For the Commercial Real Estate (CRE) sector , under our Net Zero Plan, we are focusing on direct financing 
+and using the PCAF Commercial Real Estate asset class methodology. For our initial baseline and target, we 
+considered  North American clients given the regional variation of data quality. The PCAF Commercial Real 
+Estate asset class methodology includes on-balance sheet loans specifically for the purchase and refinance 
+of commercial real estate and investments in the same. In alignment with the PCAF Standard, our baseline 
+emissions are comprised of a building’s operational emissions, or Scope 1 and 2. We have included three 
+loan portfolios for the baseline emissions and annual absolute emissions disclosure for this sector — Citi 
+Community Capital (CCC), Global Wealth and Markets. However , we decided to not include CCC in our target 
+setting process, so as to avoid any unintended incentives to reduce lending in this area. 
+In calculating our baseline, we have relied on publicly available data through CRREM, the EIA Commercial 
+Building Energy Consumption Survey (CBES), Residential Energy Consumption Survey (RECS), and the 
+EPA. These data sources, while regionally specific, still create a highly estimated data quality emissions 
+footprint. We are continuing to develop strategies for ensuring that we have the sufficient quantity and 
+quality of data, as measured against the PCAF data score hierarchy. This year , our PCAF data quality 
+score for the CRE sector was 4.4 (out of 5), indicating the high degree of estimation used to calculate this 
+footprint. Unlike other sectors, where we can rely on corporate emissions reporting to bolster our data 
+quality, building-specific data (such as metered energy use and calculated emissions) are not as readily 
+reported and in a consistent manner across regions. Therefore, improving the data quality of the CRE 
+sector calculations will require a unique engagement approach that occurs in a different context than that 
+of our corporate clients. As we refine the data in the coming years, we will continue to assess appropriate 
+target pathways for the portfolio. 
+For the CRE sector , we have set an intensity target, highlighting the projected sectoral growth decoupled 
+from GHG emissions, and acknowledge that decarbonization of the CRE sector will largely rely on the 
+decarbonization of the Power sector (a primary source of building emissions is purchased electricity). We 
+have benchmarked against the U.S. CRREM scenarios for property types relevant to the current portfolio.
+Next Steps  
+We recognize that there is no one-size-fits-all approach to achieving 1.5°C-aligned targets across sectors. 
+As illustrated in the Achieving 2030 Targets graphic on page 25, there are a variety of levers that we 
+expect to be needed to achieve our targets. Client engagement remains the priority, and as we proceed 
+with our client reviews, we will look to identify and communicate expectations we see for our clients.
+Our baseline emissions calculations and sector target setting will continue to evolve as we expect our 
+access to quality data to increase. We plan to continue progressing through our Net Zero Plan for the 
+Auto Manufacturing, Commercial Real Estate, Steel and Thermal Coal Mining sectors; notably, developing 
+strategies to achieve our targets and beginning reporting and verification of our progress. In 2023-2024, 
+we intend to assess the materiality to calculate baselines and set targets for our remaining sectors, 
+including Agriculture6, Aluminum, Aviation, Cement, and Shipping.
+6 Assessment of the Agriculture sector will take into account the impact of food security considerations as well as social impacts. 
+24 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+ 
+Net Zero Plan – Energy and Power Update  
+The first step in the implementation of our Net Zero Plan for the Energy and Power sectors has been to 
+increase engagement with our clients to better understand their emissions profile and transition plans, a 
+process that we anticipate will continue through the end of 2023. Last year , we began extensive efforts to 
+review our Energy and Power client base, collect available emissions data, establish a baseline for financed 
+emissions for these two sectors and set a series of goals to reduce our financed emissions footprint by 
+2030. Our initial focus consists of engaging with our clients across a broad range of key considerations 
+including: GHG emissions (as disclosed or via third-party estimations where not disclosed), GHG emissions 
+reduction targets, climate risk scoring, decarbonization/transition plans and other considerations.
+Emissions Data Lag  
+The quality and availability of climate-related data continues to be a significant challenge. At the 
+time of the analysis disclosed in this report, the data available for calculating financed emissions 
+and emissions intensity and measuring progress was nearly two years old, given the availability 
+of the data at the time. For example, the 2030 targets and baselines set for new sectors — Auto 
+Manufacturing, Commercial Real Estate, Steel and Thermal Coal Mining — were developed using 2020 
+emissions data, which given corporate reporting timelines was the most recent data available at 
+the time we began the analysis. We also used 2020 emissions data for this year’s annual reporting 
+on Energy and Power portfolios. Our data team is working with leading aggregation vendors of 
+corporate disclosure on environmental metrics; however , the lag on reporting and collection remains 
+difficult to address. Therefore, we currently face a data mismatch — we are using 2021 financial data 
+to represent our credit exposure and the clients’ financials, but are pairing that with 2020 emissions. 
+We hope that emissions data will continue to improve and that the data lag will diminish as disclosure 
+regimes evolve. 
+Given the current data availability lag across relevant sectors, we have used 2020 emissions data 
+across our calculations for consistency purposes, except for the project finance portfolio, where we are 
+fully estimating emissions based on 2021 project production data. Given the current data availability 
+lag, it is possible that our progress against our targets will be similarly delayed, potentially delaying our 
+confirmation of any progress against such targets.  
+Citi plans to undertake reviews of our targets after five years. We will continue to be transparent about 
+the impacts of the data lag while moving forward with our climate commitments, notwithstanding this 
+constraint. We believe that increased attention to climate disclosure, including mandatory disclosure in 
+many jurisdictions, will ultimately reduce the data lag, enabling our reported results to be more timely 
+and reflect current progress.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 25
+Achieving 2030 Targets  
+Below, we provide an update to our timeline indicating the steps we are taking to achieve our 2030 targets, 
+including the new sectors.   
+1 Refer to page 30 for further details on the Net Zero Review Template and page 41 for further details on the CRAS. 
+2 New sectors include: Auto Manufacturing, Commercial Real Estate, Steel and Thermal Coal Mining.
+H1  
+2022
+H2  
+2022
+H1  
+2023
+H2  
+2023
+H1  
+2024
+ 
+...H2  
+2024
+Assess targets for Agriculture, Aluminum,  
+Aviation, Cement and Shipping loan portfolios
+Initiate facilitated emissions calculations  
+for sectoral capital markets portfolios  
+once PCAF methodology is finalized; target 
+setting will be considered subsequently
+Complete initial two-year client engagement  
+and assessment process for Energy and Power
+Roll out Net Zero Review Template for additional 
+sectors, as 2030 targets are set1
+Client engagement and assessment  
+process for the four new sectors2
+Assess climate risk exposure across our  
+lending portfolios and review client 
+decarbonization and transition progress
+Review and, as needed, update risk appetite 
+thresholds
+Review and update ESRM Policy sectoral 
+approaches as needed
+Roll out Climate Risk Assessment & Scorecard 
+(CRAS) for additional sectors1 
+Support existing and new clean technologies 
+to accelerate commercialization
+Transition advisory and finance, including 
+debt and equity underwriting and lending
+Active portfolio analysis and management 
+to align with net zero targets including 
+consideration of client transition plans 
+Support enabling public policy and regulation in 
+the U.S. and other countries where relevant
+Net Zero Metrics and Target Setting
+Client Engagement and Assessment
+Risk Management
+Climate Advisory and Transition Finance
+Portfolio Management
+Public Policy and Regulatory Engagement
+Rollout Ongoing
+Rollout Ongoing
+Ongoing
+Ongoing Assessment
+2030
+AUTO 
+MANUFACTURING
+31% reduction 
+emissions  
+intensity  
+(106 g CO2e/km)
+COMMERCIAL  
+REAL ESTATE
+41% reduction 
+emissions  
+intensity  
+(36 kg CO2e/m2)
+ENERGY
+29% reduction  
+absolute  
+emissions  
+(102.1 million  
+mt CO2e)
+POWER
+63% reduction 
+emissions  
+intensity  
+(115 kg  
+CO2e/MWh)
+STEEL
+SSP Climate  
+Alignment  
+Score = 0
+THERMAL  
+COAL MINING
+90% reduction 
+absolute  
+emissions (793 
+thousand mt CO2e)
+26 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+A Note on Our Progress Toward 2030 Targets  
+Climate-related data and methodologies continue to evolve and improve. For data from 2019 to 
+2020, the most recent emissions data available at the time of our analysis for our 2020 and 2021 
+financed emissions footprints, Citi found that more companies reported their climate-related data 
+(for example, Scope 1 and 2 emissions data disclosure in our Energy portfolio increased 2% by 
+exposure). This has resulted in improved PCAF data quality scores for Energy and Power financed 
+emissions from 2020 to 2021. As more clients directly reported their emissions, we were able to 
+reduce the number of estimates we utilize when calculating our emissions metrics; our scores 
+are higher as disclosures and verified data become available. However , climate-related reporting 
+continues to fall short of the necessary quality, quantity and consistency to permit comparability 
+across clients, industries and sectors, which underscores the necessity of client-level engagement. 
+With respect to financed emissions, a number of important variables create year-to-year volatility 
+in reported figures and distort meaningful analyses of client decarbonization progress. These can 
+include equity market volatility, transitory spikes or falls at year-end in committed client capital, 
+data transitioning from estimates to reported actuals and a client’s own reporting consistency or 
+cadence. An example includes material equity market value fluctuations in the enterprise value of 
+public companies, which may impact Enterprise Value Including Cash (EVIC), and subsequently, the 
+results of PCAF calculations.
+We believe, therefore, that our stakeholders should assess our progress using a number of metrics. 
+This includes PCAF financed emissions calculated with committed funds, normalized PCAF results 
+that control for EVIC fluctuations, and physical intensity, financial intensity and data quality scores, 
+among others. However , we also expect that as these challenges are systemically addressed and data 
+gaps are closed, the year on year metrics will become more meaningful to determining progress. Our 
+financed emissions data for the various sectors are disclosed in the “Metrics & Targets” section of 
+this report. 
+Carbon Credits   
+Citi intends to meet our 2030 financed emissions targets through real reductions in financed 
+emissions. Our priority is to help our clients as they seek to reduce emissions. We do not plan to 
+purchase carbon credits ourselves to reach our interim targets. However , we recognize that some 
+activities, such as agricultural and industrial processes and energy-related activities, may not 
+achieve absolute zero emissions by 2050. These industries provide products and services that are 
+important to society and are likely to remain relevant in the future. In these instances, we intend to 
+focus on credits that are additional, certified and restricted to carbon removals. Currently, however , 
+removal technology remains largely limited and costly and therefore, cannot be relied on as an 
+alternative to cross-sector emissions reductions. The market for nature-based removal credits is 
+somewhat more developed, and we see important co-benefits to biodiversity and emerging markets 
+development as this market grows. 
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 27
+Climate Opportunities  
+Sustainable Finance  
+In April 2021, Citi established its $1 Trillion Sustainable Finance by 2030 Commitment, comprising of 
+environmental and social criteria. Our commitment aligns with the agenda of the UN SDGs, including 
+affordable and clean energy through investment in industries, companies and technologies that will ensure 
+the transition to a low-carbon economy. The environmental criteria within the goal are intended to support 
+innovation and collective action through the financing and facilitation of a wide array of climate solutions, 
+such as renewable energy, clean technology, water conservation and sustainable transportation and social 
+criteria such as affordable housing, economic inclusion, food security and healthcare. For further detail on 
+our $1 Trillion Sustainable Finance Commitment, please see the “Metrics & Targets” section of this Report.
+Clean Energy Transition  
+To address the needs of clients involved in energy transition and sustainability, Citi has established a 
+dedicated Clean Energy Transition (CET) group. CET offers the suite of Citi’s corporate and investment 
+banking products and services to help companies involved in energy transition execute on their business 
+plans and achieve scale. CET is part of Citi’s Natural Resources & Clean Energy Transition (NRCET) group 
+that also houses Citi’s Energy, Power and Chemicals teams that focus on advising corporate clients on 
+strategic matters including energy transition. 
+Related to our focus on new climate technology opportunities, Citi has acted as an agent and/or advisor 
+in capital raising for early stage and growth companies. Citi has significant experience in the advisory and 
+capital raising space with respect to the energy transition in the form of private raises for this purpose. For 
+example, Citi has helped raise $3 billion in capital for companies in this market during 2022.
+For our operational emissions, we remain firmly focused on our 2030 emissions reduction goal. 
+We also recognize the potential of the voluntary carbon markets to support clean technology and 
+nature. We intend to begin purchasing voluntary credits to match our Scope 1 GHG emissions for 
+2022 and beyond. These credits are being purchased to complement our 100% renewable electricity 
+commitment, which we have met by purchasing renewable electricity attributes, where feasible, in 
+the country where the electricity is used by facilities. Where it is not feasible to source renewable 
+electricity within country, we are purchasing an equivalent amount of renewable electricity in 
+regionally aligned markets to further support renewable electricity markets. We will continue to 
+evaluate the availability of removal credits to offset any remaining emissions as we near our 2030 
+operational target.
+28 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Clean Energy Tech & Meeting Energy Demands  
+We believe that, in some circles, the net zero dialogue has focused too much on driving down 
+emissions from high-carbon sectors, such as Oil and Gas, and not enough on the climate technology 
+solutions that will be required to reduce emissions while continuing to extend access to energy and 
+to support emerging markets. It is clear from 1.5°C climate scenarios that, in order to drive down 
+emissions, we will need to electrify vast segments of our economy, such as transportation and the 
+heating and cooling of our homes. Improving energy efficiency will also be essential. Electric vehicles 
+will need to be the dominant type of new vehicle sold by approximately 2030. By 2050, electricity 
+will need to be predominantly renewable, such as wind and solar , and nuclear power will also be 
+important. And, finally, there will be a growing market and need for sustainable fuels, hydrogen and 
+carbon capture, utilization and sequestration (CCUS). Transition of the energy sector is not just about 
+reducing emissions, but meeting energy demands of today and tomorrow. 
+The Effect of the U.S. Inflation Reduction Act on Citi’s Finance Activities
+In August 2022, the U.S. enacted the Inflation Reduction Act (“IRA”), which allocates $369 billion to 
+spur investment in businesses and technologies that will facilitate and accelerate decarbonization. 
+In addition to extending tax credits for renewable energy development, this major piece of climate 
+legislation introduces new tax credits and incentives to support: energy storage; electrification of 
+transportation; building electrification and energy efficiency; domestically produced renewables 
+equipment; low-carbon hydrogen; carbon capture utilization and storage; methane emissions 
+reduction; bio-fuels; and nuclear power . This Act represents unequivocal prioritization and 
+increased momentum for emissions mitigation and reduction technologies. Citi is closely following 
+the implementation of the IRA and recognizes it could allow more clients to access tax incentives 
+than have historically been able to do so. We are evaluating financing opportunities as guidance 
+becomes available with the objective of assisting our clients and accelerating the transition to a 
+low-carbon economy.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 29
+Examples of Client Engagements in 2022
+esVolta
+Generate Capital, PBC (“Generate”), a leading sustainable infrastructure company that owns and 
+operates more than 2,000 assets globally, announced its acquisition of esVolta, a leading developer , 
+owner and operator of utility-scale battery storage projects around North America. Citi served as 
+sole financial advisor to esVolta and ran a competitive sales process for them in a record acquisition 
+year for battery storage companies. esVolta’s portfolio includes over 1 GWh of operational and utility-
+contracted projects in the U.S. and Canada and has additional energy storage projects including 
+across Arizona, California, Colorado, Montana, New Mexico, Texas and Washington in its development 
+horizon. By adding a growing team of experts with a pipeline of attractive projects, this acquisition 
+enables Generate to expand into the market of large-scale battery storage projects that support the 
+power grid.
+GIC Private Ltd.
+In April 2022, GIC Private Ltd. (“GIC”) agreed to invest and co-lead the private capital raise for 
+Climeworks AG, one of the most advanced and pioneering industry players in direct air capture 
+(“DAC”) technology. GIC is a leading global investment firm established in 1981 to secure Singapore’s 
+financial future and serves as the manager of Singapore’s foreign reserves. Climeworks builds 
+and operates DAC facilities, which capture CO2 directly from the air and store it permanently 
+underground. Climeworks operates the world’s first and only commercial-scale DAC plant, in 
+Iceland. With total proceeds of CHF 600 million ($650 million USD) raised, the investment supports 
+Climeworks with the capital to unlock the next phase of its growth, scaling direct air capture up to 
+multi-million-ton capacity and implementing large-scale facilities. Citi served as the sole financial 
+advisor to GIC on this capital raise.
+30 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Engagement  
+We work with new and existing clients across varying stages of transformation in their strategies and goals 
+as they navigate the transition to a low-carbon economy. When we issued our 2021 TCFD Report, which 
+included our initial net zero targets, we spent significant time explaining our methodology to clients and 
+how we intend to engage with them. Many of our clients are still in the initial phases of establishing and 
+meeting their decarbonization goals, although we continue to be impressed with many of their unique and 
+creative decarbonization strategies that are optimized for their distinct business models. 
+One of our ongoing engagement priorities is to identify clients with high emissions footprints and engage 
+in discussions on climate strategy, such as emissions reductions plans. To aid our engagement efforts, we 
+have developed a Net Zero Review Template to pull together information on our clients’ profiles (see below).  
+Our conversations related to the Template, are only the jumping-off point for further engagement, strategic 
+dialogue and the delivery of Citi’s capabilities to help empower clients in achieving their goals. 
+Citi is also engaging with those clients who are not yet disclosing their own emissions and encouraging 
+them to start doing so. Disclosure of emissions will be needed to understand our clients’ current emissions 
+profiles and transition opportunities and to inform future business decisions.
+Net Zero Review Template   
+In 2022, we began piloting a Net Zero Review Template. Corporate clients with material emissions relative 
+to our baseline in the Energy and Power sectors are reviewed, with a conclusion as to the strength of their 
+transition plan. Where we identify clients that have important gaps, our intent is to work with them on their 
+own transition strategies.
+The Template shares some of the same inputs as the Climate Risk Assessment & Scorecard (CRAS) 
+(described further on page 41), including absolute emissions and emissions intensity data as well as 
+disclosed targets. The Template also includes the climate score output from the CRAS. The Template 
+includes questions on a company’s decarbonization plan, including factors such as governance, scope 
+(what emissions categories are included), capital expenditure plans and asset retirement schedules (where 
+available/applicable), among others. 
+We plan to have Net Zero Review Templates for additional sectors as interim net zero targets are set. We 
+also plan to track client progress once baselines per sector are established. A sample of the considerations 
+within the Template are provided below, but we expect that the Template may be further refined after the 
+pilot stage.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 31
+ 
+Biodiversity  
+In last year’s report, we highlighted some of the issues intersecting climate including biodiversity and nature. 
+Citi remains committed to expanding our understanding of the dynamics between climate and biodiversity 
+and, to that end, engaged in the early development process for the Taskforce on Nature-related Financial 
+Disclosures (TNFD) as a member of the initial Informal Working Group. We now serve as a member of the 
+TNFD Forum. Citi has closely reviewed biodiversity risks and impacts under our ESRM Policy since its 2003 
+inception, first focusing on project-related financing and later adding sector-wide reviews to evaluate 
+alignment with international standards in management practices to avoid, minimize and mitigate potential 
+biodiversity impacts.
+Citi’s Global Data Insights (CGDI) team has also been exploring the biodiversity data landscape and has 
+begun to consider how we can integrate such information across our business. The CGDI team has been 
+accepted as part of TNFD’s Data Catalyst Group, which was launched in July 2022 to convene market 
+participants with high-quality, trusted data on biodiversity risks to respond to the lack of adequate, 
+decision-useful biodiversity data. 
+Net Zero Review Template Summary: Inputs and Considerations
+Business Metrics r  Revenues, returns and historical client relationship
+r  Future business opportunities
+Company Decarbonization Plan r  Stated decarbonization plan or strategy
+r  Targets applicable to sector , target years and coverage (Scope 1, 2 and 3)
+r  Governance, including Board oversight and ties to remuneration
+r  Assessment of strengths and weaknesses of transition plan
+Emissions Data r  Scope 1, 2 and 3 absolute emissions and emissions intensity
+r  PCAF data quality score (indicating the extent to which emissions are  
+        disclosed or need to be estimated)
+r  Emissions assurance status
+Output from Climate Risk 
+Assessment Scorecard
+r  Overall score and score breakdown
+Capital Expenditures r  Insight regarding capex allocated towards transition and towards  
+        traditional businesses
+Other Considerations r  Emerging markets presence
+r  State-owned enterprise
+r  Energy security factors
+r  External benchmarks
+Citi Net Zero Metrics 
+(Sector-Specific)
+r  Attributed absolute emissions, emissions intensity and climate  
+        alignment score for relevant sectors
+Output Assessment of strengths and weaknesses incorporating perspectives from 
+client engagement
+32 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Avoiding Deforestation   
+An important part of the intersection between climate and biodiversity is avoiding deforestation. To 
+that end, Citi remains committed to our long-standing ESRM Policy, which, since inception, has included 
+a commitment to not engage with companies known to be in violation of local or national forestry and 
+logging laws. We require our forestry clients operating in tropical forests to be members of the Forest 
+Stewardship Council (FSC) and to pursue FSC certification (an assurance that products come from forests 
+that are responsibly managed, providing social, economic and environmental benefits). This also includes 
+the establishment of management systems consistent with the principles of No Deforestation, No Peat and 
+No Exploitation (NDPE). We annually review our forestry clients to confirm their ongoing commitment to 
+these principles.
+Citi is also a member of the Roundtable on Sustainable Palm Oil (RSPO) and requires all downstream palm 
+oil clients (processors and traders) to become members of the RSPO. These clients must commit to a time-
+bound action plan to achieve 100% RSPO certification within three to five years of becoming a Citi client. 
+Citi’s ESRM team monitors progress annually on alignment with RSPO principles and criteria to ensure 
+palm oil clients’ operations are consistent with the principle of NDPE. We evaluate our clients’ identification 
+and preservation of high conservation areas (including peatlands and high carbon stock forests) and 
+implementation of best practice fire prevention to avoid causes of deforestation.
+In early 2023 Citi updated its ESRM Policy to incorporate additional sector-specific requirements for clients 
+active in soy and beef production in or sourcing from sensitive ecoregions of Latin America. Soy clients 
+that are identified as producing in or sourcing from the above ecoregions will be reviewed for membership 
+and certification with the Roundtable on Responsible Soy (RTRS). Beef clients that are identified as 
+producing in or sourcing from the above ecoregions will be reviewed for clear policies and management 
+plans that demonstrate commitments to 100% traceability of their supply chain in sensitive ecoregions, in 
+alignment with the Accountability Framework — a toolkit based on international norms and industry best 
+practice for companies to prevent deforestation driven by the production of agricultural commodities, 
+including livestock, in their operations and supply chains.
+Climate-Related Data   
+One of the many challenges Citi and other companies face in developing and implementing net zero 
+plans concerns the availability and quality of data, both of which present major limitations. Although it 
+is necessary for us to utilize imperfect information in the implementation of our Net Zero Plan, given 
+the urgency of climate change, we continue to advance our data improvement work with the intention of 
+incorporating additional insights from such data and analyses as they become available. 
+Climate Data Utility   
+One aspect of our data improvement work is to build an internal, central data hub of climate-related 
+data. As part of our firmwide climate strategy, the central data hub will support various needs across our 
+businesses, such as climate stress testing, PCAF calculations and credit risk processes. To aid our efforts, 
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 33
+we utilize software that connects to an external transition risk model and a data assimilation tool that 
+includes data from a range of leading vendors. 
+Additionally, Citi has developed a broader “ESG Insight Platform,” which is a database of over 6,000 
+public companies’ ESG profiles, aggregated from third-party data providers, designed to make robust and 
+consistent data available across the firm. 
+Data Governance   
+Citi is implementing a number of data governance processes to support our retail and corporate 
+businesses. These are being led by various working groups, including the Climate Data and Analytics 
+Working Group. This group brings together colleagues from across the firm who have business 
+requirements or responsibilities for climate data and analytics and serves as a forum to share ideas 
+or collaborate on these issues. The CGDI team provides the Working Group with regular updates on 
+the developments of our climate data hub design, data sourcing for sectors in the context of financed 
+emissions calculations, as well as transition risk and physical risk model vendor evaluations. The CGDI team 
+also owns the primary data governance of all inbound and ingested environmental data, and this is guided 
+by the enterprise-wide data standards.
+Climate Policy and Regulatory Engagement   
+Constructive engagement with the public sector is one of our Net Zero Transition Principles, as we know 
+that achieving net zero will also require public policy and technology solutions. We continue to engage 
+with regulators and policymakers — locally, nationally and internationally — to further efforts regarding 
+climate policy and regulation. In 2022, Citi’s climate-related engagement priorities in the U.S. included 
+the SEC proposed climate disclosure rule, for which Citi submitted a comment letter to the SEC (see page 
+36), the tax incentives for climate solutions included in the Bipartisan Infrastructure Law and the Inflation 
+Reduction Act; proposed principles for the risk management of climate-related financial risks issued by 
+the Basel Committee on Banking Supervision (BCBS) and by U.S. regulators, for which Citi submitted a 
+comment letter to the BCBS; and global harmonization of climate-related disclosure regulation. Citi is also 
+a member of trade and business associations that may lobby on different issues, including climate change, 
+but these associations do not necessarily not necessarily represent Citi’s positions on every issue. Below is 
+a summary of certain trade and business associations that Citi is a member of, and how Citi has engaged 
+with them on climate-related issues.
+34 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+CLIMATE-RELATED ENGAGEMENT WITH TRADE ASSOCIATIONS
+Trade  
+Association About Climate Change Position
+Areas of Influence  
+and Alignment 
+Business 
+Roundtable 
+(BRT)
+A non-profit association, 
+members of which are the 
+CEOs of major U.S. companies 
+working to promote a thriving 
+economy in the U.S. and 
+expanding opportunity for 
+all Americans through public 
+policy.
+Promotes policies to ensure 
+sustainable, reliable and 
+affordable energy while 
+addressing climate change 
+and maintaining a healthy 
+environment. Business 
+Roundtable believes that to 
+avoid the worst impacts of 
+climate change, the world 
+must work together to limit 
+global temperature rise this 
+century to well below 2 degrees 
+Celsius above preindustrial 
+levels, consistent with the 
+Paris Agreement. In the U.S., 
+the Roundtable supports a 
+comprehensive, coordinated 
+and market-based approach 
+that includes a price on carbon 
+to reduce emissions. 
+Citi’s CEO is a member of 
+BRT’s Board of Directors. In 
+addition, Citi is a member of 
+BRT’s Energy and Environment 
+Coordinating Committee and 
+has engaged on its Addressing 
+Climate Change position 
+statement and its climate policy 
+and regulatory positioning.
+Bank Policy 
+Institute 
+(BPI)
+A nonpartisan public policy, 
+research and advocacy group 
+representing the nation’s 
+leading banks. Members include 
+universal banks, regional banks 
+and major foreign banks doing 
+business in the U.S. BPI aims 
+to shape policy to allow the 
+nation’s leading banks to best 
+serve their customers and fulfill 
+their vital economic role while 
+holding sufficient capital and 
+liquidity to ensure that the risks 
+they take are borne by their 
+shareholders and creditors, not 
+the taxpayer .
+Where appropriate, participates 
+in the development of 
+multisectoral regulatory 
+responses to identify 
+and manage the possible 
+manifestations of physical- 
+and transition-related risks 
+of climate change on banks’ 
+businesses and operations.
+Citi is a member of BPI’s Climate 
+Working Group and has engaged 
+on BPI’s position on the SEC 
+proposed climate disclosure 
+rule, climate-related financial 
+risk and climate scenario 
+analysis.
+Financial 
+Services 
+Forum
+An economic policy and 
+advocacy organization whose 
+members are the CEOs of 
+the eight largest and most 
+diversified financial institutions 
+headquartered in the U.S. 
+The Financial Services Forum 
+promotes policies that support 
+savings and investment, 
+financial inclusion, deep 
+and liquid capital markets, a 
+competitive global marketplace 
+and a sound financial system. 
+Forum members recognize 
+that climate change poses 
+risks to the global economy 
+and advocate for appropriate 
+policies and international 
+cooperation to ensure that 
+climate-related policies and 
+regulations related to the 
+financial industry are based 
+on science, risk and sound 
+methodologies.
+Citi is a member of the Climate 
+Risk Working Group and 
+provided input for its position 
+on climate disclosure regulation.  
+ 
+continued on next page
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 35
+Trade  
+Association About Climate Change Position
+Areas of Influence  
+and Alignment 
+Global 
+Financial 
+Markets 
+Associated 
+(GFMA) and 
+affiliates 
+SIFMA, 
+AFME, 
+ASIFMA
+The GFMA brings together three 
+of the world’s leading capital 
+markets trade associations, 
+AFME, ASIFMA and SIFMA, to 
+provide a forum for the largest 
+globally active financial and 
+capital market participants 
+to develop standards to 
+improve the coherence and 
+interaction of cross-border 
+financial regulation. GFMA 
+aims to improve functioning 
+of global capital markets to 
+support global economic 
+growth and advocates for 
+policies that promote efficient 
+cross-border capital flows to 
+end-users. AFME advocates for 
+deep and integrated European 
+capital markets which serve 
+the needs of companies and 
+investors, supporting economic 
+growth and benefiting society. 
+ASIFMA advocates for stable, 
+competitive and efficient 
+Asian capital markets that 
+are necessary to support the 
+region’s economic growth. 
+SIFMA advocates for legislation, 
+regulation and business policy, 
+affecting retail and institutional 
+investors, equity and fixed 
+income markets and related 
+products and services. 
+Related to their climate finance 
+position, GFMA and each of the 
+regional bodies have published 
+research and engaged with 
+policymakers and the regulatory 
+community to advocate for 
+sustainable finance policies 
+and solutions that support the 
+financial services industry’s role 
+in the transition to a low-carbon 
+economy. 
+Citi currently holds the Chair 
+of the GFMA. Citi participates 
+in sustainable finance working 
+groups related to regional and 
+global regulatory developments 
+on topics including global 
+taxonomy developments, 
+climate finance, voluntary 
+carbon markets and climate risk 
+management.
+Institute of 
+International 
+Finance 
+(IIF)
+A global financial industry 
+association with over 400 
+members from more than 60 
+countries with the mission to 
+support the industry through 
+risk management, development 
+of sound industry practices 
+and advocacy for regulatory 
+financial and economic policies 
+in the interests of its members, 
+global financial stability and 
+sustainable economic growth.  
+A key focus for the IIF is public-
+private sector dialogue.
+Actively supports the financial 
+industry as it plays a crucial 
+role in the transition to a low-
+carbon, and ultimately net 
+zero, economy. Engages with 
+policymakers and the regulatory 
+community to advocate for 
+sustainable finance policies and 
+solutions that are well-aligned 
+internationally and prioritize 
+prudent risk management, 
+global financial stability and 
+economic growth. 
+Citi’s Chair is on IIF’s Board 
+of Directors. Citi is also a 
+member of the Sustainable 
+Finance Working Group Steering 
+Committee, focusing on 
+regional and global policy and 
+regulatory developments, and 
+the harmonization of policies 
+and regulations to avoid a 
+patchwork of approaches across 
+different jurisdictions, which 
+can be challenging for global 
+institutions like Citi. Citi is 
+also engaged on IIF sovereign 
+debt policy workstreams that 
+support sustainable growth  
+and capital flows — key to 
+mobilizing private capital for 
+climate finance.
+continued on next page
+36 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Over the last year , Citi has engaged with a number of regulators to discuss climate strategy and regulatory 
+approaches/developments, including several informal discussions with the SEC regarding net zero 
+commitments and the importance of reliable and quality data.
+SEC Proposed Rule on Climate-Related Disclosures  
+In March 2022, the SEC released a proposed rule — The Enhancement and Standardization of Climate-
+Related Disclosures for Investors — that would require registrants to include certain climate-related 
+information in SEC filings. Citi would be subject to the proposed rule. 
+We provided comments on the proposed rule, showing support for the overall goal of providing 
+Trade  
+Association About Climate Change Position
+Areas of Influence  
+and Alignment 
+U.K. 
+Finance
+(UKF) 
+Represents 300 firms across 
+the banking and finance 
+industry to promote safety, 
+transparency and innovation 
+within the industry. Offers 
+research, policy expertise, 
+thought leadership and 
+advocacy in support of their 
+work.
+A longstanding proponent of 
+climate responsibility being 
+brought into the mainstream 
+of the management and 
+supervision of banking and 
+finance. Delivering the Net Zero 
+Transition is a Board-agreed 
+priority for the organization. A 
+“supporting institution” of the 
+NZBA, U.K. Finance provides 
+advocacy support, knowledge-
+sharing and training for banking 
+and finance firms, embedding 
+climate responsibility into 
+their governance and strategy 
+in support of whole economy 
+transition to Net Zero by 2050 
+and supports the establishment 
+of clear definitions on ESG 
+reporting within a globally 
+aligned framework.
+Citi is a member of UKF’s 
+Sustainability Committee, which 
+oversees its policy work related 
+to sustainability disclosure, 
+product labeling, green finance 
+and climate change. 
+U.S. 
+Chamber of 
+Commerce 
+The largest lobbying group 
+in the U.S. with members 
+ranging from small businesses 
+and chambers of commerce 
+across the country to leading 
+industry associations and global 
+corporations. Advocates for 
+policies that help businesses 
+create jobs and grow the U.S. 
+economy. 
+The Chamber updated its 
+Climate Change Position 
+in 2021, asserting that the 
+climate is changing, humans 
+are contributing to these 
+changes and inaction is not an 
+option. The Chamber supports 
+market-based solutions to 
+reduce emissions and support 
+U.S. competitiveness, national 
+security and American workers, 
+and also supported the Biden 
+administration’s decision 
+to rejoin the Paris Climate 
+Agreement.
+Citi participates in the Task 
+Force on Climate Actions and 
+Center for Capital Markets 
+Competitiveness. Citi also 
+helped form an informal Climate 
+Solutions Working Group of 
+Chamber members who are 
+climate leaders and want to 
+engage collectively with the 
+Chamber to discuss where its 
+climate policy and litigation 
+activities are not aligned with 
+members’ positions.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 37
+Challenges Faced   
+It has been nearly two years since we first announced our net zero commitments, and we are continually 
+facing new and different challenges as we advance our climate strategy and Net Zero Plan. In 2021, we 
+identified the following challenges:
+ • The availability and quality of data  Much of the raw data we use in our analyses is based on 
+estimated or unverified figures. Citi remains committed to advancing our data quality in parallel 
+with our decarbonization efforts and is engaged with the leading data vendors and industry groups 
+to try to improve overall data quality. The lag in third-party disclosure of climate data also continues 
+to be a challenge, as it can significantly lag typical financial reporting information and disclosures. 
+ • The translation of targets into processes to guide our financing and other business operations to 
+consistent, comparable and reliable decision-useful climate disclosures. Additionally, we noted 
+our support for leveraging existing voluntary disclosure frameworks, particularly the TCFD 
+recommendations, alongside the inclusion of GHG emissions reporting requirements for Scopes 1 
+and 2 and, where material or part of a registrant’s specific emissions reduction targets, Scope 3, with 
+appropriate safe harbor provisions.
+Our comments also identified four areas of concern with the proposed rule and offered suggestions, 
+based on our experiences, to make the final rule more decision-useful for investors and, importantly, 
+workable and effective for issuers to implement. These four areas were:
+1. Timing: We asked the SEC to provide an extended and staggered timeline for implementation 
+of the final rule’s requirements, to allow for the significant operational readiness necessary 
+for compliance. We also sought a push back of the adoption timeline for reporting Scope 3 
+disclosures, due to industry-wide concerns about data quality and the climate data lag.
+2. Materiality Thresholds: We recommended that the SEC consider removing the line-by-line 
+disclosures of the proposed requirements under Regulation S-X and to adopt the established 
+materiality criteria currently used for financial reporting.
+3. Reporting Clarifications: We asked the SEC to clarify or revise the materiality and 
+categorization requirements for Scope 3 reporting and the applicable safe harbor protections. 
+4. Other Revisions: We sought clarification from the SEC with respect to the disclosure 
+requirements surrounding scenario analysis, Board climate expertise and historical GHG 
+emissions reporting. 
+A copy of our comment letter can be found here.
+38 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+drive towards our targets  We are developing internal processes in several areas, particularly in 
+identifying metrics and performance indicators to assess our clients’ transition progress as well 
+as our own related progress in achieving the targets in our Net Zero Plan, while simultaneously 
+managing our level of risk and returns on our portfolios. 
+ • The transition obstacles faced by developing countries are often more complex  Less robust 
+socioeconomic institutional capacity constrains implementation of low-carbon transition pathways 
+across emerging markets. Such obstacles include, for example, poor , inconsistent and delayed 
+data as well as less developed regulatory schemes for the monitoring and reporting of emissions. 
+This challenge is compounded by the lack of global regulatory and policy alignment on climate 
+and other sustainability matters. Finally, developing countries often have more limited capacity 
+to transition due to unequal and challenged access to climate finance. They also frequently lack 
+the investment capital necessary to fund adaptation and mitigation solutions, including renewable 
+energy and technology-driven clean energy alternatives.
+Challenges regarding the availability and quality of climate-related data are more evident as we set targets 
+for additional sectors, given the disparity of data quality and quantity across different sectors. Given our 
+reliance on data that is based on estimated or unverified figures, precision is difficult, and this creates 
+challenges for many of our climate-related activities, from scenario analysis to tracking progress towards 
+our financed emissions targets. However , as the availability and quality of data improves, we will review and 
+update our Net Zero Plan and remain as transparent as possible with respect to this evolving landscape.
+Current geopolitical events have underscored the fact that the energy transition is unlikely to be smooth 
+and linear . The Russian invasion of Ukraine in February 2022 resulted in volatile energy markets and 
+widespread focus on energy security concerns and reliance on fossil fuels. At Citi, as our clients respond 
+to the current energy market, we understand that our transition plans may need to adapt to accommodate 
+energy security and access to energy needs, while also facilitating the transition to clean energy. For 
+example, actions aimed at ensuring global energy supply could mean the financed emissions footprint in 
+our portfolio may grow before it shrinks. Our net zero strategy prioritizes the focus we place on creating a 
+responsible transition, and addressing these needs is not mutually exclusive. 
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 39
+We continue to consider and integrate climate-related matters into our overarching risk management 
+framework and processes and, to that end, collect and analyze relevant data to support this effort. Over 
+the past year , Citi has continued to develop tools to assess climate risk and engage our clients with respect 
+to climate risk and transition plans. We have also continued building risk identification, management and 
+scenario analysis capabilities.
+ Climate Risk Management Framework   
+This year , we concluded the development of our Climate Risk Management Framework (CRMF). The CRMF 
+is designed to promote a globally consistent approach to managing climate risk across Citi. The CRMF 
+details the governance, roles and responsibilities and principles to support the identification, measurement, 
+monitoring, controlling and reporting of climate risks. The CRMF is progressively being embedded into 
+business-as-usual risk management processes across the bank as well as relevant policies and standards. It 
+is expected the CRMF will evolve over time to reflect new tools and processes as well as industry standards 
+and best practices in climate risk management. 
+Refining Risk Identification and Understanding Risk Exposure   
+Citi continues to enhance its focus on climate risk driven by the increasing significance of strategic, 
+reputational and financial risk considerations, including embedding these considerations into Citi’s 
+overarching risk management approach. 
+Citi continues to view climate risk as a crosscutting risk under our Enterprise Risk Management Framework, 
+which can manifest in each of the risk categories in our risk taxonomy. Citi will continue to review this risk 
+designation as we develop our climate risk management approach. The table below indicates the impacts 
+that climate risk drivers can have on our key risk categories. 
+Citi has developed an internal risk identification process in which it quarterly evaluates its top risks, which 
+are defined as risks that have the potential to produce an impact large enough to threaten Citi’s ability to 
+maintain any of its core operations to serve its customers, Citi’s earnings, liquidity, capital, or operating 
+model, or Citigroup’s or Citibank NA’s risk profile. Climate risk was recently designated as a top risk through 
+this process. In light of the variable nature of this process, however , we may not report on this internal 
+classification on a forward basis but will continue to enhance our disclosure on how we manage our risk 
+and the areas that present the most significant climate risk in future TCFD reports.
+ 
+Risk Management 
+ 
+PART 4
+40 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Risk  
+Category Definition Climate Drivers
+Credit Risk of loss resulting from the decline 
+in credit quality (or downgrade risk) 
+or failure of a borrower , counterparty, 
+third party or issuer to honor its 
+financial or contractual obligations
+Climate drivers can have an impact on an obligor’s business 
+model, sources of income/revenue, spend/cost and value of 
+assets, resulting in the reduced ability to pay and value of 
+the collateral as well as increase in the utilization of credit 
+facilities
+Market Risk of loss arising from changes in 
+the value of Citi’s assets and liabilities 
+or reduced net interest revenues 
+resulting from changes in market 
+variables, such as interest rates, 
+exchange rates, equity and commodity 
+prices or credit spreads
+Climate drivers, or change in expectation of drivers, can 
+result in a change in market value of the bank’s held to 
+maturity investments, or an increase in the volatility of 
+market variables including interest rates, FX rates, equity 
+and commodity prices and credit spreads, which can result 
+in losses
+Liquidity Risk that the firm will not be able to 
+efficiently meet both expected and 
+unexpected current and future cash 
+flow and collateral needs without 
+adversely affecting either daily 
+operations or financial conditions of 
+the firm
+Climate drivers can trigger unexpected demand for funds 
+by counterparties/customers to fund their obligations, 
+a reduction in the value of assets owned by the bank or 
+limitations on the bank’s ability to roll its debt, affecting the 
+bank’s ability to meet both expected and unexpected current 
+and future cash flow and collateral needs 
+Strategic Risks to current or anticipated 
+earnings, capital or franchise or 
+enterprise value arising from poor , 
+but authorized business decisions 
+(in compliance with regulations, 
+policies and procedures), an inability 
+to adapt to changes in the operating 
+environment (e.g., economic, 
+regulatory or legislative, competitive), 
+or other external factors that may 
+impair the ability to carry out a 
+business strategy 
+Climate drivers can have an impact on the bank’s ecosystem 
+(i.e., suppliers, customers, competitors, investors and society) 
+through changing economic conditions, regulations, low-
+carbon products and preferences and legal action, which can 
+lead to the need to make strategic shifts
+Operational Risk of loss resulting from inadequate 
+or failed internal processes, people and 
+systems, or from external events
+Climate drivers can affect the bank’s locations (e.g., damage, 
+inaccessibility), employees (e.g., productivity, ability to 
+commute) or operations of third-party providers resulting in 
+disruption of normal business operations. 
+Climate drivers can also exacerbate several sub categories 
+of operational risk, such as risk oversight errors (e.g., due to 
+insufficient understanding of the impact of climate change), 
+reporting risk (e.g., due to new reporting requirements, data 
+management risk (e.g., due to fragmented data and solution 
+providers), model risk (e.g., challenges in validation of 
+complex and non-traditional climate models).
+Compliance Risk to current or projected financial 
+condition and resilience arising from 
+violations of laws, rules or regulations, 
+or from non-conformance with 
+prescribed practices, internal policies 
+and procedures or ethical standards
+Climate drivers can lead to increased regulatory 
+requirements (which increase the potential of non-
+compliance) and increased use of external analytics 
+providers, which could all result in fines, civil money 
+penalties, payment of damages and the voiding of contracts
+Reputation Risk to current or projected financial 
+condition and resilience arising from 
+negative public opinion
+Climate drivers can increase reputational risk if Citi is 
+perceived not to be meeting, sufficiently progressing or 
+providing sufficient transparency on its climate-related 
+commitments 
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 41
+To deepen our understanding of the sectors or areas of our business that are most sensitive to climate 
+risk, we have established a heatmap framework. We have applied our heatmap framework to our corporate 
+and public sector portfolios and Citi’s own facilities. Additionally, through client assessments and scenario-
+analysis exercises, we continue to identify additional areas of the portfolio that may be more vulnerable to 
+climate risks (physical and transition). 
+This year , in addition to our sectoral heat map, we expanded our climate risk heatmap to cover our largest 
+country exposures for internal use. For transition risk, we reviewed countries’ emissions per capita and 
+reliance on fossil fuel industries. For physical risk, we assessed countries’ exposure to acute and chronic 
+weather events. Potential mitigants (such as level of human development, government commitments and 
+government fiscal space) were also used to weigh the individual climate risk factors. Assessments such as 
+these are integral to Citi’s continued climate risk identification efforts.
+Climate Risk Assessments    
+To help Citi understand the climate risk profiles of our individual corporate clients, we have created a tool 
+called the Climate Risk Assessment & Scorecard (CRAS). Our goal is to progressively embed this tool into 
+our risk management processes to help inform our decision-making moving forward.
+The CRAS was designed to identify the most material climate risks our clients face and the management 
+plans in place for adaptation and mitigation of those risks, using both quantitative and qualitative inputs. 
+The tool assesses clients’ vulnerability to climate risk, the feasibility of their plans to transition to a low-
+carbon environment and the quality of their governance and disclosure. It relies on information disclosed 
+by clients, either publicly or privately, as well as output from third-party tools, our own sector heat maps 
+and certain climate risk metrics. Points are attributed based on vulnerability and mitigation considerations 
+as well as alignment with best practices, and are aggregated into a final climate score. This final score 
+captures a company’s degree of vulnerability from climate-related financial risks and the extent of a 
+company’s preparedness to mitigate these risks through its strategy, governance and disclosures.
+The development of the CRAS has been a joint effort between Risk Management and BCMA and has been 
+an iterative process. We have successfully completed pilot programs using the CRAS, focusing on clients in 
+the corporate sectors deemed most vulnerable according to our heat maps. We plan to expand the scope to 
+additional clients and sectors as we integrate results into underwriting processes.
+Results from the CRAS also serve as inputs into the Net Zero Review Template, which Citi is piloting to help 
+prioritize engagement with a particular focus on transition opportunities for clients. For more details on 
+the Net Zero Review Template, please see page 30.
+ 
+42 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Environmental and Social Risk Management Policy    
+Integrating climate risk into our policies and sector standards provides the foundation to consistently 
+identify and manage climate-related risks throughout the enterprise. Since 2015, our ESRM Policy has 
+addressed the increasing credit risk, stranded asset risk and reputation risk related to declining demand 
+for thermal coal mining and coal-fired power . In addition, our early 2023 updates to address the climate-
+related impacts from deforestation in the agribusiness sector are discussed in the Biodiversity section of 
+this Report. 
+Coal Policy   
+Our ESRM Policy commitments related to coal-fired power generation have been updated over time as 
+the credit and reputational risk related to coal has increased. We have committed not to finance any new 
+coal-fired power plants or expansions of existing plants globally, in line with existing regulations in many 
+countries such as the U.S., which have prevented new coal-fired capacity being built for many years. 
+We have reviewed our coal-fired power clients’ GHG reporting and low-carbon transition plans, including 
+commitments to retire existing coal plants. Our analysis considered a combination of client disclosures, 
+third-party ESG analysis, CDP disclosures and direct client engagement. This evaluation will continue into 
+our net zero engagement and progress towards our 2030 targets. A comprehensive summary of time-
+bound milestones for coal-fired power clients through 2040 is available below.
+Climate Risk Assessment & Scorecard (CRAS) Components
+Emissions Data Scope 1-3 absolute emissions and emissions intensity data, including industry 
+averages as applicable
+Scenario-Based Inputs Climate scenario-based inputs and emissions performance comparisons 
+relative to industry
+Transition Risk Drivers Client’s vulnerability to applicable transition risk drivers, including legal and 
+regulatory risks and financial capacity 
+Physical Risk Drivers Vulnerability to physical risk drivers both acute and chronic
+Transition Risk Mitigants Decarbonization targets, net zero commitments and transition plans
+Capital Expenditures Capital expenditures allocated to transition
+Government Support Available grants, subsidies and regulatory mechanisms to support transition
+Physical Risk Mitigants Client’s adaptation measures for physical risk impacts
+Governance Senior-level climate-related oversight and ties to remuneration
+Transparency Disclosures aligned with TCFD or other recognized frameworks 
+Output Overall climate score with individual scores for: 
+Vulnerability; Management Mitigation & Adaptation;  
+and Governance & Transparency
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 43
+We have set targets to phase out Citi’s financing of companies deriving ≥25% of their revenue from thermal 
+coal mining. We also established a series of milestones in order to facilitate meeting this goal, including 
+reducing our credit exposure to coal mining companies by 50% by the end of 2025 (from a 2020 baseline). 
+After 2025, Citi will no longer facilitate capital markets transactions or mergers and acquisition advisory 
+and financing for such companies. Citi’s remaining exposure to these companies will be reduced to zero by 
+the end of 2030. 
+Coal-Fired Power Generation Financing Reduction Commitments
+After 2021 Citi will not: After 2025 Citi will: After 2030 Citi will:
+• Provide acquisition financing  
+or advisory services related to  
+coal-fired power plants 
+• Onboard new clients with ≥20% of 
+power generation from coal-fired 
+power plants unless such clients 
+meet certain criteria: 
+- publicly report GHG emissions 
+annually, consistent with the 
+GHG Protocol 
+- engage with Citi on their low-
+carbon transition strategy to 
+diversify away from coal-fired 
+power generation and align 
+with the Paris Agreement 
+• Onboard new clients that have 
+plans to expand coal-fired power 
+generation
+• No longer extend capital/provide 
+financial services to clients 
+without low-carbon transition 
+strategies to diversify away from 
+coal-fired power and align with 
+Paris Agreement decarbonization 
+pathways by 2030 (in OECD 
+countries) or 2040 (non-OECD 
+countries)*
+• No longer provide capital/
+financial services for clients in 
+OECD countries with ≥5% of coal-
+fired power generation 
+• No longer provide capital/
+financial services for clients 
+in non-OECD countries unless 
+such clients have a low-carbon 
+transition strategy designed 
+to reduce the share of power 
+generation from coal-fired power 
+plants to less than 5% by 2040 
+ 
+*Exceptions may be considered if the proposed transaction is being pursued in the context of a low-carbon transition strategy.
+Thermal Coal Mining Reduction Commitments 
+By December 2025 Citi will: After 2025 Citi will: After 2030 Citi will: 
+Reduce our credit exposure to these 
+companies* by 50% from a 2020 
+baseline)
+No longer facilitate capital markets 
+transactions or mergers and 
+acquisition advisory and financing 
+for these companies*
+Reduce all remaining exposure to 
+these companies* to zero
+ 
+ *Defined as any mining company deriving ≥25% of its revenue from thermal coal mining.
+44 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Our net zero target for the Thermal Coal Mining sector builds upon our ESRM Policy on Coal but brings 
+more companies in scope for calculating and reporting on our financed emissions. As further detailed in 
+the “Strategy” section of this Report, Citi has adjusted the boundary of our net zero target for the Thermal 
+Coal Mining sector to include those companies that derive ≥5% of their revenue from thermal coal mining. 
+Fossil Fuel Financing  
+Currently, fossil fuels are a driver of the global economy and continue to be a major component of 
+the world’s energy portfolio. However , meeting global net zero commitments in line with the Paris 
+Agreement will require emissions to be drastically reduced during this decade. The expected shift 
+away from fossil fuels globally, in pursuit of renewable and alternative energy, will have a significant 
+effect on clients in carbon-intensive sectors — including coal mining, power generation and certain 
+segments of the energy sector .
+The financial services sector can play a significant role helping to enable low-carbon business models. 
+As a global bank with exposure to many carbon-intensive segments of the economy, and as a top 
+lender to the energy sector in particular , Citi has an opportunity and a responsibility to support our 
+clients in their transition. As such, client engagement and transition are a key component of our net 
+zero commitment. Our philosophy is to meet our clients where they are and help them identify areas 
+where they can decarbonize. We ask our clients: What is your short-term decarbonization and longer-
+term transition plan? What is your pathway? What are your metrics? What is your capital expenditure 
+strategy, and how are you allocating capital to help transition to a low-carbon business model?
+Energy is one sector where transition considerations are particularly complex. Currently, we are seeing 
+interesting developments among the largest integrated oil and gas companies, which are investing in 
+technologies that leverage their current technical expertise and capabilities, ranging from offshore 
+wind development, to biofuels, to hydrogen, to carbon removal technology. Other clients, however , have 
+less ability today to branch out from oil and gas production, and instead are focusing on decarbonizing 
+their operations. Although we acknowledge that operational Scope 1 and 2 GHG emissions are a 
+fraction of the Scope 3 GHG emissions from the combustion of oil and gas, we also believe that any 
+efforts to decarbonize today, for example by increasing operational efficiency or decreasing methane 
+emissions, amount to real GHG emissions reductions and climate benefits, and provide some clients 
+with a foothold to make progress and potentially identify further opportunities for decarbonization.
+Thermal Coal Mining Exposure 
+2020 Baseline Credit Exposure as of YE 2021 Credit Exposure as of YE 2022
+$1.091 billion $765 million* 
+(30% reduction from baseline)
+$ 586 million
+(46% reduction from baseline)
+ *This figure has been updated as part of a facility-level data review exercise that identified a few facilities that were excluded from the 
+originally reported exposure.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 45
+Scenario Analysis   
+Citi uses climate risk scenario analysis, including stress testing, to assess the potential impact of climate-
+related risk drivers on Citi’s risk profile across a range of plausible climate-related pathways. Climate change 
+is expected to have far-reaching systemic impacts in breadth and magnitude, affecting governments, 
+businesses and households across all geographies and sectors.
+The associated effects are expected to feed through the economy via two principal channels — transition and 
+physical risks — which are both characterized by deep uncertainty and non-linearity:
+ • Transition Risks arise from the process of adjusting toward a low-carbon economy and encompass 
+policy and legal changes, technological changes, and shifting consumer/market sentiment and 
+societal preferences and 
+ • Physical Risks arise through “acute” weather-related events such as heatwaves, floods, wildfire 
+and storms as well as “chronic” or long-term shifts in climate patterns, such as rising sea levels, 
+precipitation change, increasing mean temperature and extreme weather variability.  
+These risks are generally foreseeable based on prevailing scientific studies but exhibit a high degree of 
+uncertainty driven by lack of clarity around the precise outcomes in terms of time horizon/future pathways 
+and their associated impact on the valuations of financial assets and borrowers’ creditworthiness. This 
+uncertainty elevates scenario analysis as a critical tool to reflect the broad range of possible outcomes and 
+model the complex linkages across climate drivers, economic and financial variables, and sector/counterparty-
+level responses needed to estimate quantitative impact.   
+Design choices for Citi’s internal exploratory exercises to date have largely focused on enabling capacity 
+building and setting boundary outcomes (e.g., sudden adoption of an overnight carbon tax) to compare 
+against internal capital binding benchmarks. These internal exploratory exercises encompass portfolio-
+specific pilots focused on more targeted sectors (e.g., Oil & Gas, Commercial Real Estate) and scaling 
+gradually across to Enterprise-wide exercises across all major portfolios. Scenarios have typically included 
+more tractable assumptions such as a globally coordinated carbon tax policy and static balance sheet to 
+streamline analytical and operational challenges as a trade-off to more plausible and realistic scenarios at 
+the outset.  
+We also recognize that while there is an imperative for a transition to a low-carbon economy, we must 
+be mindful that countries are in different stages of development with different energy and social needs. 
+Developing markets should be allowed to grow and develop their economies, and they should have more 
+leeway to transition to clean energy than developed markets. There also needs to be more investment 
+and innovation to help those economies become part of the clean energy transition. It is critical that 
+the low-carbon transition accounts for the priorities for developing countries to increase their access 
+to energy, and for workers currently involved in carbon-intensive sectors to continue to maintain their 
+livelihoods and receive support to transition and apply their skills to new technologies and/or sectors.
+46 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Major regulatory stress tests have been launched in several jurisdictions over recent periods and have 
+generally been focused on the most systemically important and sizable institutions within each jurisdiction. 
+These stress tests leverage a common set of climate reference scenarios from the Network for Greening 
+the Financial System (NGFS) or Intergovernmental Panel on Climate Change (IPCC). Citi has met these 
+requirements for each of the legal entities deemed in scope, which are comprised of differing portfolios 
+based on local business footprint and legal vehicle structure. The delivery of these regulatory exercises 
+has further established foundational data, scenario and modeling capabilities, which leverage both external 
+and internal analytical platforms.
+Initial internal scenario-based exercises have also been more targeted on heatmapping activities to 
+enhance targeted physical risk identification across commercial real estate, residential real estate and our 
+own facility/third-party operational risk considerations. Future internal exercises will aim to further enrich 
+the range of outcomes through higher resolution scenarios, internal modeling infrastructure that tailors 
+more to firm-specific climate risks and enhanced data integration to enable more granular risk capture.
+This proactive approach towards capability enhancements extends to enhancing risk identification to 
+inform more tailored scenario narratives, accelerating internal modelling efforts to decrease vendor 
+dependency and establishing centralized data architecture to support overlapping climate data needs 
+across the Bank. Below, we include a summary of our key recent scenario analysis exercises.
+SUMMARY OF KEY CLIMATE SCENARIO ANAL YSIS EXERCISES
+Exercise Initial Pilot 
+Analysis
+Hong Kong 
+Monetary 
+Authority 
+Stress Test
+Other Legal 
+Entity 
+Exercises
+Monetary 
+Authority of 
+Singapore 
+Stress Test
+European 
+Central Bank 
+Stress Test
+Enterprise-
+Wide Internal 
+Stress Test
+In-scope 
+Portfolios
+U.S. CRE, 
+Oil & Gas 
+Portfolios, 
+Own Facilities
+Residential 
+Mortgages
+Corporate 
+Loans, 
+Broker-Dealer 
+Exposures
+Wholesale 
+& Retail  
+lending 
+portfolios
+Corporate 
+Loans
+All major 
+portfolios
+Risk Types 
+Assessed
+Credit, 
+Operational
+Credit Credit, 
+Counterparty 
+Credit, Market, 
+Operational
+Credit Credit Credit, 
+Counterparty 
+Credit, 
+Market
+Climate 
+Risks 
+Modelled
+Transition & 
+Physical Risk
+Physical Risk Transition & 
+Physical Risk
+Transition & 
+Physical Risk
+Transition & 
+Physical Risk
+Transition 
+Risk
+Scenarios NGFS, RCP RCP Internal 
+Scenario 
+(anchored on 
+NGFS)
+NGFS NGFS, RCP Internal 
+Scenario 
+(anchored on 
+NGFS)
+Time 
+Horizon
+Short & Long 
+Term
+Short & Long 
+Term 
+Short Term Long Term Short & Long 
+Term
+Short Term 
+2021 2022
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 47
+Climate-Related Operational Risk   
+We continue to refine our approach to the identification and management of climate-related operational 
+risks. For Citi’s operational footprint, we have evaluated 360 primary Citi locations through IPCC-aligned 
+scenarios. This will allow us to better assess, evaluate and manage the potential climate-related physical 
+risks to which our operations may be subject.  
+As a result of this work, Citi has improved its understanding of the potential risk impacts to its operations 
+with considerations for:
+1. Incremental Climate Physical Risk Forecast: 
+Which geographic locations have the highest future incremental physical risk exposure due to 
+climate change (includes both acute and chronic physical risk perils)?
+2. Concentration Risk: 
+In which locations does Citi have the highest concentrations of business disruption risk, based on 
+staff concentrations and high criticality processes?
+Citi combines the findings from the concentration risk and incremental climate physical risk forecast to 
+generate an inherent risk of business disruption due to climate change mapped against each business 
+within the primary locations for Citi facilities. Through this process, Citi is better able to identify the overall 
+climate-driven inherent business disruption risk and the level of staff and business process concentration in 
+each location.
+The highest operational risks were found to be physical damage risk (from both acute and chronic weather 
+events) and business disruption and third-party risk (from acute weather events). 
+While this exercise is still an initial methodology that may further evolve, these early findings will support 
+Citi’s decision making in areas such as our short- and medium-term placement of processes, staff and 
+technology infrastructure; policies and standards for high-risk locations; and enhancement of continuity of 
+businesses and disaster recovery plans, among others.  
+ 
+ Climate Training   
+Achieving our goals and managing risk requires continual learning and development in the climate space. 
+Accordingly, we have established a number of initiatives around further training of our workforce across 
+the frontline and various functions. These initiatives included the 2021 launch of a foundational Climate 
+Risk Training module firmwide and the provision of supplemental presentations and workshops to target 
+groups. This training aimed to educate a broader audience on the integration of climate risk considerations 
+into our risk management processes. To date, this initial recommended training module has been taken by 
+approximately 5,000 employees.
+Citi recognizes that climate-related training needs to be tailored to different positions and teams (e.g., risk 
+management employees, frontline bankers and industry teams) where the development of subject matter 
+48 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+expertise is imperative. Therefore, in 2022, Citi launched two different training pilots that involved virtual 
+and in-person workshops for colleagues in banking, risk and global functions. The first training focused 
+on foundational knowledge of sustainability and climate science for a cross-business cohort of BCMA 
+bankers. The second of these trainings focused on a “deeper dive” in assessing transition plans and client 
+engagement, specifically for the Energy and Power portfolios.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 49
+Citi’s climate-related metrics and targets provide quantitative information on our climate strategy and 
+performance. In this section we summarize the operational and financial data that support our climate 
+strategy and performance, and guides our progress towards our Net Zero Plan and our climate-related goals. 
+ 
+Our $1 Trillion Sustainable Finance Commitment   
+The month after we announced our net zero commitment, we also set our $1 Trillion Sustainable Finance Goal 
+for 2030. This commitment is aligned with the UN SDGs, and spans our business offerings and exemplifies 
+how our Net Zero Plan is being integrated across Citi. We believe that Citi, as the world’s most global bank, has 
+an important role to play in supporting businesses’ transitions toward a more just and sustainable low-carbon 
+economy. Our $1 trillion commitment includes environmental and social criteria and is a core component of 
+our work to accelerate the transition that supports society’s environmental, social and economic needs. 
+ 
+Metrics & Targets
+ 
+PART 5
+50 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+PROGRESS TOWARDS OUR $1 TRILLION SUSTAINABLE FINANCE GOAL COMMITMENT  
+($ IN BILLIONS)
+1 Following the announcement of the $1 Trillion Sustainable Finance Goal in 2021, we performed a retroactive review of 2020 
+sustainable finance activities using our updated goal criteria, which is reflected in the accounting of environmental and social 
+finance activities on this page. 
+2 Denotes activities falling under multiple environmental or social criteria, including green or social bond transactions where the 
+issuer’s framework comprises multiple eligible categories.  
+3 Refers to transactions that met both environmental and social finance criteria. Credit for such transactions were split evenly 
+between the environmental and social finance goals. 
+4 Figures may not sum to totals due to rounding.
+ 
+ 
+A description of our environmental and social finance criteria and the applicability of certain exclusionary 
+criteria can be found on pages 49 to 50 of our 2021 TCFD Report. For additional details, please see page 27 
+of our 2021 Environmental, Social and Governance Report.
+Criteria1 2020 2021 Total %
+Circular Economy 0.4 2.1 2.5 1.1%
+Clean Technology 0.6 0 0.6 0.3%
+Energy Efficiency 1.2 2.5 3.7 1.6%
+Green Buildings 1.6 1.4 2.9 1.3%
+Renewable Energy 7.0 19.5 26.5 11.9%
+Sustainable Agriculture & Land Use 0.2 0 0.2 0.1%
+Sustainable Transportation 3.7 46.7 50.4 22.7%
+Water Quality & Conservation 1.3 1.6 2.9 1.3%
+Environmental: Multiple2 12.9 47.7 60.6 27.3%
+Affordable Basic Infrastructure 0.7 0.3 1.0 0.5%
+Affordable Housing 10.4 10.6 21.0 9.5%
+Diversity & Equity 0.3 0.3 0.6 0.3%
+Economic Inclusion 3.9 2.7 6.6 3.0%
+Education 4.3 0.9 5.3 2.4%
+Healthcare 4.1 1.9 6.0 2.7%
+Food Security 0 0 0 0.0%
+Social: Multiple2 1.4 4.3 5.7 2.6%
+Environmental & Social3 8.5 17.1 25.6 11.5%
+Total4 62.4 159.7 222.1 100.0%
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 51
+Poseidon Principles 
+Citi is a founding signatory of the Poseidon Principles, a global framework to promote decarbonization 
+of the international shipping sector , and we have disclosed our climate alignment score since 2019.  Our 
+alignment score for 2021 was impacted by our clients’ operational priorities as well as the residual impacts 
+of the COVID-19 pandemic, in particular the effect of port congestion and demand in the container sector 
+as well as the tentative resumption of the cruise industry in 2021. The cruise segment represented +6.3% 
+of our total alignment score of +12.2%, indicating that we are slightly more misaligned compared to the 
+2020 alignment score of +11.7%. Our cargo alignment score was also impacted in 2021 due to the  
+significant tonnage demand increase in dry cargo as well as the pre-existing issues in the container 
+sector . Most of the misalignment relates to three individual client situations in which COVID-19-driven 
+operational issues during 2021 are unlikely to have been repeated in 2022. We therefore expect significant 
+improvement in next year’s report for our 2022 total alignment score, which will be reflective of a more 
+normal market environment. 
+Citi continues to partner with clients that are actively considering the development of the next generation 
+of shipping technology. The new International Maritime Organization (IMO) Carbon Intensity Indicator 
+(CII) and Energy Efficiency Existing Ship Index (EEXI) regulations that went into effect in January 2023 
+provide further signals as to where the industry needs to reduce emissions and explore retrofitting 
+opportunities. Although decarbonizing shipping depends on the pace of the energy transition, we see 
+clients looking to source alternative fuels, develop new technologies and consider additional alternative 
+solutions as part of their long-term strategy. We will continue to support our clients in all of their different 
+approaches to reduce emissions which, in turn, will help Citi meet its own targets as we look to support the 
+decarbonization of global supply chains. 
+In 2022, Citi delivered its Poseidon Principles disclosure to the Secretariat, and that disclosure is now 
+published on the Poseidon Principles website.
+Risk Exposure   
+We provide an update to our climate risk heat mapping, for which we developed a more formal and 
+detailed methodology in 2021 to determine the vulnerability scores assigned to each sector . The climate 
+risk heat mapping categorizes sectors under one of four vulnerability scores, ranging from “low” to 
+“high.” We have established sub-scores using the rubric in the following table for various aspects of 
+transition and physical risks.
+52 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+CLIMATE RISK HEAT MAPPING
+1 2 3 4
+Transition 
+Risks
+Regulatory No regulatory/
+policy changes 
+are expected to 
+meaningfully impact 
+the sector financially 
+such as through 
+asset devaluation, 
+increased 
+expenditure (e.g., 
+compliance costs) 
+and/or loss of 
+revenue
+Minor impact to the 
+sector expected 
+from potential 
+regulatory/policy 
+changes (e.g., 
+building efficiency) 
+resulting in 
+financial impact 
+asset devaluation, 
+increased 
+expenditure (e.g., 
+compliance costs) 
+or loss of revenue; 
+impact only on 
+a subset of the 
+sector , subset of 
+geographies and/or 
+only indirect impact 
+Moderate impact to 
+the sector expected 
+from regulatory/
+policy changes 
+(e.g., carbon 
+taxes) relating 
+to the sector’s 
+carbon intensity; 
+direct impact with 
+noticeable economic 
+implications on 
+the sector through 
+impacted asset 
+valuation, increased 
+expenditure (e.g., 
+compliance costs) 
+and/or revenue loss
+Major impact to the 
+sector expected 
+due to expected 
+regulatory/policy 
+changes relating to 
+the sector’s carbon 
+intensity; significant 
+shift expected in the 
+business model or 
+economics of the 
+sector impacting 
+asset valuation, 
+expenditures 
+(e.g., increased 
+compliance costs) 
+and/or revenue
+Technology Outside of general 
+modernization of 
+technology, no 
+technology shifts 
+are expected for the 
+sector
+Minor impact to the 
+sector expected from 
+technology changes 
+(i.e., impact only 
+on a small subset 
+of the sector , or 
+only indirect impact 
+through supply 
+chain) that result in 
+market share loss
+Moderate impact to 
+the sector expected 
+from technology 
+changes, resulting 
+in some shift in the 
+economics of some 
+companies in the 
+sector leading to 
+market share loss
+Major impact to the 
+sector expected 
+from technology 
+changes, resulting 
+in substitution of a 
+significant portion of 
+existing companies 
+(i.e., market share 
+loss)
+Stakeholder There is no 
+expectation 
+of stakeholder 
+composition 
+or preferences 
+changing for the 
+industry
+Minor stakeholder 
+impact due to 
+expected shift in 
+preferences, with 
+minor financial 
+impact on 
+companies (e.g., 
+revenue, vendor 
+pricing)
+Moderate 
+stakeholder impact 
+is expected for the 
+sector in terms 
+of stakeholder 
+preferences and 
+composition with 
+modest financial 
+impact (e.g., revenue, 
+vendor pricing)
+Major stakeholder 
+impact is expected in  
+terms of both 
+client preferences 
+and composition 
+of stakeholders 
+resulting in 
+significant financial 
+impact (e.g., revenue 
+loss, vendor pricing)
+Legal No increased 
+litigation concerns 
+are expected to 
+impact the industry 
+that would lead to 
+increased financial 
+burden (e.g., legal 
+fees, settlements)
+Minor litigation 
+concerns are 
+expected to impact 
+the sector with 
+minor financial 
+consequences 
+(e.g., legal fees, 
+settlements)
+Moderate litigation 
+concerns are 
+expected to impact 
+the sector with 
+modest financial 
+impact (e.g., legal 
+fees, settlements)
+Major litigation is 
+expected to impact 
+the sector , with 
+significant financial 
+impact (e.g., legal 
+fees, settlements)
+continued on next page
+Low HighVulnerability Score
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 53
+The overall score is determined by assigning the highest sub-score as the sector’s overall score. While 
+this may result in some sectors being assigned a vulnerability score that is higher than the average of 
+all climate risks, we have decided to take this more conservative approach in order to recognize that the 
+sector is exposed to climate risks up to that highest level under our methodology.
+Our heatmap assessment helps us to prioritize portfolios when further evaluating the risks within each 
+business unit. We intend to initially focus on the higher-risk, higher-exposure sectors. However , additional 
+due diligence will be required to differentiate the vulnerabilities of individual counterparties within 
+each sector (taking into consideration differences in business models, geographic footprint and climate 
+adaptation and/or mitigation plans).
+It is important to note that these risks are not expected to manifest in every sector immediately. For this 
+reason, the table on pages 54 to 56 should not be interpreted as imminent risks to existing exposures, but 
+rather , exposures we are proactively identifying to focus on, where we will work methodically in the coming 
+years to better understand, analyze and manage our climate risk exposures in these sectors.
+A comprehensive table of our credit exposures is provided below, including a further detailed breakdown of 
+identified sectors into subsectors and, for each, the level of risk relating to physical and transition climate 
+risk. By looking at the subsector level, we can further distinguish between the levels of risk within an 
+individual sector .
+We note that since our 2021 TCFD Report, there have been minor updates within the table, but there have 
+been no substantial changes to our heatmap as we have been prioritizing climate risk assessments focused 
+on more vulnerable sectors. 
+1 2 3 4
+Physical 
+Risks
+Acute 
+Hazard
+Acute physical 
+hazards have no 
+impact on the day-
+to-day operations 
+of companies in the 
+sector
+Sector would 
+experience minor 
+impact from acute 
+physical hazards 
+on operations (e.g., 
+revenue loss due to 
+business disruption), 
+or minor damage to 
+assets (e.g., asset 
+devaluation)
+Sector would 
+experience moderate 
+and protracted 
+impact from acute 
+physical hazards 
+on operations (e.g., 
+revenue loss due to 
+business disruption), 
+or moderate damage 
+to assets (e.g., asset 
+devaluation)
+Sector would 
+experience major 
+and protracted 
+impact from acute 
+physical hazards 
+on operations (e.g., 
+revenue loss due to 
+business disruption), 
+or significant damage 
+to assets (e.g., asset 
+devaluation)
+Chronic 
+Hazard
+Chronic physical 
+hazards have no 
+impact on the 
+operations or 
+valuation of assets/
+companies in the 
+sector
+Chronic physical 
+hazards have minor 
+potential impact on 
+the operations (e.g., 
+increased insurance  
+cost) or valuation of 
+assets/companies in 
+the sector 
+Sector would 
+experience moderate 
+and sustained 
+impact on the 
+operations (e.g., 
+increased insurance 
+cost) or valuation of 
+assets/companies in 
+the sector
+Sector would 
+experience major 
+and irreversible 
+impact on the 
+operations  
+or valuation of 
+assets/companies in 
+the sector
+Low HighVulnerability Score
+54 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+CLIMATE RISK HEAT MAPPING 
+AND CREDIT EXPOSURE
+1 Over medium to long term 
+2 In addition to this exposure, Citi has energy-related exposure within the public sector (e.g., energy-related, state-owned 
+entities) and transportation sector (e.g., offshore drilling under Shipping & Maritime Logistics). Citi’s total exposure to these 
+energy-related sectors is approximately $4.5 billion, of which approximately $2.3 billion consisted of direct outstanding 
+funded loans.
+2021 Climate Risk1
+$ in Millions
+Total $ 
+Exposure
+% of  
+Total  
+Exposure Funded
+% of 
+Funded 
+Exposure
+Transition  
+Risk
+Physical 
+Risk
+Energy & Commodities2  48,973 6.9%  13,485 4.7%
+Integrated Oil & Gas  12,264 1.7%  2,339 0.8% 4 2
+Oil & Gas Exploration & Production  11,799 1.7%  3,193 1.1% 4 2
+Oil & Gas Storage & Transportation  6,326 0.9%  1,209 0.4% 4 2
+Oil & Gas Refining & Marketing  8,600 1.2%  3,271 1.1% 4 2
+Oil & Gas Equipment, Services and Drilling  4,397 0.6%  1,007 0.4% 4 2
+Commodity Traders 3,897 0.5% 1,961 0.7% 3 2
+Other 1,689 0.2% 506 0.2% 4 2
+Power  26,199 3.7%  5,610 2.0%
+Alternative Energy  1,7 49 0.2%  981 0.3% 1 2
+Electric Utilities  6,512 0.9%  1,967 0.7% 3 3
+Gas Utilities  1,343 0.2%  474  0.2% 3 2
+Independent Power Producers & Service 
+Operators
+ 2,183 0.3%  393 0.1% 3 3
+Multi-Utilities  11,826 1.7%  1,378 0.5% 3 3
+Water Utilities  1,328 0.2%  161 0.1% 2 3
+Other  1,258 0.2%  256 0.1% 3 3
+  Transportation  75,106 10.5%  30,747 10.8%
+Autos  48,210 6.8%  18,662 6.6% 4 1
+Automobile Manufacturers  16,386 2.3%  5,997 2.1% 4 1
+Auto Parts & Equipment  9,377 1.3%  3,808 1.3% 4 1
+Auto-Related Financing, Leasing and Rentals  19,751 2.8%  7 ,313 2.6% 3 1
+Other  2,696 0.4%  1,544 0.5% 4 1
+Aviation  9,582 1.3%  3,839 1.3% 3 3
+Shipping & Maritime Logistics excluding 
+offshore
+ 8,238 1.2%  5,208 1.8% 3 2
+Shipping & Maritime Logistics offshore  1,036 0.1%  253 0.1% 4 2
+continued on next page
+Low High1 2 3 4
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 55
+3 Based on Citi’s Risk Industry Classification, which differs from how Citi defines thermal coal mining companies under its 
+ESRM Policy.  For reporting on our thermal coal mining exposure, see page 44.  
+ 
+2021 Climate Risk1
+$ in Millions
+Total $ 
+Exposure
+% of  
+Total  
+Exposure Funded
+% of 
+Funded 
+Exposure
+Transition  
+Risk
+Physical 
+Risk
+Logistics  8,040 1.1%  2,785 1.0% 3 3
+Air Freight & Logistics  507 0.1%  255 0.1% 3 3
+Rail  1,140 0.2%  267 0.1% 1 2
+Trucking  539 0.1%  290 0.1% 3 1
+Other  5,854 0.8%  1,973 0.7% 3 3
+Industrials  68,338 9.6%  20,755 7. 3%
+Building Products & Related  7 ,413 1.0%  2,406 0.8% 3 1
+Capital Goods  45,619 6.4%  13,544 4.8% 3 3
+Paper Forest Products & Packaging  6,786 1.0%  3,002 1.1% 3 1
+Professional Services  8,520 1.2%  1,803 0.6% 2 1
+Metals & Mining  13,892 1.9%  6,089 2.1%
+Coal3  506 0.1%  80 0.0% 4 4
+Steel  3,553 0.5%  2,203 0.8% 3 2
+Aluminum  859 0.1%  601 0.2% 3 2
+Stainless Steel  127 0.0%  93 0.0% 3 2
+Nonferrous & Ferrous Minerals  2,345 0.3%  942 0.3% 3 2
+Other 6,502 0.9% 2,170 0.8% 3 2
+Chemicals  25,550 3.6%  8,525 3.0% 3 1
+Consumer Retail & Health  112,387 15.8%  41,720 14.7%
+Food Beverage & Tobacco  35,710 5.0%  16,375 5.8% 3 3
+Agricultural Products  6,721 0.9%  4,075 1.4% 3 3
+Beverages  9,047 1.3%  3,702 1.3% 1 3
+Food Products  15,370 2.2%  7 ,189 2.5% 3 2
+Tobacco  2,551 0.4%  563 0.2% 1 3
+Other  2,022 0.3%  847 0.3% 3 3
+Health Care Equipment & Services  33,393 4.7%  8,826 3.1% 1 1
+Household & Personal Products  7,962 1.1%  3,273 1.2% 2 2
+Retail  18,276 2.6%  6,535 2.3% 2 1
+Hotels Restaurants & Leisure  3,943 0.6%  1,475 0.5% 1 2
+continued on next page
+56 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+4 Includes Banks, Finance Companies, Securities Firms, Asset Managers and Funds, and Financial Markets Infrastructure. 
+5 Certain countries may see high transition and physical risks based on commodities exposure and geographic location. 
+6 Sums may not match FY 2021 10k due to rounding from increased granularity in industry breakdowns. 
+2021 Climate Risk1
+$ in Millions
+Total $ 
+Exposure
+% of  
+Total  
+Exposure Funded
+% of 
+Funded 
+Exposure
+Transition  
+Risk
+Physical 
+Risk
+Consumer Durables & Apparel  13,104 1.8%  5,236 1.8% 2 2
+Real Estate  69,808 9.8%  46,220 16.2%
+Commercial Real Estate  53,181 7. 5%  31,907 11.2% 2 3
+Residential Real Estate  16,627 2.3%  14,313 5.0% 2 3
+Financial Institutions4  129,582 18.2% 64,405 22.6% 3 2
+Insurance 28,495 4.0%  3,162 1.1%
+Life insurance  5,223 0.7%  784 0.3% 1 1
+Property & Casualty Insurance  15,102 2.1%  2,193 0.8% 2 3
+Reinsurance  6,447 0.9%  113 0.0% 2 3
+Other  1,723 0.2%  71 0.0% 2 3
+Public Sector5  23,842 3.3%  12,464 4.4% 3 3
+Tech, Media & Telecom 84,333 11.8%  28,542 10.0%
+Media & Entertainment  12,336 1.7%  2,547 0.9% 1 1
+Hardware  24,404 3.4%  9,580 3.4% 2 2
+Software & Services  23,144 3.2%  5,392 1.9% 1 1
+Telecom  22,258 3.1%  9,959 3.5% 1 2
+Other  2,192 0.3%  1,064 0.4% 2 2
+Other Industries 6,591 0.9%  2,802 1.0% 1 1
+Total6 713,096 100.0% 284,527 100.0%
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 57
+Net Zero Financed Emissions Data and Targets   
+In addition to the absolute financed emissions we began calculating for our Energy and Power portfolios 
+last year , in 2022, we calculated absolute financed emissions for our Auto Manufacturing, Commercial Real 
+Estate, Steel and Thermal Coal Mining portfolios, as well as adding Energy-related project financing to the 
+Energy financed emissions boundary. We calculated these figures according to the PCAF methodology (using 
+funds outstanding) and in alignment with our net zero target boundaries (using total funds committed).  
+As noted in our 2021 TCFD Report, we expect the quality of our annual emissions data to improve as our clients’ 
+climate disclosure and data quality and quantity increase. In our analysis this year , we found the financed 
+emissions data quality scores for the Energy and Power sectors improved as follows from 2020 to 2021:
+ 
+ FINANCED EMISSIONS DATA COVERAGE 
+1 Only inclusive of counterparty data with PCAF Data Quality Scores 1 and 2. Percentages disclosed in last year’s TCFD Report 
+were based on a select group of S&P Global Trucost identifiers for directly disclosed data. The revised calculation presented in 
+the table above is instead based on data that achieves a PCAF data quality score of 1 or 2 (data from partial disclosures also 
+qualifies for score 2).  
+2 Scope 3 is not tracked for the sectors for which it is not material.
+3 Data scores range from 1 to 5, with a score of 1 signifying the highest quality data and a score of 5 signifying the lowest 
+quality data. Scores are weighted by drawn exposure.
+4 Due to the lower level of manual adjustments used for data sources this year, the amount of data with PCAF data quality 
+scores of 1 and 2 has decreased. In instances where emissions estimates from third-party data providers were within a 
+negligible margin of emissions disclosed by clients, we deferred to data coming from the third-party dataset.
+5 This data quality score was erroneously calculated in last year’s report and has since been revised.
+Data  
+Coverage 
+Auto Mfg Commer-
+cial Real 
+Estate
+Energy Power Steel Thermal 
+Coal  
+Mining
+2021 2021 2020 2021 2020 2021 2021 2021
+% of portfolio 
+reporting 
+emissions: 
+Scope 1 and 2 
+(by committed 
+exposure)1 
+94% N/A 63% 65%  
+(Excluding 
+project finance)
+81% 77%  
+(Excluding 
+project finance)
+76% 50%
+% of portfolio 
+reporting 
+emissions: Scope 
+3 (by committed 
+exposure)1,2 
+75% N/A 18% 3%4 N/A N/A 54% 
+(Upstream 
+6%  
+(Downstream)
+0%
+PCAF Scope 1 and 
+2 Data Quality 
+Score (out of 5)3
+2.1 4.4 3.25  2.9  
+(Excluding 
+project finance) 
+2.9  
+(Project 
+finance only)
+3.0  2.6  
+(Excluding 
+project finance) 
+3.0  
+(Project 
+finance only)
+2.1 3.1
+PCAF Scope 3 
+Data Quality 
+Score (out of 5)3
+2.3 N/A 3.65 3.6 N/A N/A 3.1 
+(Upstream) 
+3.8  
+(Downstream)
+3.0
+58 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+2021 FINANCED EMISSIONS SUMMARY 
+1 Includes project finance for 2021. 
+2 Includes project finance for 2020 and 2021.  
+3 Includes direct financing within North America (NAM) only.  
+4 Adjusting for Enterprise Value Including Cash (EVIC) fluctuations, the normalized result is 113.8 M mt CO2e.  
+ 
+There are three key contributors to fluctuations in financed emissions from year to year — the exposure, 
+the company value (EVIC for public, Debt and Equity for private), and the company emissions. We saw these 
+dynamics play out in the Energy sector last year in particular , where the data mismatch (where energy 
+companies ended 2021 with high valuation — but this was following a year of decreased production and 
+emissions in 2020) has lowered our financed emissions figures for 2021. In an effort to adjust for one of these 
+superficial drivers, we have tested a proposed PCAF EVIC adjustment method (intended for Asset Managers’ 
+Sector Energy1 
+(Scope 1-3)
+Power2 Auto  
+Manufacturing 
+(Scope 1-3)
+Commercial 
+Real Estate3 
+(Scope 1-2)
+Thermal Coal 
+Mining 
+(Scope 1-3)
+Steel
+(Scope 1-3)
+2020 
+Financed 
+Emissions
+(Committed 
+Exposure)
+143.8  
+M mt CO2e
+12.0 
+M mt CO2e 
+(Scope 1-2)
+N/A N/A N/A N/A
+2020 
+Emissions 
+Intensity
+(Physical)
+81.4 
+g CO2e/MJ
+313.5  
+kg CO2e/MWh 
+(Scope 1)
+N/A N/A N/A N/A
+2021  
+Financed 
+Emissions
+(Outstanding 
+Drawn Exposure)
+36.2 
+M mt CO2e
+4.3 
+M mt CO2e 
+(Scope 1-2)
+4.9 
+M mt CO2e
+425 
+k mt CO2e
+3.6 
+M mt CO2e
+4.5 
+M mt CO2e
+2021  
+Financed 
+Emissions
+(Committed 
+Exposure)
+100.3 
+M mt CO2e4
+11.0 
+M mt CO2e 
+(Scope 1-2)
+13.0 
+M mt CO2e
+526 
+k mt CO2e
+7.9 
+M mt CO2e
+7.1 
+M mt CO2e
+2021 
+Emissions 
+Intensity
+(Physical)
+81.8 
+g CO2e/MJ
+308.2  
+kg CO2e/MWh 
+(Scope 1)
+154 
+g CO2e/km
+61 
+kg CO2e/m2
+3.2 
+t CO2e/ 
+short ton
+TBD
+2021 
+Emissions 
+Intensity
+(Per $ million 
+committed)
+2,260 
+mt CO2e/ 
+$MM 
+Committed
+473 
+mt CO2e/ 
+$MM 
+Committed
+993 
+mt CO2e/ 
+$MM 
+Committed
+27 
+mt CO2e/ 
+$MM 
+Committed
+22,097 
+mt CO2e/ 
+$MM 
+Committed
+2,581 
+mt CO2e/ 
+$MM 
+Committed
+2021  
+Year-End 
+Commited 
+Exposure
+(Billions)
+$44.40 $23.30 $13.00 $19.40 $0.36 $2.74
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 59
+portfolios) to create a normalized metric by calculating an adjustment factor based on the portfolio EVIC 
+fluctuation. The normalized energy financed emissions footprint is 113.8 M mtCO2e. As there is no recognized 
+method for normalizing this fluctuation, this year we disclosed this adjusted metric to acknowledge that 
+these calculations, heavily based on estimation, will go through a large degree of refinement over the coming 
+years. We will continue to monitor methodologies to normalize these fluctuations, and plan to follow any 
+published guidance from PCAF once available. As we continue to refine our data and metrics, we will maintain 
+transparency on these learnings and continue to assess appropriate pathways to stay aligned with our net 
+zero commitment. 
+Key Design Decisions and 2030 Targets
+The key design decisions for developing the 2030 emissions targets for each of our priority carbon-intensive 
+sectors are summarized in the table below:
+  2030 EMISSIONS REDUCTION TARGETS     
+* Within North America only, excluding Citi Community Capital portfolio   
+Sector Baseline (Year) Target Metric Climate Scenario 2030 Target 
+Energy 
+(Scope 1-3)
+143.8 million mt CO2e 
+(2020) 
+Absolute IEA NZE 2050 29% 
+reduction from 2020 
+baseline
+102.1 million mt CO2e
+Power 
+(Scope 1)
+313.5 kg CO2e/MWh 
+(2020) 
+Intensity IEA SDS OECD 63%  
+reduction in Scope 1 
+intensity per MWh
+115 kg CO2e/MWh
+Auto
+Manufacturing  
+(Scope 1-3)
+154 g CO2e/km 
+(2021) 
+Intensity IEA NZE 2050 31%  
+reduction in intensity 
+per km from 2021 
+baseline
+106 g CO2e/km
+Commercial 
+Real Estate*  
+(Scope 1-2)
+61 kg CO2e/m2 
+(2021)
+Intensity CRREM Pathways 41%  
+reduction in intensity 
+per m2 from 2021 
+baseline
+36 kg CO2e/m2
+Steel  
+(Scope 1-3)
+SSP Climate 
+Alignment Score TBD 
+(2021)
+Intensity IEA NZE 2050 SSP Climate
+Alignment Score = 0
+Thermal Coal 
+Mining  
+(Scope 1-3)
+7.9 million mt CO2e 
+(2021)
+Absolute IEA SDS OECD 90%  
+reduction from 2021 
+baseline
+793 thousand mt CO2e
+60 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Operations   
+As a global bank, we believe in the importance of reducing the impact of our facilities and our operations. 
+As part of our Net Zero Plan, we have committed to achieving net zero operational emissions by 2030. 
+As part of this commitment, we are prioritizing the reduction of emissions from our operations as much 
+as possible, although we acknowledge that some emissions offsetting will likely be necessary for hard-to-
+abate operational emissions. Carbon capture and sequestration technology still remains largely limited and 
+costly. There is also a need to scale the deployment of existing energy efficient and renewable technologies 
+to support the protection of the environment beyond our value chain. In support of this need, Citi will begin 
+to purchase voluntary third-party verified carbon credits consisting of a portfolio of nature-based, energy 
+efficiency, and methane destruction credits in an amount equivalent to our Scope 1 direct GHG emissions. 
+We plan to rebalance the carbon credit portfolio mix to only use removal credits as we near our 2030 
+operational target. 
+We have been tracking, reporting and reducing emissions for over two decades. In 2020, we introduced the 
+fourth generation of operational footprint goals for 2021 to 2025. These goals, which form the foundation 
+of our net-zero operations commitment, seek to reduce not just our emissions but also our energy, water 
+and waste consumption and impacts across our operations. Progress on our first year of reporting toward 
+these new goals is provided below. Please note that, as a result of having fewer people using Citi buildings 
+due to the ongoing COVID-19 pandemic, our progress for 2021 indicates that we exceeded some of our 
+goals during the year . That trend could briefly reverse in the coming years as our employees continue to 
+return to the office, before progressing again toward meeting our goals. 
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 61
+ 2025 OPERATIONAL FOOTPRINT GOALS  
+(MEASURED AGAINST 2010 BASELINE)
+ 
+* 91% sourced within the same market boundary as use; 9% sourced from regionally aligned markets. 
+** 2021 total includes 14 Excellence in Design for Greater Efficiencies (EDGE) projects in Latin America.  
+ 
+Progress  
+through 2021Category Goal
+45%
+reduction in location-based  
+GHG emissions 49.8%GHG EMISSIONS
+40% reduction in energy consumption 37.9%
+100% maintain renewable electricity sourcing 100%*ENERGY
+30% reduction in total water consumption 38.8%
+25%
+of water consumed to come from 
+reclaimed/reused sources 7.0%
+WATER
+50% reduction in total waste 55.8%
+50% of waste diverted from landfill 22.8%
+WASTE
+40%
+of floor area to be LEED,  
+WELL or equivalent certified 34.7%**SUSTAINABLE 
+BUILDINGS
+62 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+For more information on our work to meet these goals, please see the “Sustainable Operations” section of 
+our 2021 Environmental, Social and Governance Report. A summary of our 2021 energy consumption is also 
+provided below:
+ 
+  2021 ENERGY CONSUMPTION  
+*Figures may not sum to total due to rounding.
+      
+In our 2021 TCFD Report, we published the results of our initial emissions screening inventory. We have 
+continued to screen our Scope 3 GHG emissions associated with our supply chain through the use of 
+spend-based emissions factors (EPA EEIO). Since completing our first comprehensive screening inventory 
+across operations, supply chain and employee emissions for 2020, we expanded our review this year to 
+include 2019 through 2021. 
+Energy Type GWh
+Scope 1 - Energy Consumed 210
+Natural Gas 178
+LP Gas 1
+Fuel Oil 0
+Diesel 32
+Scope 2 - Energy Purchased 1,137
+Electricity 1,111
+District Heating (Steam & Chilled Water) 26
+Total Energy* 1,348
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 63
+2021 OPERATIONS, SUPPL Y CHAIN AND EMPLOYEE ACTIVITIES GHG SCREENING INVENTORY
+MILLIONS OF METRIC TONS CO2E (M MT CO2E)
+*Methodological Changes: 
+Scope 2: Changed from location-based emissions to market-based emissions to quantify the benefit of renewable electricity use. 
+Scope 3: The U.S. EPA updated their methodology for Scope 3 emissions factors resulting in a material change.   
+Demonstrating the magnitude of the EPA methodology change, the factor for plastic bags, films and sheets (e.g., credit 
+card production materials) increased 47% increasing Category 1 while the factor for computers (e.g., data center and other 
+technology hardware) reduced 77% reducing Category 2 emissions.  Due to the significance of the change, Categories 1, 2 and 
+4 have been re-calculated in their entirety to ensure meaningful comparisons.
+**Scope 1 includes real estate operations and corporate aviation. 
+ Throughout 2022, we have been developing our Net Zero Plan for our operations. As part of this progress, 
+we have determined to follow a 1.5°C pathway, which indicates that our operational emissions should be 
+reduced by 4.2% per year , on average, from 2019 through 2030. Our renewable electricity use (Scope 
+2) puts us well on the path for our operations (Scope 1 and 2). However , addressing supply chain and 
+employee activity emissions (Scope 3) remains a challenge in part due to data limitations. 
+Citi intends to continue the steady progress we have made thus far , enabling real reductions in the near 
+term as we best determine how to approach the challenges of calculating Scope 3 GHG emissions and 
+ultimately driving real, quantifiable reductions across our supply chain and employee activity emissions. To 
+that end, we will continue to progress our operational efficiency and optimization efforts, our renewable 
+electricity use and seeking replacement or alternative low carbon fuel options (e.g., sustainable aviation 
+fuel, renewable natural gas, etc.).
+CO2e Emissions Category 2019 2020* 2021 Primary Source 
+of Emissions
+Scope 1 (Direct Energy)** 0.03 0.02 0.05
+Operations
+Scope 2 (Indirect Energy) 0.36 0.06 0.06
+Scope 3 (Supply Chain and Employee Activity)
+Supply Chain
+Category 1 — Purchased Goods and Services 1.63 1.54 1.70
+Category 2 — Capital Goods 0.35 0.33 0.29
+Category 3 — Fuel and Energy-Related Activities 0.17 0.13 0.28
+Category 4 — Transportation and Distribution 0.15 0.10 0.11
+Category 5 — Waste Generated in Operations 0.02 0.01 0.01
+Category 6 — Business Travel: Total 0.13 0.02 0.01
+Employee 
+Activities
+Category 7 — Employee Commuting: Total 0.08 0.10 0.11
+        Category 7 — Employee Commuting 0.00 0.03 0.03
+        Category 7 — Work from home n/a 0.07 0.08
+Total Emissions 2.9 2.3 2.6
+64 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Although Citi is working to support the transition, banks alone cannot drive this change, and the 
+broader private sector will need to more broadly engage to see meaningful progress. To efficiently and 
+effectively harness the power of the market and to drive progress towards a low-carbon economy, the 
+availability and quality of climate-related data needs to be improved, and the global community will need 
+to continue to encourage meaningful climate regulation and governmental support and strengthen the 
+methodologies for assessing and mitigating climate risks. Additionally, Citi is focused on proactively 
+balancing support for our existing clients in the Energy and other sectors with scaling up investments in 
+innovative, low-carbon energy technologies and infrastructure as we spur progress towards global net 
+zero goals. 
+Some of the most important work to achieve a low-carbon economy will happen at the ground level. 
+As a result, our future climate efforts will focus on expanded and enhanced client engagement and 
+financing efforts to provide our clients with the necessary tools and resources to establish their unique 
+decarbonization pathways and make progress towards their related targets and goals.
+In the future, we also plan to continue, among other efforts:
+ • Developing emissions baselines and targets for additional sectors in our portfolio, such as Agriculture, 
+Aluminum, Aviation, Cement and Shipping;
+ • Continuing to measure progress towards established targets, revising such goals where appropriate to 
+account for advances in methodologies and data availability; and 
+ • Exploring climate-related opportunities to help achieve and sustain progress toward net zero targets, 
+including, for example, advising clients on funding new climate technology opportunities. 
+We will remain transparent about our challenges and our successes as our understanding of climate-related 
+risks and opportunities continues to evolve. Changes to the global economy to support the low-carbon 
+transition will require enormous global cooperation, and we plan to continue sharing our tools and lessons 
+learned that accelerate our collective progress on our path to decarbonization.
+The transition to a low-carbon society will not be smooth or perfectly linear , especially in light of the global 
+economic disruptions of 2022, which we expect will continue into 2023 and beyond. However , as the world’s 
+most global bank, we strive to leverage the full power of our business and to act with urgency to help 
+address the risks posed by climate change while ensuring a just, fair and inclusive low-carbon transition.
+ 
+Looking Forward 
+ 
+PART 6
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 65
+Forward-Looking Statements   
+The disclosures included in this report are being provided in an effort to align with the TCFD 
+recommendations and GFANZ guidance, respond to investor and other stakeholder requests, and further 
+enhance our collective understanding of how climate risk translates into Citi’s key risk categories. As 
+discussed above, our approaches to the disclosures included in this report differ in certain significant 
+ways from those included in our required disclosures, including those mandated by SEC rules and 
+regulations. For additional information, see “A Brief Note on Materiality” in the Introduction section.   
+Certain statements in this report are “forward-looking statements,” including, but not limited to, those 
+statements regarding our operational and financed net-zero targets, sustainable and transition finance 
+goals, and related goals, commitments, strategies and plans. In addition, we may make forward-looking 
+statements in other publicly available documents, and our management may make forward-looking 
+statements orally to analysts, investors, representatives of the media and others. Generally, forward-
+looking statements are not based on historical facts, but instead represent our and our management’s 
+current beliefs regarding future events. Such statements may be identified by words such as believe, 
+expect, anticipate, intend, aim, estimate, continue, project, may increase, may fluctuate, target, illustrative, 
+plans and similar expressions or future or conditional verbs such as will, should, would, may or could. 
+However , any statement that is not a statement of historical fact, regardless of whether it uses any of the 
+foregoing words, is a forward-looking statement.
+Forward-looking statements are based on management’s current expectations and are subject to risks, 
+uncertainties, changes in circumstances and assumptions that are difficult to predict and are often 
+beyond our control and inherently uncertain. These statements are not guarantees of future results, 
+occurrences, performance or condition, and actual results may differ materially from those included 
+in this report. Moreover , many of the forward-looking statements included in this report are based on 
+assumptions, standards, metrics, measurements, methodologies, data and internal frameworks believed 
+to be reasonable at the time of preparation, but should not be considered guarantees. In particular , 
+assumptions, standards, metrics, methodologies and frameworks for measurement, reporting and analysis 
+of climate change continue to evolve, vary across jurisdictions and regulatory bodies and are the subject 
+of proposed regulatory changes in multiple jurisdictions, which may have a material impact on our future 
+measurement and reporting, as well as the results of the efforts set forth in this report. Furthermore, 
+our ability to measure many of these goals is dependent on data expected to be measured, tracked and 
+provided by our clients and other stakeholders; as a result, our ability to measure progress and meet our 
+targets is subject to the quality and availability of such data, as discussed in this report. Given the inherent 
+uncertainty of the estimates, assumptions and timelines contained in this report, we may not be able to 
+anticipate whether or the degree to which we will be able to meet our plans, targets, goals or commitments 
+in advance. Further , Citi has not, and does not intend to, independently verify third-party data. Actual 
+results, performance or outcomes may differ materially from those expressed in or implied by any of these 
+forward-looking statements due to a variety of factors, including, among others, global socio-demographic 
+and economic trends, geopolitical challenges and uncertainties, financial results, energy prices, consumer 
+and client behavior , technological innovations, climate-related conditions and weather events, pandemics, 
+legislative and regulatory changes, the outcome of current and future legal proceedings and regulatory 
+66 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+investigations, public policies, engagement with clients, suppliers, investors, government officials and 
+other stakeholders, our ability to gather and verify data regarding environmental impacts, our ability 
+to successfully implement various initiatives throughout the company under expected time frames, the 
+compliance of various third parties with our policies and procedures and legal requirements and other 
+unforeseen events or conditions. You should not place undue reliance on any forward-looking statement. 
+Other factors that could cause actual results, performance or outcomes to differ materially from those 
+described in forward-looking statements can be found in this report, in Citi’s filings with the SEC and other 
+disclosures available on our corporate website at www.citigroup.com.
+This report contains statements based on hypothetical scenarios and assumptions, which may not occur 
+or differ significantly from actual events, and these statements should not necessarily be viewed as being 
+representative of current or actual risk or forecasts of expected risk. This report may consider disclosure 
+recommendations and broader definitions of materiality used by certain voluntary external frameworks 
+and reporting guidelines that differ from mandatory reporting, including under U.S. federal securities laws 
+and regulations. Information within this report may therefore be presented from a different perspective 
+and in more detail than our mandatory reporting. Thus, while certain matters discussed in this report may 
+be significant, any significance should not be read as necessarily rising to the level of materiality used for 
+the purposes of complying with the U.S. federal securities laws and regulations, even if we use the word 
+“material” or “materiality” in this report. Any discussion of forward-looking statements in this report is 
+not an indication that the subject or information is material to Citi for U.S. federal securities laws and 
+regulations reporting purposes.
+Any forward-looking statement speaks only as of the date originally made and is based on management’s 
+then-current expectations, and we do not undertake to update any forward-looking statement to reflect the 
+impact of circumstances or events that arise after any forward-looking statement was made.
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 67
+Appendices
+In this Section 
+Appendix A 
+Glasgow Financial Alliance for Net Zero (GFANZ) Index
+Appendix B
+Baseline Emissions and Sector Intensity Methodology 
+68
+70
+68 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Glasgow Financial Alliance for Net Zero (GFANZ) Index   
+In preparing this report, Citi referred to the voluntary GFANZ Financial Institution Net-zero Transition Plans 
+- Fundamentals, Recommendations, and Guidance report, which was published in November 2022. The 
+following table indicates where readers can find information that addresses the recommendations within 
+the GFANZ report.
+ 
+Appendix A
+Component Recommendation
+Report  
+Section
+Foundations Objectives 
+and priorities
+Define the organization’s objectives to reach net zero by  
+2050 or sooner , with measurable targets, milestones and 
+timelines, and identify the priority approaches of net zero 
+transition action considering financing climate solutions, 
+decarbonization through seeking net zero-aligned clients and 
+portfolio companies, working to bring clients and portfolio 
+companies into net zero alignment and supporting managed 
+phaseout projects.
+Defining Our 
+Net Zero Plan
+Implementation 
+Strategy
+Products and 
+services
+Align existing and new products and services with a 1.5°C net 
+zero pathway to accelerate and scale the net zero transition 
+in the real economy, provide transition-related education and 
+advice and support portfolio decarbonization in accordance with 
+the institution’s net zero transition strategy.
+Climate 
+Opportunities
+Activities 
+and decision-
+making
+Embed the financial institution’s net zero objectives and priorities 
+in its core evaluation and decision-making tools and processes, to 
+support its net zero commitment. This applies to both top-down/
+oversight structures and bottom-up tools and actions.
+Achieving 
+2030 Targets
+Policies and 
+conditions
+Establish and apply policies and conditions on priority 
+sectors and activities, such as thermal coal, oil and gas and 
+deforestation. Include other sectors and activities within lending, 
+investment and underwriting portfolios that are high-emitting, or 
+otherwise harmful to the climate, to define business boundaries 
+in line with the institution’s net zero objectives and priorities.
+Environmental 
+and Social 
+Risk 
+Management 
+Policy
+Engagement 
+Strategy
+Clients and 
+portfolio 
+companies
+Proactively and constructively provide feedback and support to 
+clients and portfolio companies to encourage net zero-aligned 
+transition strategies, plans and progress with an escalation 
+framework with consequences when engagement is ineffective.
+Engagement
+Industry Proactively engage with peers in the industry to a) exchange 
+transition expertise as appropriate, and collectively work on 
+common challenges; and b) represent the financial sector’s 
+views cohesively to external stakeholders such as clients and 
+governments.
+Climate 
+Policy and 
+Regulatory 
+Engagement
+continued on next page
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 69
+Component Recommendation
+Report  
+Section
+Engagement 
+Strategy  
+(cont)
+Government 
+and public 
+sector
+Ensure that direct and indirect lobbying and public-sector 
+engagement advocate for policies that support or enable an 
+accelerated and orderly transition to net zero, and do not 
+contravene any net zero commitments of the institution. 
+Review portfolio companies’ lobbying and advocacy efforts and 
+utilize engagement levers to encourage consistency with the 
+institution’s own net zero objectives. Discuss clean investment 
+plans and policies with governments and other key stakeholders 
+to help attract private investment in climate solutions.
+Climate 
+Policy and 
+Regulatory 
+Engagement
+Metrics and 
+Targets
+Metrics and 
+targets
+Set targets against key metrics that support the net zero 
+strategy and priorities, including targets for support and scaling 
+of climate solutions, engagement, internal implementation, 
+financed GHG emissions and, where relevant, managed phaseout 
+projects. Monitor a range of metrics to assess progress in 
+implementing the net zero transition plan.
+Metrics & 
+Targets
+Governance Roles, 
+responsibilities 
+and 
+remuneration
+Define roles for Board and senior management so they have 
+ownership, oversight and responsibility for the net zero targets. 
+Assign appropriate individuals and teams to all aspects of 
+both design and delivery. Review the transition plan regularly 
+to ensure material updates/developments are incorporated, 
+challenges are reviewed as an opportunity to course correct and 
+implementation risks are being managed.
+Governance
+Skills and 
+culture 
+Provide training and development support to the teams and 
+individuals designing, implementing and overseeing the plan so 
+that they have sufficient skills and knowledge to perform their 
+roles (including at the Board and senior management level). 
+Implement a change management program and foster open 
+communications to embed the net zero transition plan into the 
+organization’s culture and practices.
+Skills Culture 
+& Expertise
+70 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Baseline Emissions and Sector Intensity Methodology    
+Scope of Analysis     
+Our FY2021 financed emissions calculations encompass the full loan portfolio for the Auto Manufacturing, 
+Commercial Real Estate (CRE), Energy and Energy-related project financing, Power and Power-related 
+project financing, Steel and Thermal Coal Mining sectors. Capital markets activity, structured products 
+(such as derivatives, hedging or trading) and tax equity-financed projects are excluded from this scope of 
+analysis at this time.
+The financial reporting year has been determined as January 1, 2021 to December 31, 2021. Financial values 
+related to client loan exposure and company financials have been aligned to this year-end date where 
+possible, or we have taken information as of the company’s closest financial reporting year-end date.
+Throughout this report, we offer our emissions calculations based on two components of client exposure: 
+ • Outstanding amount: value of the loan that the borrower has drawn down as of the year-end date. 
+ • Committed amount: outstanding amount plus undrawn committed credit which the borrower has 
+available, less any amounts related to fronting facilities.
+Sector portfolios are identified using an internal industry classification system, further detailed below. 
+Auto Manufacturing
+The industry boundary for Auto Manufacturing focuses on Original Equipment Manufacturers (OEM) of 
+light-duty vehicles.
+Commercial Real Estate
+To evaluate each counterparty’s emissions performance, we focus on GHG emissions associated with the 
+direct financing of existing buildings in North America, excluding properties under construction as of 
+December 31, 2021, land and lot development, agricultural properties, indirect financing (e.g., Real Estate 
+Investment Trusts (REITs) and Real Estate Operating Companies (REOCs), or securitized assets) and 
+properties located outside of North America. This exclusion is in part due to data limitations and lack of 
+operational emissions from said property types in our loan book. Since data quality for this sector is best in 
+ 
+Appendix B
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 71
+North America, and much of our financing within the real estate space is located within North America, we 
+are currently looking at only North American properties. 
+Energy and Power
+For industry descriptions, see our 2021 TCFD Report. For project finance loans, we include actively 
+operating electricity generation-related assets in the reporting year for the Power sector and actively 
+operating projects in the Energy sector , which include midstream assets. 
+Steel 
+We have followed the Sustainable STEEL Principles (SSP) guidance to determine in-scope counterparties, 
+focusing on crude steel producers, while excluding stainless steel producers and fabricators from the scope 
+of our financed emissions reporting.
+Suggested NAICS to identify these counterparties include: 
+Thermal Coal Mining 
+The in-scope counterparties were determined to include thermal coal mining companies with 
+≥5% revenue generated from thermal coal mining activities. Mining companies that only produce 
+metallurgical coal were excluded. For companies that produce both thermal coal and metallurgical coal, 
+financed emissions calculations are inclusive of Scope 1 and 2 emissions resulting from both thermal and 
+metallurgical coal activities. 
+  Business Loans Calculation Methodology     
+Scopes 1 & 2     
+Scope 1 and 2 emissions have been included in the financed emissions calculations for all clients  
+within the covered sectors: Auto Manufacturing, Energy, Power , Steel, and Thermal Coal Mining. These 
+emissions include: 
+NAICS Corresponding Index Entries
+212210 Iron Ore Mining
+331110 Iron and Steel Mills and Ferroalloy Manufacturing
+331210 Iron and Steel Pipe and Tube Manufacturing from Purchased Steel
+331221 Rolled Steel Shape Manufacturing
+331511 Iron Foundries
+331513 Steel Foundries (except Investment)
+332111 Iron and Steel Forging
+72 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+ • Reported actual company emissions as sourced through S&P Global Trucost or CDP;   
+ • Reported actual company or site emissions from publicly available databases (such as the EPA or 
+CDP) and/or company disclosures; 
+ • S&P Global Trucost estimations based on reported company data or their proprietary estimation 
+model; and
+ • Estimated emissions based on industry average emission factors by sector from the Partnership for 
+Carbon Accounting Financials (PCAF) emissions factor database.
+For details on the PCAF calculation approaches for Business Loans and principles of best available data 
+calculations and methodology on estimating emissions in the absence of company financials and emissions 
+disclosures, please see our 2021 TCFD Report.
+Scope 3    
+Auto Manufacturing
+For Auto sector loans, Scope 3 tailpipe emissions are the most carbon intensive segment of the vehicle 
+value chain. Therefore, for the automotive sector , only Scope 3 Category 11: Use of Sold Products is 
+included in the Scope 3 financed emissions calculations. Auto manufacturers report their Scope 3 tailpipe 
+emissions in two ways, using a Well-to-Wheel (WTW) methodology or using a Tank-to-Wheel (TTW) 
+methodology. Well-to-Wheel calculations capture combustion of fuel over the lifetime of a vehicle as well as 
+upstream emissions associated with fuel extraction and transport. Tank-to-Wheel calculations only capture 
+the end use combustion of the fuel in the vehicle’s tank over its lifetime.  
+We calculate Scope 3 tailpipe emissions using a hybrid approach, deferring to the public disclosures made 
+by parent companies, despite inconsistent approaches (e.g., TTW or WTW), using publicly reported data 
+provided by S&P Global Trucost, and using a bottom-up, production-based approach when neither S&P 
+Global Trucost nor publicly disclosed data is available. The bottom-up calculation, shown below, uses make, 
+model and body data from LMC, regional lifetime kilometer assumptions, EPA emissions factors and fuel 
+efficiency data from Fueleconomy.gov:
+with l = location
+with v = vehicle
+The equation captures parent company fleet emissions over the lifetime of the fleet. The vehicle units 
+and their corresponding fuel efficiency provide a metric measuring kilometers traveled per gallon of 
+fuel consumed. Total gallons consumed over the life of the vehicle were determined using the average 
+lifetime kilometer metric. Finally, a fuel combustion emissions factor was applied to total lifetime gallons 
+consumed. Equation inputs and their associated assumptions are further discussed below.
+Tailpipe CO2e emissions ∑ X X XVehicle UnitsV
+V
+Fuel EfficiencyV Avg lifetime kmV Emissions Factorl=
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 73
+For clients that produce only electric vehicles, we treat their tailpipe emissions associated with EV battery 
+charging as zero, as emissions from battery charging are covered by the electric power generators in the 
+Power sector .
+Energy
+For details on our Energy Scope 3 calculation methodology, please see our 2021 TCFD Report. 
+Steel
+For Steel sector loans, there is a high degree of variability in Scope 3 emissions given the complexity of 
+final steel product manufacturing processes and the variation among different steel plants (e.g., integrated 
+vs. non-integrated steel plants). The SSP fixed system boundary includes upstream Scope 3 emissions, 
+Category 1 – purchased goods and services, and downstream Scope 3 emissions, Category 10 – processing 
+of sold products. FY2020 Scope 3, Category 1 emissions were obtained through CDP disclosures, when 
+available. Where data was unavailable through CDP, upstream and downstream Scope 3 emissions were 
+obtained through S&P Global Trucost, when available. 
+When using S&P Global Trucost data, Scope 3 emissions are broken down into “upstream” and “downstream,” 
+not by category. As such, applying S&P Global Trucost Scope 3 emissions data for financed emissions 
+calculations leads to an overestimation of financed Scope 3 emissions compared to the SSP boundary.
+Thermal Coal Mining
+Thermal coal product combustion Scope 3 emissions are the most carbon-intensive segment of the thermal 
+coal mining value chain. These emissions belong to Scope 3, Category 11, and are considered “downstream” 
+in the value chain. To calculate these emissions, we use S&P Global Trucost downstream Scope 3 
+emissions data, where available, and for companies that do not have S&P Global Trucost data available, 
+or the emissions values are estimated by S&P, a bottom-up approach is applied by using thermal coal 
+sales figures, sourced through company sustainability reports and/or annual reports, and United States 
+Environmental Protection Agency (EPA) emissions factors. 
+For the bottom-up approach, thermal coal combustion emissions were calculated using the following formula.
+with c = company
+Tons of thermal coal sold
+Thermal coal sales values for CY2020 are sourced through companies’ sustainability reports or annual 
+reports. For companies that do not report coal sales by type, a thermal coal sales ratio is used to calculate 
+thermal coal sales.
+Combustion emissions CO2e ∑ XTons of thermal coal soldc
+C
+Emissions Factor=
+74 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+Emissions factors
+The U.S. EPA “Mixed (electric power sector)” emissions factors (under Coal and Coke category for 
+stationary combustion) are used in this calculation. The emissions factors are sourced through the U.S. 
+EPA’s Center for Corporate Climate Leadership GHG Emission Factors Hub, (April, 2022 update). 
+Global warming potential (GWP)
+GWP is applied to CH4 and N2O emissions to calculate the total CO2e emissions. The GWP values used in the 
+calculation are from the Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report 
+(AR4). We use AR4 instead of the latest AR5, per the recommendation of the US EPA.
+Project Finance Calculation Methodology           
+Our approach to calculating financed emissions for each project finance loan, is aligned with the PCAF 
+calculation approach for project finance:  
+with p = project
+Power
+For our project finance methodology related to electric power generation, see our 2021 TCFD Report.
+Energy
+This year , due to most Energy projects being midstream (i.e., part of the transportation of fuel process), 
+we are only calculating operational emissions (Scopes 1 and 2), as they represent the most material 
+source of emissions for midstream projects. Energy projects include natural gas pipelines, liquid pipelines, 
+liquified natural gas (LNG) plants and Floating Production Storage & Offloading (FPSO), and emissions are 
+estimated based on the following by project type: 
+Natural gas transmission pipelines
+For natural gas transmission pipelines, methane emissions account for more than 99% of GHG emissions 
+(source: EPA GHGRP 2020 dataset, Transmission Pipelines). A common metric used for transmission 
+pipeline companies to track their GHG emissions is methane emissions intensity, which is a measure of 
+methane emissions relative to natural gas throughput. A 2020 methane emissions intensity of 0.142% 
+was reported by ONE Future Coalition for the transmission and storage sector . This average methane 
+emissions intensity was calculated based on U.S. companies representing 56% of U.S. pipeline mileage. 
+With the limitation of regional data access, this U.S.-based average methane emissions intensity 
+was used to estimate GHG emissions for all natural gas pipelines projects in the FY2021 dataset. The 
+Financed Emissions CO2e =∑
+p
+Outstanding Amountp
+Total equity + debtp
+Project EmissionspX
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 75
+equation used to calculate GHG emissions is presented below.
+  
+Liquid pipelines7
+To calculate GHG emissions from liquid pipelines, an emissions intensity of tCO 2e/t-km was calculated 
+based on a research paper “Carbon footprint of oil products pipeline transportation.” 8 In this paper , a 
+detailed Life Cycle Assessment (LCA) model is established to analyze carbon emissions of an oil products 
+pipeline system from construction to disposal. Data from six Chinese oil pipelines were adopted as the 
+the benchmark case study to reflect emissions produced in different stages.
+The average calculated life cycle emissions intensity based on the case studies is 1.45*10-5 tCO2e/t-km. As 
+approximately 30% of emissions come from pipeline operation phase, an emissions intensity of 4.36 * 10-6 
+tCO2e/t-km was applied to estimate emissions from liquid pipeline projects using the annual throughput 
+and pipeline distance data. The equation used to calculate GHG emissions is listed below.
+with t-km = a unit of measure representing the transport of one tonne of goods over  
+the distance of one kilometer
+Note: the pipeline distances provided reflect a network of pipelines with many entry and delivery points 
+instead of point-to-point pipelines, and as a result, there is a possibility of overestimating emissions as the 
+products do not travel through the whole network.
+Floating production storage and offloading (FPSO)
+Published CO2 intensity is applied to calculate GHG emissions for oil and gas production.
+Liquified natural gas (LNG) processing plants
+GHG emissions calculated for the LNG plant projects are based on project specific emissions factors 
+sourced through company reports.
+CO2e emissions (tonnes) from  
+natural gas pipeline operations X Xnatural gas Throughput (scf) 
+X Xmethane density methane emissions intensity (%) methane GWP
+methane content of natural gas (%)=
+CO2 emissions (tonnes) from  
+oil pipeline operations X
+X X
+Xannual Oil Throughput (bbl) conversion factor (tonnes/bbl)(9) 
+pipeline distance (km) 4.36 10-6 tCO2e/t-km
+=
+7 Liquid pipelines use the unit t-km in their financed emissions calculations. This unit represents a measure of the transport of one tonne of 
+goods over a distance of one kilometer
+8 Huang, L., Liao Q, Liang Y , and Zhang H (2021) Carbon footprint of oil products pipeline transportation, published in Science of the Total 
+Environment. 
+9 U.S. Environmental Protection Agency  
+76 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+ Commercial Real Estate Calculation Methodology      
+Baseline emissions for this sector focus on a building’s operational activity to capture Scope 1 and Scope 
+2 emissions. Where possible, and given variable constraints on emissions data, calculations capture a 
+building’s energy consumption, but exclude all remaining value chain segments from scope (e.g., embodied 
+emissions from construction, etc.).
+The formula used to calculate a building’s operational emissions is as follows:
+The financed emissions formula for the CRE Sector is as follows:
+ 
+ with c = counterparty
+with a = asset
+External Data Inputs for Commercial Real Estate
+Carbon Risk Real Estate Monitor (CRREM) Emissions Data
+Building emissions data was derived predominately from the CRREM module, which includes emissions 
+information for approximately 11 different property types across 44 different countries. The data is derived 
+from 2018 actual emissions, projecting emissions intensities until 2050 by property type and location. In the 
+absence of actual emissions, we leveraged a property and location crosswalk to triangulate the appropriate 
+CRREM emissions factor by property type and location to apply against Gross Floor Area (GFA). This 
+approach was used to determine the estimated building emissions of a property for the year 2020.
+CRREM does not segregate Scope 1 and 2 emissions from its intensity metrics. CRREM’s emissions factor 
+includes fugitive leaks, unlike other readily available emission factors. Further information on the CRREM 
+Methodology can be sourced in their methodology documents11,12.
+To validate CRREM emission disclosures, a comparison was performed using EPA emission factors derived 
+from EIA CBECS and RECS consumption data. This comparison largely confirmed that estimated emissions 
+leveraging CRREM in the U.S. were within range of the EIA’s database.
+Though CRE uses an asset level approach, to remain consistent with other sectors, GHG emissions are 
+pulled for CY2020. In FY2021, CRREM emissions for CY2020 were matched to all properties.
+10 Emission factors leveraged for the calculation include: CRREM and EIA/EPA. Both sources utilize property-specific and location-specific 
+consumption to triangulate an appropriate metric. 
+11 CRREM Risk Assessment Reference Guide
+12 CRREM Downscaling and Assessment Methodology
+Building Operational Emissions XEmissions Factor(10) Gross Floor Area=
+=Financed Emissions ∑
+c
+Committed Amountc
+∑ Value at Originationa
+∑
+a
+X  (Gross Floor Areaa X Emissions Factor(10)
+a )
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 77
+EIA Commercial Building Energy Consumption Survey (CBECS) and Residential Energy Consumption 
+Survey (RECS)
+To supplement CRREM, as well as create average properties where Gross Floor Area (GFA) was unavailable 
+within datasets, the U.S. Energy Information Agency (EIA)’s Commercial Building Energy Consumption 
+Survey, known as CBECS and Residential Energy Consumption Survey, or RECs, was leveraged to 
+supplement data gaps around properties from Citi’s internal databases and provide a U.S.-centric 
+emission factors. This approach was used to provide more granularity to U.S. property pathways than 
+CRREM accounts for . The data is derived from 2018 building consumption for CBECS and 2015 building 
+consumption for RECS. In the absence of actual emissions, Citi property data leverage a property and 
+location crosswalk to triangulate the appropriate EIA CBECS/RECS building average and census region to 
+apply against GFA. This approach was used to determine the estimated building emissions of a property for 
+the year 2020.
+Focusing on the methodology to supplement data gaps, CBECS and RECS property data points were used 
+to develop a Whole Building Methodology by U.S. census region, deriving a property type and/or property 
+sub-type to source the average GFA by census region. Where floor area is unavailable, building emissions 
+will be estimated using a Whole Building Approach, resulting in a PCAF data quality Score 5.
+Environmental Protection Agency (EPA) Emission Factors
+In conjunction with the EIA CBECS and RECS average property types, where a regional census region 
+approach could be applied, EPA emission factors were developed to provide a more accurate estimation 
+of the U.S. portfolio. Property- and state-specific emissions factors were developed through a geographic 
+crosswalk, which aligned the eGRID electricity data and EIA combustion data by state to U.S. Census region. 
+These electricity and fuel consumption by property type and census region were then converted using EPA 
+emission factors. Scope 1 & 2 emission intensities were then summed by property type and census region 
+and then applied to their relevant properties.
+Sector Intensity Calculation Methodology       
+Sectoral emissions intensity metrics were calculated for our portfolios in all covered sectors:  Auto 
+Manufacturing, Commercial Real Estate, Energy, Power , Steel and Thermal Coal Mining. 
+The Power and Energy portfolio intensity metrics are inclusive of our commercial and project finance 
+loans. For all sectors, portfolio-weighted physical intensity was calculated as the sum of parent company 
+emissions intensities, weighted by the parent-level committed exposure as a percentage of total portfolio-
+level committed exposure. The physical emissions intensity metric, by sector is as follows: 
+ 
+ 
+ 
+78 | TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO
+For the Power sector , FY2020 electricity generation information is sourced through CDP and S&P Global 
+Trucost and project operating information is sourced from annual credit reports and public company 
+disclosures.
+Energy sector company oil and gas production for FY2020 is primarily sourced through Wood Mackenzie 
+data and from the EPA Greenhouse Gas Reporting Program (GHGRP). 
+Auto sector local make production figures for FY2020 is sourced from LMC Automotive, a GlobalData 
+Company data. This data provides information about vehicle powertrain, annual volumes projected beyond 
+2030 and other vehicle information pertaining to production location and vehicle body type.
+Coal sector production information is sourced from public company disclosures.
+Through the SSP, for the Steel sector , we will receive crude steel production and emissions data from a 
+third-party data provider , CRU to calculate the climate alignment score.
+ Sustainable STEEL Principles Climate Alignment Score 
+Methodology       
+For further details on the Sustainable Steel Principles and its methodology, please see here.
+Sector Physical Intensity Metric 
+Auto 
+Manufacturing
+Grams of CO2e emitted for each lifetime vehicle kilometer (g CO2e/km) for each company (Scopes 
+1-3)
+Commercial 
+Real Estate
+Kilograms of CO2e emitted for each square meter (kg CO2e/m2) for each property (Scopes 1-2)
+Energy Kilograms of CO2e emitted for each MJ produced (kg CO2e/MJ) for each company or project 
+(Scopes 1-3)
+Power Kilograms of CO2e emitted for each MWh produced (kg CO2e/MWh) for each company or project 
+(Scope 1)
+Steel Kilograms of CO2e emitted for each ton of steel produced (kg CO2e/ton) for each company, 
+weighted by primary or secondary production to calculate a Climate Alignment Score (Scopes 1-3)
+Thermal Coal 
+Mining
+Kilograms of CO2e emitted for each short ton produced (kg CO2e/short ton) for each company 
+(Scopes 1-3)
+TCFD REPORT 2022: CITI’S APPROACH TO CLIMATE CHANGE AND NET ZERO | 79
+© 2023 Citigroup Inc.
+Citi, Citi with Arc Design and Citibank are trademarks and servicemarks of Citigroup, Inc.
+(and its affiliates) and are used and  registered throughout the world.
+

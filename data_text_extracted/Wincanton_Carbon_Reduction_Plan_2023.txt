@@ -1,0 +1,242 @@
+Carbon reduction plan
+July 2023 (meets PPN 06/21)
+Commitment to achieving net-zero
+1Carbon reduction plan - July 2023
+Contents
+Appendix 1
+Declaration and sign off
+Carbon reduction initiatives
+Baseline emissions footprint
+2
+3
+6
+8
+9
+Carbon reduction plan - July 2023
+Commitment to achieving 
+net-zero
+2
+Supplier name
+Wincanton Holdings Limited trading as Wincanton
+Publication date 
+July 2023
+Commitment to achieving net-zero 
+Wincanton is committed to achieving an ambitious target of “net-zero carbon emissions by 2040”.
+We will nurture our culture of care for the environmental throughout our operations and, through our industry leading 
+continuous improvement and innovation programmes, minimise our environmental impacts including our greenhouse gas 
+(“carbon”) emissions. 
+We are great people delivering sustainable supply chain value and we have already taken many strides to ensure that we 
+achieve our headline target by engaging our customers with our low carbon vision of the future; continuously improving 
+our fleet; optimizing our transport network; continuing to minimise our waste; and electrifying our warehouse estate whilst 
+sourcing renewable energy.
+We plan to continue to reduce our emissions through our continuous improvement and operational excellence programmes 
+and are confident that we will meet our targets, both interim and long term, whilst collaboratively helping our customers to 
+achieve theirs.
+Carbon reduction plan - July 2023
+Baseline emissions footprint
+Baseline emissions
+Baseline emissions are a record of the greenhouse gases that have been produced in the past and were produced prior to the 
+introduction or continuation of any strategies documented below to reduce emissions. Our baseline emissions are the reference 
+point against which our future emissions reduction will be measured.
+The Wincanton financial year is 1 April to 31 March. Our current targets are our third carbon target period. We started with “10% 
+reduction by 2016 from a 2010 baseline”, which we achieved. We then completed “a 5% reduction by 2020 from a 2016 baseline” 
+and have now set a long-term target to 2040 based around our net-zero aspirations.
+The baseline for this third “net-zero” target period is 2019-20, “FY2020”.
+Additional details relating to the baseline emissions calculations
+Our carbon emission information is prepared with reference to the Carbon Disclosure Standards Board (CDSB) Framework 1.1 and 
+the GHG Protocol Corporate Standard for company reporting using ‘operational control’.
+Carbon factors are as per UK Defra/BEIS conversion factors for company reporting for the respective years, with emissions from 
+electricity generation, transmission and distribution emissions included as scope 2 emissions. For all UK mainland operations 
+where we have the supply contract, we purchase ‘green tariff’ electricity that complies with the market-based scope 2 reporting 
+requirements of the GHG protocol. However, we have reported electricity use at UK grid average emissions for the purposes of 
+this Carbon Reduction Plan and our Annual Report(s), both of which are available on the Wincanton website along with an ESG 
+reporting page referencing the relevant GRI measures.
+This baseline footprint is the same as that published in Wincanton Annual Report 2020 (AR20), restated in AR21 and restated here 
+to reflect the disposal in Sep/Oct 2020 of our containers and workshop businesses. The AR21 and post disposal restatements have 
+been provided with the post disposal figure being the baseline we will work from. Wincanton acquired Cygnia in September 2021, 
+adding 428 tCO2e from the use of mains gas and electricity. Cygnia customers outsource their transport meaning no scope 1 or 3 
+emissions from transport. This carbon figure was about 0.1% of our total scope 1 and 2 emissions and deemed not material to our 
+emissions. No ‘re-baselining’ of our target or performance figures was therefore required for the Cygnia acquisition.
+Carbon Emissions Performance
+The emissions performance (Table 1) has also been provided as per AR23. Restated figures are provided for 2019-20 and 2020-21 to 
+reflect the disposal of our specialist container logistics and PFS workshop businesses.
+3
+Year
+Emissions
+2019-20
+(Baseline)
+2019-20
+(Baseline 
+2020-21 2020-21
+(Restated)
+2021-22 2022-23
+Scope 1 324,357 297,202 308,391 295,961 314,799 313,786
+Scope 2 23,229 22,872 20,398 20,210 19,401 17,079
+Scope 3* 92,493 77,495 91,061 83,763 121,390 83,911
+TOTAL 440,079 397,569 419,850 399,934 455,590 414,776
+Table 1
+* Selected scope 3 emissions categories are downstream and upstream transport and distribution; business travel;  
+waste; and employee commuting as per the recommendations of PPN 06/21. See Appendix 1 for explanatory notes and  
+methodology overview.
+In FY2023, Wincanton revenue grew 2.8% to £1,462m with total scope 1,2 and 3 emissions reducing 9%. This means our carbon 
+intensity by revenue reduced year on year. See graphs 1 and 2 for revenue growth and carbon intensity trends.
+This emissions performance was delivered by continued deployment of our “Winsight” transport planning and digital transport 
+suites; reduced sub-contract road freight spend; increased use of hydro-treated vegetable oil (HVO) renewable fuel; increased use 
+of natural gas for transport; and shifts in our business mix towards less carbon intensive revenue streams. 
+Emissions reduction targets
+Currently, we have a “qualitative”, long-term, “net-zero by 2040” target which has not been verified formally by the Science Based 
+Targets Initiative. We have not yet committed to a formal science-based target (SBT). We evaluated an SBT during FY2023 and 
+while we recognise that this has become a standardised approach for many companies, decarbonisation trajectories for the freight 
+transport sector remain unclear. 
+Our progress against targets is currently focused on scope 1 and 2 emissions and we anticipate that we will achieve a 30% 
+reduction in emissions by 2030 based on the wider industry decarbonisation and legislative landscape; our progress at optimising 
+our diesel fuel usage; use of transition fuels like HVO; and limited early adoption of electric trucks in heavier weight categories. 
+We expect a further 70% reduction from 2030 to 2040 as electrification technologies and infrastructure, potentially including 
+hydrogen, become more widespread and commercially available.
+In our initial 2021 PPN 06/21 Carbon Reduction Plan (CRP), we used a simple linear methodology to project our target trajectory 
+over the target period. 
+As we have engaged with and explored alternative fuel and zero emission technology timelines through this year, we have adjusted 
+the original target trajectory methodology to reflect the timelines we are seeing from our technology and innovation partners. 
+We now use a non-linear methodology to reflect our belief that, as the freight transport carbon reduction ecosystem matures and 
+zero emission technology and infrastructure become more widely available, we will see the pace of carbon reduction increase in 
+the second half of the 2020s. Reduction will then continue at the rate that we can convert fleets at times of renewal and contract 
+award making progress more linear to 2040. Graph 1 Illustrates our performance against our non-linear target trajectory to 2030.
+After 2040, we anticipate that any remaining residual emissions will be offset using appropriate, authentic carbon reduction credits 
+until we can finally remove all emissions. We may use carbon credits before this for selected customers, sectors or sites where 
+carbon neutral operation is required and feasible.
+4
+Graph 1 – Emissions Performance and Target Trajectory
+Graph 2 illustrates the same target trajectory but maps carbon intensity by revenue showing our carbon reduction is helping us to 
+stay on track despite revenue growth. Making significant emissions reductions to compensate for further growth will require us 
+to complete wholesale introductions of alternative fuels and zero emission technologies and we will not be able to rely solely on 
+efficiency gains and incremental improvement.
+Graph 2 – Carbon Emissions Intensity by Revenue
+Carbon reduction plan - July 2023
+Carbon reduction plan - July 2023 5
+Carbon reduction initiatives
+Carbon reduction initiatives
+Our target is an absolute one and, whilst in the earlier phases we will aim to continuously improve transport and energy efficiency, 
+our plans are to utilise alternative fuels and electrification to achieve the emissions reductions we have committed to.
+Wincanton has held the Carbon Trust Standard (CTS) since 2010, which has required us to demonstrate carbon reductions  
+year on year for the past twelve years. We have now moved away from the CTS and certified our carbon accounting process to  
+ISO14064-1:2018 to provide external assurance of our carbon reduction programme. We also have an environmental management 
+system in place that is available to all operations and is certified to ISO14001:2015 giving us a solid platform to achieve our  
+improvement goals.
+The initiatives below have been or can be implemented on all customer contracts relevant to the technology solution and it is not 
+an exhaustive list of all projects. The diversity of the Wincanton contract portfolio means that not all carbon reduction initiatives 
+are effective in all applications. The appropriate and effective solutions will be implemented for a particular contract agreed 
+collaboratively with our customer.
+Fleet and Transport
+Emissions from transport make up over 83% of our total scope 1, 2 and 3 carbon emissions. We continue to invest in our fleet 
+typically replacing 15-20% of our vehicles each year. Over 98% of the vehicles we operate are Euro VI and when we upgrade these, 
+we ensure we include the latest engine variants and fuel saving features such as adaptive cruise control; automatic braking; and 
+predictive power train control.
+We have fitted most of our vehicles with vision-enabled telematics and established an industry leading driver assessment  
+and coaching programme to keep our drivers firmly in the ‘green’ performance zone which results in the best fuel efficiency.
+We are utilising ‘green’, low rolling resistance tyres where appropriate, are utilising ‘mirrorless’ vehicles that provide some 
+aerodynamic benefit, and, where appropriate, we use light-weighted trailers, double decks and longer semi-trailers to  
+optimise load fill.
+We continue to implement our cloud-based transport planning system which is a multi-year project that will provide significant 
+benefits in vehicle utilisation, routing and loading across our diverse portfolio over the coming years. It will be deployed on those 
+fleets where it will provide sustainable value in network optimization.
+We continue to evaluate, trial, and adopt, when appropriate, alternative fuels including electric vehicles, biomethane, and  
+hydro-treated vegetable oil (HVO) and we anticipate significant collaborative investment with our customers in electric and 
+alternative fueled vehicles and infrastructure. Initially, over the next 5 to 10 years, we expect that for heavier trucks this will be 
+in HVO and biomethane with electrification of our smaller, rigid vehicles. During FY2023 we utilised 1.5m litres of HVO and we 
+recently announced the deployment of 30 electric vehicles up to 16.7t on our two-person home delivery network. 
+In 5 to 10 years and beyond we believe that heavier HGVs with battery electric and hydrogen fuel cell drive trains will become 
+commercially available and will begin to achieve widespread deployment after 2030. We have been participating in the ‘Zero 
+Emission Road Freight Demonstration’ (ZERFD) funding competition administered by Innovate UK. We hope that ZERFD funding 
+will allow us to implement zero emission, 40t+ tractor units, at a total operating cost comparable to diesel and these should be on 
+the road no later than March 2025.
+In the shorter term, we are on course to have an all-electric company car fleet by 2026 supported by the necessary workplace 
+charging infrastructure at the appropriate sites. Currently 30% of our company cars and 79% of open car orders are pure electric.
+Carbon reduction plan - July 2023 6
+Warehouse and infrastructure
+On the warehouse side we have completed various projects to upgrade to sensor-controlled LED lighting across our portfolio 
+and continue to upgrade lighting at every opportunity e.g. when we add a new customer site to our portfolio. Warehouse energy 
+efficiency, waste reduction and packaging projects are included on mandatory continuous Improvement (CI) plans across the 
+business and are led by our operations in collaboration with the customer.
+We source green tariff electricity from Renewable Energy Guarantee of Origin (REGO) backed renewable sources where we have 
+the supply contract. We are now implementing a programme of solar photovoltaic (PV) panel installation across our estate working 
+with our landlords. We anticipate first completed project will be during summer 2023. Where possible, the solar PV arrays will be 
+sized to reflect the potential electrification of our transport assets and the increased electricity demand, power capacity and power 
+management that this will entail.
+Indirect Emissions
+With respect to our indirect (scope 3) emissions we make efforts to reduce these through the sub-contract, sustainable 
+procurement and travel policies that we deploy. Sub-contract transport (“downstream transport and distribution”) is a priority 
+here because our sub-contract policy and volume has a proportional impact on our scope 1 emissions. We are developing new and 
+more accurate ways to measure our scope 3 emissions utilizing systems such as our transport control tower product to reflect the 
+increasing importance of these indirect emissions in our mix.
+Appendix 1 give more detail regarding each category of indirect, scope 3 emission source included in this disclosure.
+More information about all aspects of the Wincanton ESG programme are available in our Annual Reports available at  
+Results, reports and presentations | Wincanton plc
+Carbon reduction plan - July 2023 7Carbon reduction plan - July 2023
+Declaration and sign off
+Declaration and sign off
+This Carbon Reduction Plan has been completed in accordance with PPN 06/21 and associated guidance and reporting standard for 
+Carbon Reduction Plans.
+Carbon emissions have been reported and recorded in accordance with the published reporting standard for Carbon Reduction 
+Plans and the GHG Reporting Protocol corporate standard1 and uses the appropriate, 2022, UK Government emission conversion 
+factors for greenhouse gas company reporting2.
+Scope 1 and 2 emissions have been reported in accordance with Streamlined Energy and Carbon Reporting (SECR) requirements. 
+The required subset of scope 3 emissions have been reported in accordance with the published reporting standard for Carbon 
+Reduction Plans and the Corporate Value Chain (scope 3) Standard3.
+This Carbon Reduction Plan has been reviewed and signed off by the Executive Management Team.
+ 
+Approved on behalf of Wincanton:
+8
+1 https://ghgprotocol.org/corporate-standard 
+2 https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting 
+3 https://ghgprotocol.org/standards/scope-3-standard 
+James Wroath 
+Chief Executive Officer
+July 2023
+Carbon reduction plan - July 2023
+Appendix 1
+Business travel - Air and rail travel included. Taxi, bus, tube and hotel emissions are excluded. Hire car, 
+company car and grey fleet business travel is included in scope 1 emissions and calculated from fuel drawings 
+and mileage claims.
+Downstream transportation and distribution - Wincanton are not a product company. We are a supply 
+chain services company and as such the downstream limit of our emissions is often the delivery point of our 
+customers’ product(s). However, we use sub-contract road freight, rail freight and ferries to meet our service 
+obligations to our customers and have included estimated scope 3 emissions from these sources.
+Emissions are calculated from spend reports, Government average annual fuel price figures, and 
+benchmarking data provided by Logistics UK. Deployment of our cloud-based transport planning and 
+transport control tower systems has given us the scope to change the methodology for calculating 
+downstream transport and distribution emissions and we anticipate advances in our calculation methodology 
+in the coming year.
+Upstream transportation and distribution - Wincanton are not a product company. We are a supply chain 
+services company and as such the upstream transportation and distribution to the warehouse facilities we 
+manage is owned by our customers or their suppliers and we get involved only if they award that business 
+to us, in which case the associated emissions will be included in the scope 1 and/or scope 3 emissions figure. 
+Where we are awarded this work, we may use sub-contract road freight; rail freight and ferries to meet our 
+service obligations and have included estimated scope 3 emissions from these sources in our “downstream” 
+calculations. We have not included any emissions from the manufacture or construction of the transport and 
+property assets that we utilise either upstream or downstream.
+Waste - Wincanton manages its waste very closely; sends zero waste to landfill; and has made long term 
+target commitments for minimising and recycling residual waste. Much of the waste materials we handle 
+results from decisions made by our customers and they and Wincanton both measure waste in terms of 
+weights and types rather than converting it to scope 3 emissions. We believe the effectiveness of our waste 
+programme is better served by maintaining waste as a physical commodity rather than assigning an emissions 
+impact. However, for the purposes of this carbon reduction plan, we have used our annual waste quantity and 
+the Defra/BEIS 2020-2022 carbon factors to estimate the associated scope 3 emissions for each year.
+These are transport only and do not include waste processing emissions in the calculation process which  
+is still under consideration and development and relies on supplier provided data for the calculation.
+Employee commuting - Wincanton has over 170 operating locations and the nature of the contract  
+supply chain sector means that these locations are often defined by our customers’ and their  
+distribution networks. 
+Although we cannot change the location of our sites easily, Wincanton encourages the use of car sharing, 
+cycling and public transport but does not aggregate and track their impacts nationally but only at local, site 
+level when colleagues wish to do so to drive specific project evaluation or a sustainability initiative.
+Employee travel to work is featured in many site CI plans as a scope 3 emission reduction opportunity and 
+may be included in our annual “Environment Week” colleague engagement activities.
+Emissions from employee commuting are not included in our “net-zero 2040” target because we have little 
+influence on them or ability to reduce them. However, for the purposes of this carbon reduction plan we 
+have included them in our data, tables and graphs. We have used our end of year FTE figure for each year 
+to estimate our employee commuting emissions from UK average figures on employment and emissions 
+provided by ONS and CBI. Wincanton will develop a more scalable calculation methodology over time, 
+probably based on travel surveys for a selected proportion of the largest 25 sites we operate which host 65% 
+of our 20,005 colleagues.
+Scope 3 emissions explanatory notes
+9

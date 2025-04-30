@@ -1,0 +1,1057 @@
+LSEG Climate  
+Transition Plan
+London Stock Exchange Group plc
+Climate Transition Plan 2022
+LSEG CLIMATE TRANSITION PLAN 20222
+Contents
+Our Group 3
+LSEG’s sustainability strategy 4
+Transition to net zero 6
+The evolution of climate transition plans 7
+Defining net zero 8
+2021 activity  10
+Our emissions 11
+Our commitments 16
+Reducing our emissions 17
+Our governance 18
+Progress through our 2030 glidepaths  19
+The finance system as a catalyst for decarbonisation 30
+2030 and beyond  32
+How we disclose and report on progress  33
+Further information 33
+Further details on our sustainability approach can be found at lseg.com
+We are pleased to 
+publish our first Climate 
+Transition Plan. Its aim  
+is to outline our role in 
+the transition to a net 
+zero economy and how 
+we plan to execute on 
+our commitments.
+LSEG CLIMATE TRANSITION PLAN 20223
+Our Group
+CONTENTS
+Who we are 
+LSEG is a leading global financial 
+markets infrastructure and data 
+provider. We play a vital social 
+and economic role in the world’s 
+financial system. With our trusted 
+expertise and global scale, we 
+enable the sustainable growth  
+and stability of our customers and 
+their communities.
+We are leaders in data and 
+analytics, capital formation and 
+trade execution, and clearing and 
+risk management.
+Our purpose
+Driving financial stability, empowering 
+economies and enabling customers to create 
+sustainable growth.
+Our vision
+We are a leading global financial markets 
+infrastructure and data provider. We want to 
+shape the future of our industry to serve our 
+customers and markets better.
+Where we operate
+LSEG is headquartered in the United Kingdom, 
+with operations in 70 countries across EMEA, 
+North America, Latin America and Asia Pacific. 
+We employ 23,000 people globally, more than 
+half of whom are located in Asia Pacific.
+LSEG CLIMATE TRANSITION PLAN 20224
+CONTENTS
+LSEG CLIMATE TRANSITION PLAN 20224
+CONTENTS
+LSEG’s sustainability strategy
+In 2021 LSEG acquired Refinitiv, a leading global 
+financial markets data business. Following this 
+acqusition, we refreshed our sustainability strategy 
+to reflect the shape, scale and business strategy 
+of the new enlarged organisation and rapidly 
+evolving stakeholder expectations along with the 
+urgent need for market transformation to deliver 
+sustainable growth.
+To inform our sustainability strategy we conducted a materiality 
+assessment to identify the sustainability issues, risks and opportunities 
+most relevant to our business and our stakeholders. We also aligned 
+our approach with the UN Sustainable Development Goals. 
+As a result, we have shaped our sustainability strategy around three 
+outcome-focused priorities which represent the areas where we can 
+have the greatest impact, including our role in the transition to net zero.
+LSEG CLIMATE TRANSITION PLAN 20225
+Our sustainability priorities 
+Accelerate the just transition to net zero
+Decarbonising the whole global economy is critical to minimise the worst consequences of  
+climate change. 
+We are leveraging LSEG’s unique market position, capabilities, products and services to support a  
+global reallocation of capital which shares the costs and benefits of reaching net zero fairly between  
+and within countries.
+Enable growth of the green economy
+To deliver sustainable economic growth, more economic activity must focus on creating, scaling and 
+delivering solutions to the world’s environmental and social challenges.
+LSEG has a pivotal role in helping those solutions thrive by enabling more capital to flow towards 
+sustainable economic activity.
+Create inclusive economic opportunity
+Inclusive economies enable more people to participate in, and benefit from, economic growth,  
+regardless of their gender, ethnicity, social background, political or religious beliefs. These economies 
+also uphold high standards of governance, address inequality and respect human rights. 
+We aim to empower economies, communities and individuals by championing inclusion and opening 
+up economic opportunity.
+CONTENTS
+LSEG CLIMATE TRANSITION PLAN 20226
+CONTENTS
+Transition to net zero 
+LSEG is committed to achieving 
+net zero by 2040. Our unique 
+role at the centre of financial 
+markets is underpinned by our 
+purpose of driving financial 
+stability, empowering economies 
+and enabling customers to create 
+sustainable growth.
+Our purpose is inextricably linked with climate 
+change. We believe that decarbonising  
+the whole global economy is critical to minimise 
+the worst consequences of climate change  
+and reflects our central role in enabling  
+the market transformation required to achieve  
+a net zero economy. 
+LSEG CLIMATE TRANSITION PLAN 20227
+CONTENTS
+The evolution of Climate Transition Plans 
+As more businesses accelerate 
+their commitments to reduce and 
+remove their emissions across their 
+value chain, we believe that the 
+publication of Climate Transition 
+Plans will play an increasingly 
+important role.
+Climate Transition Plans explain how 
+commitments translate into action, enabling more 
+informed investment decision-making, deeper 
+engagement between companies and investors 
+and market-wide collaboration.
+At present there is limited consensus around 
+what constitutes best practice with respect 
+to preparing a Climate Transition Plan. This is 
+LSEG’s first such Plan where we explain our 
+commitments and approach, covering both our 
+near-term targets and how we will identify actions 
+required beyond 2030.  
+We support the evolution and adoption of best 
+practice guidance for Climate Transition Plans 
+and will review and refine our Plan over time.
+At COP26, the UK Government announced that 
+it will make the UK the first net zero-aligned 
+financial centre. As both the operator of the 
+UK’s primary stock exchange and as a UK-listed 
+business, LSEG intends to play a pivotal role 
+in shaping and promoting the adoption of best 
+practice Climate Transition Plans to deliver this.
+The SBTi Net Zero Standard states:
+To contribute to societal net zero goals, companies must deeply reduce 
+emissions and counterbalance the impact of any emissions that remain. 
+The SBTi Net Zero Standard defines corporate net zero as: 
+ – Reducing scope 1, 2 and 3 emissions to zero or to a residual level that 
+is consistent with reaching net zero emissions at the global or sector 
+level in eligible 1.5°C-aligned pathways. 
+ – Neutralising any residual emissions in the net zero target year  
+and any greenhouse gas emissions released into the  
+atmosphere thereafter.
+LSEG CLIMATE TRANSITION PLAN 20228
+CONTENTS
+Defining net zero 
+Net zero means that any greenhouse gas emissions 
+produced and emitted into the atmosphere are  
+removed equally. 
+LSEG has adopted the Science Based Target Initiative (SBTi) Net Zero 
+Standard released in October 2021, which defines net zero and is the first 
+global science-based standard for companies to set validated near-term and 
+long-term science-based targets consistent with limiting temperature rise to 
+1.5°C, driving forward the global transition to net zero.
+The Net Zero Standard sets out four key elements that make up a corporate 
+net zero target. The first of these is a near-term science-based target, the 
+second is a long-term science-based target, and the third is mitigation beyond 
+the value chain. The final element is neutralisation of any residual emissions.
+The Net Zero Standard states that in the long term, emissions in the  
+cross-sector pathway1 are reduced by at least 90% and most sector-specific 
+pathways also reduce CO2 emissions by 90% or more from 2020 levels. 
+Consequently, for many companies, long-term science-based targets will be 
+equivalent to at least a 90% absolute reduction across scopes regardless of 
+whether the cross-sector pathway or sector-specific pathways are used.
+1The SBTi offers a cross-sector pathway and sector-specific pathways for setting science-based targets. Companies in the 
+power generation sector and forestry, land-use, and agriculture (FLAG) sectors are required to set SBTs using sector-
+specific pathways (effective for FLAG sectors after the finalization of SBTi and GHG Protocol guidance).  
+For all other companies, the cross-sector pathway is eligible and recommended for setting absolute targets
+B y 2050 a t the la t e st
+5 t o 10 y ear s
+1.5° C-aligne d emissions pa th wa y 
+  
+Emissions (tCO 2e)
+4
+4
+3
+3
+1
+1
+2
+2
+Aba t emen t within the v alue chain 
+R emo v als
+Aba t emen t or r emo v als b e y ond 
+a c ompan y ’s v alue chain
+Ne t z er o emissions
+To set near-term SBTs: 5-10 year emission reduction targets in line with 1.5 0 C pathways.
+To set long-term SBTs: target to reduce emissions to a residual level in line with 1.5 0 C 
+scenarios by no later than 2050.
+Beyond value chain mitigation: in the transition to net zero, companies should take action to 
+mitigate emissions beyond their value chains. For example, purchasing high-quality, 
+jurisdictional REDD+ credits or investing in direct air capture (DAC) and geologic storage.
+Neutralisation of residual emissions: GHGs released into the atmosphere when the 
+company has achieved their long-term SBT must be counterbalanced through the 
+permanent removal and storage of carbon from the atmosphere.
+LSEG CLIMATE TRANSITION PLAN 20229
+CONTENTS
+Figure 1: Net Zero Standard
+LSEG CLIMATE TRANSITION PLAN 202210
+CONTENTS
+2021 activity
+LSEG completed its acquisition of 
+Refinitiv in January 2021; prior to 
+this both companies had adopted 
+near-term science-based emissions 
+targets validated by the SBTi.
+During 2021 we created a combined emissions 
+data inventory, integrating data from both 
+businesses, aligning methodologies and creating 
+a 2019 baseline from which our future targets 
+would be set.
+Throughout 2021, as well as establishing a 
+revised data inventory, we set a new 
+science-based target for the combined  
+Group, which was approved by the SBTi in  
+December 2021. 
+We also updated our policies, governance 
+and created new ways of working, setting 
+emissions-reduction glidepath plans to help us 
+achieve our ambition for the enlarged Group.
+We also play a pivotal role in financial markets, 
+enabling an economy-wide transition to  
+net zero. 
+We are using our unique market position, 
+capabilities, products and services to support  
+a global reallocation of capital which shares  
+the costs and benefits of reaching net zero  
+fairly between and within countries.
+Further details on our 2021 progress can  
+be found in our Sustainability Report and  
+Taskforce on Climate-related Financial 
+Disclosures (TCFD) Report.
+Emissions are categorised into three scopes:
+Scope 1 
+Direct emissions: combustion of fuel and operation of facilities – 
+includes natural gas, diesel, fugitive emissions and fleet vehicles
+Scope 2 
+Indirect emissions: purchase of electricity and heat
+Scope 3 
+Indirect emissions: emissions from purchased goods and services, 
+fuel- and energy-related emissions, business travel, waste, water, 
+employee commuting (including home working) and upstream 
+leased assets
+LSEG CLIMATE TRANSITION PLAN 202211
+CONTENTS
+Our emissions
+Our greenhouse gas emissions arise from the buildings we occupy and use, 
+business travel, and through the products and services we buy from our 
+supply chain. In total, our 2021 emissions were 571,885 Tons of CO2e. 
+The vast majority of our emissions arise from the products and services  
+we buy.
+2021 emissions 
+Category Absolute emissions 
+(tCO2e)
+Emissions per FTE
+(tCO2e/FTE)
+Scope 1 1,000 0.04
+Scope 2 (market-based) 3,138 0.13
+Scope 3 - purchased goods and services 550,861 22.86
+Scope 3 - other including business travel 16,885 0.70
+Total Group carbon footprint (tCO2e) 571,885 23.74
+*This table shows all emissions and a total using the 2021 headcount.
+LSEG CLIMATE TRANSITION PLAN 202212
+CONTENTS
+Our emissions
+We continued to reduce our total Group carbon footprint in 2021, down 
+almost 13% from our 2019 baseline, and over 10% down from 2020. We saw 
+reductions across Scopes 1, 2 and 3 with the greatest percentage reductions 
+in Scope 2 market-based emissions, down 69% from the 2019 baseline.  
+This is largely due to all electricity in 2021 either being sourced from a green 
+tariff or covered by an energy attribute certificate.
+Scope 1 emissions reduced by 54% from our 2019 baseline, largely due to a 
+reduction of our office footprint and office use.
+Overall Scope 3 emissions reduced, due largely to lower levels of business 
+travel due to the ongoing global pandemic; emissions from business travel in 
+2021 were down 93% from 2019, and 66% from 2020 levels.
+As travel restrictions begin to ease, we anticipate business travel,  
+and associated emissions, to increase from the levels seen in 2021.
+As office occupancy levels remained low during 2021 we saw reduced 
+Scope 3 emissions from waste disposal. This is expected to increase as more 
+employees return to the office. We aim to manage these expected increases 
+in order to stay on track with our 2030 target commitment.
+While we saw lower emissions from reduced business travel and office 
+occupancy in 2021, we experienced a significant increase in emissions from 
+homeworking from 2019 levels. However, 2021 emissions for homeworking 
+are lower than 2020 levels which is largely due to improvements in office 
+attendance data which tracked actual daily attendance for each office. 
+Our approach enabled us to calculate more accurate emissions data for 
+homeworking and commuting and reduced our reliance on estimated office 
+occupancy figures. In previous years, a conservative estimate was made for 
+both commuting and homeworking. 
+The vast majority (96%) of our greenhouse gas emissions arise from Scope 3 
+purchased goods and services, demonstrating how critical engagement with 
+our suppliers is to the overall reduction of our emissions. 
+As a result, we have set a target which aims to ensure that suppliers 
+responsible for 67% of our Scope 3 emissions (purchased goods and 
+services) set science-based targets by 2026. As part of our engagement with 
+suppliers to achieve our target, we will collect greenhouse gas emissions data 
+from our key suppliers to more accurately calculate our emissions associated 
+with the goods and services we buy. This will allow us to set targets in the 
+near future to reduce this portion of our emissions in alignment with our net 
+zero commitment. 
+CONTENTS
+Methodology and verification statement
+We report all of the emission sources required under the Companies  
+Act 2006 (Strategic Report and Directors’ Reports) Regulations 2013.  
+These sources fall within our consolidated statement.
+We do not have responsibility for any emission sources that are not included 
+in our consolidated statement.
+Our emissions are calculated according to an operational control boundary 
+using GHG Protocol Corporate Accounting and Reporting Standard (revised 
+edition) and UK Government Environmental Reporting Guidelines: including 
+streamlined energy and carbon reporting guidance (March 2019). London 
+Stock Exchange Group’s Scope 1, 2 and 3 emissions disclosed in this report 
+have been externally verified by Cameron-Cole against the requirements of 
+the WRI/WBCSD GHG Protocol, GHG Protocol Corporate Accounting and 
+Reporting Standard (revised edition), GHG Protocol Scope 2 Guidance:  
+An amendment to the GHG Protocol Corporate Standard, and the GHG 
+Protocol Corporate Value Chain (Scope3) Standard. Conduct of the verification 
+met the requirements of ISO 14064-3:2006(E).
+LSEG CLIMATE TRANSITION PLAN 202213
+LSEG CLIMATE TRANSITION PLAN 202214
+CONTENTS
+Total % of emissions from suppliers with an SBT 
+Absolute Scope 3 (FERA, business travel, commuting)Absolute Scope 1&2
+progress in 2021
+67% 86%
+progress in 2021 progress in 2021
+20212019
+-13%
+17%
+Overall performance 2021 20208 20198 Change9
+Total group carbon footprint (tCO2e)1, 5 571,885 640,693 657,008 -13%
+per m2 1.35 1.50 1.54 -12%
+per FTE 24 27 27 -10%
+per £m revenue11 80 90 96 -17%
+Scope 12 1,000 1,960 2,163 -54%
+Scope 2 market-based3 3,138 6,492 10,189 -69%
+Scope 2 London-based 106,566 111,644 143,206 -26%
+Renewable electricity (%)7 100% 98% 96% 4%
+Scope 34, 5, 6 567,747 634,175 646,569 -12%
+- Purchased goods and services 550,861 603,613 564,107 -2%
+- Fuel- and energy-related activities (FERA) 5,659 6,371 9,082 -38%
+- Waste 185 369 1,879 -90%
+- Water 80 1,166 1,282 -94%
+- Business travel 3,169 9,593 42,662 -93%
+- Employee commuting 1,907 4,745 27,422 -93%
+- Homeworking 5,805 8,236 55 10,455%
+- Upstream leased assets 81 81 80 1%
+Exclusions (market-based)10 767 1,933 1,914 -17%
+Exclusions (location-based)10 1,886 4,264 4,829 -60%
+Progress against science-based targets (SBTs)
+Total Group carbon footprint (CO2e)
+LSEG CLIMATE TRANSITION PLAN 202215
+CONTENTS
+Footnotes
+1. All Group totals and electricity breakdowns use market-based Scope 2 emission factors. Group carbon footprint includes tenant consumption, excludes client-
+based workers.
+2. Scope 1 Emissions Combustion of fuel and operation of facilities – includes Natural Gas, Diesel, LPG, Fugitive Emissions and Fleet Vehicles.
+3. Scope 2 Emissions purchase of electricity and heat by the Group for its own use. Market-based emissions use supplier-based emission factors, and energy 
+attribute certificates for where 100% renewable supplier tariffs are not in place.
+4. Scope 3 includes emissions from purchased goods and services, fuel- and energy-related emissions, air travel, rail travel, taxis, hotels and ground transfers, 
+waste, water, employee commuting (including homeworking) and upstream leased assets.
+5. DEFRA UK Government GHG Conversion Factors are used for our UK sites, and all business travel, water, waste, upstream leased assets and extrapolated data. 
+US EPA factors are used for United States electricity and employee commute factors. IEA and GHG Protocol emissions factors are used to calculate Scope 1, 2 
+and Scope 3 fuel- and energy-related emissions for international sites where available. Defra IO factors have been adjusted to reflect reporting year consumer 
+index pricing to estimate emissions related to purchased goods and services. US and UK National Travel Surveys have been used to inform our estimations for 
+employee commuting. Emissions related to working from home have been based on EcoAct’s ‘Homeworking emissions whitepaper’ (2020).
+6. Scope 3 emissions are not separately reported by UK and Rest of Group, due to the collection of travel, purchased goods and services and other data at the 
+Group level.
+7. Energy attribute certificates have been purchased to claim renewable electricity consumption for all sites where 100% renewable supplier tariffs are not in place. 
+These certificates have been sourced from an internationally recognised trader who is an IETA member and gold partner of CDP.
+8. 2019 and 2020 total carbon emissions have been restated to reflect the acquisition of Refinitiv.
+9. % Change is calculated between 2021 and 2019, the Group’s target baseline year.
+10. Emissions from sites not included within the reporting boundary relate to the divestment of Borsa Italiana and have been published for transparency.
+11. The revenue figures for 2019, 2020 and 2021 are based on a ‘pro-forma’ approach to align with our global greenhouse gas inventory.
+CONTENTS
+LSEG CLIMATE TRANSITION PLAN 202216
+Our commitments
+Our ambition and targets are 
+underpinned by our external 
+commitments and memberships 
+including the United Nations  
+Climate Change ‘Race to Zero’  
+and the UN Global Compact’s 
+Business Ambition for 1.5°C.
+We have set near-term targets, approved by the science-based targets initiative, 
+against a 1.5°C trajectory to:
+Halve our scope 1, scope 2 and scope 3 emissions  
+(fuel and energy related activities, business travel and employee commuting) 
+against a 2019 baseline by 2030.
+Engage two-thirds of our suppliers  
+(by scope 3 purchased goods and services emissions) to set science-based 
+targets by 2026.
+Our long-term target is to achieve net zero by 2040
+LSEG CLIMATE TRANSITION PLAN17
+CONTENTS
+LSEG CLIMATE TRANSITION PLAN 202217
+Reducing our emissions: 
+our six glidepaths 
+Our commitment to net zero requires robust 
+planning and investment to transform our 
+business operations. Setting near-term 
+targets for 2030 was our first step, and 
+to achieve these we have developed six 
+glidepaths of activity.
+Property and data centres
+We will halve the emissions from our offices and data centres by making our 
+locations and technology as efficient as possible
+Business travel
+We will cut our business travel by 50% by working with our people and partners to 
+rethink how and why we travel
+Supply chain
+We will work with our suppliers to lead by example and aim for 67% of our 
+suppliers (by emissions) to set science-based targets to reduce emissions by 2026
+Renewable electricity
+We will ensure 100% of the electricity we consume is from renewable sources by 
+increasing green tariffs across our portfolio, exploring on-site generation, and 
+purchasing Energy Attribute Certificates (EACs) where those options are not 
+currently available
+Neutralisation and removals
+For emissions that we cannot eliminate we will support nature-based solutions that 
+have socioeconomic benefits and receive carbon neutral certification
+Climate risk
+We will continue to assess and act on the potential environmental impact a 
+changing climate will have on our physical locations and business model
+LSEG CLIMATE TRANSITION PLAN 202218
+CONTENTS
+Our governance
+Oversight, ownership and action 
+across all levels of the business will 
+ensure that we can plan for, and 
+meet, our commitments over the 
+next 20 years. 
+Our Group Sustainability team 
+comprises subject matter experts 
+who plan, coordinate and activate 
+our ambition across social and 
+environmental commitments. 
+Accountability for sustainability  
+is also formalised across  
+the business with the following 
+groups taking on important 
+governance responsibilities.
+LSEG Board
+The Board has ultimate oversight of the 
+sustainability agenda and strategy, ensuring 
+the long-term success of the company and that 
+stakeholder expectations are met through our 
+commitments and approach. 
+LSEG CEO
+Our CEO has ultimate responsibility for all 
+sustainability matters across LSEG.
+Executive Committee
+Our Executive Committee is responsible for 
+the delivery of our Group Strategic Objectives 
+(GSOs). Executive Committee compensation is 
+linked to the delivery of our GSOs, one of which 
+is focused on LSEG’s sustainability strategy and 
+our role in enabling sustainable growth, including 
+our efforts to accelerate the transition to net zero.
+Sustainability Committee 
+Chaired by our Chief Corporate Affairs and 
+Marketing Officer and comprising Executive 
+Committee members and functional leaders,  
+this group is responsible for the strategic 
+oversight and delivery of LSEG’s sustainability 
+strategy, including our environmental 
+commitments.
+Sustainability Working Group 
+Chaired by our Group Head of Sustainability,  
+with representation of sustainability subject 
+matter experts from across LSEG, this group 
+designs, shapes and delivers the Group’s 
+sustainability strategy. It supports the 
+Sustainability Committee and reports on  
+progress and areas for further development.
+Environmental Management Group
+Chaired by our Chief Operating Officer, this 
+cross-functional team of senior leaders sets the 
+ambition for environmental excellence across 
+LSEG and identifies routes to delivery across  
+their own teams, taking responsibility for our  
+six glidepaths.
+Environmental Operating Group 
+This group leads the programmatic delivery of 
+environmental targets and identifies the delivery 
+glidepaths for each target.
+LSEG CLIMATE TRANSITION PLAN 202219
+CONTENTS
+Progress through our 2030 glidepaths
+Setting targets is just the starting 
+point for ambitious climate action.  
+We plan to deliver on these through 
+six glidepaths, some of which 
+have their own key performance 
+indicators, with further development 
+planned in 2022.
+Each glidepath has a role to play in achieving  
+our near-term targets and transforming how  
+we operate as a business in a net zero future. 
+CONTENTS
+LSEG CLIMATE TRANSITION PLAN 202220
+Why?
+Our physical locations and data centres play a key role in how we 
+operate and collaborate to drive value for our customers. However, we 
+can do more to ensure they are as efficient as possible. As a result, we 
+are investing in the latest and greenest solutions across our portfolio.
+What?
+We aim to halve the emissions from our offices and data centres by 
+making our locations and technology as efficient as possible. 
+How?
+A 50% reduction in our emissions across scope 1, scope 2 and some 
+scope 3 categories by 2030 will nearly entirely be delivered by 
+changes to our use of property and technology.
+ 
+Supported by our renewable electricity and climate risk glidepaths, the route 
+to achieve our reductions will focus on the following:
+ – Engagement with landlords
+ – Environmental framework
+ – Engineering solutions
+ – Portfolio consolidations
+ – Technology within data centres
+ – Projects including construction, refurbishment and upgrading equipment
+ – Leveraging suppliers
+ – Communications
+Part of our activities will involve moving some of our data centre services to 
+the cloud, and we are conscious that this will adversely impact our scope 3 
+purchased goods and services emissions. We will therefore be enhancing our 
+sustainability considerations during the technology procurement process, and 
+will continually address this through the efforts of our supply chain glidepath.
+Reducing emissions from our properties 
+and data centres
+LSEG CLIMATE TRANSITION PLAN 202221
+CONTENTS
+Figure 2: Property and data centres pathway
+The impact of Covid-19 reduced our property and data centre emissions significantly from 2020-
+2021, enabling us to be well ahead of our target. 
+As the pandemic recedes, we want to keep our emissions below the Paris trajectory.
+50% reduction in our 
+scope 1 and scope 2 
+emissions by 2030 
+will nearly entirely be 
+delivered by changes 
+to our property and 
+technology. 
+Actual emissions - Scope 3 - FERAActual emissions - scope 1 & 2Emissions budget
+0
+5000
+10000
+15000
+20000
+25000
+2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+Paris 1.5 trajectory
+Emissions (tC
+O
+2e)
+CONTENTS
+LSEG CLIMATE TRANSITION PLAN 202222
+Why?
+In the past travel was an important way to collaborate across our global 
+business. However, due to the pandemic there has been a shift in our reliance 
+on business travel. Having sought new ways to collaborate that save time, 
+money and carbon emissions, we are working to ensure our levels of travel 
+do not go back to pre-pandemic levels, embracing the change, benefits and 
+enthusiasm around new ways of working.
+What? 
+We will cut our business travel by 50% by working with our people and 
+partners to rethink how and why we travel.
+How?
+Understanding the data behind our travel emissions has highlighted specific 
+levers to reduce our emissions and achieve our 50% reduction by 2030. 
+Working across the business and with internal and external partners 
+we will implement the following measures:
+ – Reduce the need for internal meetings that involve air travel
+ – Work with our air travel vendors to understand the measures they  
+are taking to reduce emissions 
+ – Increase visibility and awareness among our people about the  
+emissions associated with all business journeys and potential  
+savings by switching classes
+Rethinking how and why we travel 
+for business 
+LSEG CLIMATE TRANSITION PLAN 202223
+CONTENTS
+Figure 3: Travel reduction pathway
+The impact of Covid-19 reduced our business travel emissions significantly from 2020-2021, enabling 
+us to be well ahead of our target. As the pandemic recedes, we want to keep our emissions below 
+the Paris trajectory.
+From our 2019 baseline data 96% of travel 
+emissions are accounted for with air travel alone. 
+Between 2019 and 2021 we recorded a 90% 
+reduction in absolute emissions due to the travel 
+restrictions imposed as a result of  
+the pandemic. We need to ensure that our future 
+approach to travel is carefully managed to ensure 
+we meet our emission reduction targets while 
+enabling us to effectively serve our customers 
+and operate as a global business. 
+All emissions associated with business travel 
+from 2021 onwards will be offset as part of our 
+neutralisation and removals glidepath. In 2022 
+we will explore adopting an internal price on 
+carbon and carbon budgets for business travel as 
+a mechanism to encourage considerations and 
+prioritisation across the company.
+2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+Actual emissions - business travelEmissions budgetParis 1.5 trajectory
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+40000
+45000
+Emissions (tCO2e)
+Our supplier base does shift and change year-on-year so it is essential 
+that we track and monitor suppliers, emissions and target data in 
+tandem. We will do this in four ways:
+ – Supply chain engagement: work collaboratively with suppliers 
+through a tiered integrated supplier engagement approach. We are 
+using third-party systems and processes to engage our suppliers, 
+collect data and support capacity building.
+ – Embedding requirements: embed key sustainability expectations of 
+suppliers throughout procurement activities, including integrating 
+ambitious climate commitments into RFP and procurement 
+processes, our supplier code of conduct, new contracts, and 
+ongoing relationship management. 
+ – We will also be working with the business divisions to enhance 
+sustainability considerations within their operational decisions.
+ – Thinking bigger: work with our peers in the industry to push key 
+suppliers and high emitting industries to change their behaviours. 
+As of 2021 17% of suppliers by emissions had science-based targets  
+in place. 
+We will report on progress with respect to our supplier engagement 
+programme in future Climate Transition Plans. 
+CONTENTS
+LSEG CLIMATE TRANSITION PLAN 202224
+Why?
+Managing and measuring emissions outside of our direct control is 
+fundamental to how we achieve our near-term target; it is also vital to our 
+progress to net zero. As a global business with a large supplier base, 96% of 
+our market-based emissions arise from our supply chain, meaning businesses 
+whose services we utilise are responsible for more than 550,000 tonnes 
+of CO2e a year. It’s essential we account for and reduce these emissions in 
+partnership with our suppliers to support the global net zero ambition.
+What?
+We will work with our suppliers to aim for 67% of our suppliers (by emissions) 
+to set science-based targets to reduce emissions by 2026.
+How?
+We have a large supplier base, with around 7,000 individual suppliers in 2021. 
+Emissions resulting from LSEG’s purchased goods and services are part of our 
+scope 3 emissions, the largest portion of our total reported emissions. 
+Suppliers contributing the greatest share of these emissions are those 
+involved in IT and professional services, with approximately 166 suppliers 
+responsible for 70% of our supplier emissions in 2021.
+Through a robust engagement plan we will work with our suppliers to 
+understand their challenges, track data and encourage action. 
+Working with our supply chain to 
+reduce emissions 
+LSEG CLIMATE TRANSITION PLAN 202225
+CONTENTS
+Figure 4: Our suppliers with emissions science-based targets in place Through a robust 
+engagement plan we will 
+work with our suppliers 
+to understand their 
+challenges, track data and 
+encourage action. 
+Suppliers with science-based 
+emissions targets in place
+2021
+17%
+2026
+67%
+CONTENTS
+LSEG CLIMATE TRANSITION PLAN 202226
+Why?
+Sourcing electricity from renewable sources will not only lower our 
+scope 2 market-based emissions but will support the increased market 
+demand for low-carbon electricity. For a location portfolio of our size 
+and scale we are looking at this holistically across our business.  
+Firstly, our priority is to reduce our scope 2 emissions and secondly,  
+we will ensure any residual emissions will be from a renewable source.
+What?
+We will ensure 100% of the electricity we consume is from renewable 
+sources by increasing green tariffs across our portfolio, exploring on-
+site generation, and purchasing Energy Attribute Certificates (EACs) 
+where those options aren’t currently available.
+How?
+Sourcing 100% of our electricity from renewable sources depends on 
+availability of green tariffs in the different regions where we operate. 
+Where green tariffs are available, and we have control over the energy 
+supply we are seeking to switch to renewable electricity sources. 
+Where green tariffs are not available we are purchasing credible 
+and traceable Energy Attribute Certificates which are market-based 
+instruments that are created when 1 megawatt hour of electricity is 
+generated from renewable sources. 
+Our long-term approach is to determine the feasibility to invest  
+in Virtual Power Purchase Agreements (VPPA).
+The key steps we are taking to shift to renewable electricity  
+sources include:
+ – Identify credible and strategic options for purchasing  
+renewable energy
+ – Identify strategic locations for transition to green tariffs
+ – Implement guidance for sites and procurements
+ – Determine opportunities for on-site generation
+ – Review longer term options for renewable energy purchasing
+Increasing renewable electricity 
+across our portfolio
+Figure 5: Buildings on renewable tariff 
+% of electricity consumption  
+2021
+11%
+2026
+XX%
+CONTENTS
+Why?
+Alongside a robust emissions reduction plan across our locations, our 
+operations, technology and travel, we will also incorporate credible offsets to 
+neutralise and remove residual emissions. We know that a reliance on offsets, 
+however credible is not a satisfactory end solution. However, used as part of 
+a robust strategy where reductions are the key objective, then it is a valuable 
+and impactful tool to support climate projects close to our global operations.
+What? 
+For emissions that we cannot eliminate we will support nature-based solutions 
+that have socioeconomic benefits and receive carbon neutral certification.
+How?
+From 2021 we have offset our emissions from scope 1, scope 2 and scope 3 
+(business travel).
+This is being done in partnership with Natural Capital Partners, an external  
+nature-based solutions consultant and focuses on sourcing offsets which 
+achieve the following: 
+ – Credible: robust approach which aligns with the CarbonNeutral® Protocol 
+ – Alignment with best practice: supports our business rationale, is transparent 
+and reduces reputational risk
+ – Positively impacts our locations and communities: solutions that are 
+considerate of the impacts in the communities and locations we operate, 
+ensuring that those most impacted by climate change on the ground see 
+the benefits
+ – Demonstrate leadership: underpin a robust and deliberate approach
+Neutralising and removing residual emissions
+LSEG CLIMATE TRANSITION PLAN 202227
+LSEG CLIMATE TRANSITION PLAN 202228
+CONTENTS
+Projects supported through offsets in 2021
+Project Standards What? Why? How?
+Orb Household Solar, 
+India
+Gold 
+Standard
+Bringing affordable, 
+reliable solar-powered 
+electricity and hot water 
+heating to communities 
+across India.
+With a growing middle class in India, demand for 
+electricity has outstripped supply causing regular 
+blackouts for those connected to the grid. In rural 
+areas, kerosene or other fossil fuels are used for 
+energy and lighting, polluting the air inside homes. 
+This project has brings reliable solar power and solar 
+water heating systems to customers throughout the 
+country, while cutting around 55,000 tons of CO2e 
+a year by replacing the use of kerosene or electricity 
+from a grid reliant on fossil fuels.
+Orb Energy manufactures, sells, installs 
+and services a unique range of high-quality 
+solar energy systems for residential and 
+commercial customers in India. Businesses 
+can operate for longer and more consistently 
+with a solar energy system. Household solar 
+water heating reduces electricity bills by 
+more than 50% and lighting at home means 
+greater opportunity for children to study after 
+the sun goes down. 
+Acre Amazon Rain Forest 
+Conservation
+CCB, VCS Granting land tenure 
+and providing 
+agricultural training to 
+prevent deforestation 
+and promote 
+sustainable economic 
+livelihoods.
+90% of Brazil’s Acre state is forested, but current 
+rates of destruction mean by 2030 this could decline 
+to 65%. This collection of three projects aims to 
+prevent deforestation across 105,000 hectares of 
+pristine rainforest in the Amazon basin, protecting 
+some of the world’s most biodiverse habitats.
+With the support of carbon finance, the 
+projects work with communities and 
+local groups to help protect ecosystem 
+services while providing alternative models 
+of economic development which avoid 
+destruction of the forest.
+Improved Cookstoves, 
+Kenya
+Gold 
+Standard
+Tackling household 
+air pollution and 
+deforestation with 
+improved cookstoves  
+in Kenya.
+More than 95% of households depend on wood or 
+other solid fuels for cooking in Kenya. This project 
+aims to address dependence on non-renewable 
+fuels and tackle health issues associated with 
+traditional cooking stoves. 
+This project helps households and 
+institutions throughout the country purchase 
+efficient wood or charcoal cookstoves to 
+replace traditional three-stone fires or other 
+inefficient stoves. The stoves are sold  
+(along with other ‘eco-products’ such as solar 
+lanterns and water filters) through a local 
+partner franchise model that helps ensure 
+effective financing, marketing, and support  
+to both end customers and local partners. 
+251,000 stoves have been sold across all 
+eight provinces in Kenya.
+CONTENTS
+LSEG CLIMATE TRANSITION PLAN 202229
+Why?
+Understanding the impact of a changing climate on both our physical 
+locations and our business model is fundamental to how we plan and 
+operate as a global business. Using data to understand the potential 
+impacts (both positive and negative) under different scenarios ensures we 
+can build resilience into our business for the future. 
+What?
+We will continue to assess and act on the potential environmental impact a 
+changing climate will have on our physical locations and business model.
+How?
+LSEG has 23,000 people and a network of 187 properties located in 
+70 countries. We have undertaken scenario analysis to understand the 
+potential physical impacts of extreme weather events on our people 
+and locations. The findings are reported externally as part of our TCFD 
+disclosure and integrated internally as part of our Enterprise Risk 
+Management Framework as well as through governance and working 
+groups to adopt the findings for location planning.
+Understanding and acting on climate risk
+Climate risk and the transition to net zero also 
+present opportunities for LSEG to support 
+customers with sustainable finance solutions and 
+the market more widely. This element of our work 
+is summarised below and further detail can be 
+found in our Annual Sustainability Report. 
+LSEG CLIMATE TRANSITION PLAN 202230
+CONTENTS
+LSEG is in a unique position to 
+support decarbonisation efforts 
+across the market and support the 
+growing and essential drive to a net 
+zero carbon economy. We are taking 
+a leadership role in the industry 
+and leveraging our partnerships, 
+capabilities, products and services.
+Here are some of the ways we are enabling 
+and accelerating a just transition to net zero in 
+financial markets:
+Glasgow Financial Alliance for Net Zero 
+(GFANZ)
+LSEG was a founding member of GFANZ 
+launched in April 2021 led by Mark Carney, UN 
+Special Envoy on Climate Action and Finance. 
+GFANZ is a global coalition of leading financial 
+institutions committed to accelerating the 
+decarbonisation of the economy. 
+Collectively they commit to achieving the 
+objective of the Paris Agreement to limit global 
+temperature increases to 1.5°C. LSEG CEO David 
+Schwimmer is a member of the GFANZ CEO 
+Principals Group.
+Net Zero Service Providers Alliance
+Launched in 2021, under the GFANZ umbrella, 
+the Net Zero Financial Service Providers Alliance 
+(NZFSPA) is a global group of Service Providers 
+committed to supporting the goal of global net 
+zero greenhouse gas emissions by 2050 or 
+sooner, in line with the ambition to limit the  
+global temperature increase to 1.5°C above  
+pre-industrial levels. 
+This alliance commits members to align relevant 
+services and products to net zero by 2050. LSEG 
+was a founding member and is actively involved 
+in the alliance which will set targets and metrics 
+to drive the commitment.
+Climate Transition Offering 
+The London Stock Exchange’s Climate Transition 
+Offering for London-listed companies provides a 
+range of guidance, tools and resources to help 
+companies in transition to a low-carbon economy. 
+This includes LSEG’s Climate Governance Scores 
+for issuers which is an assessment of companies’ 
+carbon management practices and incorporation 
+of climate change considerations into business 
+strategies. This score helps issuers to understand 
+where they are relative to industry peers and 
+what they need to improve. 
+The offering also includes resources to support 
+companies with climate reporting in line with the 
+TCFD recommendations.
+Transition Bond Market
+In February 2021, the London Stock Exchange 
+(LSE) launched the Transition Bond Segment 
+within its Sustainable Bond Market. This helps 
+issuers raise finance to fund transition-related 
+activity in line with credible Paris-Aligned 
+transition plans. The Transition segment joins the 
+Green, Social, Sustainability and Sustainability–
+linked segments which make up the LSE’s 
+Sustainable Bond Market.
+The financial system as a catalyst for decarbonisation
+
+LSEG CLIMATE TRANSITION PLAN 202231
+CONTENTS
+Voluntary Carbon Markets 
+In November 2021, the London Stock  
+Exchange announced its intention to develop  
+a new market solution for voluntary carbon  
+markets to accelerate the availability of financing 
+for projects to support a just transition to a  
+low-carbon economy. 
+The solution aims to address two major 
+challenges inherent in the scaling up of the 
+voluntary carbon markets: access to capital 
+at scale for the development of new climate 
+projects worldwide; and primary market access  
+to a long-term supply of high-quality carbon 
+credits for corporates and investors. 
+This will enable companies and investors to 
+augment credible net zero transition strategies 
+more confidently, by financing additional projects 
+to offset unavoidable carbon emissions during 
+their path to net zero.
+FTSE EU Climate Benchmarks Index Series 
+To help investors reallocate capital in line with the 
+transition to a low carbon economy FTSE Russell 
+launched the FTSE EU Climate Benchmarks Index 
+Series in July. FTSE Russell consulted Brunel 
+Pension Partnership in the design of the indices 
+which include a range of climate-themed equity 
+indices aligned to the Paris Agreement. 
+The index series cover a broad range of 
+developed and emerging equity markets 
+including FTSE All-World, FTSE Developed, FTSE 
+Emerging, Russell 1000, FTSE All-Share and FTSE 
+Australia 200. 
+The index series apply the FTSE Target Exposure 
+Framework which includes a transparent 
+tilt exposure towards and away from index 
+constituents according to several exposure 
+objectives such as fossil fuel reserves, carbon 
+reserves and green revenues to achieve  
+Paris alignment.
+Carbon footprint data and analytics 
+Refinitiv is a pioneer in ESG data, servicing the 
+global financial industry since 2002. Refinitiv 
+carbon data covers 12,000 companies and is 
+one of the most consistent, comprehensive and 
+auditable data sets available in the market.  
+It is natively integrated into mainstream financial 
+market solutions such as Refinitiv Workspace 
+making carbon data integration efficient and  
+cost effective. 
+Through our products, we accelerate the 
+transition to net zero across global financial 
+markets. Our research teams provide in-depth 
+understanding of the carbon markets, policy and 
+regulatory drivers and forecasts for emissions 
+trading to help organisations achieve their 
+emissions targets.
+Climate Transition Centre
+Announced in October 2021, the LSEG 
+Foundation supported the funding of the 
+Transition Pathway Initiative (TPI) Global  
+Climate Transition Centre at the London School  
+of Economics. 
+It will dramatically scale publicly available 
+research on the climate transition pathways 
+of 10,000 businesses, covering global equity 
+markets, fixed income and private markets. 
+This builds on our existing relationship through 
+FTSE Russell, our Index business, which is TPI’s 
+data partner.
+LSEG CLIMATE TRANSITION PLAN 202232
+CONTENTS
+2030 and beyond
+As this is our first Climate Transition Plan, we have 
+focused on the actions we are taking to achieve our 
+near-term targets to 2030.
+Many of these actions are underway and delivering results. We look  
+forward to providing details of progress in future reports.
+During 2022 we are undertaking further work to assess the actions 
+and investment required beyond 2030 to achieve our longer-term net 
+zero target. Using the SBTi’s Net Zero Guidance released in October 
+2021, our work in 2022 will identify our path to net zero from 2030 
+across our business operations and value chain with the adoption of 
+measurable targets and interim KPIs.
+To help achieve this, we will invest in nature-based solutions and other 
+carbon-reduction technologies to remove from the atmosphere or 
+offset more carbon than LSEG emits each year. By 2040, we aim for 
+100% of unavoidable emissions to be neutralised with an equivalent 
+amount of carbon removals. This will involve the purchase of carbon 
+removals and the scoping and implementation of an internal carbon 
+price starting with business travel. Such a tool would factor the external 
+cost of greenhouse gas emissions into business and investment 
+decisions to incentivise efficiency and enable low-carbon innovation.
+LSEG CLIMATE TRANSITION PLAN 202233
+CONTENTS
+How we disclose and report on progress
+Disclosing data and progress transparently ensures we are not only 
+accountable for our commitments, but in making our data public we  
+are also encouraging transparency in the market. 
+We commit to monitoring and reporting in alignment with best practice on 
+sustainability disclosures and we intend to report our net zero progress in our 
+2023 Climate Transition Plan alongside other reports where we disclose our 
+sustainability performance including:
+ – LSEG Annual Report & Accounts 
+ – Annual Sustainability Report
+ – CDP Climate Change disclosure
+ – TCFD Report 
+Further information
+For further information regarding LSEG’s sustainability approach  
+please see lseg.com
+LSEG is more than a diversified global financial 
+markets infrastructure and data business.
+We are dedicated partners to our customers, with an open model and commitment to excellence. With 
+extensive experience, deep knowledge and global presence across financial markets, we enable 
+businesses and economies around the world to fund innovation, manage risk and create jobs. It’s 
+how we’ve contributed to supporting the financial stability and growth of communities and economies 
+globally for more than 300 years.
+Discover more at lseg.com
+LSG1569754/2-22

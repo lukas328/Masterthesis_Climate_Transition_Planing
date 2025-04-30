@@ -1,0 +1,921 @@
+Climate
+Report
+2021
+Aligned to the Task Force on 
+Climate-related Financial 
+Disclosures (TCFD)
+Contents
+Introduction         3
+Climate action framework
+1. Governance         6
+1.a. Board's oversight of climate-related risks and opportunities
+1.b. Management’s role on climate-related risks and opportunities
+2. Strategy         9
+Scenario analysis
+2.a. Climate-related risks and opportunities identified in the short, medium and long term
+2.b. Impact on the organization’s business, strategy and financial planning
+2.c. Resilience of the organization's strategy considering climate-related scenarios
+3. Risk Management       19
+3.a. Processes for identifying and assessing climate-related risks
+3.b. Processes for managing climate-related risks
+3.c. Integration of processes for identifying, assessing and managing climate-related risks
+4. Metrics and Targets       23
+4.a. Metrics used to assess risks and opportunities
+4.b. Disclosure of scope 1, 2 and 3 GHG emissions
+4.c. T argets used and performance
+Annual Report 2021
+Sustainability Report 2021
+ 
+Sustainable Solutions Report
+ 
+ESG Databook 2021
+The Climate (TCFD) Report is part of Orbia’s annual reporting 
+suite, available at orbia.com, including:
+2
+Orbia 2021 Climate Report
+At Orbia, we recognize that climate change is one of the greatest challenges of our time, 
+but it also represents the greatest opportunity we see on our horizon and the greatest 
+responsibility of our generation: the decarbonization of our economy and enabling climate 
+resilience. With sustainability-minded industry initiatives, Orbia aims to be a leader in 
+innovation on long-term climate change solutions. At Orbia, we address climate-related 
+issues within our company and along our value chain together with our customers, 
+employees, suppliers, partners, communities, and our industry to achieve positive impacts. 
+Orbia has been an official supporter of the T ask Force on Climate-related Financial 
+Disclosures (TCFD) since 2019, and we have established ambitious climate commitments 
+to contribute to the decarbonization of the planet. Building on our 2019 climate risk 
+assessment, this is Orbia’s second comprehensive TCFD-aligned report, and includes 
+updates of our climate-related efforts across our organization and our value chain. This 
+report also details Orbia’s progress towards adopting TCFD recommendations and 
+incorporating climate-related risks and opportunities in our strategic decisions.
+Using our Climate Action Framework as a guide, we prioritize climate actions and implement 
+key performance indicators (KPIs) based on our climate goals and defining purpose: to 
+advance life around the world. Our progress towards our goal to achieve net zero emissions 
+(scope 1 & 2) by 2050 and related Science Based T argets (aligned to a 1.5° scenario) to 
+2030, along with other climate-related metrics, are publicly disclosed annually.
+Introduction
+3
+Orbia 2021 Climate Report
+Introduction Governance Strategy Risk Management Metrics and Targets
+
+Climate Action Framework
+Culture of Innovation
+Collaboration for Impact 
+Commited to Climate Action
+Driving new
+ businesses for a 
+net zero world
+Solutions for
+advancing a climate
+resilient economy
+Low impact & resilient 
+operations
+Our commitment to Climate Action is embedded throughout 
+the organization as we believe that we have a role to play in 
+reaching a net zero world. Within Orbia, we demonstrate our 
+commitment with fully engaged and accountable leadership 
+at all levels in the company.
+In line with our values, Orbia fosters a robust and dynamic 
+culture of innovation, and we use this as the springboard 
+to advance life around the world. We succeed when we 
+strengthen our relationships and work together with 
+suppliers, communities, governments, and customers 
+to achieve long-term positive impact. A strong culture 
+and collaboration create the foundation for us to achieve 
+meaningful Climate Action across three fronts: low impact 
+and resilient operations, solutions for advancing a climate 
+resilient economy, and driving new businesses for a net zero 
+world. This framework is based on our understanding of 
+physical and transition climate change risks and how Orbia’s 
+business strategy embraces new opportunities. Our Climate 
+Action Framework guides us, providing a collective focus 
+when tackling climate change. 
+It is clear to us that accelerating our 
+Climate Action strategy will allow us to 
+realize our defining purpose:  
+to advance life around the world.
+ 
+4
+Orbia 2021 Climate Report
+Introduction Governance Strategy Risk Management Metrics and Targets
+
+Low impact & resilient operations
+We are continuously identifying ways to decarbonize through optimizing manufacturing processes, 
+transitioning to low-carbon and renewable energy sources, and exploring opportunities in carbon 
+capture and hydrogen. In parallel, our sites are adapting to physical climate change risks, including risks 
+associated with changing weather and their resulting disruptions. 
+Solutions for advancing a climate resilient economy
+Orbia’s business groups are constantly developing products and services with improved environmental 
+performance that support our customers and suppliers in making measurable progress against their 
+own climate goals. Our solutions contribute to urban and rural resilience and support the transition 
+to a low carbon and circular economy. These include materials and products that advance alternative 
+energy, resource efficiency, green buildings, data connectivity and health.
+Further details are available in our Orbia Sustainable Solutions Report.
+Driving new businesses for a net zero world
+Both within existing businesses and through corporate venture capital, our culture encourages exploring 
+new technologies and strategic acquisition opportunities, investing human and financial capital to 
+support new business models that will have a positive impact in the longer term. Climate T ech is a focus 
+area of strategic investments made through Orbia Ventures, our corporate venture capital fund. 
+5
+Orbia 2021 Climate Report
+Introduction Governance Strategy Risk Management Metrics and Targets
+
+Orbia 2021 Climate Report
+6
+ 
+1
+Governance
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+7
+Orbia’s Board of Directors continues to drive our climate 
+action strategy forward to meet the challenges ahead. 
+T o ensure implementation and encourage collaboration 
+across business groups, the Board oversees and provides 
+guidance on Orbia’s ESG strategy previously reviewed by 
+the Corporate Practices & Sustainability Committee. For 
+example, the Board has overseen Orbia’s commitment to 
+set Science-Based T argets and achieve net zero carbon 
+emissions (scope 1 & 2) by 2050. The Committee supports 
+the Board of Directors by, among others, overseeing Orbia’s 
+overall sustainability strategy, shaped in part by climate-
+related issues. Our Vice President (VP) of Sustainability 
+briefs and updates the Committee regularly, while providing 
+progress on our targets and climate-related goals on a 
+quarterly basis.
+As shown in Figure 1, our sustainability governance 
+structure is organized so that the Board of Directors sets the 
+direction while strategy setting is incorporated and led on 
+the global, regional, and local levels.
+In addition to our Corporate Practices & Sustainability 
+Committee, Orbia established a Critical Risk Committee 
+(CRC), which supports the Board in identifying and 
+assessing our risks. See the Risk Management section for 
+further details.
+1.a Board oversight on climate-related risks 
+and opportunities
+CEO
+Audit CommitteeFinance Committee
+Critical Risk
+Committee
+Setting the vision
+and providing oversight
+Setting direction Strategy implementation
+at global, regional and site
+levels by business group.
+Sustainability
+structure
+Corporate Leaders 
+(CFO, CPO, CIO, Chief Legal, VP 
+Innovation, VP Strategy, VP 
+Internal Audit) 
+Sustainability Leads
+of Business Groups
+Business Group
+Presidents
+Board of Directors
+Corporate Practices
+& Sustainability
+Committee
+VP, Health, Safety
+& Environment
+and Engineering
+Corporate
+Sustainabilty T eam
+VP, Sustainability
+& Corporate Aﬀairs
+CEO
+Audit CommitteeFinance Committee
+Critical Risk
+Committee
+Setting the vision
+and providing oversight
+Setting direction Strategy implementation
+at global, regional and site
+levels by business group.
+Sustainability
+structure
+Corporate Leaders 
+(CFO, CPO, CIO, Chief Legal, VP 
+Innovation, VP Strategy, VP 
+Internal Audit) 
+Sustainability Leads
+of Business Groups
+Business Group
+Presidents
+Board of Directors
+Corporate Practices
+& Sustainability
+Committee
+VP, Health, Safety
+& Environment
+and Engineering
+Corporate
+Sustainabilty T eam
+VP, Sustainability
+& Corporate Aﬀairs
+Figure 1: Sustainability and Climate Risk Governance Structure
+CEO
+Audit CommitteeFinance Committee
+Critical Risk
+Committee
+Setting the vision
+and providing oversight
+Setting direction Strategy implementation
+at global, regional and site
+levels by business group.
+Sustainability
+structure
+Corporate Leaders 
+(CFO, CPO, CIO, Chief Legal, VP 
+Innovation, VP Strategy, VP 
+Internal Audit) 
+Sustainability Leads
+of Business Groups
+Business Group
+Presidents
+Board of Directors
+Corporate Practices
+& Sustainability
+Committee
+VP, Health, Safety
+& Environment
+and Engineering
+Corporate
+Sustainabilty T eam
+VP, Sustainability
+& Corporate Aﬀairs
+CEO
+Audit CommitteeFinance Committee
+Critical Risk
+Committee
+Setting the vision
+and providing oversight
+Setting direction Strategy implementation
+at global, regional and site
+levels by business group.
+Sustainability
+structure
+Corporate Leaders 
+(CFO, CPO, CIO, Chief Legal, VP 
+Innovation, VP Strategy, VP 
+Internal Audit) 
+Sustainability Leads
+of Business Groups
+Business Group
+Presidents
+Board of Directors
+Corporate Practices
+& Sustainability
+Committee
+VP, Health, Safety
+& Environment
+and Engineering
+Corporate
+Sustainabilty T eam
+VP, Sustainability
+& Corporate Aﬀairs
+Setting the vision
+and providing oversight
+Setting direction Strategy implementation  at 
+global, regional and site levels 
+by business group.
+Core Sustainability
+structure
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+8
+Orbia manages sustainability efforts (including climate-related aspects) through a matrix 
+structure, with leadership and functional specialties held at global and corporate levels. 
+Orbia’s VP of Sustainability is a member of the Leadership T eam along with the Business 
+Presidents, CFO and other key functional leaders.
+The VP and the Corporate Sustainability team work directly with presidents of the 
+business groups to identify climate risks and opportunities and embed climate 
+considerations into decision-making and business strategy. We base much of this work 
+on the 2019 TCFD-aligned risk analysis and company-wide risk processes. We have set 
+Science-Based T argets (which will be submitted for approval to the Science-Based T argets 
+Initiative (SBTi) in 2022) for Scope 1, 2 and 3 emissions and other climate-related goals 
+(which include zero waste to landfill targets). Additionally, each business group has a 
+dedicated sustainability lead and team responsible for the development of the business-
+specific sustainability strategies and oversight. Climate-related peformance data is 
+reported in ODISEO, our centralized sustainability reporting platform. 
+In 2021, we established the Sustainability Council composed of sustainability leads 
+from all our business groups and operational experts to construct, implement and take 
+ownership of Orbia’s sustainability strategy. The Council is informed by internal and 
+external best practices, and leverages opportunities for cross-business cooperation 
+where performance improvement can be accelerated and new ideas can be developed 
+effectively. 
+The Sustainability Council is currently comprised of thematic sub-groups, two of which 
+are focused on decarbonization and circularity. These groups identify ways to incorporate 
+impactful sustainability strategies across the business groups, support the management 
+of climate-related initiatives and opportunities for the business groups, and report on 
+their progress to the Sustainability Council. Orbia’s Council is continuously identifying 
+innovative opportunities to enable decarbonization and increase the resilience of Orbia’s 
+business model. This allows the selection of cost-effective and impactful emission-
+reduction tools appropriate for specific markets and regions. 
+Corporate Governance
+ 
+Orbia executive compensation structure
+For further information:
+From 2021, an ESG performance modifier 
+funds up to +/- 10% of the annual bonus of 
+senior management, based upon achievement 
+of defined ESG metrics across 4 areas. Annual 
+goals for metrics in these areas are reviewed 
+and approved by the Board of Directors every 
+year, and include two climate-related metrics: 
+greenhouse gas (GHG) emissions and waste 
+sent to landfill.
+1.b Management’s role on climate-related risks 
+and opportunities
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+9
+ 
+2
+Strategy
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+10
+At Orbia, strategy and sustainability go hand-in-hand, with sustainability considerations now 
+integrated into our capital allocation decision-making process. Most importantly, Orbia’s 
+businesses are committed to addressing some of the most pressing challenges the world 
+is facing today, including ensuring food security, reducing water scarcity, reinventing the 
+future of cities and homes, connecting communities with data and information services, 
+and expanding access to health and well-being by providing advanced materials, specialty 
+products and innovative, human-centered solutions. As Orbia transforms into a low impact 
+and resilient set of businesses, climate change continues to represent a core challenge. 
+Each business group regularly develops and adapts their strategy to ensure Orbia’s 
+products and solutions address risks and opportunities related to climate change. 
+Scenario analysis
+Scenario analysis is a growing, critical tool that companies use to test both the resiliency 
+of their business models and adapt strategic planning to reflect emerging realities in the 
+marketplace. Through scenario analysis, our business planning can take variables such 
+as carbon taxes, disruptive technologies, changing customer preferences, government 
+policies, and other micro- and macro-economic factors into account.
+ 
+In our 2019 climate risk analysis, both physical and transition scenarios were used 
+as inputs to establish a suite of projected future changes in climate that illustrate the 
+possibilities that may lie ahead. 
+As part of our continuous improvement processes, we are collaborating with different areas 
+of our organization to strengthen our scenario analysis capability. We will analyze new 
+scenarios in 2022, in line with the most recent available information.
+Physical 
+risk 
+Intergovernmental Panel on Climate 
+Change (IPCC)’s RCP 8.5 scenario 
+2030
+2030 2018 International Energy Agency (IEA)’s 
+Sustainable Development Scenario (SDS)
+Transition 
+risk 
+Type of Risk Horizon Scenario used
+Our healthy balance sheet 
+allows us to take advantage of 
+investment opportunities for the 
+decarbonization of our operations 
+as well as capitalize on new business 
+opportunities for climate resilience. 
+Sustainability considerations are 
+a key component of our capital 
+expenditure and growth project 
+approval processes.”
+Jim Kelly
+Orbia Chief Financial Officer
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+11
+2.a Key climate-related risks and opportunities identified in the 
+short, medium, and long term
+As part of our business planning processes, we continually identify physical and transition risks as well as opportunities 
+that may arise due to climate change. All risks and opportunities are evaluated within certain thresholds and boundaries, 
+including potential financial impacts and time horizons. We prioritize actions related to the higher financial impact risks. 
+See T able 1 and 2 for details of key risks and opportunities identified.
+Financial impacts
+We have five levels to define substantive financial impact:
+Time horizons
+We have categorized time horizons into three ranges:
+1. High: $50 or greater USD Short-term: Up to 1 year
+(In $Millions)
+Note: impact range labels are aligned with categories used in CDP (Carbon Disclosure Project) reporting and Orbia’s risk management processes.
+2. Medium - High: $37.5 - $50 USD Medium-term: 1 - 4 years
+3. Medium: $22.5 - $37.5 USD Long-term: 5 years and above
+4. Medium - Low: $7.5 - $22.5 USD
+5. Low: Less than $7. 5 USD
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+12
+T o determine physical and transition risks, Orbia conducted a vulnerability screening of its portfolio, followed by a detailed Climate Risk Assessment 
+on 12 of its most vulnerable sites, including four from Fluorinated Solutions, seven from Polymer Solutions and one from Building & Infrastructure. This 
+assessment has provided input into both the prevention of physical risks and increased innovation for new ways of doing business.
+Scenarios will be reviewed in 2022 to include longer-term time horizons and beyond Business-As-Usual models.
+Time Horizon Risk Type Classification Risk Description Magnitude of 
+Financial Impact
+Short-term
+Physical Chronic Increased water stress and drought leading to reduced capacity 
+resulting in decreased revenues. Low
+Transition Policy and Legal Carbon pricing mechanisms leading to increased direct costs. Low
+Transition Policy and Legal
+Mandates on and regulation of existing products and services 
+(e.g., The AIM Act, which was signed into law on Dec. 27, 
+2020, and directs EPA to establish limits to production and 
+consumption of HFCs in line with the Kigali amendment), 
+leading to reduced demand for products and services leading to 
+decreased revenues from HFCs.
+Medium-Low
+Medium-term Physical Acute Increased severity and frequency of cyclones and floods, leading 
+to reduced capacity, decreased production and revenues. Medium-Low
+Table 1: Key climate-related risks identified 
+For further information:
+CDP Climate Change Response
+(Section 2.3)
+ 
+2020 Annual Filing to Mexican Stock Exchange (BMV)
+(Pages: 22, 26, 27, 35, 36, 74, & 115)
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+13
+The table includes key initiatives in response to climate-related identified opportunities.
+Time Horizon Classification Opportunity Description Magnitude of Financial 
+Impact
+Potential Financial 
+Impact
+Medium-term
+Products and Services
+Climate-adaptation, resilience, and risk solutions, including:
+• Stormwater and indoor climate solutions
+• Precision agriculture solutions e.g., opportunity to reduce 
+agriculture’s carbon footprint in rice fields
+• Low climate-impact solutions e.g., low global warming 
+potential (GWP) propellants and refrigerant
+High
+Increased revenues 
+resulting from increased 
+demand for products and 
+services.
+Development of new products or services through R&D and 
+innovation. e.g., PlasticRoad; fossil-free PVC; startup partnerships 
+and investments in climate tech through Orbia Ventures
+High
+Increased revenues 
+through access to new 
+and emerging markets.
+Energy Source Use of lower-emissions sources of energy Medium-Low
+Reduced direct costs and 
+taxes (including potential 
+carbon taxes)
+Long-term Markets
+Innovative technologies for emerging sectors and industries 
+including:
+• Public-Private Partnerships to support small scale farmers with 
+precision agriculture solutions and technologies 
+• Next-generation battery technologies to enable storage 
+innovations 
+High
+Increased revenues 
+through access to new 
+and emerging markets.
+For further information:
+CDP Climate Change Response
+(Section 2.6)
+ 
+Orbia Sustainable Solutions Report
+Table 2: Key climate-related opportunities identified
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+14
+2.b Impact on the organization’s business, strategy and financial planning 
+The results of our climate risk and opportunity assessments have triggered internal initiatives to place climate change at the center of the challenges our business groups 
+pursue as we continue to evolve into a low carbon and resilient business. Our Corporate Practices & Sustainability Committee, our thematic and multi-disciplinary working 
+groups, and our businesses analyze how these challenges, and their potential financial implications, may affect the organization’s business and strategy. For example, carbon 
+taxes and future increases in energy prices are now part of our financial planning. We also analyze how our solutions contribute to the mitigation and/or adaptation to climate-
+related challenges. The examples provided below illustrate how we respond to some of the risks and opportunities identified (described in 2.a), in line with our climate action 
+framework.
+All of Orbia’s businesses continuously invest in developing innovative low carbon products and solutions that enable 
+resilience against climate change, as well as in integrating recycled content and recyclability criteria from the product 
+design stage. 
+Solutions for advancing a climate resilient economy
+We are also investing in the development of solutions, 
+such as energy storage innovations, which enable 
+the transition to a low carbon economy. In addition, 
+Orbia Ventures has defined climate tech as one of its 
+focus areas, and successfully completed seven out of 
+eight transactions carried out in 2021 to promote this 
+strategic objective.
+Driving new businesses  
+for a net zero world
+has increased integrated precision irrigation offerings and 
+moved into turnkey greenhouse solutions.  
+is growing its offering in segments including stormwater 
+management, indoor climate systems, and green building 
+solutions for urban and rural resilience.  
+has been investing in large-scale fiber optics and conduit 
+projects to improve connectivity while minimizing 
+environmental impacts.
+are developing bio-based PVC options to supply customers 
+around the world with clean water, sanitation and other 
+essential elements for good health. They are also deploying 
+renewable energy, bringing emissions from chlorine 
+production closer to net zero.
+is expanding its portfolio of low global warming potential 
+(GWP) next-generation refrigerants and propellants, and 
+energy storage technologies that will drive a decarbonized 
+future.
+Exploring new opportunities: carbon 
+capture and hydrogen technology
+Orbia has made a first investment in Verdagy, a company 
+innovating on water electrolysis technology for large-scale 
+production of green hydrogen. Orbia Ventures also invested 
+in Osmoses, a startup developing advanced molecular 
+filters for chemical separations, which can be applied to 
+carbon capture and blue hydrogen production in a cost-
+effective manner.
+Polymer 
+Solutions
+Fluorinated 
+Solutions
+Building and 
+Infrastructure
+Precision 
+Agriculture
+Data 
+Communications
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+15
+The following examples demonstrate how some of our products are 
+contributing to climate resilience:
+Smart StormHarvester making cities resilient
+The central square of Assen, in the Netherlands, often gets flooded when heavy rainfall 
+occurs. The municipality decided to redesign it, and Wavin offered the solution to mitigate 
+flooding and water shortages during dry periods. 
+Regular attenuation systems sit empty most of the time and infiltration systems are only 
+possible with the right soil conditions. Wavin’s StormHarvester, using AquaCell® units, is now 
+changing the rules of the game. When rain is  forecast, the system’s predictive technology 
+automatically adjusts the water level within the tank, to ensure it has sufficient capacity for 
+rainwater retention. This ensures that the tanks always have capacity to capture stormwater 
+and enables the city to  reuse the water continuously for green areas and to combat heat 
+stress.
+Circular Solutions for Dairy Farms
+Netafim has developed an award-winning technology reducing the environmental impact 
+of dairy farms. Netafim’s subsurface drip irrigation (SDI) system recycles organic waste 
+generated by dairy cows, optimizing levels of fresh water to fertilize and irrigate feed crops 
+while eliminating the need for chemical fertilizers. This innovative technology benefits 
+the environment in numerous ways: healthier soil and root environment; concurrent 
+conservation of water, nutrients and energy; GHG emissions reduction, and improved crop 
+yield.
+Applied in pilot projects in Italy and the United States, this solution represents a major 
+achievement for advancing circularity in the agricultural industry, reducing CO2e emissions  
+of dairy operations by 47% compared to traditional methods. 
+For further information:
+Orbia Sustainable Solutions Report 
+ 
+Orbia 2021 Sustainability Report
+Li-Ion Battery Performance and Circularity
+Koura continues to advance its comprehensive energy materials strategy, including 
+development of next-generation electrolyte additives and co-solvents under the Koflyte® 
+brand. Milestones in 2021 include the acquisition of battery tech start-up Silatronix and 
+investment in Ascend Elements, a closed-loop lithium-ion battery recycler. 
+Next-Generation Refrigerants
+Following the launch of Klea® 473A, Koura continued to revolutionize the refrigerant gas 
+space with the launch of another of its next-generation refrigerants, Klea® 456A. This lower 
+global-warming-potential (GWP) refrigerant presents an alternative to R-134a for automotive 
+air conditioning systems. Klea® 456A refrigerant is non-flammable and has a GWP 46% 
+lower when compared to R-134a.
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+16
+Transitioning to renewable and lower carbon energy sources
+Our renewable energy consumption increased by 28% in 2021, driven by key projects across most of our business 
+groups. As an example, our Dura-Line plant in Goa, India, formalized a Power Purchasing Agreement (PPA) to acquire 
+1,000 MWh per year of solar power from the second semester of 2021. This represents 12-15% of Goa’s annual 
+electrical load. Our Wavin operations increased use of renewables by 43% in in 2021. Wavin sites in Europe aim to 
+source 100% of their electricity consumption from renewable sources by 2025, a 4% reduction of Orbia’s total GHG 
+emissions. 
+Our Alphagary’s Melton Mowbray site signed an agreement with a UK utility facility that supplies renewable electricity, 
+reducing CO2 emissions by 3,000 tons.
+A trigeneration plant initiated operations in our Vestolit Altamira I site. From 2021, yearly carbon emissions are 
+expected to decline by almost 20,000 tons of CO2e, which would equate to removing over 4,500 cars from the road.
+Optimizing processes, improving efficiencies
+At Vestolit’s Altamira site, technology adaptations and investments in additional condensers allowed the site to 
+replace chilled water by cooling water in the PVC process. The projected energy consumption reduction is 50 KWh 
+per ton of PVC produced and 8,000 tons of CO2e in 2021.
+Process improvements also include Alphagary’s Altamira I plasticizers plant, where installation and commissioning of 
+an alcohol stripping column resulted in an 83%-time reduction, obtaining low alcohol concentrations in plasticizers in 
+less than 40 minutes and a reduction of steam consumption of 20% compared with the previous process. As a result, 
+Alphagary will stop consuming 5,500 ton/year of steam, which translates to a reduction of 1,000 tons CO2e/year.
+Additionally, Dura-Line joined the U.S. Department of Energy’s Better Plants Program to improve energy productivity 
+by 25% over a ten-year period. The first assessments conducted in 2021 revealed the opportunity to reduce nearly  
+1 million KWh through plant improvements. The teams will implement these robust energy improvements and system 
+optimizations in 2022. 
+Low impact & resilient 
+operations
+Decarbonizing our operations 
+Each Orbia business group has targets to improve 
+efficiency and transition to cleaner or renewable sources 
+of energy and obtain or maintain a certified environmental 
+management system. Related strategies include several 
+plants, which have developed plans to adapt to potential 
+extreme weather events. Climate-related risks have 
+influenced our global targets to become carbon neutral 
+by 2050 (reducing Scope 1 and 2 emissions by 47% by 
+2030, pending validation by the SBTi) and to have all plants 
+certified as ISO-14001 or equivalent by 2025.
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+17
+Increase in post-consumer recycled content
+Wavin aims to increase the use of post-consumer recycled plastics up to 25% by 2025 to reduce dependence on 
+virgin raw materials and consequently reduce carbon emissions in their value chain. The company has also set a goal 
+of increasing the recyclability of its products by 90% by 2025. Similarly, Netafim has a target of increasing recycled 
+content in drip lines up to 45% by 2030. These are key targets for integrating circularity into our business strategy. 
+Purchased goods and services (category 1) represent around 6% of Orbia’s total Scope 3 emissions. 
+Take-back programs
+ 
+Dura-Line and Netafim have been operating take-back programs for a number of years. In 2021, Netafim expanded its 
+program from four to eight countries (U.S., Australia, Israel, France, Spain, T urkey, Peru and Mexico), with approximately 
+13,000 tons of end-of-life driplines collected globally for reuse. In 2021, Dura-Line’s take-back program repurposed 
+1,754 reels and diverted a quarter million pounds of scrap tape to be recycled. 
+Refrigerant recovery
+ 
+Koura’s refrigerant recovery plant in Japan increased its processing capacity in 2021. The Mihara plant continues to 
+implement this successful recovery technology and practices to further reduce global warming impacts. During 2021, 
+approximately 900 tons of refrigerants were recovered, avoiding around 1.7 million tons of GHG emissions. The site 
+has plans to further grow its recovery capacity in 2022.
+Mitigating our impact across
+the supply chain
+As part of Orbia’s goals to reduce emissions from fossil 
+fuels, our procurement and logistics teams continually 
+pursue options to deploy energy efficient technologies and 
+transportation alternatives. These opportunities include: 
+switching from road to rail transport, introducing take-back 
+programs, and sourcing recycled or bio-based materials 
+when available.
+Low impact & resilient 
+operations
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+18
+As demonstrated in our 2019 climate risk assessment, both physical and transition scenarios were used to 
+analyze our resilience to climate change. 
+For physical risks, we utilized IPCC’s RCP 8.5 scenario to assess the impact of water stress and drought, 
+cyclones, extreme heat and cold, flooding, landslides and wildfires. For transition risks, we considered climate-
+related financial implications associated with carbon taxes, utility costs, and mandates on and regulation 
+of existing products and services. This ensures our operations fully address the risks and opportunities of 
+climate change. 
+Additionally, we are conducting a more detailed analysis at operational sites, such as our Cartagena facility, 
+that have been affected by shifting rainfall patterns and its proximity to the sea. Cartagena collaborated 
+with hydrology and rainfall experts to develop a 50-year pattern analysis to incorporate the preventative 
+and adaptive measures necessary to guarantee operational continuity. This will enable us to provide 
+uninterrupted product supply to customers in the case of extreme rain events in the future. The time horizon 
+considered was 25-50 years, relevant for the life of capital assets.
+Orbia acknowledges the ever-changing landscape of climate  science and how it influences our business 
+strategies. In order to better assess the challenges ahead of us, we plan to update our previous climate risk 
+analysis during 2022 with state-of-the-art scenarios incorporating new information, expanding our time 
+horizon and scope, beyond Business-As-Usual models, to test and continuously improve our resilience to 
+climate change. 
+2.c Orbia’s resilience considering climate-related scenarios
+The output of this first analysis 
+showed that none of the 
+evaluated sites have a high risk 
+of being affected by physical 
+changes in climate to 2030.
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+19
+ 
+3
+Risk Management
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+20
+3.a Process for identifying and assessing climate-related risks
+Orbia’s risk management process is a systematic approach across Orbia’s corporate and business units. The focus is on 
+both strategic and operational issues, and changes in risk status are promptly communicated to decision makers. Our risk 
+profile, that includes short, medium, and long-term risks, is reviewed every few years. 
+In order to identify and manage all materially relevant risks, Orbia has developed the following structured process:
+Risk identiﬁcation Risk assessment
+Risk oversight 
+by Critical
+Risk Committee
+Risk management at
+Business Group level
+Risk frameworks & policies approval
+Major risks are reported to the Audit Committee
+Audit Committee
+Board of Directors
+Risk monitoring
+Setting direction
+Figure 2. Orbia’s Risk Management Process
+Orbia’s Critical Risk Committee (CRC) oversees four primary risks to the Company: Strategic/Business, Financial, 
+Operational, and Reputational. Climate risks have been integrated into these multi-disciplinary company-wide risk 
+management processes since 2020.
+The CRC, chaired by our Chief Executive Officer (CEO), is comprised of our Chief Financial Officer (CFO), General Counsel, 
+Internal Audit Vice President (VP), Health, Safety, Environment & Engineering VP, Chief Information Officer, Sustainability 
+VP, and Presidents of the five business groups. The CRC meets quarterly and is responsible for identifying and assessing 
+enterprise risks (including climate risks), evaluating the appropriate risk profile for the enterprise, developing risk mitigation 
+plans, and overseeing their implementation.
+In addition, the CRC assists the Board of Directors and Audit 
+Committee in fulfilling its oversight responsibilities related to:
+Likelihood and potential impact of material risks are 
+identified and prioritized based on their timeframe and 
+relevance to Orbia’s strategic objectives. The results of 
+these assessments are aggregated to form a Risk Register, 
+reviewed and approved by the CRC.
+In 2019, we also formally identified climate-related risks 
+across the business through a specific climate risk 
+assessment aligned with TCFD recommendations. This 
+process allowed us to assess both physical and transition 
+risks, quantifying their potential financial impact based on 
+their time horizon, as detailed in section 2.a. We plan to 
+update our 2019 climate risk analysis in 2022 with refined 
+scenarios.
+Risk identification and assessment
+Risk management: exposures and profile
+Risk mitigation: actions and continuous 
+monitoring of mitigation plans
+Assessment and approval of the  
+effectiveness of the three lines of risk 
+defense
+Effective management and assurance of risk 
+policies and strategies
+Setting direction
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+21
+3.b Process for managing climate-related risks
+Since 2020, Orbia’s Enterprise Risk Management (ERM) function and business groups have 
+developed work streams to integrate climate-related risks alongside other enterprise risks 
+and to track the progress of our actions. Risk Registers are managed at business group 
+level and a mitigation strategy with a specific action plan and risk owner is defined for each 
+risk.
+Orbia’s risk management model establishes three lines of defense that support the risk 
+management process (including climate-related aspects). These three lines of defense 
+include: 
+Risk owner at business group level 
+responsible for identifying and controlling 
+risks 
+ERM & Compliance function at Orbia level 
+to ensure communication to relevant 
+committees 
+Internal Audit to improve
+internal controls
+In line with Orbia’s risk 
+management process, 
+material risk developments 
+are continuously monitored 
+through a variety of sources 
+at the corporate and business 
+group level. Changes in 
+risk status are promptly 
+communicated to decision 
+makers.
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+22
+3.c Integration of climate-related risks into overall risk management processes 
+Orbia’s ERM program is embedded into the company culture. The CRC’s primary responsibility is to assist the Board of Directors in formulating Orbia’s 
+risk management practices and overseeing their implementation, including climate-related risks. Figure 3 illustrates the interaction between key risk 
+management roles: the CRC, the ERM program and the risk owner. 
+Figure 3: CRC & ERM Interaction Model
+Oversees risk framework
+& risk policies approval
+Critical Risk
+Committee 
+Enterprise Risk
+ManagementRisk Owner
+Integrates risk 
+management & controls
+with Orbia’s goals
+Ultimately accountable to
+ensure a risk is managed
+and controlled
+Also, Orbia has engaged with compliance world leader, ENHESA, to identify applicable and 
+emerging regulatory requirements stemming from climate change. Orbia uses ENHESA’s 
+compliance intelligence services to ensure all manufacturing sites comply with applicable 
+regulations in their specific jurisdictions, including climate-related regulations. By the end of 
+2021, following self-assessments by all sites, 70% of all applicable regulatory requirements 
+had been reviewed for compliance. Regulatory compliance monitoring will continue on an 
+ongoing basis and is a key indicator of quality site performance, thus mitigating possible 
+regulatory risks. We will continue to use available tools and capabilities to strengthen our 
+compliance processes across all jurisdictions.
+• ERM framework • Key process indicators • Internal audits
+• Risk assessment and  
+risk register
+• Global H&S measures • Risk monitoring and 
+evolution reports
+• Root-cause analysis  
+with risk owner
+• Global compliance 
+metrics and policies
+• External risk reports 
+• Probability vs impact 
+metrics
+The different management tools used to manage risks  
+(including climate risks) across Orbia include:
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+23
+ 
+4
+Metrics and Targets
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+24
+4.a Metrics used to assess risks and opportunities
+Orbia has defined key metrics to measure and manage climate-related risks and opportunities. These include:
+4.b Disclosure of scope 1,2 and 3 Greenhouse Gas Emissions (GHG)
+1. The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition). PDF.
+2. Orbia is not using any residual emission factor values. However, 77% of our scope 2 emisisons are calculated using supplier-specific emission factors.
+Direct emissions from sources owned 
+or controlled by the company.
+Other indirect, upstream 
+and downstream emissions from 
+sources not owned or controlled 
+by the company. 
+Electricity, heating, steam and cooling 
+indirect emissions from upstream 
+sources not owned or controlled by 
+the company.
+Scope 3: 
+Scope 2: 
+Scope 1: 
+As disclosed in previous reports, Orbia continues to measure Scope 1, 2 and 3 GHG emissions and communicates progress towards GHG emission targets. 
+In addition, our GHG emissions reporting is assured by an independent third-party (assurance statement available in our 2021 ESG Databook).
+Definitions:1 
+Calculated with average fuel CO2 emission factors published by DEFRA and EPA.
+All data was calculated using our internal database to assess the consumption of the different raw materials 
+and other purchased goods and services. Emission factors were sourced from public databases and specialized 
+consultancy services. The calculations were done following the GHG Protocol “T echnical Guidance for Calculating 
+Scope 3 Emissions”, considering Categories 11 (Use of Sold Products) and 12 (End-of-Life Treatment of Sold 
+Products) as the most significant for the organization (around 90% of total scope 3 emissions). 
+Calculated with both location-based and market-based electricity emission factors from the International Energy 
+Agency (IEA), where supplier emission factors are not available.2
+Methodology:
+• Reduction of Scope 1, 2  
+and 3 GHG emissions
+• Achieving Zero Waste  
+to Landfill at all sites
+• Procurement of post-
+consumer and post-industrial 
+recycled raw materials
+• Revenues generated  
+from sustainable  
+solutions 
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+25
+4.c Targets used and performance
+Orbia’s current climate-related goals include our net zero carbon ambition, our Scope 1, 2 and 3 absolute targets, as well as 
+our zero waste to landfill goal.
+Impact area Goal T arget year Baseline (2019) Performance in 2021
+GHG Emissions
+Achieve net zero carbon emissions (scope 1 & 2) 2050 2.00 million tons CO2e 1.81 million tons CO2e
+Reduce Scope 1 and 2 GHG emissions by 47% 2030 2.00 million tons CO2e 1.81 million tons CO2e
+Reduce Scope 3 GHG emissions by 30% 2030 90 million tons CO2e 82.4 million tons CO2e
+Waste 100% plants will send zero waste to landfill 2025 24% plants 39% plants
+We work to achieve results against our goals by implementing key actions as described in section 2.b. 
+For additional sustainability goals, refer to our 2021 Sustainability Report.
+Materials and Buildings Group supplemental metrics
+In 2021, Orbia selected metrics applicable to our business in line with “The Supplemental Guidance for Non-Financial 
+Groups” under the TCFD Recommended Disclosures. While we have complete information for key metrics, we are in the 
+process of assessing others to enhance our disclosures in future reports. 
+See T able 4 in following page for details. 
+Table 3: Orbia’s climate-related targets and performance
+Introduction Governance Strategy Risk Management Metrics and Targets
+Orbia 2021 Climate Report
+26
+Metric Units 2019 2020 2021
+Greenhouse Gas Emissions 
+Scope 1 emissions T ons CO2e 645,300 603,969 624,317
+Scope 2 emissions T ons CO2e 1,354,235 1,262,425 1,180,795
+Scope 3 emissions T ons CO2e 89,933,000 85,377,000 82,439,000
+Waste Waste sent to landfill  (incl. incineration without energy recovery) T ons   29,022 27,205 22,136
+Materials and Buildings Group supplement metrics 
+Energy and fuel consumption by source
+Natural Gas MWh 2,519,303 2,512,007 2,695,655
+Gasoline MWh 10,324 9,174 9,862
+Diesel MWh 98,929 75,539 82,565
+LPG Derived Gases MWh 130,179 106,963 124,689
+Mineral Coal MWh 169,816 127,836 73,953
+Purchased electricity MWh 2,580,558 2,486,917 2,590,547
+Scope 1 & 2 (Energy) - non renewable MWh 5,509,109 5,318,436 5,577,271
+Renewable Energy Generated MWh 1,773 3,587 2,347
+Renewable Energy Purchased MWh 81,890 130,983 169,451
+Biofuels MWh 696 765 859
+Scope 1 & 2 (Energy) - renewable MWh 84,359 135,335 172,657
+T otal energy intensity by tons of product MWh/ton   0.9 0.87  0.88
+Water Percent of fresh water withdrawn in regions 
+with high or extremely high baseline water stress %  47%   49%   47%
+Risk Adaptation & Mitigation
+Revenues from low carbon  
+and climate resilience solutions mUSD 1,331 1,522 1,984
+Expenditures (OpEx)  
+(for operational footprint improvements) kUSD 25,336 25,398 26,248
+Investment (CapEx) 
+(for operational footprint improvements) kUSD 10,218 9,302 13,293
+New Scope 3 emission figures reflect improvements in our inventory completeness 
+For additional metrics and further details on methodology, please refer to our 2021 ESG Databook
+Table 4: Metrics from TCFD materials and buildings supplementary guidance
+Introduction Governance Strategy Risk Management Metrics and Targets
+Climate Report 2021
+www.orbia.com

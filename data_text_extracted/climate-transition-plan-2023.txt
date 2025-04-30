@@ -1,0 +1,1814 @@
+Prudential plc 
+Climate 
+transition 
+plan
+March 2023
+Contents
+Foundations 1
+Foreword 1
+Prudential’s climate targets 1
+Climate journey to date 2
+How to use this document 3
+Objectives and priorities 5
+Targets and progress 5
+Our journey towards decarbonisation 7
+Looking ahead 9
+Implementation and engagement strategy 12
+Responsible Investment 12
+Industry engagement and advocacy 14
+Products and services  15
+Our own operations 16
+Metrics 17
+Governance 18
+Board and management oversight 18
+Skills and culture 20
+Methodologies and references 21
+prudentialplc.com
+Foreword
+Prudential fully supports the urgent need to reduce global 
+greenhouse gas (GHG) to net zero to limit climate change in 
+line with the Paris Agreement. We are concerned about how the 
+potentially catastrophic effects of climate change may impact 
+our communities and customers across Asia and Africa. 
+We are invested in the sustainable long-term development of 
+our markets, and our approach to the just and inclusive transition 
+focuses on making sure that no one, including those within emerging 
+markets, is left behind in the global transition towards a low carbon 
+economy. As such, we are focused on ensuring the debate on how to 
+achieve this common goal is based on steps that are relevant and 
+appropriate for these specific societies, given that they are not largely 
+responsible for the current level of global environmental damage.
+The financial industry can play an accelerating or hampering role 
+in the energy transition. Long-term investors like Prudential will be 
+crucial for the energy transition as they have to take a long-term 
+view due to the nature of the business and long-term liabilities. 
+Even with this long-term view, however, looking more than 25 years 
+ahead is challenging, as there remain many unknowns on a global 
+scale. Importantly, the financial industry is dependent on other 
+actors in society, most notably governments, to create the enabling 
+environment needed for the energy transition. 
+This is the first iteration of our Climate Transition Plan. It sets out our 
+long-term net zero pledge and interim targets, and the progress we 
+have made against them. It describes the actions we plan to take to 
+implement our decarbonisation strategy across our investment 
+portfolio1 and operations, as well as highlighting the areas in which 
+we need to strengthen our understanding and approach. We are 
+seeking to utilise this first iteration of our externally disclosed Climate 
+Transition Plan as an engagement mechanism with our investors and 
+stakeholders, to seek feedback as we continue in the current target 
+cycle and begin to think about the next iteration of climate-related 
+targets. We will therefore consider providing our shareholders with an 
+advisory vote on our climate action and updated transition planning 
+in the future.  
+We acknowledge the current and future uncertainties that we and 
+others face in our decarbonisation journey, and that the long-term 
+projections within this plan are more uncertain than the short-term 
+ones. Our plan reflects a measured and deliberate approach which 
+is expected to evolve over time. In particular, we expect our climate 
+and decarbonisation strategy to continue to evolve as we gain 
+more accurate and in-depth data, deeper insights into the specific 
+challenges and evolutions of our local markets, and knowledge from 
+our engagement and advocacy efforts across our value chain. We 
+also expect our Climate Transition Plan to adapt to reflect market, 
+regulatory, technological and other climate-related developments 
+affecting the context and pace of the global transition towards net 
+zero. Therefore, we aim to update this document periodically to 
+ensure we maintain transparency and accountability of our climate 
+ambition and strategy.
+We look forward to further engagement with our stakeholders on the 
+transition towards a net zero economy, and welcome feedback and 
+collaboration as we continue to evolve our approach. 
+Foundations 
+1 Our investment portfolio (’investment portfolio’) includes both listed equities and corporate bonds in all shareholder and policyholder assets, while excluding assets held by joint venture 
+businesses and assets in unit-linked funds as we do not have full authority to change the investment strategies of these. Further information is provided in the Basis of Reporting. 
+2 Carbon emissions refers to carbon dioxide equivalent emissions (CO2e) per the Greenhouse Gas (GHG) Protocol, including carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), 
+hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulphur hexafluoride (SF6) and nitrogen trifluoride (NF3).
+Prudential’s climate targets 
+Divest from all direct 
+investments in businesses 
+that derive more than 
+By end of 2022 
+Target to annually engage 
+with the companies 
+responsible for 
+25%
+Net Zero
+25%
+of their 
+income 
+from coal
+of the absolute 
+emissions in our 
+investment portfolio.
+Ongoing
+30%
+65%
+reduction in Scope 1 and 2 emissions 
+intensity (per full-time employee) from a 
+2016 baseline and become carbon neutral 
+across our Scope 1 and 2 emissions
+By 2030
+asset owner in alignment with the Net Zero 
+Asset Owner Alliance (NZAOA) By 2050
+reduction in the carbon emissions2 of the 
+investment portfolio intensity against our 
+2019 baseline
+By 2025
+ 1
+Prudential plc Climate Transition Plan  
+Foundations / continued
+Climate journey to date
+2019:
+> Published our  
+first TCFD-aligned 
+disclosure (investments 
+not included)
+> Set operational climate 
+targets for 2030
+2021: 
+> Established Board Responsibility 
+& Sustainability Working Group 
+> Committed to net zero by 2050
+> Set short-term climate investment targets
+> Joined the Net Zero Asset Owners Alliance 
+> Disclosed weighted average carbon 
+intensity (WACI) & impact of climate 
+scenarios across geographies
+> Integrated climate risk into enterprise 
+risk management
+> Updated our Group Responsible 
+Investment Policy
+2018:
+> Endorsed the TCFD 
+recommendations
+> Established ESG  
+Executive Committee
+> Eastspring became  
+a PRI signatory
+2020:
+> Undertook scenario analysis 
+and stress testing across 
+three climate scenarios
+> Disclosed material  
+climate risks and responses
+> New Group ESG  
+Committee established
+> Eastspring join  
+Climate Action 100+
+> Developed our  
+new Group ESG  
+Strategic Framework
+2022:
+> Initiated subtrack within 
+NZAOA: Emerging Markets 
+Transition Investment 
+(EMTI) project 
+–   EMTI published paper 
+on recommendations of 
+accelerating transition 
+investment in EM
+> Launched the ‘Just and 
+Inclusive Transition’ paper 
+articulating our view on  
+the climate transition for  
+our markets 
+> Formulated sectoral  
+climate views
+> Further enhanced disclosure 
+on metrics, including 
+absolute financed emissions  
+> Joined the Vietnam  
+Just Energy Transition 
+Partnership working group
+2
+Prudential plc Climate Transition Plan prudentialplc.com
+Foundations / continued
+How to use this document
+Prudential has been reporting on sustainability since 2016,  
+and has published climate-related disclosures aligned with the 
+recommendations of the Task Force on Climate-related Financial 
+Disclosures (TCFD) since 2019. 
+This Climate Transition Plan should be read in conjunction with our 
+2022 ESG Report and Annual Report, including our TCFD disclosures, 
+which includes an analysis of our most material climate-related risks 
+and opportunities.
+Figure 1 sets out the interplay between this document, our TCFD 
+disclosures and other relevant documents. Our full ESG reporting suite 
+can be found here: www.prudentialplc.com/en/esg. 
+Our Climate Transition Plan covers material aspects of our 
+business and value chain, including our investments and operations, 
+the former of which makes up over 99 per cent of our total carbon 
+emissions footprint as currently measured.  
+More information on the assumptions and methodologies utilised 
+throughout can be found at the end of this document.
+Figure 1: How this Climate Transition Plan fits into our wider ESG reporting suite
+ESG Report, Annual Report
+Responsible Investment and ESG policies
+TCFD disclosure 
+Overview of climate risk and 
+opportunity indentification, 
+management, strategy, 
+metrics and targets.
+Looking back:  
+Review of activities 
+undertaken during 2022.
+Common elements 
+Board and 
+management oversight
+Targets
+Metrics
+ESG strategy implentation
+Climate transition plan 
+Detail on how we are meeting 
+our climate ambitions, 
+including addressing the risks 
+and opportunities identified in 
+TCFD disclosure
+Looking forward:  
+How we will continue to meet 
+our decarbonisation goals
+Prudential plc 
+Environmental, Social and 
+Governance Report 2022
+Creating a 
+better future, 
+together  
+with you
+ 3
+Prudential plc Climate Transition Plan  
+  The importance of a just and inclusive transition  
+The International Labour Organization defines the just and 
+inclusive transition as ‘greening the economy in a way that is as 
+fair and inclusive as possible to everyone concerned, creating 
+decent work opportunities and leaving no one behind’. 
+Prudential’s view on ‘leaving no one behind when we green 
+the economy’ is that a just and inclusive transition is relevant 
+on two levels:
+> All countries need to transition, and countries should not be left 
+behind in this global transition, especially the most vulnerable 
+ones; and
+> Within countries, workers’ rights and livelihoods should be 
+secured during the transition, for example securing jobs for 
+coal workers in coal-dependent regions.
+We strong believe that a just and inclusive transition is necessary 
+for emerging markets. They are typically most vulnerable to 
+the physical impacts of climate change, despite historically 
+contributing less to the cumulative carbon emissions present 
+in our atmosphere today. 
+Additionally, although more dependent on fossil fuels for ongoing 
+development, emerging markets have fewer resources to fund the 
+transition to a low-carbon economy and manage the physical 
+impact of climate change. This is further compounded by having 
+the greatest unfinanced basic development needs, as reflected by 
+the Sustainable Development Goals (SDGs). 
+With Prudential’s operations and investments focused on markets 
+in emerging economies across Asia and Africa, we are continuously 
+mindful of the need to implement our decarbonisation strategy in 
+a just and inclusive manner, promoting sustainable development 
+for all stakeholders. 
+More information can be found in our white paper, https://www.
+prudentialplc.com/en/news-and-insights/insights/just-and-
+inclusive-transition-paper#
+Foundations / continued
+Prudential plc 
+October 2022
+Supporting a just 
+and inclusive transition
+4
+Prudential plc Climate Transition Plan prudentialplc.com
+Targets and progress 
+Our long-term target is to become a net zero asset owner by 2050, in alignment with the Paris Agreement. We publicly committed to this in May 
+2021, when we also joined the United Nations-convened Net Zero Asset Owner Alliance (NZAOA), a network of institutional investors committed 
+to the decarbonisation of their portfolios. 
+Our long-term target is supported by our shorter-term, interim climate targets:
+Short-term target Progress up to end of 2022 2023 priorities
+Deliver a 25 per cent 
+reduction in the carbon 
+emissions intensity of our 
+investment portfolio by 2025 
+against our 2019 baseline  
+On track: by the end of 2022, we had reduced the weighted 
+average carbon intensity (WACI) of our investment portfolio 
+by 43 per cent
+> Explore the next phase of our 
+WACI target, aiming to develop 
+a 2030 WACI reduction target 
+by the end of 2024 as part of 
+our NZAOA commitments.
+> Refine source data inputs, 
+including data from our asset 
+managers and third-party 
+providers.
+Divest from all direct 
+investments in businesses that 
+derive more than 30 per cent 
+of their income from coal, with 
+equities to be fully divested 
+from by the end of 2021 and 
+fixed-income assets fully 
+divested from by the end 
+of 2022
+Substantively completed: 
+> In 2021, we fully achieved our divestment from coal equities 
+> By the end of 2022, we had substantively completed our 
+divestment from coal bonds with one holding remaining as a 
+result of market conditions. We continue to seek opportunities 
+to divest from the remaining holding and intend to do so as 
+soon as practicable
+> Maintain a watching brief on 
+the suitability of our coal policy 
+in alignment with our climate 
+commitments and objective for 
+a just and inclusive transition.
+Engage with the companies 
+responsible for 65 per cent of 
+the absolute emissions in our 
+investment portfolio
+Fully met: This is a continuing annual target, which we have 
+fully met in 2022 for the identified cohort of companies
+> Work with Eastspring on 
+implementing best practice 
+engagement practices within 
+our local markets, as defined by 
+the work we undertook as part 
+of the EMTI project.
+> Continue to define sector-specific 
+engagement and assessment 
+techniques, including the 
+exploration and development 
+of specific tools to assess 
+sector-specific aspects as they 
+related to emerging markets.
+Deliver a 25 per cent reduction 
+in our operational emissions 
+intensity from a 2016 baseline, 
+abating the remaining 
+emissions via carbon offsetting 
+initiatives, to become carbon 
+neutral across our Scope 1 and 
+2 (market-based) emissions by 
+the end of 2030
+On track: We achieved an intensity ratio of 1.21 tCO2e/FTE for 
+2022, keeping us ahead of the emissions reduction trajectory 
+required to meet our 2030 target of 1.65 tCO2e/FTE
+> Undertake an additional 
+feasibility analysis of setting 
+net zero operational targets, 
+including further review of 
+renewable energy certificates 
+within our markets. 
+In 2021, we fully divested from equities meeting the policy criteria, which we continue to monitor so as to maintain this divestment position. 
+By the end of 2022, we had substantively completed our commitment to divest from coal bonds meeting the policy criteria: we had divested from 
+97 per cent of the coal bonds held at 31 March 2021, the date used for our May 2021 commitment. Due to illiquidity in the market, we were unable 
+to fully divest from one remaining holding of $12.1 million, which illustrates the degree of challenge in implementing a divestment strategy in our 
+markets. We continue to seek opportunities to divest from the remaining holding and intend to do so as soon as practicable. We also continue to 
+engage with the issuer on other options for us to divest from this holding as we believe we have set our coal policy in a just and inclusive manner. 
+Since 31 December 2022, we have further divested from this coal bond.
+Objectives and priorities
+ 5
+Prudential plc Climate Transition Plan  
+We continue to keep all our climate targets under regular review to ensure they reflect current scientific data, remain appropriate for our markets 
+and are aligned to our strategy around the pursuit of a just and inclusive transition.
+Further detail on progress against our targets, including specific case examples can be found within the Climate and Responsible Investment 
+sections of our 2022 ESG Report. 
+In support of our climate ambition, and in alignment with our overall ESG and business strategy, we also pursue a broader range of climate-related 
+objectives, which are built into the actions that we take. Some specific examples of outcomes related to these objectives across 2022 include:  
+Objective  Outcomes 2023 priorities
+Support a just and inclusive 
+transition
+> Published our ‘Supporting a Just and Inclusive Transition’ white 
+paper, demonstrating our position and support for a transition 
+towards a low carbon economy that leaves no country behind. 
+> Hosted a policy roundtable led by our Group CEO in October 
+2022 to share findings of our new white paper with academics, 
+policymakers, NGOs and think tanks to discuss how the voices 
+and realities of emerging markets can be profiled, particularly 
+in the global policy context.
+> Shared our view on the just and inclusive transition and the 
+challenges for the energy transition in emerging markets at 
+different speaking opportunities, including PRI in Person and 
+the Singapore FinTech Festival.  
+> Maintain engagement with 
+external stakeholders to 
+mainstream the challenges and 
+perspectives of emerging markets.
+> Support existing partnerships 
+such as the NZAOA, Insurance 
+Development Forum (IDF) and 
+the United Nations High Level 
+Champions team on themes of 
+importance as we look ahead 
+to COP28.
+> Further explore our approach for 
+using an internal carbon price to 
+support a just and inclusive 
+transition.
+Promote accessible and 
+inclusive products and services 
+> Climate change will not only have material impact on physical 
+assets, for example due to flooding, but will also impact 
+people’s health and wellbeing, particularly within underserved 
+and vulnerable populations. During 2022 we continued to 
+develop and re-design our products and services, for example 
+affordable products that address infectious diseases which are 
+more prevalent due to climate change. More information can 
+be found in the Climate section of the 2022 ESG report. 
+> Continue to expand the coverage 
+of offerings within our markets, 
+working collaboratively across the 
+business and with our stakeholders 
+to meet the needs of our 
+customers. 
+Explore climate financing 
+mechanisms for emerging 
+markets
+> In December 2022 we were announced as the insurance 
+partner on the private sector working group for Vietnam’s 
+Just Energy Transition Partnership (JETP).  
+> Initiated and led a sub-track within the Net Zero Asset Owner 
+Alliance (NZAOA) on ‘Financing the Transition in Emerging 
+Markets’, which includes the Emerging Markets Transition 
+Investment (EMTI) project. 
+> Actively participate in the Just 
+Energy Transition Partnership in 
+Vietnam.
+> Co-lead the financing transition 
+track of the Net Zero Asset Owner 
+Alliance which covers an emerging 
+markets and blended finance 
+subtrack. 
+> Create partnerships of like-minded 
+investors and stakeholder groups 
+to identify and lobby governments 
+for suitable climate supportive  
+investment opportunities
+Support research and 
+development related to 
+climate change and health 
+> During 2022, Prudential embarked on a two-year research 
+partnership with the Nanyang Technological University and 
+its Earth Observatory of Singapore (EOS) Climate Impacts 
+Initiative, focusing on 10 key Prudential markets across Asia 
+and Africa. The research focuses on the relationship between 
+air quality and the health impact on individuals. 
+> Additionally, Prudential, via Prudence Foundation, is funding 
+research by the International Federation of the Red Cross’s 
+Climate Centre research into the compound health risks of heat, 
+humidity and air pollution, and what effective early actions can 
+be taken to reduce these risks. The findings from this research 
+are expected to help inform product innovation and 
+development opportunities.
+> Socialise the findings from the 
+Prudential EOS Climate Impacts 
+Initiative with stakeholders 
+across our key markets from April 
+onwards, and considering where 
+this may be relevant for product 
+development.
+> The Prudence Foundation 
+and IFRC project will produce 
+a scoping review of the current 
+state of knowledge and the work 
+will culminate in a pilot study of 
+an early action plan to address 
+heatwaves impacted by air 
+pollution and humidity in an 
+Asian city.  
+Objectives and priorities / continued
+6
+Prudential plc Climate Transition Plan prudentialplc.com
+Our journey towards decarbonisation
+The most material contributor to our carbon emissions is the footprint 
+of our investment book, otherwise known as our Scope 3 category 15, 
+financed emissions (see figure 2 below). As pledged in our net zero 
+commitment, we seek to reduce these financed emissions to net zero 
+by 2050, in line with required emissions reductions targets to reach a 
+1.5 degree reduction in alignment with the Paris Agreement. This is 
+supported by setting regular short-term targets, such as our target1 
+to deliver a 25 per cent reduction in the carbon emissions intensity 
+of our investment portfolio by 2025 against our 2019 baseline.
+In order to meet this ambition, we are focusing on reducing the 
+intensity and, ultimately, the absolute amount of financed emissions 
+in respect of our investments. We use the weighted average carbon 
+intensity (WACI) as a metric that allows us to compare progress in 
+emissions intensity improvements on different portfolios. We use 
+the WACI as a proxy for the transition risk in our investment portfolio: 
+a higher WACI typically indicates that an investment portfolio has 
+to transition more extensively to align with the Paris Agreement.  
+As a data user, we are at the end of the data value chain, using 
+data disclosed by investees to calculate our WACI through 
+reporting frameworks such as the TCFD recommendations and 
+CDP. As discussed in the Financial Stability Board’s 2022 TCFD 
+status report2, which describes the global state of alignment of 
+companies’ reporting with the TCFD recommendations, the 
+TCFD-aligned reporting by region is notably lower across Asia and 
+Africa, ie the regions where we operate. Data availability therefore 
+remains an ongoing challenge. We continue to work with data 
+providers and our asset managers to improve the availability of 
+data. An increase in data coverage may have the impact of either 
+raising or lowering the WACI of our investment portfolio if the profile 
+of the new companies’ data is different to those already included in 
+the current coverage. We expect such limitations to be overcome 
+as more climate disclosures occur in these regions, potentially 
+using established frameworks such as the TCFD or the 
+anticipated standards from the International Sustainability 
+Standards Board (ISSB).
+We anticipate that our WACI reduction progress will be driven 
+by different activities throughout our portfolio decarbonisation 
+journey, taking place across the following phases (figure 3): 
+1  Implementation of our responsible investment policy, including 
+coal divestment and the implementation of WACI budgets to a 
+number of our equity strategies;
+2  Engagement and education with our investee companies as well 
+as with other public and private stakeholders, both bilaterally and 
+through collaborative mechanisms;
+3  Decarbonisation by investee companies executing their 
+decarbonisation strategies; and
+4  Broader changes that occur as part of the whole economy 
+transition, both at a local and international level.
+To date, the WACI of our investment portfolio has declined by 
+43 per cent compared with our 2019 baseline. The decline to date 
+has been driven largely by the implementation of our coal policy, 
+carbon intensity reductions made by our underlying investee 
+companies, and the implementation of WACI budgets to a 
+number of our equity strategies. 
+However, we believe more lasting real-world impact can be achieved 
+through financing the transition and engagement, rather than simply 
+changing the portfolio to optimise our investment portfolio carbon 
+footprint. Therefore, we do not anticipate that our portfolio 
+decarbonisation will continue at the same pace going forward. 
+In collaboration with our asset management and asset owner 
+businesses, we continue to develop further climate-related 
+metrics. During 2022, we reviewed peers’ practice and industry 
+recommendations regarding forward-looking metrics, such as 
+Climate Value at Risk (C-VAR) and implied temperature risk (ITR). 
+We have identified that these metrics are appropriate for internal 
+use, although they have limitations surrounding data availability – 
+particularly in the markets in which we operate and invest in – and 
+the level of assumptions they require. We will continue to develop 
+our internal understanding of these new metrics, while considering 
+disclosing them externally, once these shortcomings can be 
+appropriately overcome or mitigated.
+1  See the methodologies section for assumptions underlying these targets.
+2 https://assets.bbhub.io/company/sites/60/2022/10/2022-TCFD-Status-Report.pdf
+3  Includes Scope 3 categories: 3 (fuel- and energy-related activities, 5 (waste generated in 
+operations) and 6 (business travel).
+Objectives and priorities / continued
+Figure 2: Prudential’s carbon emission profile as at 
+31 December 2022
+0.63%
+0.23%
+99.14%
+  Scope 1 and 2 
+  Scope 3 excluding category 153 
+  Scope 3 category 15 
+ 7
+Prudential plc Climate Transition Plan  
+Objectives and priorities / continued
+*Net Zero Asset Owner Alliance (NZAOA), of which we are a member
+Targets key
+  Investments      Operations
+Figure 3: Phased approach to achieving net zero
+Phase 1: 
+Implementing 
+our Responsible 
+Investment Policy
+Phase 2:
+Engagement 
+and education
+Phase 3: 
+Decarbonisation by underlying 
+investee companies
+Phase 4: 
+Whole economy transition
+Focusng on executing 
+our policy including 
+coal divestment, WACI 
+budgets within equity 
+strategies and 
+corporate engagement
+Strengthening 
+our engagement 
+with investee 
+companies and 
+stakeholders, both 
+bilaterally and 
+through collaborate 
+mechanisms
+Continuing to encourage and 
+influence decarbonisation by our 
+underlying investee companies in 
+line with the Paris Agreement
+Broader changes that occur as part of 
+the whole economy transition, both at 
+a local and international level
+2050
+net zero 
+2040203020252019
+Baseline for
+investments
+2016
+Baseline for 
+operations
+100%
+100%
+25%
+reduction
+Carbon 
+neutral
+Scope 1 & 2
+40% 
+– 60%
+NZAOA* 
+target range 
+required
+Net  
+Zero
+8
+Prudential plc Climate Transition Plan prudentialplc.com
+Objectives and priorities / continued
+Looking ahead
+There is significant effort required to become a net zero asset owner 
+by 2050. The journey towards a net zero economy requires large-scale 
+transformation, including for those companies held within our 
+investment portfolio. 
+We are aware that climate data and decarbonisation 
+information and methodologies are continuously evolving areas, 
+and acknowledge there are unknowns which may arise in the future. 
+We are also aware that we do not yet have all of the answers, and 
+have more work to do to continuously evolve our transition plan 
+development and execution over time. As such, we are committed 
+to maintaining our focus on areas of development both internally 
+and externally, updating our approach as required, and reporting 
+on progress. Specific areas of focus over the next few years are set 
+out in Figure 4, and include: 
+Data coverage and quality
+> Improve data coverage and quality: We continually seek to 
+increase the coverage and quality of our Scope 3 investment 
+book data. As a data user, we are at the end of the data value 
+chain, using data disclosed by investees through reporting 
+frameworks, such as the TCFD recommendations and CDP. 
+We continue to work with data providers and our asset 
+managers to improve both the availability and quality of data.
+> Scope 3, categories 1-14: Beyond our financed emissions, further 
+develop the coverage of our Scope 3 value chain emissions; in 
+particular, assessing our supply chain emissions and initiatives to 
+reduce these.
+> Forward-looking metrics: Continue to consider forward-looking 
+metrics both for internal use and external disclosure.
+Decarbonisation targets1 and pathways
+> Update our WACI target: Set a 2030 decarbonisation target by 
+the end of 2024, in line with the NZAOA Protocol requirements, as 
+well as continuing to map out our longer-term decarbonisation 
+trajectory in line with our 2050 net zero commitment. 
+> Expand asset classes and sectoral pathways: Expand our 
+monitoring to further asset classes (such as sovereign bonds) as 
+methodologies develop, and continue to develop sector-specific 
+decarbonisation pathways.
+> Explore operational targets: Further investigate the feasibility 
+of setting net zero operational targets, taking into account current 
+challenges and the constraints of renewable energy availability 
+within our markets.
+> Consider emerging topics: Develop a view on how 
+emerging topics, such as nature and biodiversity, may impact 
+our decarbonisation strategy and our overall approach to 
+climate change.
+Climate-related opportunities
+> Climate financing within emerging markets: Explore innovative 
+opportunities to finance the transition in a just and inclusive 
+manner. In particular, we are focused on opportunities to create 
+real-world impact within emerging markets, such as blended 
+finance and financing mechanisms to accelerate the move away 
+from fossil fuels (eg coal retirement). 
+> Internal carbon price: Investigate how we use carbon pricing 
+consistently internally. After developing an initial internal view on 
+carbon pricing, we will seek to further develop and agree on the 
+methodology for setting an internal carbon price, by socialising 
+and educating our internal stakeholders on what an internal 
+carbon price is and how Prudential could use it in a consistent 
+manner for operations and investments.
+> Additional internal and external opportunities: In line with  
+our broader climate and TCFD strategy, continue to explore and 
+execute upon relevant climate-related opportunities, such as those 
+relating to our customers and digital services, climate-related 
+health products and services, and employee initiatives.
+Engagement
+> Further evolve our engagement approach: Further develop  
+an engagement approach covering corporate engagement and 
+asset manager engagement, to focus on appropriate sector-
+specific and emerging market engagement approaches to 
+maximise our real-world impact. This includes working closely  
+with our asset managers to adopt our approach towards 
+responsible investment within emerging markets.
+> Localised responsible investment approaches: Continue  
+to develop localised, market-specific responsible investment 
+approaches to help to address specific local challenges and 
+opportunities. These approaches will supplement the Group 
+Responsible Investment policy.
+Policy and advocacy
+> Collaboration opportunities: Further explore opportunities to 
+collaborate and partner with both private and public entities on 
+adaptation and transition financing, similar to our involvement  
+in the Vietnam JETP Working Group. 
+> Policy engagement: Continue to engage with other financial 
+market participants, local regulators and standard setters to 
+further the development of localised frameworks that support 
+responsible investment in emerging markets. 
+> Advocacy opportunities: Advocate for climate transition within 
+emerging markets and other opportunities at COP and similar 
+climate events during 2023 and beyond. 
+1  See the methodologies section for assumptions underlying these targets.
+ 9
+Prudential plc Climate Transition Plan  
+Figure 4: Looking ahead in evolving our transition planning approach
+Remainder 2023 2024 2025+
+Data quality and 
+coverage
+Increase coverage and quality of investment book emissions data 
+Continue developing forward-looking 
+metrics for internal and external use
+Implement forward-looking 
+metrics into external reporting 
+Expand Scope 3 upstream coverage
+Decarbonisation targets 
+and pathways
+Evaluate updated WACI target options Revise WACI 
+target
+Implement additional actions to 
+achieve revised WACI target
+Expand asset classes and sectoral pathways
+Consider further operational emissions 
+targets
+Explore emerging topics including nature and 
+biodiversity 
+Climate-related 
+opportunities
+Identify and support development of climate financing within emerging markets
+Further investigate usages of internal 
+carbon price
+Implement agreed upon 
+carbon pricing usages
+Continue exploring and executing internal and external opportunities, including those related to our 
+products and services, customers and our employees 
+Engagement Further develop updated engagement 
+approach 
+Continue developing localised engagement approaches 
+Policy and advocacy Explore further collaboration opportunities on transition and adaptation financing 
+Continued policy engagement
+Advocacy opportunities focused on emerging markets at COP and other climate-related events
+We will continually monitor our Climate Transition Plan progress, specifically the delivery of our climate-related targets, and provide 
+periodic updates on progress. Further detail of progress against our targets and implementation strategies in 2022 can be found within  
+our 2022 ESG Report, and future releases of our ESG reporting suite. 
+Objectives and priorities / continued
+10
+Prudential plc Climate Transition Plan prudentialplc.com
+  Target ambition and the nuances of emerging markets   
+Emerging markets face significant challenges in decarbonisation 
+due to a higher dependence on fossil fuels combined with increased 
+economic growth, insufficient resources to finance the transition as 
+well as other unfinanced basic development needs. Aligned with our 
+approach to a just and inclusive transition, it is our preference that 
+we engage with companies to work with them to overcome such 
+challenges. Part of this approach is reflecting the nuances of country 
+decarbonisation pathways, which may take place at different paces 
+and via different mechanisms than the global decarbonisation 
+pathways typically utilised by international standards. 
+During 2022, as part of our ongoing review of our climate targets, we 
+undertook an internal review of the Science Based Targets initiative 
+(SBTi) and engaged with the SBTi to understand their view of the 
+methodology’s application in emerging markets. The SBTi uses 
+global decarbonisation targets and pathways for their verification 
+which do not distinguish between the differing needs for emerging 
+markets and developed markets. Aligned with our approach to a just 
+and inclusive transition, we believe it is critical that we engage 
+with countries and companies to work with them to overcome 
+their transition challenges. A part of this approach is reflecting the 
+nuances of the challenges faced by specific countries, for example 
+in balancing economic growth and decarbonisation. This leads to 
+differences in pace of decarbonisation as accepted in the Paris 
+agreement through the ‘common but differentiated responsibilities’ 
+principle, which we try to integrate in our Responsible Investment 
+approach and articulated in our Just and Inclusive Transition paper. 
+We continue to engage with the SBTi and monitor its publications to 
+explore how the methodology can be appropriately applied in our 
+markets, in a manner that is consistent with the needs of emerging 
+markets and our broader philosophy.
+We will maintain a watching brief on the suitability and ambition 
+of our climate targets, while both continuing to hold ourselves to 
+account as a large asset owner and maintaining our approach to 
+a just and inclusive transition.
+ 11
+Prudential plc Climate Transition Plan  
+Implementation and 
+engagement strategy
+To deliver our net zero commitment we will focus on the areas 
+where we can have the biggest impact, using our influence as 
+an asset owner and asset manager.  
+We aim to do this while prioritising a just and inclusive transition in 
+line with our ESG strategy and overall business model. We believe 
+that it is critical to respond to the challenge of transitioning towards 
+a low carbon economy in a way that reflects both geographical and 
+sectoral challenges, as well as considering the social implications of 
+our plans. Prudential is focused on real-world impact that is 
+meaningful for our stakeholders.  
+Given the cross-functional strategy required to support the climate 
+transition, we are coordinating our efforts across four key areas: 
+> Our responsible investment activities; 
+> Our products and services;
+> Industry engagement and advocacy; and
+> Within our own operations.
+As an asset owner, the most significant lever we can utilise for 
+portfolio decarbonisation is our  responsible investment activity. 
+By focusing our energy and resources in this area we can have the 
+most material and real-world impact, and our engagement and 
+implementation strategy reflects this. 
+While full progress on our overall ESG, climate and Responsible 
+Investment strategies can be found in our 2022 ESG Report, the 
+section below highlights these strategic areas in which we 
+differentiate our approach towards decarbonisation.
+Responsible Investment
+Financial institutions have a clear role to play in the transition towards 
+a net zero economy. Encouraging and assisting portfolio companies 
+to adopt a low carbon pathway and operating model via our 
+influence as an asset owner is mutually beneficial.  
+We are aligned with the NZAOA view that doing so is the best climate 
+risk mitigation strategy that investors – individually or collectively 
+– can put in place. 
+Prudential is uniquely positioned as both a global and a local asset 
+owner, which affects our approach towards decarbonisation and 
+engagement, as well as how we work with our asset managers. 
+Our position as a local asset owner within many emerging markets 
+in Asia and Africa means we invest the majority of our assets within 
+the countries where we operate. We believe that this development 
+of capital markets is a positive societal contribution. As we seek to 
+hedge local insurance liabilities with local assets, we are likely to be 
+a significant buyer of local market securities, often government or 
+state-controlled entities. By assisting governments to develop 
+sustainable and efficient securities markets, we can help to reduce 
+the cost of investment funding across society. This should create 
+more opportunities for economic growth, levels of employment 
+and employment incomes. Over time, we see similar opportunities 
+to apply these same basic principles around green finance, and 
+potentially ‘crowd in’ further investment flows, helping to create 
+a virtuous circle to support a just and inclusive transition.  
+While our role as local asset owner has these benefits from a capital 
+market growth perspective, it also means we must take very specific 
+local circumstances into account as we support the transition from 
+today’s starting point. From a financial perspective, local markets 
+remain smaller and less diversified than the global financial market, 
+which means we have fewer opportunities to change our portfolio. 
+From a climate change perspective, it is important to realise that 
+companies operating within emerging markets are often more 
+carbon intensive, and have a different starting point for 
+decarbonisation. This means we must accept a higher initial 
+baseline for decarbonisation, and explore and implement a wider 
+variety of strategies to achieve the ultimate goal of net zero.
+We employ six different implementation strategies  
+(see figure 5) to support our ESG and decarbonisation targets for  
+our investment portfolio, which are described comprehensively in  
+our 2022 ESG Report. The section below sets out more detail on our 
+policy implementation and engagement strategy, which we believe 
+will be critical to achieving our decarbonisation targets.  
+Screening the 
+portfolio 
+Maintaining an 
+awareness of the 
+potential risks to the 
+Group’s reputation 
+arising from 
+investment activities 
+Exclusion 
+Excluding a 
+company from  
+the investment  
+portfolio if its 
+products or conduct 
+is considered to be 
+unacceptable 
+ESG integration 
+Incorporation of 
+ESG information 
+into our parts of the 
+investment process: 
+> Asset allocation
+> Manager selection
+> Portfolio 
+management
+> Risk management
+Active 
+ownership 
+Maintaining a 
+dialogue with the 
+companies in which 
+we invest about 
+ESG risks and 
+opportunities 
+Voting policy that 
+supports long -term 
+performance by 
+taking account of 
+relevant ESG issues 
+Capital 
+allocation 
+Shifting capital 
+from harmful 
+activities towards 
+environmental or 
+social needs 
+> Portfolio 
+decarbonisation
+> ESG  investments
+Market influence 
+Influencing the 
+market with regard 
+to responsible 
+investment by 
+contributing to 
+sustainable 
+initiatives 
+Figure 5: Our six implementation strategies
+12
+Prudential plc Climate Transition Plan prudentialplc.com
+Corporate engagement
+We believe that the biggest area of influence we can have is 
+via effective engagement with our portfolio companies, to 
+encourage broad scale decarbonisation strategy development 
+and implementation. We strongly believe in engagement versus 
+divestment, where this is feasible. Our concern is that divestment 
+will only further increase the already large financing gap that exists 
+within emerging markets. In line with our support for the just and 
+inclusive transition, we aim to influence decarbonisation without 
+compromising social and economic development, on which 
+divestment can have such unintended consequences.  
+Eastspring has developed a process to meet our target of engaging 
+with the companies responsible for 65 per cent of the absolute 
+carbon footprint of our investment portfolio. These engagement 
+requests are aligned with the recommendations of the NZAOA, 
+including requests: 
+> To immediately put into place policies and transition plans that 
+commit the company to net-zero GHG emissions across their value 
+chains by no later than 2050 and to be supportive of the transition 
+to a net-zero GHG emissions world by 2050;
+> To accelerate progress towards full ‘green’ on the CA100+ Net Zero 
+Company Benchmark indicators, or, if not a CA100+ target 
+company, to still meet all its expectations;
+> To set science-based near-term GHG reduction targets that are in 
+line with reaching net-zero emissions by 2050, and consistent with 
+maximum 1.5°C of warming;
+> To develop and implement plans for their businesses to remain 
+viable in a carbon neutral economy, with meaningful consideration 
+of associated social impacts;
+> To support the adoption and implementation of governmental 
+policies that facilitate the transition to net-zero emissions;
+> To support, prepare for and not disrupt pricing mechanisms on 
+GHG emissions;
+> To take action and make progress on efforts to lower GHG emission 
+intensity of their operations and products;
+> To disclose their efforts and progress on decarbonisation in line 
+with the four core elements of TCFD recommendations; and
+> To enter into direct time-bound engagement dialogue with 
+Alliance members and/or other investor initiatives to discuss 
+efforts to decarbonise their business by 2050.
+We utilise the NZAOA engagement requests framework and adapt 
+our requests to the specific circumstances of our investee companies 
+in a way that will best drive engagement and ultimately 
+decarbonisation. 
+An update on our progress on company engagement in 2022 can be 
+found in the Responsible Investment section of our 2022 ESG report. 
+Implementing a local engagement approach
+While climate change is a global problem, the majority of carbon 
+intensive industries are very local – and, therefore, require local 
+solutions. As a local asset owner, we have a combination of local 
+businesses that can invest both globally and locally. We believe 
+we are well positioned to have a positive local influence through 
+this avenue.  
+For this to be successful, we believe in implementing a local 
+engagement approach within emerging markets. This means actively 
+engaging with companies in a constructive way that acknowledges 
+the specific circumstances and complexity of challenges. Where 
+feasible, we aim to include local portfolio managers in corporate 
+engagements in that country; recognising the benefits of a shared 
+language, culture and experience. 
+As part of the Emerging Markets Transition Investment (EMTI) 
+project that we started within the NZAOA, we helped develop the 
+paper ‘Call for Action on Responsible Corporate Engagement in 
+Emerging Markets’. This sets out the following guiding principles 
+for responsible and effective engagement in emerging markets: 
+1  Establish a local approach with an appreciation for the 
+complexity and variation of challenges; 
+2  Integrate the ‘common but differentiated responsibilities’ 
+principle of the Paris Agreement into the engagement approach, 
+by adjusting asks to locally specific social factors and the aspects 
+around just transition.’
+3  Be prepared for ongoing engagement, with sustained dialogue to 
+build trust;  
+4  Commit to knowledge sharing between global and local investors; 
+and   
+5 B e flexible with the engagement ask – consider the practicalities 
+around ambitious target setting. 
+We are aiming to further develop our strategy on engagement which 
+outlines our specific approach, and also includes policy engagement. 
+We are also seeking to develop market-specific responsible 
+investment approaches which will supplement the Group Responsible 
+Investment policy. These approaches will be more focused on the 
+specific challenges and opportunities in the local market, and aim to 
+play to our specific strengths in each market. 
+Implementation and engagement strategy / continued
+ 13
+Prudential plc Climate Transition Plan  
+Implementation and engagement strategy / continued
+Sectoral decarbonisation
+During 2022, we established an internal cross-functional sectoral 
+decarbonisation working group with the aim of formulating sectoral 
+approaches to inform investment decisions and engagement on 
+climate change, particularly within emerging markets. 
+The working group explored a range of sectoral decarbonisation 
+pathways and toolkits, and chose the Transition Pathway Initiative 
+(TPI) which allows the assessment of companies based on an 
+IEA-aligned 1.5°C scenario, a below 2°C scenario, and a national 
+pledges scenario. As data coverage across emerging markets can be 
+a challenge for Prudential, we commenced the development of an 
+internal tool to complement the TPI tool. When it is ready, the tool will 
+be made available across the organisation, including to investment 
+teams within the local businesses. 
+Additionally, the working group assessed sectoral engagement 
+questions from leading industry sources. Based on this analysis, they 
+focused on developing a list of sector-specific engagement questions 
+for the utilities sector, designed to elicit a higher quality engagement 
+response, and ultimately improve the decarbonisation progress. 
+Moving forward, the working group will aim to formulate further 
+sector-specific engagement approaches for the five most carbon 
+intensive sectors in the investment portfolio.  
+Industry engagement and advocacy
+With operations exclusively in Asia and Africa, we are well placed to 
+bring an emerging markets perspective to stakeholder discussions, to 
+help ensure the need for a just and inclusive transition in developing 
+markets is considered across the industry, and in a policy and 
+regulatory context.  
+In 2022 we built on our existing outreach and focus, bringing an 
+emerging market perspective to our wide range of policy discussions 
+on the role of the finance community in a transition to a net-zero 
+world. 
+Policy and regulatory engagement
+We regularly engage with regulators and monitor evolving climate 
+risk-related initiatives that could develop into new regulation in the 
+markets in which we operate. We consider the transition to a low 
+carbon economy to be essential and we engage constructively with 
+trade associations, policymakers and NGOs to shape the evolution of 
+regulation and standards relating to climate risk and transition. From 
+a financing perspective, we are working bilaterally and multi-laterally 
+to engage our stakeholders to support these journeys. This includes 
+support on transitional finance for markets that are at a different 
+stage of their journey from more developed markets.  
+We believe that work on blended finance will be of increasing interest 
+to policymakers in Asia and Africa in 2023 and beyond, and we will 
+seek to build out our work in this area. In December 2022 we were 
+announced as the insurance partner on the private sector working 
+group for Vietnam’s Just Energy Transition Partnership (JETP), and we 
+are proud to be supporting the country with their ambitious net zero 
+targets. We look forward to supporting the deepening of Vietnam’s 
+capital market, including the mobilisation of domestic finance for the 
+country’s inclusive transition.
+For a more comprehensive update on specific activities and initiatives 
+relating to our policy and regulatory engagement during the year, 
+please see our 2022 ESG Report. 
+Net Zero Asset Owners Alliance
+In 2021, Prudential joined the NZAOA – a network of institutional 
+investors committed to the decarbonisation of their asset portfolios 
+– to facilitate greater collaboration with global peers. As an active 
+member, and one of the only members with an emerging market 
+footprint, we support their wider policy and outreach work. 
+In 2022, Prudential’s continued focus has helped to ensure that 
+emerging markets feature more prominently in NZAOA discussions, 
+including a focus on the energy transition and climate solutions for 
+emerging markets. In 2022, we supported specific NZAOA sub-tracks, 
+including the Financing the Transition in Emerging Markets subtrack, 
+which we initiated and lead. Within this subtrack, we started the 
+Emerging Markets Transition Investment (EMTI) project, with the 
+objective of accelerating investment towards the net-zero transition 
+of emerging markets. Full details of our involvement and progress in 
+2022 can be found within our 2022 ESG Report. 
+Looking ahead to 2023, we will be taking more of a leadership role 
+in NZAOA’s emerging market thematic workstreams. In 2023, 
+Prudential will be co-lead of the Financing Transition track, and 
+will take a more active role in this important area.  
+   Capital allocation and the bias against 
+investing in emerging markets    
+Prudential’s ‘Supporting a Just and  Inclusive Transition’ 
+paper highlights that current ESG investment frameworks can 
+unintentionally create biases against investing in emerging 
+markets. This is in part because companies and countries are 
+often judged on their alignment to one global decarbonisation 
+pathway, which typically differentiates between sectors, but 
+not between countries or the state of economic development. 
+Additionally, companies within emerging markets are often 
+more carbon intensive, which may increase an investor’s carbon 
+footprint, even if that investment is used positively to finance 
+the energy transition. In the implementation of some 
+decarbonisation strategies this becomes apparent: the allocation 
+towards emerging markets is lower compared to the broader 
+benchmark. 
+As we also try to decarbonise our portfolio through capital 
+allocation, we are actively monitoring to ensure we do not create 
+these biases in our portfolio. The set-up of our asset allocation 
+process, which includes a regional allocation, reduces this risk. 
+14
+Prudential plc Climate Transition Plan prudentialplc.com
+Products and services 
+As part of our climate and overall business strategy, we are working 
+towards exploring more climate-related opportunities, particularly 
+with regards to new and existing products and services to support 
+efforts to transition towards a net zero pathway. Climate change is 
+creating opportunities for new savings and insurance products:
+> New savings products could incorporate investment in green 
+bonds, transition financing and adaptation financing; 
+> New health and protection products need to reflect the impact 
+of climate change on human health via changes in the frequency, 
+severity and emergence of certain diseases, such as the dengue 
+cover we currently provide; and 
+> Recognising that financial security at all levels is a climate 
+adaptation measure, we are actively developing inclusive insurance 
+products, which include  more products for underserved sections of 
+the market.
+During 2022, we established a new framework to classify ESG 
+investments (figure 6) and intend to increasingly allocate Prudential 
+assets to ESG- and UN Sustainable Development Goals (SDG)-
+promoted funds over time where we have mandate (ie, in our 
+investment portfolio), subject to appropriate investment governance. 
+This builds upon our ESG screening process, for which Prudential has 
+integrated a minimum threshold on ESG into its investment 
+management agreements for mandates. 
+From a climate change perspective, considerations for our products 
+and services include: 
+> Market and geographical relevance: Considering the 
+applicability of the opportunity within an emerging market 
+context. Is this something that can be scaled across multiple 
+regions, or does it require a market and/or geographical-specific 
+approach?
+> Just and inclusive transition: Ensuring that the principles of a just 
+and inclusive transition are considered, with thought given to the 
+social implications and any unintended consequences.  
+> Real-world impact: In exploring opportunities and evaluating 
+action, we consider the real-world impact. We seek to contribute 
+to tangible progress on decarbonisation, in a way that makes 
+sense to the communities in which we operate, our customers, 
+and our investors. 
+Eastspring invests in labelled bonds issued by companies, when 
+suitable investment opportunities are available. Labelled bonds 
+include green bonds, and are considered by Eastspring only where the 
+companies produce documentation that funding provided solely funds 
+sustainable alternatives. These exist where investee companies issue a 
+debt instrument that finances decarbonisation targets, and is certified 
+by a globally recognised standard. As of December 2022, Eastspring’s 
+portfolio contained $1.5 billion in green bonds, a 25 per cent increase 
+from FY21.  
+In the future, Prudential may consider setting targets around the 
+proportion of its assets to be classified as ESG- or SDG-promoted. 
+These targets would be set with full consideration of investment 
+objectives, risk tolerance and overall strategy. Further information 
+can be found in our 2022 ESG Report. 
+Objective:  
+Risk/return and minimum 
+threshold on ESG
+Prudential has continued 
+to integrate a minimum 
+threshold on ESG into its 
+investment management 
+agreements for mandates. 
+Eastspring classifies a range of strategies, developed in 2022, as 
+ESG promoted. These are funds managed against one or more 
+ESG KPIs, such as a lower carbon footprint, a lower exposure to 
+fossil fuel reserves, and gender diversity indicators.
+In 2022, Prudential introduced WACI budgets into certain 
+current funds or mandates, which allows these funds to be 
+considered as ESG promoted. A phased approach for WACI 
+budgets into current funds and mandates was approved by the 
+Group ESG Committee during mid-2022, subject to appropriate 
+investment governance. 
+Eastspring is currently 
+developing funds with 
+the objective of targeting 
+alignment with the UN 
+SDGs. These funds will 
+look at investing in listed 
+companies that have 
+evidence of addressing one 
+or more UN SDGs through 
+their products and services. 
+Objective:  
+Specific ESG objective  
+alongside risk/return
+Objective:  
+SDG alignment  
+alongside risk/return
+ESG 
+screened
+ESG 
+promoted
+SDG 
+promoted
+Figure 6: Framework to classify ESG investments 
+Implementation and engagement strategy / continued
+  Policies and exclusions     
+Our coal policy is to divest from all direct investments in 
+businesses that derive more than 30 per cent of their income 
+from coal (whether mining or energy production). Our coal policy 
+was set to balance our stewardship duties in emerging markets, 
+while also allowing companies in those markets to phase out coal 
+in a just and inclusive manner, as discussed in our ‘Supporting a 
+Just and Inclusive Transition’ white paper. We maintain a 
+watching brief on the suitability of our existing policies and 
+exclusions, as well as other potential areas related to the net zero 
+transition, such as nature and biodiversity.
+ 15
+Prudential plc Climate Transition Plan  
+Implementation and engagement strategy / continued
+Our own operations 
+We seek to actively reduce our direct impact on the environment 
+in line with our purpose of improving the lives of our customers and 
+their communities. To understand our impact, we measure our 
+environmental performance and take action to improve our 
+performance.  
+We have set a target to become carbon neutral across our Scope 1 
+and 2 (market-based) emissions by the end of 2030. We aim to 
+deliver a 25 per cent reduction per full time employee (FTE) in our 
+operational emissions from a 2016 baseline, and abate the 
+remaining emissions via carbon offsetting initiatives. As of 2022, 
+we are ahead of the emissions reduction trajectory required to 
+meet our 2030 target. 
+We are continuing to explore the feasibility of setting operational 
+net-zero targets, which is currently difficult due to the lack of 
+renewable energy available within the markets that we operate. 
+However, it may be possible in the future, through  mechanisms 
+such as renewable energy certificates.   
+During 2021, we carried out a review of our Scope 3 emissions  in 
+accordance with the Greenhouse Gas Protocol and Partnership for 
+Carbon Accounting Financials (PCAF). It considered all 15 Scope 3 
+categories and provided us a better understanding of which areas of 
+our value chain contribute most significantly to our overall emissions 
+footprint. For 2022, we focused on improving the data quality for the 
+categories we already report. Moving forward, we seek to keep this 
+under review and explore expansions of further Scope 3 categories, 
+such as our extended supply chain. 
+  Carbon offsets      
+Although we have an operational carbon neutral target, it is 
+our strategy to decarbonise where possible before purchasing 
+offsets. Importantly, offsets do not form a part of our core 
+decarbonisation strategy. As the fall in our 2022 emissions 
+continues to be ahead of the reduction trajectory required to 
+meet our 2030 target for Scope 1 and 2 emissions, we have 
+not purchased any carbon offsets for Scope 1 and 2 emissions 
+in 2022. We continue to keep our policy around the use of 
+offsets under review and revisit the purchase of offsets on 
+an annual basis. 
+16
+Prudential plc Climate Transition Plan prudentialplc.com
+Prudential’s relevant climate-related metrics can be found in the table below. For our progress against our short- and longer-term targets, 
+please see the Objectives and priorities section of this report. 
+Movement in metrics  2022 2021
+Target-related metrics
+WACI 219 * 296 
+Holdings in companies with more than 30 per cent of 
+revenue from coal
+Substantially divested  
+from bonds
+Fully divested from equities 
+Engagement with the companies responsible for 65 per cent 
+of the absolute emissions in our investment portfolio
+Reviewed 100% 
+Engaged 100%
+Reviewed 44%  
+Engaged 31%
+Operational emissions intensity (tCO2e/FTE) 1.21 1.47
+Our own operations
+Scope 1 (tCO2e) 1,645* 1,481
+Scope 2 – market-based (tCO2e) 16,938* 19,986
+Scope 2 – location based (tCO2e) 19,880* 21,547
+Scope 3 (upstream activities)† (tCO2e) 9,487* 8,793
+Our financed emissions
+Scope 3: Downstream activities (financed emissions)  (tCO2e) 3,100,000* 4,700,000 
+Further relevant metrics
+Coverage for WACI and financed emissions 67% 69%
+*  Within the scope of EY assurance – for further information, see the ‘Scope 3 emissions review’ section of our 2022 ESG report and the Basis of Reporting which notes those Scope 3 categories  
+that were within the scope of EY assurance 
+†  Includes Scope 3 categories: 3 (fuel- and energy-related activities, 5 (waste generated in operations) and 6 (business travel). 
+For more information on our climate and other ESG metrics, including progress and case studies, please see our 2022 ESG Report. 
+Metrics 
+ 17
+Prudential plc Climate Transition Plan  
+Board and management oversight 
+ESG governance overview
+The Board considers ESG to be integrated and aligned with our 
+core business strategy of protecting people’s wealth, helping them 
+grow their assets, and empowering them to save for their goals. It 
+recognises the major role that Prudential can continue to play across 
+Asia and Africa, as well as in the long-term success, resilience and 
+health of the communities in which we operate. As such, ESG matters, 
+including climate change, are overseen by the Board, which is 
+responsible for determining overall strategy and prioritisation of 
+key focus areas, and monitoring risk. More information on the 
+composition and competencies of our Board can be found in the 
+Governance section of our 2022 Annual Report.
+The Board Responsibility and Sustainability Working Group (RSWG), 
+established in January 2021, continued during 2022. In July 2022, 
+the responsibilities of the RSWG were re-positioned to focus on 
+customer, culture and digital, in addition to people and community 
+matters. Oversight responsibilities for environmental and climate-
+related issues, and the ongoing implementation of the Group’s 
+external commitments to the decarbonisation of its operations 
+and investment portfolio and other climate-focused external 
+responsible investment commitments were transferred to the Group 
+Risk Committee (GRC). Their terms of reference were amended to 
+ensure a holistic approach to these climate-related topics. The GRC’s 
+additional responsibilities extend to external reporting, via the ESG 
+Report, where it relates to those areas within its remit, including 
+monitoring the progress of the Group’s reporting against the 
+recommendations of the Taskforce on Climate-Related Financial 
+Disclosures (TCFD).  
+Following this transition, an exercise was completed to map 
+the material climate and climate-commitment-related activities 
+which support the GRC’s new responsibilities, and the supporting 
+governance arrangements. The supporting management 
+information and frequency has also been reviewed. 
+In addition to regular course discussion, to further enhance strategic 
+Board-level discussions on climate, a dedicated climate deep-dive 
+session was also held with the Board in September 2022. Following 
+discussions at the Board on our approach to climate change, the 
+progress towards the Group’s externally communicated climate-
+related commitments, climate-related opportunities and the evolving 
+expectations of stakeholders, the Board agreed on the need for clear 
+communication around Prudential’s role in emerging markets. The 
+latter point has been supported by the publication of Prudential’s 
+Supporting a Just and Inclusive Transition white paper, which sets out 
+the Group’s approach to ensuring the transition to a low-carbon 
+economy considers all countries, economies and worker populations 
+by raising awareness on the country-specific challenges for emerging 
+markets in the energy transition.
+Management oversight 
+ESG activity, including the impacts from climate change, is overseen 
+at a management level by the Group ESG Committee, which was 
+chaired by the Group Chief Executive in his role as ESG sponsor. Other 
+members of the Committee are the Group Chief Financial Officer, the 
+Group Chief Risk and Compliance Officer, the Group HR Director, both 
+the Chief Executive and CIO of Eastspring, and the Chief Executive of 
+PACS (Prudential’s Singapore business). During 2022, the Group ESG 
+Committee was strengthened by the inclusion of the recently-
+appointed Group Chief Information Officer and Group Corporate 
+Affairs Director. From 26 February 2023, the Group ESG Committee 
+is chaired by the Group Chief Financial Officer.
+One of the Group ESG Committee’s responsibilities is to oversee the 
+Group’s progress towards fulfilling our commitment to report against 
+the recommendations of the TCFD. In 2022, the Group ESG 
+Committee reported to the Board through the RSWG, as highlighted 
+in figure 7.
+Governance
+18
+Prudential plc Climate Transition Plan prudentialplc.com
+Governance / continued
+Figure 7: Governance of ESG, including climate change, during 2022
+INFORMINGREPORTING
+REPORTING
+REPORTING
+REPORTING
+REPORTING
+INFORMING
+INFORMING
+INFORMING
+INFORMING
+INFORMING
+ > Oversees all aspects of ESG, including people, culture and 
+communities, with ultimate responsibility for determining 
+strategy and prioritisation of key focus areas
+ > Provides rigorous challenge to management on progress 
+against goals and targets
+ > Ensures the Group maintains an effective  
+risk management framework, including  
+over climate-related risks and opportunities
+Group Risk Committee
+ > Meeting frequency in 2022: six times 
+ > Oversight responsibilities for environmental and 
+climate-related issues
+ > Oversees implementation of external climate-focused 
+commitments  
+ > Reviews climate-related information presented within 
+the ESG report 
+ > Oversees the Group’s ongoing commitment relating 
+to TCFD
+ > Supports the ESG strategy by ensuring the risks, including 
+climate-related risks and opportunities, people and culture 
+are effectively managed
+Board Responsibility and Sustainability  
+Working Group
+ > Meeting frequency in 2022: five times
+ > Oversees the embedding of the Group’s ESG strategy, 
+focusing on customer, culture, digital, people and 
+community matters
+Group Audit Committee
+ > Meeting frequency in 2022: eight times 
+ > Oversees the Group’s Annual Report and Accounts, 
+of which the ESG report is an integral part 
+ > Oversees whistle-blowing programme
+Remuneration Committee
+ > Meeting frequency in 2022: six times 
+ > Supports the ESG strategy through alignment of 
+the Group’s incentive plan to external ESG targets
+The Chief Executive has responsibility for implementation of the Group’s ESG strategy, including people, culture and climate 
+change risks and opportunities, with support from the executive management team
+ > Operational responsibility for oversight of Responsible 
+Investment activity 
+ > Co-chaired by Group CIO and Eastspring CIO  
+ > Members include local business CIOs
+The local businesses support the implementation of the Group’s ESG strategy,  
+including climate change risks and opportunities
+ > Focused on the holistic assessment of  
+ESG matters, including climate change,  
+that are material to the Group 
+ > Chaired in 2022 by Group CEO, and from  
+February 2023 by Group CFO
+ > Members include asset owner and asset manager CEOs, 
+Group CRCO, and Group CHRO
+ > Share Group processes and practices on communications 
+and reporting of ESG-related matters
+ > Focus on knowledge sharing to support developing and 
+embedding of local business ESG strategies consistent 
+with the Group strategy 
+ > Chaired by Director of Group ESG 
+ > Members include local business ESG leads 
+and other specialists 
+PSAG is focused on execution and  
+is not part of formal governance
+Prudential plc 
+Board
+Local businesses
+The Board 
+delegates specific 
+ESG, including 
+climate change, 
+oversight matters 
+to its committees
+Chief Executive and 
+Management Team
+Group Responsible 
+Investment Advisory 
+Committee (GRIAC)
+Group ESG 
+Committee
+Prudential 
+Sustainability 
+Advisory 
+Group (PSAG)
+REPORTING
+ 19
+Prudential plc Climate Transition Plan  
+Skills and culture 
+The success of our transition towards a low carbon economy is closely 
+linked to the training and education of our employees, right up to 
+Board level, and how we integrate climate-related issues into our 
+culture across the business. 
+In September 2022, recognising the need to maintain focus on 
+climate as a key topic of importance, the Board took part in a climate 
+deep-dive. This was an interactive session that focused on current 
+and emerging climate-related topics, including climate-related 
+issues within emerging markets, evolving regulatory and disclosure 
+requirements, increasing stakeholder expectations, and climate-
+related opportunities. As part of the preparation for this session, 
+materials were made available to the Board from Chapter Zero, 
+of which our Chair and Chair of the GRC are members. 
+During the year, we also conducted a range of formal and informal 
+climate-related education and engagement sessions for employees 
+across our business. We sought to build awareness with employee 
+activities such as Climate Week, where we posted interviews with 
+senior team members working in climate-related roles. A number of 
+our businesses have also rolled out climate and ESG training modules. 
+We are cognisant of the link between climate change and mental 
+health, and believe it is important to empower our employees with 
+access to climate-related training, information and broader mental 
+health support systems.
+We aim to foster a culture where our employees live our values: to 
+be ambitious, curious, empathetic, courageous, and nimble. This is 
+critical for setting our organisation up for success, both for our own 
+journey towards net zero, and the external transformation which the 
+global economy is undergoing. More information on our culture can 
+be found in the Building social capital section of the 2022 ESG Report. 
+Recognising the interconnectivity of climate change to other 
+macro-issues, Prudential seeks to link our response to climate change 
+to other important social topics, which are important to many of our 
+internal and external stakeholders, as described in table 1. 
+Table 1: Considering Prudential’s stakeholders 
+Stakeholder Considerations
+Customers We seek to identify where climate change and the transition to a low carbon economy may impact access to health and 
+financial security, and seek to address these impacts to support our customers.  
+Communities We are conscious of what the potentially catastrophic impacts of climate change may mean for our communities in Asia 
+and Africa. We are also aware that activities typically involved in transitioning towards a low carbon economy, such as 
+divestment from higher carbon-emitting assets, can come with unintended consequences, such as exacerbating existing 
+socio-economic imbalances.
+Employees It is critical that our employees feel adequately supported, personally and professionally, during both the short- 
+and long-term transition process. Empowering employees to become climate literate, promoting training and work 
+opportunities, and fostering a culture of transparency and accountability is crucial during this process.
+Investors As part of our fiduciary duty, we must balance the investment strategies and opportunities that meet the long-term needs 
+of our investors, while considering the potential risks and opportunities that may be relevant for us. Further information on 
+our climate-related risk and opportunity identification and management can be found within our TCFD disclosure in our 
+2022 ESG Report.
+Governments  
+and regulators
+We regularly engage with regulators and monitor climate-related initiatives that could develop into new regulations 
+or requirements in the markets where we operate. We seek to mainstream the voice of emerging markets within our 
+discussions, and support the development of localised frameworks that assist decarbonisation initiatives within individual 
+jurisdictions. We engage actively with the stock exchanges in our markets to adopt consistent and internationally 
+compatible ESG disclosures.
+Governance / continued
+  Incentives and remuneration      
+An important element of aligning our business activities and 
+value proposition with the transition towards net zero is through 
+our remuneration and incentives, both short and long term. 
+Short term: In recent years, the Group’s Executive Directors have 
+had a strategic priority, which is included in their Annual Incentive 
+Plan, to drive the climate and responsible investment focus across 
+the organisation, both as an asset owner and an asset manager, 
+through embedding the external ESG commitments made in 
+May 2021.
+Long term: In late 2021, the Remuneration Committee decided 
+that a measure aligned with our published commitment to 
+reduce the carbon emissions of all shareholder and policyholder 
+assets by 25 per cent by 2025 should be attached to Executive 
+Directors’ 2022 Prudential Long Term Incentive Plan (PLTIP) 
+awards. Carbon reduction targets will also be attached to 
+Executive Directors’ 2023 PLTIP awards.
+20
+Prudential plc Climate Transition Plan prudentialplc.com
+Methodology
+For a full outline of the scope, reporting boundary and assessment 
+methodology for climate-related metrics, in particular carbon 
+emissions and WACI, see Prudential’s 2022 Basis of Reporting 
+document.   
+Additional assumptions
+> Our targets have been set based on our current Group structure 
+and excludes assets of our joint ventures. Were this to materially 
+change, we would consider revising our targets in line with the 
+NZAOA target setting protocol. 
+> We use industry protocols and methodologies, such as the 
+Partnership for Carbon Accounting Financials (PCAF) and TCFD, 
+for target setting. To date, these protocols and methodologies do 
+not cover all asset classes held across the Prudential Group, so we 
+are not yet able to set and achieve targets for all asset classes. 
+> Achieving our stated targets, and any targets we may set in future, 
+relies not only on our actions but also on our underlying investees, 
+suppliers and governments ultimately achieving their climate 
+targets in line with the Paris Agreement. 
+References and alignment 
+We have produced this paper in alignment with industry standards 
+and guidance, as relevant to Prudential as at the time this report was 
+produced, in particular: 
+> Glasgow Financial Alliance for Net Zero: Financial Institution 
+Net-zero Transition Plans- Fundamentals, Recommendations, and 
+Guidance and Supplemental Information 
+> Transition Plan Taskforce (TPT): The Transition Plan Taskforce 
+Disclosure Framework and supplementary Implementation 
+Guidance
+> TCFD: Guidance on Metrics, Targets and Transition Plans 
+> CDP Technical Note: Reporting on Transition Plans 
+> The Grantham Research Institute on Climate Change and the 
+Environment: Making Transition Plans Just 
+We expect that further local transition plan guidance from the 
+markets in which we operate will continue to be developed and 
+published, and we will seek to implement this into future iterations 
+of our Climate Transition Plan.  
+Disclaimers 
+Where third-party information has been used in this paper, the 
+source of such information has been identified. While industry 
+surveys, publications, consultant surveys and forecasts generally 
+state that the information contained therein has been obtained from 
+sources believed to be reliable, the accuracy and completeness of 
+such information is not guaranteed. Prudential has not independently 
+verified any of the data obtained from third-party sources (whether 
+identified in this paper by source or used as a basis for any beliefs and 
+estimates stated herein), or any of the assumptions underlying such 
+data. Similarly, internal surveys, industry forecasts and market 
+research, which Prudential believes to be reliable, have not been 
+independently verified.
+Methodologies and references 
+ 21
+Prudential plc Climate Transition Plan  
+This document contains ‘forward-looking statements’ with respect to certain of 
+Prudential’s (and its wholly and jointly owned businesses’) plans and its goals 
+and expectations relating to future financial condition, performance, results, 
+strategy and objectives. Statements that are not historical facts, including 
+statements about Prudential’s (and its wholly and jointly owned businesses’) 
+beliefs and expectations and including, without limitation, commitments, 
+ambitions and targets, including those related to ESG, and statements 
+containing the words ‘may’, ‘will’, ‘should’, ‘continue’, ‘aims’, ‘estimates’, ‘projects’, 
+‘believes’, ‘intends’, ‘expects’, ‘plans’, ‘seeks’ and ‘anticipates’, and words of similar 
+meaning, are forward-looking statements. These statements are based on 
+plans, estimates and projections as at the time they are made, and therefore 
+undue reliance should not be placed on them. By their nature, all forward-looking 
+statements involve risk and uncertainty.
+A number of important factors could cause actual future financial condition or 
+performance or other indicated results to differ materially from those indicated 
+in any forward-looking statement. Such factors include, but are not limited to:
+> current and future market conditions, including fluctuations in interest rates 
+and exchange rates, inflation (including resulting interest rate rises), 
+sustained high or low interest rate environments, the performance of 
+financial and credit markets generally and the impact of economic 
+uncertainty, slowdown or contraction (including as a result of the Russia-
+Ukraine conflict and related or other geopolitical tensions and conflicts), 
+which may also impact policyholder behaviour and reduce product 
+affordability; 
+> asset valuation impacts from the transition to a lower carbon economy; 
+> derivative instruments not effectively mitigating any exposures; 
+> global political uncertainties, including the potential for increased friction in 
+cross-border trade and the exercise of laws, regulations and executive powers 
+to restrict trade, financial transactions, capital movements and/or 
+investment;
+> the longer-term impacts of Covid-19, including macro-economic impacts on 
+financial market volatility and global economic activity and impacts on sales, 
+claims, assumptions and increased product lapses; 
+> the policies and actions of regulatory authorities, including, in particular, the 
+policies and actions of the Hong Kong Insurance Authority, as Prudential’s 
+Group-wide supervisor, as well as the degree and pace of regulatory changes 
+and new government initiatives generally; 
+> given Prudential’s designation as an Internationally Active Insurance Group, 
+the impact on Prudential of systemic risk and other group supervision policy 
+standards adopted by the International Association of Insurance Supervisors; 
+> the physical, social, morbidity/health and financial impacts of climate change 
+and global health crises, which may impact Prudential’s business, 
+investments, operations and its duties owed to customers; 
+> legal, policy and regulatory developments in response to climate change and 
+broader sustainability-related issues, including the development of 
+regulations and standards and interpretations such as those relating to ESG 
+reporting, disclosures and product labelling and their interpretations (which 
+may conflict and create misrepresentation risks);
+> the collective ability of governments, policymakers, the Group, industry and 
+other stakeholders to implement and adhere to commitments on mitigation 
+of climate change and broader sustainability-related issues effectively 
+(including not appropriately considering the interests of all Prudential’s 
+stakeholders or failing to maintain high standards of corporate governance 
+and responsible business practices); 
+> the impact of competition and fast-paced technological change; 
+> the effect on Prudential’s business and results from, in particular, mortality and 
+morbidity trends, lapse rates and policy renewal rates; 
+> the timing, impact and other uncertainties of future acquisitions or 
+combinations within relevant industries; 
+> the impact of internal transformation projects and other strategic actions 
+failing to meet their objectives or adversely impacting the Group’s employees; 
+> the availability and effectiveness of reinsurance for Prudential’s businesses; 
+> the risk that Prudential’s operational resilience (or that of its suppliers and 
+partners) may prove to be inadequate, including in relation to operational 
+disruption due to external events; 
+> disruption to the availability, confidentiality or integrity of Prudential’s 
+information technology, digital systems and data (or those of its suppliers 
+and partners) including the Pulse platform; 
+> the increased non-financial and financial risks and uncertainties associated 
+with operating joint ventures with independent partners, particularly where 
+joint ventures are not controlled by Prudential; 
+> the impact of changes in capital, solvency standards, accounting standards 
+or relevant regulatory frameworks, and tax and other legislation and 
+regulations in the jurisdictions in which Prudential and its affiliates operate; 
+and 
+>  the impact of legal and regulatory actions, investigations and disputes.
+These factors are not exhaustive. Prudential operates in a continually changing 
+business environment with new risks emerging from time to time that it may be 
+unable to predict or that it currently does not expect to have a material adverse 
+effect on its business. In addition, these and other important factors may, for 
+example, result in changes to assumptions used for determining results of 
+operations or re-estimations of reserves for future policy benefits. Further 
+discussion of these and other important factors that could cause actual future 
+financial condition or performance to differ, possibly materially, from those 
+anticipated in Prudential’s forward-looking statements can be found under the 
+‘Risk Factors’ heading of Prudential’s 2022 Annual Report and any subsequent 
+filing Prudential makes with the US Securities and Exchange Commission, 
+including any subsequent Annual Report on Form 20-F.
+Any forward-looking statements contained in this document speak only as of 
+the date on which they are made. Prudential expressly disclaims any obligation 
+to update any of the forward-looking statements contained in this document or 
+any other forward-looking statements it may make, whether as a result of future 
+events, new information or otherwise except as required pursuant to the UK 
+Prospectus Rules, the UK Listing Rules, the UK Disclosure Guidance and 
+Transparency Rules, the Hong Kong Listing Rules, the SGX-ST Listing Rules or 
+other applicable laws and regulations. 
+Prudential may also make or disclose written and/or oral forward-looking 
+statements in reports filed with or furnished to the US Securities and Exchange 
+Commission, the UK Financial Conduct Authority, the Hong Kong Stock 
+Exchange and other regulatory authorities, as well as in its annual report and 
+accounts to shareholders, periodic financial reports to shareholders, proxy 
+statements, offering circulars, registration statements, prospectuses, prospectus 
+supplements, press releases and other written materials and in oral statements 
+made by directors, officers or employees of Prudential to third parties, including 
+financial analysts. All such forward-looking statements are qualified in their 
+entirety by reference to the factors discussed under the ‘Risk Factors’ heading of 
+Prudential’s 2022 Annual Report and any subsequent filing Prudential makes 
+with the US Securities and Exchange Commission, including any subsequent 
+Annual Report on Form 20-F.
+Cautionary statements 
+This document does not constitute or form part of any offer or invitation to 
+purchase, acquire, subscribe for, sell, dispose of or issue, or any solicitation of any 
+offer to purchase, acquire, subscribe for, sell or dispose of, any securities in any 
+jurisdiction nor shall it (or any part of it) or the fact of its distribution, form the 
+basis of, or be relied on in connection with, any contract therefor.
+Forward-looking statements
+22
+Prudential plc Climate Transition Plan prudentialplc.com
+Important notice – basis of preparation and caution regarding data limitations
+The sustainability-related information contained in this document has been 
+prepared on the following basis: 
+i  the sustainability-related information is unaudited; 
+ii  all sustainability-related information, positions and statements set out in 
+this document are subject to change without notice; 
+iii  the sustainability-related information included in this document does not 
+constitute any investment, accounting, legal, regulatory or tax advice or an 
+invitation or recommendation to enter into any transaction;
+iv  the sustainability-related information included in this document may have 
+been prepared using models, methodologies and data which are subject to 
+certain limitations. These limitations include: a lack of reliable data (due, 
+amongst other things, to developing measurement technologies and 
+analytical methodologies); a lack of standardisation of data (given, 
+amongst other things, the current lack of international coordination on 
+data and methodology standards); and future uncertainty (due, amongst 
+other things, to changing projections relating to technological 
+development and global and regional laws, regulations and policies, and 
+the inability to make use of strong historical data); 
+v  the models, external data and methodologies used in sustainability-
+related information included in this document are or could be subject to 
+adjustment which is beyond Prudential’s control; 
+vi  any opinions and estimates should be regarded as indicative, preliminary 
+and for illustrative purposes only. Expected and actual outcomes may 
+differ from those set out (as explained in the “Forward-looking statements” 
+paragraph above); 
+vii  some of the sustainability-related information appearing in this document 
+may have been obtained from public and other sources and, while 
+Prudential believes such information to be reliable, it has not been 
+independently verified by Prudential and no representation or warranty is 
+made by Prudential as to its quality, completeness, accuracy, fitness for a 
+particular purpose or non-infringement of such information; 
+viii  for the purposes of the sustainability-related information included in this 
+document, a number of key judgements and assumptions have been 
+made. It is possible that the assumptions drawn, and the judgement 
+exercised may subsequently turn out to be inaccurate. The judgements 
+and data presented relating to sustainability-related information in this 
+document are not a substitute for judgements and analysis made 
+independently by the reader;
+ix  any opinions or views of third parties expressed relating to sustainability-
+related information included in this document are those of the third 
+parties identified, and not of Prudential, its affiliates, directors, officers, 
+employees and/or agents. By incorporating or referring to opinions and 
+views of third parties, Prudential is not, in any way, endorsing or supporting 
+such opinions or views;
+x  whilst Prudential bears primary responsibility for the sustainability-related 
+information included in this document, it does not accept responsibility for 
+the external input provided by any third parties for the purposes of 
+developing the sustainability-related information included in this 
+document;
+xi  whilst third party industry surveys, publications, consultant surveys and 
+forecasts generally state that the information contained therein has been 
+obtained from sources believed to be reliable, the accuracy and 
+completeness of such information is not guaranteed. Prudential has not 
+independently verified any of the data obtained from third party sources 
+(whether identified in this document by source or used as a basis for any 
+beliefs and estimates stated herein), or any of the assumptions underlying 
+such data. Similarly, internal surveys, industry forecasts and market 
+research, which Prudential believes to be reliable, have not been 
+independently verified;
+xii  the sustainability-related data contained in this document reflects 
+available information and estimates at the relevant time; 
+xiii  where Prudential has made use of any methodology or tools developed 
+by a third party, the application of the methodology or tools (or 
+consequences of its application) shall not be interpreted as conflicting 
+with any legal or contractual obligations and such legal or contractual 
+obligations shall take precedence over the application of the methodology 
+or tools; 
+xiv  where Prudential has made use of any underlying data provided or sourced 
+by a third party, the use of the data shall not be interpreted as conflicting 
+with any legal or contractual obligations and such legal or contractual 
+obligations shall take precedence over the use of the data;
+xv  this Important Notice is not limited in applicability to those sections of this 
+document where limitations to sustainability-related data, metrics and 
+methodologies are identified and where this Important Notice is 
+referenced. This Important Notice applies to the whole of the 
+sustainability-related information included in this document;
+xvi  further development of reporting, standards or other principles could 
+impact the sustainability-related information in this document, or any 
+metrics, data and targets (it being noted that Environmental, Social and 
+Governance reporting and standards are subject to rapid change and 
+development); and
+xvii while all reasonable care has been taken in preparing the sustainability-
+related information included in this document, neither Prudential nor 
+any of its affiliates, directors, officers, employees or agents make any 
+representation or warranty as to its quality, accuracy or completeness, 
+and they accept no responsibility or liability for the contents of this 
+information, including any errors of fact, omission or opinion expressed. 
+ 
+Prudential public limited company
+Incorporated and registered 
+in England and Wales
+Registered office
+1 Angel Court 
+London 
+EC2R 7AG
+Registered number 1397169
+www.prudentialplc.com
+Principal place of business
+in Hong Kong
+13th Floor 
+One International Finance Centre 
+1 Harbour View Street 
+Central 
+Hong Kong
