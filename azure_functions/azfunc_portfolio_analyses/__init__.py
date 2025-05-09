@@ -9,14 +9,13 @@ import azure.functions as func
 # Import shared helpers
 from helper_functions import blob_helpers, config
 
-# --- Configuration ---
-# Get settings using the config helper - makes names consistent
+# 
 OPENAI_API_KEY = config.get_setting(config.OPENAI_API_KEY_NAME, required=True)
 OPENAI_MODEL = config.get_setting(config.OPENAI_MODEL_NAME, default_value="gpt-4o") # Use gpt-4o or your preferred model
 STORAGE_CONN_STR_NAME = config.STORAGE_CONNECTION_STRING_NAME # Usually AzureWebJobsStorage
 PROMPT_BASE_DIR = pathlib.Path(__file__).parent.parent / config.DEFAULT_PROMPT_DIR # Path relative to project root
 
-#python body to call
+
 """
 {
     "input_container": "01raw",
@@ -30,12 +29,12 @@ PROMPT_BASE_DIR = pathlib.Path(__file__).parent.parent / config.DEFAULT_PROMPT_D
 
 
 
-# Configure OpenAI client (ensure OPENAI_API_KEY is loaded)
+
 if OPENAI_API_KEY:
     openai.api_key = OPENAI_API_KEY
 else:
     logging.error("OpenAI API Key is not configured. Function cannot proceed.")
-    # You might raise an exception here or handle it to prevent function execution
+
 
 # --- Main Function Logic ---
 def main(req: func.HttpRequest) -> func.HttpResponse:
@@ -51,8 +50,8 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
     input_container = req_body.get('input_container')
     input_blob = req_body.get('input_blob')
     output_container = req_body.get('output_container')
-    output_blob = req_body.get('output_blob') # Consider making this optional and deriving it
-    prompt_name = req_body.get('prompt_name') # e.g., "summarize" or "extract_key_points"
+    output_blob = req_body.get('output_blob') 
+    prompt_name = req_body.get('prompt_name') 
 
     if not all([input_container, input_blob, output_container, output_blob, prompt_name]):
         missing_params = [k for k, v in req_body.items() if not v]
@@ -84,7 +83,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
     logging.info(f"Attempting to load prompt from: {prompt_file_path}")
 
     try:
-        # Ensure the prompt directory and file exist
+        
         if not prompt_file_path.is_file():
              logging.error(f"Prompt file not found at path: {prompt_file_path}")
              return func.HttpResponse(f"Prompt file '{prompt_name}.yaml' not found.", status_code=400)
@@ -120,16 +119,14 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
         formatted_prompt = prompt_template.format(document_content=input_content)
 
         logging.info(f"Sending request to OpenAI API. Model: {OPENAI_MODEL}")
-        # Using the chat completions endpoint (recommended)
+        
         response = openai.chat.completions.create(
             model=OPENAI_MODEL,
             messages=[
-                # You can add system messages here if needed based on YAML structure
+               
                 {"role": "user", "content": formatted_prompt}
             ],
-            # Add other parameters like temperature, max_tokens if needed
-            # temperature=0.7,
-            # max_tokens=1500
+            
         )
 
         # Extract the response text
